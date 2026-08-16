@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>News Radar — AI, curated by theme</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --canvas:#0a0a0a; --canvas-soft:#1a1c20;
+    --ink:#fff; --body:#dadbdf; --mute:#7d8187;
+    --hairline:#212327; --hairline-soft:rgba(255,255,255,.14);
+    --sunset:#ff7a17; --sunset-soft:#ffc285; --twilight:#c4b5fd; --breeze:#a0c3ec;
+    --sans:"Inter",system-ui,sans-serif;
+    --mono:"Geist Mono",ui-monospace,Menlo,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;font-weight:400}
+  body{background:var(--canvas);color:var(--body);font-family:var(--sans);
+    font-size:16px;line-height:1.55;padding-bottom:8rem;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  ::selection{background:var(--sunset);color:var(--canvas)}
+  .wrap{max-width:860px;margin:0 auto;padding:0 clamp(1rem,4vw,1.5rem)}
+  .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--mute)}
+
+  header{padding:clamp(2.5rem,7vw,3.5rem) 0 0}
+  h1{font-size:clamp(2.4rem,7vw,4rem);line-height:1;letter-spacing:-.03em;
+    color:var(--ink);margin:.55rem 0 .4rem}
+  h1 .dim{color:var(--mute)}
+
+  /* day nav */
+  .daybar{
+    position:sticky;top:0;z-index:5;
+    background:rgba(10,10,10,.9);backdrop-filter:blur(8px);
+    display:flex;align-items:center;gap:.5rem;
+    padding:.85rem 0;margin-top:1.6rem;
+    border-bottom:1px solid var(--hairline);
+  }
+  .pill{
+    font-size:.875rem;padding:.26rem .9rem;border-radius:9999px;
+    border:1px solid var(--hairline-soft);background:transparent;color:var(--ink);
+    cursor:pointer;transition:border-color .15s,background .15s,color .15s;
+  }
+  .pill:hover{border-color:var(--ink)}
+  .pill:disabled{opacity:.3;cursor:default}
+  .pill.on{background:var(--ink);border-color:var(--ink);color:var(--canvas)}
+  select{
+    font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;
+    background:var(--canvas-soft);color:var(--ink);
+    border:1px solid var(--hairline);border-radius:8px;padding:.4rem .6rem;outline:none;
+  }
+  .daymeta{margin-left:auto;font-family:var(--mono);font-size:.68rem;
+    letter-spacing:.1em;text-transform:uppercase;color:var(--mute);white-space:nowrap}
+
+  /* theme index */
+  .toc{padding:1.4rem 0 .2rem;border-bottom:1px solid var(--hairline)}
+  .toc a{
+    display:inline-block;margin:0 .9rem .8rem 0;text-decoration:none;
+    font-size:.875rem;color:var(--body);border-bottom:1px solid var(--hairline-soft);
+    padding-bottom:1px;
+  }
+  .toc a:hover{color:var(--ink);border-color:var(--sunset)}
+  .toc .n{font-family:var(--mono);font-size:.68rem;color:var(--mute)}
+
+  /* theme block */
+  .theme{padding:clamp(1.8rem,4vw,2.4rem) 0 0}
+  .theme-head{display:flex;align-items:baseline;gap:1rem;flex-wrap:wrap}
+  .theme h2{font-size:clamp(1.3rem,3vw,1.7rem);letter-spacing:-.02em;color:var(--ink)}
+  .sig{font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--mute)}
+  .sig b{color:var(--ink)}
+  .copy{
+    margin-left:auto;font-family:var(--mono);font-size:.65rem;letter-spacing:.1em;
+    text-transform:uppercase;padding:.22rem .7rem;border-radius:9999px;
+    border:1px solid var(--hairline-soft);background:transparent;color:var(--mute);cursor:pointer;
+  }
+  .copy:hover{color:var(--ink);border-color:var(--ink)}
+  .theme .summary{margin-top:.55rem;max-width:68ch}
+  .theme .angle{
+    margin-top:.55rem;font-size:.9rem;color:var(--sunset-soft);
+  }
+  .theme .angle::before{
+    content:"ANGLE";font-family:var(--mono);font-size:.62rem;letter-spacing:.12em;
+    color:var(--sunset);margin-right:.6rem;
+  }
+  .items{margin-top:1rem;border-top:1px solid var(--hairline)}
+  .item{padding:.7rem 0;border-bottom:1px solid var(--hairline);
+    display:grid;grid-template-columns:1fr;gap:.15rem}
+  .item .t a{color:var(--ink);text-decoration:none;
+    background-image:linear-gradient(var(--sunset),var(--sunset));
+    background-size:0% 1px;background-repeat:no-repeat;background-position:0 100%;
+    transition:background-size .2s;padding-bottom:1px}
+  .item .t a:hover{background-size:100% 1px}
+  .item .m{font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--mute)}
+  .item .n{font-size:.86rem;color:var(--body)}
+
+  .status{padding:3rem 0;color:var(--mute);font-size:1.1rem}
+  footer{margin-top:4rem;padding-top:1.3rem;border-top:1px solid var(--hairline);
+    font-size:.8rem;color:var(--mute)}
+  @media(max-width:640px){
+    .daymeta{display:none}
+    .copy{margin-left:0}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">DAILY · AI · GCC & GLOBAL</div>
+  <h1>News Radar<span class="dim">.</span></h1>
+  <p class="eyebrow" style="letter-spacing:.08em" id="tagline">CURATED BY THEME FOR POSTS & ARTICLES</p>
+</header>
+
+<nav class="daybar">
+  <button class="pill" id="prev">←</button>
+  <select id="daysel"></select>
+  <button class="pill" id="next">→</button>
+  <span class="daymeta" id="daymeta"></span>
+</nav>
+
+<nav class="toc" id="toc" hidden></nav>
+<main id="feed"><div class="status">Loading…</div></main>
+
+<footer>Hermes News Scout · one JSON per day · <span id="days-count"></span></footer>
+
+</div>
+<script>
+const $=id=>document.getElementById(id);
+let manifest=null, idx=0;
+
+function dayPath(date){ const[y,m,d]=date.split("-"); return `data/${y}/${m}/${d}.json`; }
+function esc(s){return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function slug(s){return String(s).toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");}
+function fmtDate(iso){const d=new Date(iso+"T00:00:00");
+  return d.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long",year:"numeric"});}
+
+async function loadManifest(){
+  const r=await fetch("data/manifest.json?t="+Date.now());
+  manifest=await r.json();
+  manifest.days.sort((a,b)=>b.date.localeCompare(a.date)); // newest first
+  const sel=$("daysel");
+  sel.innerHTML=manifest.days.map((d,i)=>`<option value="${i}">${d.date} · ${d.themes} themes</option>`).join("");
+  $("days-count").textContent=manifest.days.length+" days archived";
+  await show(0);
+}
+
+async function show(i){
+  idx=Math.max(0,Math.min(i,manifest.days.length-1));
+  $("daysel").value=idx;
+  $("prev").disabled=idx>=manifest.days.length-1;
+  $("next").disabled=idx<=0;
+  const day=manifest.days[idx];
+  $("feed").innerHTML='<div class="status">Loading '+day.date+'…</div>';
+  $("toc").hidden=true;
+  try{
+    const r=await fetch(dayPath(day.date)+"?t="+Date.now());
+    if(!r.ok) throw new Error(r.status);
+    render(await r.json());
+  }catch(e){
+    $("feed").innerHTML='<div class="status">Could not load '+esc(day.date)+' ('+esc(e.message)+').</div>';
+  }
+}
+
+function themeMd(t){
+  let md=`## ${t.title}\n\n${t.summary}\n\nAngle: ${t.angle||""}\n\n`;
+  for(const it of t.items||[]) md+=`- ${it.title} — ${it.source||""} ${it.url||""}${it.note?`\n  ${it.note}`:""}\n`;
+  return md;
+}
+
+function render(day){
+  const themes=(day.themes||[]).slice().sort((a,b)=>(b.signal||0)-(a.signal||0));
+  $("daymeta").textContent=fmtDate(day.date).toUpperCase();
+  $("toc").innerHTML=themes.map(t=>
+    `<a href="#${slug(t.title)}">${esc(t.title)} <span class="n">${(t.items||[]).length}</span></a>`).join("");
+  $("toc").hidden=!themes.length;
+  $("feed").innerHTML = themes.length ? themes.map(t=>`
+    <section class="theme" id="${slug(t.title)}">
+      <div class="theme-head">
+        <h2>${esc(t.title)}</h2>
+        <span class="sig">signal <b>${t.signal??"–"}</b></span>
+        <button class="copy" data-theme="${esc(t.title)}">Copy MD</button>
+      </div>
+      <p class="summary">${esc(t.summary)}</p>
+      ${t.angle?`<p class="angle">${esc(t.angle)}</p>`:""}
+      <div class="items">${(t.items||[]).map(it=>`
+        <div class="item">
+          <div class="t">${it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:esc(it.title)}</div>
+          <div class="m">${esc(it.source||"")}${it.time?" · "+esc(it.time):""}</div>
+          ${it.note?`<div class="n">${esc(it.note)}</div>`:""}
+        </div>`).join("")}
+      </div>
+    </section>`).join("")
+    : '<div class="status">No themes recorded for this day.</div>';
+
+  $("feed").querySelectorAll(".copy").forEach(b=>b.addEventListener("click",()=>{
+    const t=themes.find(x=>x.title===b.dataset.theme);
+    navigator.clipboard.writeText(themeMd(t)).then(()=>{
+      b.textContent="Copied";setTimeout(()=>b.textContent="Copy MD",1200);
+    });
+  }));
+}
+
+$("prev").addEventListener("click",()=>show(idx+1));
+$("next").addEventListener("click",()=>show(idx-1));
+$("daysel").addEventListener("change",e=>show(+e.target.value));
+loadManifest().catch(e=>{$("feed").innerHTML='<div class="status">No manifest yet — first publish pending.</div>'});
+</script>
+</body>
+</html>

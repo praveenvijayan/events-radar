@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Events Radar — AI & Architecture, UAE/GCC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --canvas:#0a0a0a;
+    --canvas-soft:#1a1c20;
+    --canvas-card:#191919;
+    --ink:#ffffff;
+    --body:#dadbdf;
+    --mute:#7d8187;
+    --hairline:#212327;
+    --hairline-soft:rgba(255,255,255,.14);
+    --sunset:#ff7a17;
+    --sunset-soft:#ffc285;
+    --dusk:#7c3aed;
+    --twilight:#c4b5fd;
+    --breeze:#a0c3ec;
+    --sans:"Inter",system-ui,-apple-system,sans-serif;
+    --mono:"Geist Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;font-weight:400}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--canvas);
+    color:var(--body);
+    font-family:var(--sans);
+    font-size:16px;line-height:1.5;
+    padding-bottom:8rem;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit}
+  ::selection{background:var(--sunset);color:var(--canvas)}
+  ::placeholder{color:var(--mute)}
+
+  .wrap{max-width:1200px;margin:0 auto;padding:0 clamp(1rem,4vw,1.5rem)}
+
+  .eyebrow{
+    font-family:var(--mono);font-size:.75rem;line-height:1.45;
+    letter-spacing:.12em;text-transform:uppercase;color:var(--ink);
+  }
+
+  /* ---------- hero band ---------- */
+  header{padding:clamp(3rem,8vw,4rem) 0 0}
+  header .eyebrow{color:var(--mute)}
+  h1{
+    font-family:var(--sans);
+    font-size:clamp(3rem,9vw,6rem);
+    line-height:1;letter-spacing:-.03em;color:var(--ink);
+    margin:.6rem 0 1rem;
+  }
+  h1 .dim{color:var(--mute)}
+  .standfirst{max-width:56ch;color:var(--body);font-size:1.05rem;line-height:1.6}
+  .genline{
+    margin-top:1.5rem;font-family:var(--mono);font-size:.72rem;
+    letter-spacing:.1em;text-transform:uppercase;color:var(--mute);
+  }
+  .genline b{color:var(--ink)}
+
+  /* ---------- deadline ledger ---------- */
+  .ledger{
+    margin:clamp(2.2rem,5vw,3.5rem) 0 0;
+    border-top:1px solid var(--hairline);
+    border-bottom:1px solid var(--hairline);
+    padding:1.15rem 0 1.25rem;
+  }
+  .ledger-title{
+    font-family:var(--mono);font-size:.72rem;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--sunset);margin-bottom:.8rem;
+  }
+  .ledger-items{display:flex;gap:2.2rem;overflow-x:auto;scrollbar-width:thin;padding-bottom:.25rem}
+  .ledger-item{flex:0 0 auto;max-width:23rem}
+  .ledger-item .d{
+    font-family:var(--mono);font-size:.85rem;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--sunset);white-space:nowrap;
+  }
+  .ledger-item .t{font-size:.85rem;color:var(--body);margin-top:.2rem}
+  .ledger-item .t a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--hairline-soft)}
+  .ledger-item .t a:hover{border-color:var(--sunset)}
+  .ledger-empty{font-size:.85rem;color:var(--mute)}
+
+  /* ---------- controls ---------- */
+  .controls{
+    position:sticky;top:0;z-index:5;
+    background:rgba(10,10,10,.88);
+    backdrop-filter:blur(8px);
+    padding:.9rem 0;
+    border-bottom:1px solid var(--hairline);
+    display:flex;flex-wrap:wrap;gap:.5rem .45rem;align-items:center;
+  }
+  .chip{
+    font-family:var(--sans);font-size:.875rem;line-height:1.4;
+    padding:.28rem .9rem;border:1px solid var(--hairline-soft);
+    border-radius:9999px;background:transparent;color:var(--ink);
+    cursor:pointer;transition:border-color .15s ease,background .15s ease,color .15s ease;
+  }
+  .chip:hover{border-color:var(--ink)}
+  .chip.on{background:var(--ink);border-color:var(--ink);color:var(--canvas)}
+  .spacer{flex:1}
+  .search{
+    font-family:var(--sans);font-size:.875rem;
+    padding:.45rem 1rem;border:1px solid var(--hairline);border-radius:8px;
+    background:var(--canvas-soft);color:var(--ink);min-width:12rem;outline:none;
+    transition:border-color .15s ease;
+  }
+  .search:focus{border-color:var(--mute)}
+  .toggle{
+    display:flex;align-items:center;gap:.45rem;
+    font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;
+    text-transform:uppercase;color:var(--mute);
+    cursor:pointer;user-select:none;white-space:nowrap;
+  }
+  .toggle input{accent-color:var(--sunset);cursor:pointer}
+  .count{font-family:var(--mono);font-size:.68rem;color:var(--mute);letter-spacing:.1em;text-transform:uppercase}
+
+  /* ---------- month sections ---------- */
+  .month{
+    display:grid;grid-template-columns:minmax(130px,200px) 1fr;
+    gap:0 clamp(1.2rem,4vw,3.5rem);
+    padding:clamp(2rem,5vw,3rem) 0 0;
+  }
+  .month-label{position:sticky;top:4.4rem;align-self:start;padding-top:.5rem}
+  .month-label .m{
+    font-size:clamp(1.7rem,3vw,2.4rem);line-height:1.05;
+    letter-spacing:-.025em;color:var(--ink);
+  }
+  .month-label .y{
+    font-family:var(--mono);font-size:.7rem;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--mute);margin-top:.45rem;
+  }
+  .rows{border-top:1px solid var(--hairline)}
+
+  /* ---------- event row ---------- */
+  .ev{
+    display:grid;grid-template-columns:5.4rem 1fr;
+    gap:0 1.6rem;padding:1.3rem 0 1.4rem;
+    border-bottom:1px solid var(--hairline);
+    opacity:0;transform:translateY(10px);
+    animation:rise .5s cubic-bezier(.25,1,.5,1) forwards;
+  }
+  @keyframes rise{to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion: reduce){.ev{animation:none;opacity:1;transform:none}}
+  .ev-date .dd{
+    font-size:1.6rem;line-height:1.05;letter-spacing:-.02em;color:var(--ink);
+  }
+  .ev-date .rng{
+    font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--mute);margin-top:.25rem;
+  }
+  .ev-title{
+    font-size:clamp(1.15rem,2vw,1.4rem);line-height:1.25;
+    letter-spacing:-.015em;color:var(--ink);
+  }
+  .ev-title a{
+    text-decoration:none;
+    background-image:linear-gradient(var(--sunset),var(--sunset));
+    background-size:0% 1px;background-repeat:no-repeat;background-position:0 100%;
+    transition:background-size .2s cubic-bezier(.25,1,.5,1);padding-bottom:2px;
+  }
+  .ev-title a:hover{background-size:100% 1px}
+  .ev-meta{
+    margin-top:.4rem;font-size:.82rem;color:var(--mute);
+    display:flex;flex-wrap:wrap;gap:.3rem .7rem;align-items:baseline;
+  }
+  .tag{
+    font-family:var(--mono);font-size:.62rem;letter-spacing:.12em;
+    text-transform:uppercase;
+    padding:.14rem .6rem;border-radius:9999px;
+    border:1px solid var(--hairline-soft);color:var(--body);
+  }
+  .tag.hackathon{color:var(--sunset-soft);border-color:rgba(255,122,23,.35)}
+  .tag.cfp{color:var(--twilight);border-color:rgba(124,58,237,.4)}
+  .tag.programme{color:var(--breeze);border-color:rgba(160,195,236,.35)}
+  .free{color:var(--sunset-soft)}
+  .score{font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
+  .score b{color:var(--ink)}
+  .ev-desc{margin-top:.5rem;font-size:.9rem;line-height:1.55;color:var(--body);max-width:66ch}
+  .ev-extra{
+    margin-top:.45rem;font-family:var(--mono);font-size:.7rem;
+    letter-spacing:.08em;text-transform:uppercase;color:var(--sunset);
+  }
+  .ev.past{opacity:.38}
+
+  .empty{
+    padding:4rem 0;color:var(--mute);
+    font-size:1.3rem;letter-spacing:-.01em;
+  }
+
+  footer{
+    margin-top:4.5rem;padding-top:1.4rem;border-top:1px solid var(--hairline);
+    font-size:.82rem;color:var(--mute);
+    display:flex;flex-wrap:wrap;gap:.5rem 2.5rem;
+  }
+
+  @media (max-width:768px){
+    .month{grid-template-columns:1fr;gap:0}
+    .month-label{position:static;display:flex;align-items:baseline;gap:.7rem;
+      border-top:1px solid var(--hairline);padding:1.1rem 0 .7rem}
+    .month-label .y{margin-top:0}
+    .rows{border-top:none}
+    .ev{grid-template-columns:3.8rem 1fr;gap:0 1rem}
+    .ev-date .dd{font-size:1.2rem}
+    .controls{gap:.35rem}
+    .search{min-width:0;flex:1 1 8rem}
+    .chip{padding:.34rem .9rem}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div class="eyebrow">UAE · GCC · ONLINE</div>
+  <h1>Events Radar<span class="dim">.</span></h1>
+  <p class="standfirst">AI and solution-architecture events, hackathons, CFPs and programmes —
+  gathered by the Hermes Events Scout and scored against what's actually worth your time.</p>
+  <div class="genline">Last sweep <b id="gen">17 Aug 2026, 01:00 GST</b> · <b id="total">0</b> events on radar</div>
+</header>
+
+<section class="ledger" id="ledger">
+  <div class="ledger-title">Closing soon</div>
+  <div class="ledger-items" id="ledger-items"></div>
+</section>
+
+<nav class="controls" id="controls">
+  <button class="chip on" data-type="all">All</button>
+  <button class="chip" data-type="event">Events</button>
+  <button class="chip" data-type="hackathon">Hackathons</button>
+  <button class="chip" data-type="cfp">CFPs</button>
+  <button class="chip" data-type="programme">Programmes</button>
+  <span class="spacer"></span>
+  <label class="toggle"><input type="checkbox" id="hi"> Signal ≥70</label>
+  <label class="toggle"><input type="checkbox" id="past"> Past</label>
+  <input class="search" id="q" type="search" placeholder="Search title, city, source…">
+  <span class="count" id="count"></span>
+</nav>
+
+<main id="radar"></main>
+
+<footer>
+  <span>Hermes Events Scout · fetch_events.py → events_log.jsonl → this page</span>
+  <span>Scores are relevance 0–100 against Praveen's profile, not event quality.</span>
+</footer>
+
+</div>
+<script>
+const EVENTS = [{"title": "Google Cloud: Build an AI-powered F1 analytics engine with McLaren Racing", "start": "2026-08-18", "end": "2026-08-19", "city": "Online", "venue": "", "format": "online", "price": "free", "url": "https://cloud.google.com/events", "desc": "Hands-on workshop — Gemini Enterprise + Agent Dev Kit race intelligence platform", "score": 50, "type": "event", "source": "google_cloud_events_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Dubai AI Meetup (recurring, weekly)", "start": "2026-08-22", "end": "2026-08-22", "city": "Dubai", "venue": "DIFC, food court/Stage Area", "format": "in-person", "price": "free", "url": "https://www.meetup.com/dubai-ai/events/315641071/", "desc": "Casual Saturday 7:30pm AI/business meetup; up to 30 people incl. AI devs, investors, founders; pitch ideas, no signup required", "score": 60, "type": "event", "source": "meetup ICS", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Alpaca AI Trading & Automation Showdown (lablab.ai)", "start": "2026-08-28", "end": "2026-09-04", "city": "Online", "venue": "", "format": "online", "price": "free", "url": "https://lablab.ai/ai-hackathons", "desc": "Build AI trading agents (trading API + MCP server / CLI); online; agents + trading angle — content fit for AI P&L", "score": 58, "type": "hackathon", "source": "lablab_ai_1.txt", "deadline": "2026-09-04", "deadline_label": "", "eligibility": "Open to developers; solo or team"}, {"title": "Dubai AI Meetup (29 Aug)", "start": "2026-08-29", "end": "2026-08-29", "city": "Dubai", "venue": "DIFC", "format": "in-person", "price": "free", "url": "https://www.meetup.com/dubai-ai/events/315985049/", "desc": "Weekly recurrence of Dubai AI Meetup", "score": 0, "type": "event", "source": "icsetup ICS", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "LEAP 2026 — Into New Worlds (+DeepFest co-located)", "start": "2026-08-31", "end": "2026-09-03", "city": "Riyadh", "venue": "RECC Malham", "format": "in-person", "price": "free GA pass if registered before Aug 30", "url": "https://onegiantleap.com/", "desc": "MENA's biggest tech conf; DeepFest = region's leading AI event co-located; 1000+ speakers, 1800+ exhibitors, 600+ startups", "score": 74, "type": "event", "source": "leap_riyadh_1.txt", "deadline": "2026-08-30", "deadline_label": "", "eligibility": "free pass sponsored by stc; premium tiers paid"}, {"title": "Dubai AI Meetup (5 Sep)", "start": "2026-09-05", "end": "2026-09-05", "city": "Dubai", "venue": "DIFC", "format": "in-person", "price": "free", "url": "https://www.meetup.com/dubai-ai/events/316141697/", "desc": "Weekly recurrence of Dubai AI Meetup", "score": 0, "type": "event", "source": "icset meetup", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Artificial Intelligence in Financial Services Conference Middle East", "start": "2026-09-10", "end": "2026-09-10", "city": "Dubai", "venue": "", "format": "in-person", "price": "", "url": "https://galviq.com/events/ai/dubai", "desc": "8th annual AI in financial services: banking, capital markets, insurance; GenAI, risk management — direct GCC BFSI enterprise AI fit", "score": 72, "type": "event", "source": "galviq_dubai_ai_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Dubai AI Meetup (12 Sep)", "start": "2026-09-12", "end": "2026-09-12", "city": "Dubai", "venue": "DIFC", "format": "in-person", "price": "free", "url": "https://www.meetup.com/dubai-ai/events/sbknztyjcmbqb/", "desc": "Weekly recurrence of Dubai AI Meetup", "score": 0, "type": "event", "source": "icset meetup", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "GAAEI 2026 — Generative AI & Agentic in Energy", "start": "2026-09-15", "end": "2026-09-15", "city": "Dubai", "venue": "", "format": "in-person", "price": "", "url": "https://galviq.com/events/ai/dubai", "desc": "GenAI + agentic AI + big data applied to energy industry — utilities fit", "score": 57, "type": "event", "source": "galviq_dubai_ai_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Dubai Cloud & Datacentre Convention 2026", "start": "2026-09-17", "end": "2026-09-17", "city": "Dubai", "venue": "", "format": "in-person", "price": "", "url": "https://aiu.ae/events", "desc": "Cloud / AI compute / DC infrastructure leaders", "score": 58, "type": "event", "source": "aiu_ae_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Dubai AI Meetup (19 Sep)", "start": "2026-09-19", "end": "2026-09-19", "city": "Dubai", "venue": "DIFC", "format": "in-person", "price": "free", "url": "https://www.meetup.com/dubai-ai/events/sbknztyjcmbzb/", "desc": "Weekly recurrence of Dubai AI Meetup", "score": 0, "type": "event", "source": "icset meetup", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "14th Middle East Enterprise AI & Analytics Summit", "start": "2026-09-24", "end": "2026-09-24", "city": "Dubai", "venue": "Kempinski Central Avenue", "format": "in-person", "price": "", "url": "https://galviq.com/events/ai/dubai", "desc": "Enterprise AI & analytics summit for industry leaders", "score": 58, "type": "event", "source": "galviq_dubai_ai_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Dubai AI Meetup (26 Sep)", "start": "2026-09-26", "end": "2026-09-26", "city": "Dubai", "venue": "DIFC", "format": "in-person", "price": "free", "url": "https://www.meetup.com/dubai-ai/events/sbknztyjcmbjc/", "desc": "Weekly recurrence of Dubai AI Meetup", "score": 0, "type": "event", "source": "icset meetup", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "AI Transformation & Operational Excellence Show", "start": "2026-09-30", "end": "2026-10-01", "city": "Dubai", "venue": "JW Marriott Dubai Marina", "format": "in-person", "price": "", "url": "https://galviq.com/events/ai/dubai", "desc": "80+ sessions / 4 tracks: AI transformation & op-ex for gov, energy, BFSI, healthcare", "score": 60, "type": "event", "source": "galviq_dubai_ai_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "5th Abu Dhabi Smart City Summit 2026", "start": "2026-09-30", "end": "2026-10-01", "city": "Abu Dhabi", "venue": "", "format": "in-person", "price": "", "url": "https://aiu.ae/events", "desc": "Smart cities, AI-native services, digital infra — public-sector angle", "score": 55, "type": "event", "source": "aiu_ae_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "AI Everything Abu Dhabi Expo 2026", "start": "2026-10-06", "end": "2026-10-07", "city": "Abu Dhabi", "venue": "ADNEC Centre", "format": "in-person", "price": "", "url": "https://aiu.ae/events", "desc": "Major Abu Dhabi AI expo: companies, startups, investors, decision-makers", "score": 55, "type": "event", "source": "aiu_ae_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "World AI Expo Dubai 2026", "start": "2026-10-07", "end": "2026-10-08", "city": "Dubai", "venue": "Movenpick Grand Al Bustan", "format": "in-person", "price": "", "url": "https://aiu.ae/events", "desc": "AI conference & expo connecting leaders, startups, investors", "score": 55, "type": "event", "source": "aiu_ae_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "The Arabian AI & Agentic Summit", "start": "2026-10-26", "end": "2026-10-26", "city": "Abu Dhabi", "venue": "Abu Dhabi", "format": "in-person", "price": "", "url": "https://aiu.ae/events", "desc": "GCC's leading conversational AI / GenAI / AI agents event: 400+ leaders, Arabic NLP, voice AI, LLMs, autonomous agents (industry-only access)", "score": 76, "type": "event", "source": "aiu_ae_1.txt", "deadline": "", "deadline_label": "", "eligibility": "Industry-only access; vendor tickets required"}, {"title": "Dubai AI Festival 2026", "start": "2026-10-26", "end": "2026-10-27", "city": "Dubai", "venue": "Dubai World Trade Centre", "format": "in-person", "price": "", "url": "https://dubaiaifestival.com/", "desc": "Gov-backed AI festival: 20+ unicorns, public agencies, enterprises, VCs; themes — governance, future of work, infrastructure & investment (part of Dubai AI Week)", "score": 70, "type": "event", "source": "dubai_ai_festival_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "AI Genesis Hackathon (function1)", "start": "2026-10-26", "end": "2026-11-03", "city": "Dubai", "venue": "online + in-person finals", "format": "hybrid", "price": "", "url": "https://fnctn1.com/", "desc": "Largest AI hackathon in the Middle East: online build then live at /function1 (2025: 4,842 devs, $45K prize pool); submit by Nov 2", "score": 55, "type": "hackathon", "source": "function1_1.txt", "deadline": "2026-11-02", "deadline_label": "", "eligibility": "Open to developers; solo or teams"}, {"title": "function1 — Where the AI World Gathers", "start": "2026-11-02", "end": "2026-11-03", "city": "Dubai", "venue": "Dubai", "format": "in-person", "price": "", "url": "https://fnctn1.com/", "desc": "60+ sessions across 3 stages: agentic AI, AI platforms, sovereign AI; founders lounge + startup competition + AI Genesis hackathon finals", "score": 80, "type": "event", "source": "function1_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "ADIPEC 2026", "start": "2026-11-02", "end": "2026-11-05", "city": "Abu Dhabi", "venue": "", "format": "in-person", "price": "", "url": "https://aiu.ae/events", "desc": "Energy's biggest global exhibition — AI, automation, industrial transformation + GCC utilities angle", "score": 58, "type": "event", "source": "aiu_ae_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "TechNext AI & Cybersecurity Summit", "start": "2026-11-05", "end": "2026-11-05", "city": "Dubai", "venue": "Pullman Downtown", "format": "in-person", "price": "", "url": "https://galviq.com/events/ai/dubai", "desc": "AI security, governance, privacy for fintech & tech leaders", "score": 55, "type": "event", "source": "galviq_dubai_ai_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Global AI Show Abu Dhabi 2026", "start": "2026-11-12", "end": "2026-11-13", "city": "Abu Dhabi", "venue": "", "format": "in-person", "price": "", "url": "https://aiu.ae/events", "desc": "Abu Dhabi AI summit for enterprises/investors", "score": 55, "type": "event", "source": "aiu_ae_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Microsoft Ignite 2026", "start": "2026-11-17", "end": "2026-11-20", "city": "San Francisco (online)", "venue": "hybrid global", "format": "hybrid", "price": "", "url": "https://ignite.microsoft.com", "desc": "Microsoft's flagship AI/cloud conference — Azure agent/architect content streamed online", "score": 52, "type": "event", "source": "microsoft_events_global_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Govt & Enterprise AI Transformation Intensive — Building National Capability", "start": "2026-12-05", "end": "2026-12-05", "city": "Dubai", "venue": "WeWork", "format": "in-person", "price": "", "url": "https://www.eventbrite.com/d/united-arab-emirates--dubai/solution-architect/", "desc": "Gov + enterprise AI transformation intensive; national capability building", "score": 58, "type": "event", "source": "eventbrite_uae_2.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "GITEX Global 2026", "start": "2026-12-07", "end": "2026-12-11", "city": "Dubai", "venue": "Dubai Exhibition Centre, Expo City", "format": "in-person", "price": "TBC visitor pass tiers", "url": "https://www.gitex.com/", "desc": "Largest tech gathering in the region — every BFSI/public-sector AI buyer and vendor lands here; strong for hiring + enterprise AI scanning", "score": 70, "type": "event", "source": "aiu_ae_1.txt + manifest known_dates", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Expand North Star 2026", "start": "2026-12-08", "end": "2026-12-10", "city": "Dubai", "venue": "Dubai Exhibition Centre, Expo City", "format": "in-person", "price": "", "url": "https://www.expandnorthstar.com/", "desc": "Startup + investor giant co-located with GITEX; AI founders, scaleups, VCs — co-founder ecosystem exposure", "score": 60, "type": "event", "source": "aiu_ae_1.txt", "deadline": "", "deadline_label": "", "eligibility": ""}, {"title": "Antler MENAP — Founder Residency", "start": "", "end": "", "city": "Dubai / Riyadh", "venue": "", "format": "in-person 10-week residency (twice yearly)", "price": "free (Antler invests)", "url": "https://www.antler.co/location/menap", "desc": "10-week building sprint; Antler invests up to $500K total ($180K SAFE + $320K follow-on); co-founder matching — strongest co-founder/venture path", "score": 80, "type": "programme", "source": "antler_menap_1.txt", "deadline": "", "deadline_label": "", "eligibility": "Solo founders, early-stage teams, seed-to-Series A seeking co-founder; top-1% curated"}, {"title": "Dubai Future Accelerators (cycle)", "start": "", "end": "", "city": "Dubai", "venue": "", "format": "in-person programme", "price": "", "url": "https://www.dubaifuture.ae/initiatives/dubai-future-accelerators/", "desc": "Co-creation programme linking startups with Dubai gov challenges — citywide testbed; recurring cohorts since 2016", "score": 70, "type": "programme", "source": "dubai_future_accelerators_1.txt", "deadline": "", "deadline_label": "", "eligibility": "Startups, private entities, public sector"}, {"title": "NVIDIA Inception programme", "start": "", "end": "", "city": "Global/online", "venue": "", "format": "online", "price": "free (no fees/equity)", "url": "https://www.nvidia.com/en-us/startups/", "desc": "Free NVIDIA programme: training, dev tools, preferred pricing, cloud credits, investor access for AI startups", "score": 62, "type": "programme", "source": "nvidia_inception_1.txt", "deadline": "", "deadline_label": "", "eligibility": "AI startups <10yrs, incorporated, with dev + site; no consulting/crypto"}, {"title": "Microsoft for Startups (up to $150K Azure credits)", "start": "", "end": "", "city": "Global/online", "venue": "", "format": "online", "price": "free (credits)", "url": "https://www.microsoft.com/en-us/startups", "desc": "Up to $150K Azure credits + AI services/tools/co-sell — Azure-primary fit", "score": 62, "type": "programme", "source": "microsoft_for_startups_1.txt", "deadline": "", "deadline_label": "", "eligibility": "Startups building on Azure"}, {"title": "UAE Hackathon 2026 (9th edition, TDRA)", "start": "", "end": "", "city": "UAE", "venue": "", "format": "hybrid (in-person + online)", "price": "free", "url": "https://hackathon.ae/", "desc": "National innovation hackathon: tracks incl. Responsible AI & Smart Cognitive Government, Digital Trust, Generative AI", "score": 58, "type": "hackathon", "source": "uae_hackathon_1.txt", "deadline": "", "deadline_label": "", "eligibility": "UAE residents with Emirates ID; Rising Stars 11-17 & Pioneers 18-25 tracks"}, {"title": "AWS Activate (up to $200K credits)", "start": "", "end": "", "city": "Global/online", "venue": "", "format": "online", "price": "free (credits)", "url": "https://aws.amazon.com/startups/", "desc": "Up to $200K AWS credits depending on stage", "score": 45, "type": "programme", "source": "aws_startups_1.txt", "deadline": "", "deadline_label": "", "eligibility": "Startups any stage"}];
+
+const MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const today = new Date(); today.setHours(0,0,0,0);
+const state = { type:"all", hi:false, past:false, q:"" };
+
+function parseD(s){ if(!s) return null; const d=new Date(s+"T00:00:00"); return isNaN(d)?null:d; }
+function fmtDay(d){ return d ? d.getDate() : "—"; }
+function isPast(e){ const end=parseD(e.end)||parseD(e.start); return end ? end < today : false; }
+function typeCls(t){ return {hackathon:"hackathon",cfp:"cfp",programme:"programme",competition:"hackathon"}[t]||""; }
+function esc(s){ return String(s||"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
+
+function matches(e){
+  if(state.type!=="all" && e.type!==state.type && !(state.type==="hackathon"&&e.type==="competition")) return false;
+  if(state.hi && (e.score||0)<70) return false;
+  if(!state.past && isPast(e)) return false;
+  if(state.q){
+    const hay=(e.title+" "+e.city+" "+e.source+" "+e.desc+" "+e.venue).toLowerCase();
+    if(!hay.includes(state.q)) return false;
+  }
+  return true;
+}
+
+function render(){
+  const list = EVENTS.filter(matches);
+  const dated = list.filter(e=>parseD(e.start)).sort((a,b)=>a.start.localeCompare(b.start)||b.score-a.score);
+  const tbc = list.filter(e=>!parseD(e.start)).sort((a,b)=>b.score-a.score);
+  const groups = new Map();
+  for(const e of dated){
+    const d=parseD(e.start), k=d.getFullYear()+"-"+String(d.getMonth()).padStart(2,"0");
+    if(!groups.has(k)) groups.set(k,{m:MONTHS[d.getMonth()],y:d.getFullYear(),items:[]});
+    groups.get(k).items.push(e);
+  }
+  if(tbc.length) groups.set("zz",{m:"Date TBC",y:"",items:tbc});
+
+  const radar=document.getElementById("radar");
+  if(!list.length){ radar.innerHTML='<div class="empty">Nothing on the radar for these filters.</div>'; }
+  else{
+    let i=0, html="";
+    for(const g of groups.values()){
+      html+=`<section class="month"><div class="month-label"><div class="m">${g.m}</div><div class="y">${g.y}</div></div><div class="rows">`;
+      for(const e of g.items){
+        const d=parseD(e.start), de=parseD(e.end);
+        const rng = de && d && de.getTime()!==d.getTime() ? `–${fmtDay(de)} ${de.getMonth()!==d.getMonth()?MONTHS[de.getMonth()].slice(0,3):""}` : "";
+        const meta=[];
+        meta.push(`<span class="tag ${typeCls(e.type)}">${esc(e.type||"event")}</span>`);
+        if(e.city) meta.push(esc(e.city));
+        if(e.format && e.format!=="in-person") meta.push(esc(e.format));
+        if(e.price) meta.push(/free/i.test(e.price)?'<span class="free">Free</span>':esc(e.price));
+        if(e.source) meta.push(esc(e.source));
+        meta.push(`<span class="score">signal <b>${e.score||"–"}</b></span>`);
+        const extra=[];
+        if(e.deadline) extra.push(`${esc(e.deadline_label||"Deadline")}: ${esc(e.deadline)}`);
+        if(e.eligibility) extra.push(esc(e.eligibility));
+        html+=`<article class="ev ${isPast(e)?"past":""}" style="animation-delay:${Math.min(i*30,420)}ms">
+          <div class="ev-date"><div class="dd">${d?fmtDay(d):"·"}</div><div class="rng">${rng}</div></div>
+          <div>
+            <h3 class="ev-title">${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>`:esc(e.title)}</h3>
+            <div class="ev-meta">${meta.join(" · ")}</div>
+            ${e.desc?`<p class="ev-desc">${esc(e.desc)}</p>`:""}
+            ${extra.length?`<p class="ev-extra">${extra.join(" · ")}</p>`:""}
+          </div></article>`;
+        i++;
+      }
+      html+=`</div></section>`;
+    }
+    radar.innerHTML=html;
+  }
+  document.getElementById("count").textContent=list.length+" shown";
+}
+
+function renderLedger(){
+  const horizon=new Date(today); horizon.setDate(horizon.getDate()+30);
+  const items=EVENTS.filter(e=>{const d=parseD(e.deadline);return d&&d>=today&&d<=horizon;})
+    .sort((a,b)=>a.deadline.localeCompare(b.deadline));
+  const el=document.getElementById("ledger-items");
+  el.innerHTML = items.length
+    ? items.map(e=>{const d=parseD(e.deadline);
+        return `<div class="ledger-item"><div class="d">${MONTHS[d.getMonth()].slice(0,3)} ${d.getDate()}</div>
+        <div class="t">${esc(e.deadline_label||"deadline")} — ${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>`:esc(e.title)}</div></div>`;}).join("")
+    : '<div class="ledger-empty">No deadlines in the next 30 days.</div>';
+}
+
+document.getElementById("controls").addEventListener("click",ev=>{
+  const b=ev.target.closest(".chip"); if(!b) return;
+  document.querySelectorAll(".chip").forEach(c=>c.classList.remove("on"));
+  b.classList.add("on"); state.type=b.dataset.type; render();
+});
+document.getElementById("hi").addEventListener("change",e=>{state.hi=e.target.checked;render()});
+document.getElementById("past").addEventListener("change",e=>{state.past=e.target.checked;render()});
+document.getElementById("q").addEventListener("input",e=>{state.q=e.target.value.toLowerCase();render()});
+
+document.getElementById("total").textContent=EVENTS.length;
+renderLedger(); render();
+</script>
+</body>
+</html>

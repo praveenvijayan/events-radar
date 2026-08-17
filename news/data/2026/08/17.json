@@ -1,228 +1,172 @@
 {
  "date": "2026-08-17",
- "generated_at": "2026-08-17T03:06:15.282564+04:00",
+ "generated_at": "2026-08-17T02:00:23+00:00",
  "themes": [
   {
-   "title": "Nvidia backs OpenAI's Ohio buildout with credit and equity",
-   "signal": 88,
-   "summary": "Nvidia is close to guaranteeing roughly $100 billion in credit for OpenAI's plan to lease a giant Ohio data center, and separately weighing a ~$3 billion investment in SB Energy, the SoftBank-backed developer behind the project. The deals shift who carries the balance-sheet risk of the biggest AI infrastructure build.",
-   "angle": "The model news is noise; the P&L story is who takes the credit risk on AI data centers — that is the hidden leverage in the capex boom.",
+   "title": "Stripe clinches $7B+ OpenRouter buy",
+   "signal": 60,
+   "summary": "Stripe has finalized an agreement to acquire OpenRouter, the model-routing gateway that lets companies switch between AI models, for more than $7 billion. The deal signals consolidation of the inference-aggregation layer and the payments rails of the agent economy.",
+   "angle": "The model-portability layer is being absorbed into a payments giant, a strategic consolidation GCC enterprises should watch.",
    "items": [
     {
-     "title": "Nvidia Nears Deal to Guarantee Roughly $100 Billion in Credit for OpenAI",
-     "url": "https://www.theinformation.com/briefings/nvidia-nears-deal-guarantee-roughly-100-billion-credit-openai",
-     "source": "The Information",
-     "time": "01:04",
-     "note": "Nvidia near a deal to guarantee ~$100B in credit for OpenAI's Ohio data center lease."
-    },
-    {
-     "title": "Nvidia in Talks to Invest $3 Billion in SB Energy",
-     "url": "https://www.theinformation.com/briefings/nvidia-talks-invest-3-billion-sb-energy",
-     "source": "The Information",
-     "time": "01:03",
-     "note": "Nvidia in talks to invest up to $3B in SB Energy."
-    },
-    {
-     "title": "Nvidia in Talks to Invest $3 Billion in SB Energy as Part of OpenAI Data Center Deal",
-     "url": "https://www.theinformation.com/articles/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal",
-     "source": "The Information",
-     "time": "23:12",
-     "note": "SB Energy role framed as part of the wider OpenAI data center pact."
-    },
-    {
-     "title": "Nebius and CoreWeave Tout Short-Term Cloud Deals, While AWS Goes Long",
-     "url": "https://www.theinformation.com/articles/nebius-coreweave-tout-short-term-cloud-deals-aws-goes-long",
-     "source": "The Information",
-     "time": "19:00",
-     "note": "Nebius and CoreWeave push short-term compute deals while AWS plays the long game."
+     "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+     "source": "Bloomberg Technology",
+     "time": "19:32",
+     "note": "Stripe finalizes acquisition of model-router OpenRouter for over $7B."
     }
    ]
   },
   {
-   "title": "UAE builds AI that speaks Arabic, not just understands it",
-   "signal": 85,
-   "summary": "A cluster of UAE research pushes beyond machine translation into cultural and dialectal fluency: MBZUAI leads a project on Arab culture and regional dialects, and new benchmarks measure AI performance across 13 Arab dialects. The region's AI strategy is increasingly about making models natively Arabic-literate, not just locally hosted.",
-   "angle": "Everyone covers GCC AI capex; the differentiator is who gets the Arab-dialect benchmark and cultural layer right — that is the real moat.",
+   "title": "China's open-source AI is the next shock",
+   "signal": 55,
+   "summary": "The FT argues the coming China shock will come not from chip export bans but from open-source AI: countries adopting Chinese models will also absorb Chinese standards and governance. Separately, chipmaker CXMT rose to become China's most valuable firm, marking a shift toward hardware aligned with Beijing's strategic ambitions.",
+   "angle": "GCC tech buyers choosing open models should weigh whose standards come bundled with the weights.",
+   "items": [
+    {
+     "title": "The next China shock will come from open-source AI",
+     "url": "https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e",
+     "source": "FT Technology",
+     "time": "01:00",
+     "note": "Adoption of Chinese open models bundles in Chinese standards and governance."
+    },
+    {
+     "title": "CXMT's Rise to China's Most Valuable Firm Heralds New Tech Era",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-17/cxmt-s-rise-to-china-s-most-valuable-firm-heralds-new-tech-era",
+     "source": "Bloomberg Technology",
+     "time": "01:07",
+     "note": "Chipmaker CXMT becomes China's most valuable listed company."
+    }
+   ]
+  },
+  {
+   "title": "Datacentre buildout hits real-world limits",
+   "signal": 48,
+   "summary": "A transformer shortage threatens Gulf AI datacentre plans, per AGBI, even as the FT estimates the 60 largest planned facilities could emit the equivalent of 27 coal plants a year. Alphabet moved to raise debut Australian-dollar bonds to help fund AI capex, underscoring how frontier companies are financing the buildout.",
+   "angle": "Power, hardware and financing, not model capability, are becoming the binding constraints on AI expansion.",
+   "items": [
+    {
+     "title": "Transformer shortage threatens Gulf AI data centre plans",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdXRjdmVqMzRiUGdqS2RadC1mRGI2cFYwR3BobV9vWFRSb095VWlWSV83RnQwLWNHTDVaRlpvNUdQc2VDUm50eGtDYmJqNHhJWTZLdGhHMDRaMmlUb1NnYjZlVThtVUdLN1RzM05POC1lZXUzcUJ4WHZCOVZTOGVMZXVvVXdqQjlORy1rZlV6R1dXSzlWSTd4dk1TWDZJeVdfSGc?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "GCC datacentre plans constrained by transformer supply crunch. (via GN)"
+    },
+    {
+     "title": "Big Tech's data centre boom poised to drive up carbon emissions",
+     "url": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "10:00",
+     "note": "FT analysis: 60 largest planned facilities could equal 27 coal plants a year."
+    },
+    {
+     "title": "Alphabet Hires Banks for Inaugural Aussie Dollar Bond Sale",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-17/alphabet-hires-banks-for-inaugural-aussie-dollar-bond-sale",
+     "source": "Bloomberg Technology",
+     "time": "00:12",
+     "note": "US tech firms flooding credit markets to fund AI investment."
+    }
+   ]
+  },
+  {
+   "title": "GCC localization: Arab-culture AI push",
+   "signal": 45,
+   "summary": "UAE researchers and MBZUAI are leading efforts to help AI understand Arab culture and regional dialects, including a first tool to measure AI's grasp of Arab culture. Coverage across The National, Emirates 24|7 and Gulf News highlights a regional moat being built on localization.",
+   "angle": "Regional-language and cultural AI is a durable GCC advantage global labs are only beginning to chase.",
    "items": [
     {
      "title": "UAE's MBZUAI leads project to help AI understand Arab culture and regional dialects",
      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQmZEa2gtOGVDd202Zmg5a0tPU1RQRS1GUV8ta3h6aTJRYUQ3dTgwWlRzQmtaMno3VWhmWkpUZVpnLUpBN243MTBWMmczbVM0eXR5M1N4NDI1VHVvVnZ3Zkp4S3RzeXlDeVdzUlQ3UnhNQ0p1OGtZWGt0Xy1qTFc4WUQ5R3JJaktkUk1MY19ZdUNnaW9kTVdIT0N6TElKVVRZT0NKU3lHcjRhUTJkY0lvUC15Z3ZQcGJZaDhKR3ZnMWdlRXNKS2YxanphaVRjMnFa?oc=5",
      "source": "The National",
-     "time": "14:51",
-     "note": "MBZUAI spearheads a project targeting Arab culture and regional dialects."
+     "time": "10:51",
+     "note": "MBZUAI-led initiative targets Arab culture and regional dialects. (via GN)"
     },
     {
-     "title": "UAE researchers develop first benchmark for AI across 13 Arab dialects",
-     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHFtRXdCUS1kMFJJeXZBMFlRbjE2S3VRbzB5R280Z01ubGxWR0RGYThRTmtySFI3QnpmREN1dDRuV3dCaFlVdFRaUDVYVEtSeHFZRVd0Zi1WMGp5MGtWN0cwS0JWdHVVd1NJa0FtNFE2MEN2YkJ3WXE0cWhaOFl5b1JaLXB2OERlN0t3a2Y0azFrYmJLd2V0QklIbm5qTGtpaGYycS1pbko3MGt3UjF3ZHhidEJvYmlrMlRv0gG7AUFVX3lxTFBkcW1Fd0JRLWQwUkl5dkEwWVFuMTZLdVFvMHlHbzRnTW5sbFZHREZhOFFOa3JIUjdCemZEQ3V0NG5Xd0JoWVV0VFpQNVhUS1J4cVlFV3RmLVYwankwa1Y3RzBLQlZ0dVV3U0lrQW00UTYwQ3ZiQndZcTRxaFo4WXlvUlotcHY4RGU3S3drZjRrMWtiYkt3ZXRCSUhubmpMa2loZjJxLWluSjcwa3dSMXdkeGJ0Qm9iaWsyVG8?oc=5",
-     "source": "Gulf News",
-     "time": "12:21",
-     "note": "First benchmark built specifically for AI across 13 Arab dialects."
-    },
-    {
-     "title": "UAE researchers create first tool to measure artificial intelligence understanding of Arab culture - Emirates 24|7",
+     "title": "UAE researchers create first tool to measure artificial intelligence understanding of Arab culture",
      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPM1pxOVZLeGtvWDNneDZtM1ItUkJBcmM0T3NPcDktR3pqSTI0YWFobjRBQUhuZUlFVWJKVXVBRVo0MUplOHBRMThmNDBLOGZwOE9HQUVBZmdZcUxseXZaUk5zS21uc1JzSXhid2NNeTA0RHFPeE15WTZYU0dad0xjUUZSa1VLOUFRdWFFeTV5c0oxV2ZHdEQtT1FjNmhjbGNHaU9hT3dldUU2WmJwYW9PazFQM0kzcmVuMl9mRUx6Rk1hT3hCSzdpR1llMmdMS2dkYnJkeFBnN0p3RWp3NlpoaUxiX1JXOEE0cTF30gHrAUFVX3lxTE8zWnE5Vkt4a29YM2d4Nm0zUi1SQkFyYzRPc09wOS1HempJMjRhYWhuNEFBSG5lSUVVYkpVdUFFWjQxSmU4cFExOGY0MEs4ZnA4T0dBRUFmZ1lxTGx5dlpSTnNLbW5zUnNJeGJ3Y015MDREcU94TXlZNlhTR1p3TGNRRlJrVUs5QVF1YUV5NXlzSjFXZkd0RC1PUWM2aGNsY0dpT2FPd2V1RTZaYnBhb09rMVAzSTNyZW4yX2ZFTHpGTWFPeEJLN2lHWWUyZ0xLZ2RicmR4UGc3SndFanc2WmhpTGJfUlc4QTRxMXc?oc=5",
      "source": "Emirates 24|7",
-     "time": "09:40",
-     "note": "New tool measures how well AI actually grasps Arab cultural context."
+     "time": "05:40",
+     "note": "First tool measuring AI understanding of Arab culture. (via GN)"
     },
     {
      "title": "AI can understand Arabs but can it speak like them?",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSF9tOW53LXRlVW1tQUxnd1F4ZmxUcFgzSXUtZU53cmMxVC1pVERMYjVONzRqS0pubWtkTDZ5LUVqaGd3RG1KT3dPZWxsalBvM21DRFc1VU9kZ2tPYW14SnZoLUV3MUx2S0xveUU3anlNb2MyQ1RRZ2NSbVJ1TFpCQWw0aUR2cXZHTlpBZTV4UzhvU05xRFRqTDNqRlU5NEE0U29FTDFOUWwxV3c?oc=5",
      "source": "Gulf News",
-     "time": "12:21",
-     "note": "Op-ed question — understanding a language and speaking it natively are different."
+     "time": "08:21",
+     "note": "Debates whether AI can truly speak in Arab ways. (via GN)"
     }
    ]
   },
   {
-   "title": "Stripe closes ~$7B OpenRouter deal — the AI gateway layer consolidates",
-   "signal": 72,
-   "summary": "Stripe has finalized an agreement to buy OpenRouter for over $7 billion, turning the model-routing gateway into an adjunct of the payments stack. The deal is a bet that the toll-booth layer for model switching will grow into a core financial-services surface.",
-   "angle": "OpenRouter was the neutral model router; under Stripe it becomes a payments wedge — watch for bundling at the inference gateway.",
+   "title": "Saudi AI policy and enterprise push",
+   "signal": 42,
+   "summary": "Saudi Arabia published the ICAIRE statute, formalizing its national AI oversight body, and launched a SAR500,000 AI incentive for cultural businesses. Separately, Abu Dhabi's FAB ran a second SpeakEasy enterprise AI forum, signaling steady Gulf institutional adoption.",
+   "angle": "Saudi is moving from AI ambition to codified policy and targeted incentives, a governance trend to track.",
    "items": [
-    {
-     "title": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
-     "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
-     "source": "Bloomberg",
-     "time": "23:32",
-     "note": "Stripe has finalized the >$7B acquisition of OpenRouter, per sources."
-    },
-    {
-     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWE5zb2s5ZnFNRHkzRWl1OWlhMS1CUTc5b1lwRHl3eFNEWWlmdDByaDFRbDVrbmRTOUhGY0IyMU1QOXk1VktSSFBlZ2R3Q0pwSzhkN2pZbWgyRDdtYUoxbzUtRkh4N0xPdmJIRTE0SlZ2TnNNTjUzMGZVNnhycVNSWVB6T1hBTHVLcTBBaXlEZnpDVTQtaTZjVXUzRkxzSTBUUDVyOA?oc=5",
-     "source": "TechCrunch",
-     "time": "00:57",
-     "note": "Earlier reporting pegged the deal at $7B+ for the model-routing startup."
-    },
-    {
-     "title": "Zhipu AI Co-Founder Tang Jie: Tokens as the Engine of the Intelligent Economy - Geopolitechs",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PaVY3SmR5ZTdvVHlOdXdxUmltX0ZFS2lCdGZjeTZDWDZncm9oamxRQmRPamxyY3FUa2ZDTkN6aVpCUmJkMGttTEFUXzhVcV91SW83RmhzY0ExcnpoVlZCYmRHcmF5YUlSYlZwcDNUbkZpUl90?oc=5",
-     "source": "Geopolitechs",
-     "time": "21:58",
-     "note": "Zhipu co-founder argues tokens are the engine of the intelligent economy."
-    }
-   ]
-  },
-  {
-   "title": "Cyber turns defensive-AI as agentic attacks climb",
-   "signal": 63,
-   "summary": "Corma raised $60 million to build a defensive cybersecurity foundation model, citing an 88% success rate for AI-driven attacks, while Anthropic published investigations of real-world incidents from its cybersecurity evaluations. The security market is shifting from bolt-on detection to foundation-model defense as AI agents become the attack surface.",
-   "angle": "The interesting shift: defense is becoming model-native, not tool-native — and the 88% attack-success stat is the pitch executives will hear.",
-   "items": [
-    {
-     "title": "Corma Raises $60 Million Seed To Build Defensive Cybersecurity Foundation Model As AI Attackers Hit 88% Success Rate",
-     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVTl2dkJzZjJnTmpURzVrQjZlUXRtc3FDdkY4N1B1TWlRVHoyTnFxTzljX28tdHdIUklKWWszOTNNdmRXc1VRSUFXWEQ2MmFWZUxaNi1RRHpleTV4OWJFYmFveEFlLTRmQjZ6bXhkLWc0SzM4YWtiUHJKZUFTdkZoUmF0ZWpQUzdCVzV1VlluZWRhNlBTLTZma3VHdDZEWDBsZjBLYkx3YzBlblVRbzFDZWx6TDRNV1dnZEZLRVhMN3lrSU90cWFFTFo3OVV1c03SAdQBQVVfeXFMTlJ5UU9xdmtkWm8wRXF2Rlp2RHdPaTdVX2wxZ1IweWpZNjI3MVB1TTFCYUZNV3R3ektWeE9zbzVGbV9NZ3JVU0ZHMlNFS1JNRzBNVWQyZGcxMExXdm1reVdGUkY3SHc0bzZDQ2dKN2ZxSG85MkZwRTVNUHVWbU5FT3ppTmNkdHBLZjhRUENWdXhvLVdrS0N3VWNCY0JtaUQ5T1dRNjVQZF9XaUd6d254bWtVRDAwRFc4QTFjY1dadWZlUnNzZ04tMmhYQ194TXkyempSUFc?oc=5",
-     "source": "Pulse 2.0",
-     "time": "01:19",
-     "note": "$60M seed for a defensive cybersecurity foundation model; AI attackers at 88% success."
-    },
-    {
-     "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-     "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-     "source": "Anthropic",
-     "time": "",
-     "note": "Anthropic details three real-world incidents from its cyber safety evals."
-    },
-    {
-     "title": "An AI agent spent your money – can anyone prove you authorized it?",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRko1QWF6OURKM2t1bmwyQTMxMHFPODNaQ2d0RVJ3eVpzbTVyWnl2dXc3Tm5Eakc4RTFmaU1ZamFzb0x1R2ZWdGdJekRiOE5FQ2hpdmp2SGYtcXhMd2EwUTZlV3o3UWJDSWxhX2RUUXdsZmZQVUZzVGNoZmVuSVBUbV9PRkdmOHNUR05tRTBCTU1CTjNDMk9neHdYM1pvXzVxb3pnMWFRdU9mdDNOYTBDN9IBtgFBVV95cUxPdmdpallyOG5ESzFERE5ZQVo0RFZ4UnhKRDNRNUE2SkVGY3JxQ0VmMTFyWHREbWhGV2dGRHA4TnAybUU2VjFPbGtPellrb2I5X0lUbk1rZWRnNHh0VHkzZFZVNUNGNTRkWmo2Z2ZjdzJWZjlaLU5PLWw0TGZCUHU2WXIzdnlnVkotWW9BdTl6Z01aa1NJczEzeExpY3dMNE1GbWRNTWl0d3J6Mmx0WDczdzd2Zi1rUQ?oc=5",
-     "source": "FOX40",
-     "time": "19:01",
-     "note": "Question of proving authorization hangs over agentic payments and actions."
-    }
-   ]
-  },
-  {
-   "title": "Saudi Arabia formalises state AI incentives and structures",
-   "signal": 58,
-   "summary": "Saudi Arabia launched an AI incentive scheme worth SAR500,000 aimed at cultural businesses and published the statute for ICAIRE, its AI research and innovation body. The moves show Riyadh inching from vision statements toward concrete instruments and institutional structure.",
-   "angle": "Follow the statute, not the vision: Saudi is building the legal scaffolding that will govern its AI economy — a quiet but real step.",
-   "items": [
-    {
-     "title": "Saudi Arabia launches SAR500,000 AI incentive for cultural businesses - Fast Company Middle East",
-     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckNtcWl3LWNDS29tXzFGTzQ2Vmp3S2ctOTg2eE9sTVluYlA5WHVJX3VPaFNzdE1NT2VuU2xyckpPY2dWRjFJUEZRTko2Uy1sbVBIaEJQZ2NiUWgzSlNIZVRJd25aQXh5blpXVnhhZE1wLTJVcmo2WEJXbFQzQnRpYklZelRxYWhVZXdfQkVRa1RJbkQ3cTE3QjJSZExRVEdodGc?oc=5",
-     "source": "Fast Company Middle East",
-     "time": "11:49",
-     "note": "SAR500,000 AI incentive launched for cultural businesses."
-    },
     {
      "title": "Saudi Arabia publishes ICAIRE Statute",
      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54emtjYU1vX2czMkVSSXpFbjhMSGUwRHN0SUpHSXAzQ1BnbV9FS3RrR0hoNDhDWG9Pc1cybTRWSG5RV0wxUVVIdkFHcTBjUUZtZjRYOGJwbTF4ODRwc1haRTZfOXVSZ04xVmVmcDYtNA?oc=5",
      "source": "Argaam",
-     "time": "10:45",
-     "note": "Statute for ICAIRE published, institutionalising AI research governance."
+     "time": "06:45",
+     "note": "Saudi publishes statute for its AI oversight authority. (via GN)"
     },
     {
-     "title": "Long Cycles #1: Turkey's Births, Kyrgyzstan's Returnees, Saudi's AI Ambitions, ...",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52c2RJMWZVdFQzMXVMQ1hjeThzbHJlQVlYdmw3VXZsSlNVUTlxd3Q3WDBKNXc1d1ZxRFQ0dzFjaHl5YW80ZkM2U2VWQ21jR3NOSUpISlF5N1M4VW5wYnNyT3liYnJ2RGFZS2Q0ZlE1RHdoVWo1WjY5Zl9R?oc=5",
-     "source": "Beyond the Ideological",
-     "time": "23:05",
-     "note": "Regional long-cycle round-up flags Saudi's AI ambitions amid demographic and geopolitical shifts."
-    }
-   ]
-  },
-  {
-   "title": "Health AI steers assistive, not autonomous",
-   "signal": 50,
-   "summary": "Axios explores using AI to deliver Mayo-level care more broadly, while a medical opinion piece argues health AI should stay assistive rather than autonomous and Digital Watch notes UAE hospitals expanding AI diagnostics. The debate is crystallising around the human-in-the-loop boundary.",
-   "angle": "The regulatory crux for enterprise health AI isn't accuracy — it's where the autonomy line gets drawn; that is the deployment decision boards face.",
-   "items": [
-    {
-     "title": "How AI could bring Mayo-quality health care to everyone",
-     "url": "https://www.axios.com/2026/08/16/ai-mayo-clinic-health-care-fix-jim-vandehei",
-     "source": "Axios",
-     "time": "14:00",
-     "note": "Argues AI could bring Mayo-quality care to more people."
+     "title": "Saudi Arabia launches SAR500,000 AI incentive for cultural businesses",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckNtcWl3LWNDS29tXzFGTzQ2Vmp3S2ctOTg2eE9sTVluYlA5WHVJX3VPaFNzdE1NT2VuU2xyckpPY2dWRjFJUEZRTko2Uy1sbVBIaEJQZ2NiUWgzSlNIZVRJd25aQXh5blpXVnhhZE1wLTJVcmo2WEJXbFQzQnRpYklZelRxYWhVZXdfQkVRa1RJbkQ3cTE3QjJSZExRVEdodGc?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "07:49",
+     "note": "SAR500,000 incentive for culture businesses adopting AI. (via GN)"
     },
     {
-     "title": "Opinion | Health AI Should be Assistive, Not Autonomous",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQUGhWMWZNM1Fha0pZa3Fya2c4bGg5T3RSbnlLRktRRHBuN2NoanpXSE9aaGFBbk1tV0Y3bWpTM05XMmxiVkxNaXhManM3TFZHTW9veGJhSnUtVjV1SlM2Z3RBN0lUeVJkTldv?oc=5",
-     "source": "MedPage Today",
-     "time": "20:01",
-     "note": "Opinion: health AI should assist clinicians, not act autonomously."
-    },
-    {
-     "title": "AI in UAE healthcare expands across hospitals and diagnostics - Digital Watch Observatory",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SWW1QXzJub3ZDOER6VVVRM0QzMHkwWlVVQ01PemxLWDlqLUZsWXFGb1pfMVhjbVgzSlpLdmIyajM0N2wwVXpPOE5zU3RFczhuZ1NJZkNXMnlrc2Mtb2dzdXdSLUJ6bmpGS0dvdnBLN3VXX3BJVnlCNA?oc=5",
-     "source": "Digital Watch",
-     "time": "10:00",
-     "note": "UAE AI use in healthcare spreads across hospitals and diagnostics."
-    }
-   ]
-  },
-  {
-   "title": "Also notable",
-   "signal": 38,
-   "summary": "Smaller items worth a skim — the annual AI-company rankings, GCC institutional moves, and the parallel data-centre energy story.",
-   "angle": "",
-   "items": [
-    {
-     "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies - Forbes",
-     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn?oc=5",
-     "source": "Forbes",
-     "time": "10:29",
-     "note": "Forbes 2026 AI 50 list of top AI companies."
-    },
-    {
-     "title": "FAB Strengthens UAE AI Ecosystem Through Second SpeakEasy Enterprise AI Forum - Menafn",
+     "title": "FAB Strengthens UAE AI Ecosystem Through Second SpeakEasy Enterprise AI Forum",
      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWVwYmYwTUxSbU9LZkVSU1h2X3dkRFMyU0Z4cXp6eExlTDlBUUFlOHRPZ0Z6dTM5aFJjRjNCeHU2Z3RhRUg2VmJrb2dWNHc1OWRiRHF0dFFqQndFSzhDcEJSdDFQVDJmeGVRdVhoVkhWRGo1MVlyeFNjU1dtSmpTYlJYel9XNXZvVkpROVhfSHJSY1J6SVRvVmdHVGg3aDMwTG1wNnR2UXhud0k?oc=5",
-     "source": "MENAFN",
-     "time": "09:26",
-     "note": "FAB runs its second SpeakEasy enterprise AI forum in the UAE."
+     "source": "Menafn",
+     "time": "05:26",
+     "note": "First Abu Dhabi Bank hosts second enterprise AI forum. (via GN)"
     },
     {
-     "title": "The Bull Case For Coinbase Global (COIN) Could Change Following Its New ADGM Tokenization Hub Approval - simplywall.st",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOG95X0RfUW9tLThzSERWRXJxdWdIMnp3M3hhdl96dXlwbldvQmpGMXlpdGlqYVZpZjNvM2M1RTFfSHIxN3ZoR0NKWkRXSFU4MDdKN0hpNW03Zm5Ya1JSNDNtMV9tdEhCRlZOR3ZNWXU1MG54ellnWFkxSTRyeWFPOFVaeUlfRlp2UEFxOFpJUVhzTUxtMERMc3lPTzh5N21RNV9lOUxnY2dkZHRyN3JZeTR0WGJEalBOM2hXbUN6QlRYejNhcVQ3bGJmUzAyTnA0U2s5WHpoR01qMEZZY0hXcXB30gHnAUFVX3lxTE9BdjU2RXIzRHByLXhvaWszQTZNUnhmYmlyMTZaa1U5QnlBUFlmOVhWNDN4UTM5OUcyUU50UWhzWU5BQUx2ek5zUGtOMWc3OU11d2YwWTZmLTRWTnNJd1VvUExiQ1hnOGRRWjBraV8xcTlvUFVLZEFHbHZSVmNRcEFJRlBCMnpZUFFJN3FnWWdQVERfNHNlZmRwcHhKTjJMWFFpRmxZM19LNFVRZE80RlZiWTdNRnFLcndaWUw5dnNUMzNIZ1pCSEZuOE1xd3VQcjNqU20wbGFybk9rRVJZLVFsb0lVWWlXTQ?oc=5",
-     "source": "Simply Wall St",
-     "time": "13:22",
-     "note": "Coinbase's bull case shifts after ADGM tokenization hub approval."
+     "title": "AI in UAE healthcare expands across hospitals and diagnostics",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SWW1QXzJub3ZDOER6VVVRM0QzMHkwWlVVQ01PemxLWDlqLUZsWXFGb1pfMVhjbVgzSlpLdmIyajM0N2wwVXpPOE5zU3RFczhuZ1NJZkNXMnlrc2Mtb2dzdXdSLUJ6bmpGS0dvdnBLN3VXX3BJVnlCNA?oc=5",
+     "source": "Digital Watch Observatory",
+     "time": "06:00",
+     "note": "UAE healthcare AI expanding across hospitals and diagnostics. (via GN)"
+    }
+   ]
+  },
+  {
+   "title": "AI capital flows across Asia",
+   "signal": 40,
+   "summary": "Alibaba is selling its gaming arm for at least $1.5 billion to fund its AI pivot, while Malaysia is capitalizing on the datacentre boom to emerge as a key regional AI hub. The moves underscore how AI capex is reshaping corporate portfolios and national economies across Asia.",
+   "angle": "AI capital is being reallocated aggressively, with non-core assets sold to fund the pivot.",
+   "items": [
+    {
+     "title": "Alibaba to Sell Gaming Arm for $1.5 Billion in Boost to AI Pivot",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-17/alibaba-to-sell-gaming-arm-for-1-5-billion-in-boost-to-ai-pivot",
+     "source": "Bloomberg Technology",
+     "time": "01:01",
+     "note": "Alibaba sells gaming arm for at least $1.5B to fund AI."
     },
     {
-     "title": "Big Tech’s data centre boom poised to drive up carbon emissions",
-     "url": "https://www.ft.com/content/8158cb5a-4bbd-43fd-b329-15a54e8422c8?syn-25a6b1a6=1",
-     "source": "Financial Times",
-     "time": "14:00",
-     "note": "Big Tech's data-centre buildout is set to push carbon emissions up."
+     "title": "Malaysia profits from data centre boom",
+     "url": "https://www.ft.com/content/f063b38e-61c0-449b-aca3-968b903091a1?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "03:08",
+     "note": "Malaysia emerges as a key AI hub on the data-centre boom."
+    }
+   ]
+  },
+  {
+   "title": "Platform risk: Meta youth-safety trial",
+   "signal": 32,
+   "summary": "Meta faces a landmark federal trial brought by 29 US states alleging Facebook and Instagram were deliberately designed to addict young users and improperly collected children's data. California's AG called it a 'tobacco moment' for the platform.",
+   "angle": "Regulatory and litigation risk over platform design is escalating, a governance signal for boards.",
+   "items": [
+    {
+     "title": "Meta Faces Landmark Trial Over Youth Harm Claims",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-16/meta-faces-landmark-trial-over-youth-harm-claims-video",
+     "source": "Bloomberg Technology",
+     "time": "12:21",
+     "note": "29 US states' youth-harm case against Meta heads to trial."
     }
    ]
   }

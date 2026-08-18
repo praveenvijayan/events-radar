@@ -1,0 +1,180 @@
+{
+ "date": "2026-08-18",
+ "generated_at": "2026-08-18T02:00:46.830752+00:00",
+ "themes": [
+  {
+   "title": "Nvidia backs OpenAI's ~$105bn Ohio data centre",
+   "signal": 95,
+   "summary": "OpenAI is leasing a giant new data-centre campus in Ohio and Nvidia is funding the first phase with up to ~$105bn (Bloomberg) or $100bn (FT), plus a $1.5bn energy investment. It is the latest escalation in frontier-lab capex and tightens the Nvidia-OpenAI interdependence.",
+   "angle": "Data-centre capex is moving from a software affair to a balance-sheet one — a signal for anyone pricing compute supply.",
+   "items": [
+    {
+     "title": "Nvidia Will Back First Phase of OpenAI Ohio Project With as Much as $105 Billion",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Nvidia will spend up to $105bn on the data-centre campus OpenAI is set to lease in Ohio."
+    },
+    {
+     "title": "Nvidia pledges $100bn backing for OpenAI data centre in Ohio",
+     "url": "https://www.ft.com/content/82a4b183-7201-4789-95b7-e39e81c827bc?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "FT separately reports ~$100bn backing plus a $1.5bn investment into a SoftBank-founded energy firm."
+    },
+    {
+     "title": "OpenAI joins PORTS-Pike project",
+     "url": "https://openai.com/index/openai-joins-ports-pike-project",
+     "source": "OpenAI News",
+     "time": "",
+     "note": "OpenAI frames the Ohio campus as community investment supporting thousands of Southern Ohio jobs."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic revenue run-rate tops $65bn pre-IPO",
+   "signal": 90,
+   "summary": "Bloomberg reports Anthropic's annualized revenue is now above $65bn, up more than sevenfold from the end of last year, ahead of an expected IPO. The run-rate signals enterprise demand for frontier models keeps compounding, though IPO timing is unconfirmed.",
+   "angle": "Scaling-lab revenue estimates are the cleanest demand proxy for enterprise AI spend.",
+   "items": [
+    {
+     "title": "Anthropic's Annualized Revenue Surpasses $65 Billion Before IPO",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Run-rate above $65bn per Bloomberg sources, up more than 7x from end of last year."
+    },
+    {
+     "title": "Dario Amodei logs on to answer the critics",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5RXh4bHo4ZjN4R18wNGNjWFZaVzFmSGxRUFg4MW4zUlVlbU5od2tOeHQzSkhkNFNzWV9CZkNBZFNJMW9KQXZYc3BOZzVGTFN6S1FEdm9xcEJqRTV0bVpxRmlST3dNbm9XTFE0WmxjSy1hem96WmFTT05n?oc=5",
+     "source": "The Rundown AI",
+     "time": "",
+     "note": "Rundown notes Amodei publicly addressing critics as the IPO narrative builds. (via GN)"
+    }
+   ]
+  },
+  {
+   "title": "Saudi PIF records record 2025; deep-tech tilt grows",
+   "signal": 80,
+   "summary": "Saudi Arabia's PIF closed 2025 with revenue of $120bn and net profit more than doubling to $17bn, contributing 11% of non-oil GDP (AGBI, Economy Middle East). It separately disclosed a $26.38bn SpaceX stake, reinforcing a deep-tech-focused allocation strategy.",
+   "angle": "Sovereign-wealth AI allocation is no longer a side bet — it is core to non-oil GDP targets.",
+   "items": [
+    {
+     "title": "Saudi PIF revenue rises 9 percent to $120 billion as profit more than doubles to $17 billion",
+     "url": "https://economymiddleeast.com/news/saudi-pif-revenue-rises-9-percent-to-120-billion-as-profit-more-than-doubles-to-17-billion/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-pif-revenue-rises-9-percent-to-120-billion-as-profit-more-than-doubles-to-17-billion",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "PIF 2025: revenue $120bn (+9%), net profit more than doubles to $17bn."
+    },
+    {
+     "title": "PIF contribution to Saudi non-oil economy rises nearly $100bn",
+     "url": "https://www.agbi.com/economy/2026/08/pif-contribution-to-saudi-non-oil-economy-rises-nearly-100bn/",
+     "source": "AGBI",
+     "time": "",
+     "note": "PIF now accounts for 11% of Saudi non-oil GDP in 2025 (up from 10%), adding ~$100bn."
+    },
+    {
+     "title": "Saudi Arabia's PIF discloses $26.38bn stake in SpaceX",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTFLNU1ScjFCNkVoQTBEVG9iZ3JHSjBPc09HOE9MYzhjNUJEM2ZHckpmbGkwVk9TeHlqZWxFSzRfNzFXRnVtSmhNYTRjQjUtMEQwYVVhMlh1d3RFSENBRk1ORXNvYWZuQ1ZlQ3BCb3RJdkpuUUxIRGJjUlpwQVR3aHUwN1J4WXBreVZ5Wg?oc=5",
+     "source": "SatellitePro ME",
+     "time": "",
+     "note": "PIF disclosed a $26.38bn SpaceX stake, underscoring deep-tech allocation. (via GN)"
+    }
+   ]
+  },
+  {
+   "title": "Gulf enterprises push agentic AI into core operations",
+   "signal": 75,
+   "summary": "UAE telecom e& says it is the first regional provider to embed agentic AI in core plans, FAB is driving enterprise AI adoption, and Dubai Customs credits AI with top-decile competitiveness. A WIRED ME report covers an AI-powered cyberattack on UAE critical sectors.",
+   "angle": "The region is moving from AI pilots to agentic AI embedded in core commercial products.",
+   "items": [
+    {
+     "title": "e& UAE Becomes First Regional Telecom Provider to Embed Agentic AI in Core Plans",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMFhGOWxva25qTFVGc3BoRUpzVHRmdTB4T05Wd1JIWUF3UVh0MmZ3OEEwV1lPdHlVRVVJUlhEUDhFMy1lWmxnWnFBeU1vM1hSMVlBc0p3UWZwU3lYOC1CTmRvaVlMRWdPcUd4YW8xT0NzaHJpaTkyM3RtbVFXZVZfbWtOT0RjWWVPcTEyeWl6NG5QNEhxVGp2U21nS014cFJGT3kwMGUyYVFCOVZHUEtlWVZ2V2lkeXVDNFE?oc=5",
+     "source": "TechAfrica News",
+     "time": "",
+     "note": "e& claims a regional first by building agentic AI into core telecom plans. (via GN)"
+    },
+    {
+     "title": "First Abu Dhabi Bank Hosts Second SpeakEasy Forum to Drive Enterprise AI Adoption in UAE",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVJKd0FueVNvaXBvOUhJM2xTTzVyUkpEeUY3LXYxSXBZaVE5RWFpVnc5TmZhMUZFT3hPR08zNVlMNkp1MnpkQ2hRWElsUklSWUt2YlpsZkJsV01pNWpHOGVrVFJfcjFqZ0V3cnZTYUtBNkNDNlAwMnMzVGZCMF95SGVVMUFRUHZ4RHZsOGpnYUVxZTZvUFdFZmZkbnVQV3laQ2x1dXZQUTBvdFNDck9DTVhiNA?oc=5",
+     "source": "FF News",
+     "time": "",
+     "note": "FAB convening UAE peers on enterprise AI adoption. (via GN)"
+    },
+    {
+     "title": "Inside the AI-Powered Cyberattack on the UAE's Critical Sectors",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR0E5V3lXdldqaG5XZXFpekVieDBqZlIyRDBnMjdRY1Iza0NkejJHa0ljWnk5TkduaFFOMHNfSkdUS1BDTkJQWi1vUUhoUGppRHZZU3h4SzlESERFME1yblJTcGE2d3FOanE5c3o5MHByYTdzamp0RHhzbjdOWHd0dWFHTmFzejRpeGt5LVBGUWo4U3M?oc=5",
+     "source": "WIRED Middle East",
+     "time": "",
+     "note": "WIRED ME details an AI-powered attack targeting UAE critical sectors. (via GN)"
+    },
+    {
+     "title": "Dubai Customs AI push supports UAE top 10 percent ranking across 37 competitiveness indicators",
+     "url": "https://economymiddleeast.com/news/dubai-customs-ai-push-supports-uae-top-10-percent-ranking-across-37-competitiveness-indicators/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-customs-ai-push-supports-uae-top-10-percent-ranking-across-37-competitiveness-indicators",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "Dubai Customs credits AI-driven risk management with lifting UAE competitiveness rankings."
+    }
+   ]
+  },
+  {
+   "title": "UAE deepens AI deal flow and Arabic-language research",
+   "signal": 65,
+   "summary": "Abu Dhabi's MGX co-leads a $5bn Databricks round, while MBZUAI and Abu Dhabi researchers push Arabic-language capability — benchmarking 13 dialects and documenting how current models struggle with them. Regional capital meets a regional-language gap.",
+   "angle": "Arabic AI is a distinct, under-served market where Gulf capital has a first-mover opening.",
+   "items": [
+    {
+     "title": "UAE's MGX Co-Leads $5 Billion Funding Round for Databricks",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VcWoyUTVNb0xBZmZmWm5WQ3pPRENnSEVQVG5nLUVuRHRhemZJcTVXSjRMbzJpN01DZ1FZbkIyZkYxNlpK?oc=5",
+     "source": "بوابة التكنولوجيا المالية",
+     "time": "",
+     "note": "Abu Dhabi's MGX co-leads a $5bn Databricks round, a major data-infra bet. (via GN)"
+    },
+    {
+     "title": "MBZUAI study finds AI models struggle to generate Arabic dialects",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSVg2LXFOYmxSd2hDZkFEdEY0eTA3amtLVDhoS2hfNjlZNm1pQmNjYTNTMWR2QVJXNTduZngyTE1aYXJHWE00a0tQcTA1TVlkWm0zbk9nTHdvUjcxaHh2OEF6Z3d0UDItWkdNZ1FpTktENno0b21qeWZsb2tacThObV9LMmJJQ2dDeGx1MUhuWXN2THdwSGdKOE9JaTNsQQ?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "",
+     "note": "MBZUAI research finds models underperform on Arabic dialects. (via GN)"
+    },
+    {
+     "title": "Abu Dhabi Researchers Build AI Benchmark Across 13 Arabic Dialects",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc0QtQkszbTY3aXdGLThuQk1USmxDY1pGaXlxaTJ5YmE5dGt1UUp1Q1habjNSMkh0SXFyazVzZ1l4cnJjV3BZZEtObXhuSXJrbGViSHJ0SDNBYnJBZG4tMWtabFN0WV93QnlCbWVfSnlhQkw0LU5NREc1aXpXbk5hRkVWekVScUdqajh0NUlKQlVuVmlIREhYWFVyUWxVMlk?oc=5",
+     "source": "CairoScene",
+     "time": "",
+     "note": "Abu Dhabi teams build a 13-dialect Arabic benchmark. (via GN)"
+    }
+   ]
+  },
+  {
+   "title": "Inference economy: Stripe-OpenRouter, Higgsfield, GLM-5.3",
+   "signal": 60,
+   "summary": "The inference-economy layer is consolidating: Stripe's ~$7bn OpenRouter acquisition (via TLDR/tbreak), a $5.4bn valuation for AI-video startup Higgsfield (FT), and TLDR's round-up on GLM-5.3 and agent-consensus efforts. Model routing is becoming a payments-adjacent business.",
+   "angle": "Whoever owns model routing and payments may capture the toll on the inference economy.",
+   "items": [
+    {
+     "title": "Stripe OpenRouter acquisition: $7B deal, what it means",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MbGpxNXdlb2RiMXR6N3I4NnM3NUE0eG44cElWOEhfSTk3TVhfNG9kT0pSbUg2SndUbEVuRGNRMlFnUGRmZU5rbWVJQUdtWGducnFUeWRhQUkzQnh6U1E?oc=5",
+     "source": "tbreak.com",
+     "time": "",
+     "note": "Report puts Stripe's OpenRouter deal at ~$7bn — an inference-routing play. (via GN)"
+    },
+    {
+     "title": "Higgsfield valued at $5.4bn as Goldman and Intel back AI video start-up",
+     "url": "https://www.ft.com/content/719c8108-f4ae-466b-80f4-96f26558d642?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "AI video/marketing startup Higgsfield priced at $5.4bn with Goldman and Intel backing."
+    },
+    {
+     "title": "GLM-5.3, Stripe OpenRouter deal, AI agent consensus",
+     "url": "https://tldr.tech/ai/2026-08-17",
+     "source": "TLDR AI",
+     "time": "",
+     "note": "TLDR leads on GLM-5.3, the Stripe-OpenRouter deal and a consensus push on AI agents."
+    }
+   ]
+  }
+ ]
+}

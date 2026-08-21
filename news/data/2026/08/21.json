@@ -1,0 +1,224 @@
+{
+ "date": "2026-08-21",
+ "generated_at": "2026-08-21T02:01:01.618278+00:00",
+ "themes": [
+  {
+   "title": "Anthropic eyes history's biggest IPO",
+   "signal": 78,
+   "summary": "Anthropic tells investors it expects to match or top SpaceX's record-setting public offering, the cleanest signal yet that investor appetite for frontier-lab exposure is running hot. The scale of the deal sets a pricing benchmark for the AI complex and feeds directly into OpenAI's own IPO prospectus and every compute owner's capital plans.",
+   "angle": "The AI boom is now being priced in capital markets, not blog posts.",
+   "items": [
+    {
+     "title": "Anthropic expects to match or top SpaceX IPO",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+     "source": "Bloomberg Technology",
+     "time": "17:56",
+     "note": "Expects to match or beat SpaceX's record IPO, per people familiar; fresh sign of overwhelming investor demand."
+    },
+    {
+     "title": "Anthropic’s Enterprise AI Venture Buys Consultancy",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMWtOUFRTLWtoemREQ09uOVpoQUJPQ2lyUjU2SVpEMEFNNXNoaGs4UWZfeGFING1pcG41VFlEUEx6NWxCNU5pTnFYd0RkNlhYWGJpdUp4d1dxNV9abWZBb3JtZkFwNVhuSE94Z2l3T1hzcFM4YjNGWXpmRHBWLXJQRVV1Y0VRMnlRRHdGV0lDRW1Ndzg?oc=5",
+     "source": "The Information",
+     "time": "13:00",
+     "note": "Enterprise push consolidates by buying a consultancy outright."
+    },
+    {
+     "title": "Frontier AI spend debate pre-IPO",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-20/open-machine-ceo-on-anthropic-openai-ipo-potential-video",
+     "source": "Bloomberg Technology",
+     "time": "21:49",
+     "note": "Open Machine's Allie Miller on how frontier firms divide AI spend, ahead of OpenAI/Anthropic IPOs."
+    }
+   ]
+  },
+  {
+   "title": "China's AI buildout hits the P&L",
+   "signal": 72,
+   "summary": "Alibaba's profit plunged more than 75% as quarterly capital spending jumped to almost $10 billion to hold its AI position; its CEO expects AI-related annual recurring revenue to reach $10 billion by September. The bluntest evidence yet that hyperscale AI is a margin trade, with direct read-across to Gulf sovereigns standing up data centres.",
+   "items": [
+    {
+     "title": "Alibaba profit dives cross 75% on AI spend",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-20/alibaba-profit-dives-75-as-ai-spending-ratchets-up-video",
+     "source": "Bloomberg Technology",
+     "time": "23:55",
+     "note": "Profit down >75% as quarterly capex reached nearly $10bn on AI."
+    },
+    {
+     "title": "Alibaba CEO Expects AI-Related ARR to Reach $10 Billion by September",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ3hfaENCakl5MkdNano5NGp4RHZsZUZoa1ZmX0M4eHlXRjdmRVJEY2tWRE56dE9nNWJtc0hDMHN4cGV0TzN4bE1DZFNtc2Nkb0RKTnY0Njhoc08zcFhfaTBPLUZPZWpEVm5ocGNCYlh1Vk5iNHNRZngyOWtISVB0T3RURkVHN2JIUWNXbTA5ZFJxcFhCOGs0RTgtZmNENjkwR2ZGdQ?oc=5",
+     "source": "The Information",
+     "time": "13:54",
+     "note": "CEO expects AI ARR to reach $10bn by September."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia China chip: export-control standoff",
+   "signal": 74,
+   "summary": "The Information reported Nvidia will ship a China-specific AI chip by year-end; when news wires amplified it, Nvidia denied the rollout is confirmed. The tension is the live economics of export controls against the margin Nvidia forgoes if it sheds a large share of revenue, and hard to overstate for China's reasoning-model push.",
+   "items": [
+    {
+     "title": "Nvidia to ship AI chip for China by year-end",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQem9vSVdrUi1HZjYzdldWNzVfTGduN0tNQkNDODhsV0dnNEl6N0lkYVNPeERFYUhZNVQwTTZOYlNWcFBRTUVEY0pDQzBwdkFxVmlVZ0g0cmZuN21UbUhLeTdva0RNQV9MV19mNHF4aV9Uck40R25CaXFzUkVoVmVWUFhaU0xIX0NrWm9tVlBmWHMwQ1k?oc=5",
+     "source": "SRN News",
+     "time": "19:46",
+     "note": "Reported China-bound AI chip by year-end; carried by Reuters-linked wires."
+    },
+    {
+     "title": "Nvidia Plots China Comeback With New AI Chip",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVnJoWXNySmtCc1N4NzNmZU5pWDB0MlJkQWZMdVJ3UFl4R0IyajFaY05FTFdOU3RnZHN1ZDd2bUJ2RHNrQ3pmQmRTTVp0S0lXS3ozdGRxQWExdWR6WkpOTDRqeURmUGxxZTl0YXp1SG54MDBnMkwwaU12aEZxNHBQeHhvVlF5dw?oc=5",
+     "source": "The Information",
+     "time": "16:58",
+     "note": "The Information's own showing: Nvidia plotting a China comeback chip."
+    },
+    {
+     "title": "Nvidia denies China chip rollout",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
+     "source": "Reuters",
+     "time": "20:16",
+     "note": "Reuters: Nvidia denies a year-end China chip rollout."
+    }
+   ]
+  },
+  {
+   "title": "Dubai goes fully driverless",
+   "signal": 76,
+   "summary": "Uber began running Baidu's fully driverless Apollo Go robots in Dubai, and the emirate's Robotaxi has now logged more than four million kilometres across over 7,600 rider trips. Dubai is the most permissive large-scale AV market a global platform runs in, a signal for everyone in regional mobility, logistics and impact territory.",
+   "items": [
+    {
+     "title": "Uber launches Baidu’s fully driverless Apollo Go vehicles in Dubai",
+     "url": "https://economymiddleeast.com/news/uber-launches-baidus-fully-driverless-apollo-go-vehicles-in-dubai/?utm_source=rss&utm_medium=rss&utm_campaign=uber-launches-baidus-fully-driverless-apollo-go-vehicles-in-dubai",
+     "source": "Economy Middle East",
+     "time": "10:35",
+     "note": "Baidu's driverless Apollo Go goes live on Uber Dubai's fleet."
+    },
+    {
+     "title": "Uber officially launches robotaxi services in Dubai",
+     "url": "https://www.agbi.com/transport/2026/08/uber-officially-launches-robotaxi-services-in-dubai/",
+     "source": "AGBI",
+     "time": "12:14",
+     "note": "Uber confirms fully driverless service in the emirate."
+    },
+    {
+     "title": "Dubai’s autonomous mobility drive gains momentum as Robotaxi crosses 4 million km milestone",
+     "url": "https://economymiddleeast.com/news/dubais-autonomous-mobility-drive-gains-momentum-as-robotaxi-crosses-4-million-km-milestone/?utm_source=rss&utm_medium=rss&utm_campaign=dubais-autonomous-mobility-drive-gains-momentum-as-robotaxi-crosses-4-million-km-milestone",
+     "source": "Economy Middle East",
+     "time": "07:13",
+     "note": "Robotaxi crossed 4m km and 7,613 trips since launch."
+    }
+   ]
+  },
+  {
+   "title": "GCC wires up the AI economy",
+   "signal": 71,
+   "summary": "No single headline, but a coherent regional shift: AI Everything Abu Dhabi frames a push toward $10 trillion in AI-driven enterprises and the world's first AI-native government; a Deloitte/ADGM-backed report argues money-moving AI agents need a new identity layer; Abu Dhabi took Coinbase's tokenised-securities licence; Saudi launched a SAR500,000 cultural-AI incentive and DataVolt wants to export AI compute. Identity, custody and compute are becoming the GCC's competitive envelope.",
+   "items": [
+    {
+     "title": "AI Everything Abu Dhabi: From AI Enterprises Worth $10 Trillion to the World's First AI-Native Government",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObGhOZFJIVU5JUU50cFRIQ3U5ZkVzNEY5a3I4ZlIzazZ3QW9ydkpUTEdXTE4tSEdodEtnSlFGVkw1ZFBhbVRkRFlzTUxaZms1SlhCNzdkbVZXTXJkZzJtZUs5TUNHUkJ0eFh6Q191ano2cDVfTDdTbS10SlYxZGk4MlYxTlp4VlA1cUhTT2RsTlBnOGdsNDl0SEZnQ284dlo3WElGYTN1NEJhYWVZQUVEUkRLZl83UHFtalZYUWJDOEpRN0IzeHpENUtNMTA?oc=5",
+     "source": "The Recursive",
+     "time": "10:13",
+     "note": "Abu Dhabi frames $10tn of AI enterprises and the world's first AI-native government."
+    },
+    {
+     "title": "AI Agents With Wallets Need Their Own ID Layer, Says BGA Report Backed by Deloitte and ADGM",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVVwNms5WUt6YktIUV9PLW8yM1UxNjh1cGsxWUNCdGZNb3BzU2tkZXdINjBkZHo0eEl4MmQ1WEgySjhZejRVemp0RnNLajBuM1NpeGh1Qkx1YjRNMHdydDZuWjhJMjBXdDN3UF9iY2hwY2ZNTm13Tk1hS3N5dllRaS00WnFRSFRpdl9jQXUtRVA0NnhfVHcxRW9xMWZfN1JmSDhkWWhaSmZONFd0ZzRV?oc=5",
+     "source": "eGamers.io",
+     "time": "13:49",
+     "note": "Deloitte/ADGM-backed report wants a dedicated ID layer for AI agents holding wallets."
+    },
+    {
+     "title": "Coinbase secures tokenized securities Abu Dhabi license as GCC market eyes $500B",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pbjRoSjQ1TC00RmxVOUI3aGFjZ0hLbTRlMEI3dURzTThGZkhCSTVzVmhRR1BwZWNMNXRzd3JMQTRyXzlEcE9lMkZzb1dULWZ6Zy00cjFjam1wVHRLWDUxZ3NZWVJvNEUxaXpBV3VoSXJtS1JZZnEyaw?oc=5",
+     "source": "The Cryptonomist",
+     "time": "07:39",
+     "note": "Abu Dhabi tokenised-securities licence; GCC tokenised market reportedly $500B."
+    },
+    {
+     "title": "Saudi Arabia bets on exporting computing, AI to the world: DataVolt",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yVTVBWEEzVVJGOGt5eDlWbkFaRGZ5MGN6ZWJCS3IzemVQOFA4eXhQVEU1dDlqMlhzbWpvTG1ua0ZxNmlOelkzZjk0OFQ3WTRlc0JYV3V4WHBvSnlZWlpSRQ?oc=5",
+     "source": "arabnews.jp",
+     "time": "04:08",
+     "note": "DataVolt: Saudi positioning as an exporter of AI compute."
+    },
+    {
+     "title": "Saudi Arabia launches SAR500,000 AI incentive for cultural businesses",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckNtcWl3LWNDS29tXzFGTzQ2Vmp3S2ctOTg2eE9sTVluYlA5WHVJX3VPaFNzdE1NT2VuU2xyckpPY2dWRjFJUEZRTko2Uy1sbVBIaEJQZ2NiUWgzSlNIZVRJd25aQXh5blpXVnhhZE1wLTJVcmo2WEJXbFQzQnRpYklZelRxYWhVZXdfQkVRa1RJbkQ3cTE3QjJSZExRVEdodGc?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "04:27",
+     "note": "Saudi adds a 500k-riyal AI incentive for cultural businesses."
+    }
+   ]
+  },
+  {
+   "title": "Humanoid robotics: GPT-2 era",
+   "signal": 67,
+   "summary": "Agility Robotics says it is heading to a public listing at a $2.5 billion pre-money valuation as the only pure-play US humanoid maker; The Information likens humanoids to a GPT-2-stage inflection; and the FT asks who is actually buying China's robots, answering with government-backed centres that sell training data back. Capability is real; a broad commercial market is not yet.",
+   "items": [
+    {
+     "title": "Agility Robotics CEO on Plans To Go Public, China Rivals",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-20/agility-robotics-ceo-on-plans-to-go-public-china-rivals-video",
+     "source": "Bloomberg Technology",
+     "time": "20:56",
+     "note": "Public listing planned; pure-play US humanoid at $2.5bn pre-money."
+    },
+    {
+     "title": "Robots Are in Their GPT-2 Era",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2WkluSl9DX3hWd1pLREZRREdyUzFZUllsYUkyR2hYZkFZdEJyd0VZWlBEcjhTZmNtVU0wSE1VR2tXVS1xdEQ5YzdHYUlHcDF2ODFoZVJBRkdnU2s5WGg0cW1iaGd4WWdHUFEyWDg3NHViNldaaVdmMg?oc=5",
+     "source": "The Information",
+     "time": "14:00",
+     "note": "Humanoids at a GPT-2-style moment: early stage, large upside."
+    },
+    {
+     "title": "Who is really buying China’s humanoid robots?",
+     "url": "https://www.ft.com/content/26735a23-315f-47ef-8cf2-6c6ea9713998?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "02:00",
+     "note": "Chinese robots sell to government-backed data-sharing centres."
+    },
+    {
+     "title": "Generalist AI GEN-1.5: Robot Model Learns Tasks From a Single Demo",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WS1RnbDlYQmh3VUpvQko0eVhuNV95Y3ZzV1hMMFdNNE4yX2FTUmxpUlBRQzN4N09Tb2JhRjNpLVRCS1djN000dEZ5eHJDdkt2TDlQOFNXdVpGdGJQdkY2elJrd25ubWd0d3l0MHR1ZnFnQQ?oc=5",
+     "source": "tbreak.com",
+     "time": "12:16",
+     "note": "Model can learn robot tasks they see from a single demo."
+    }
+   ]
+  },
+  {
+   "title": "Inference cost reshapes enterprise AI",
+   "signal": 64,
+   "summary": "Two counter-indicators to the crowded market AI: AT&T is shifting to open-weight models to cut Anthropic inference bills, while Stripe's buy of OpenRouter bets a middleman routing layer still pays in an agentic economy; AWS published enterprise agentic patterns that avoid vendor lock-in. Cost discipline and moats tighten as agents scale.",
+   "items": [
+    {
+     "title": "AT&T is Using Open Source Models to Curb Anthropic Bills",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaVluMG0tVWh3QWJIb20xcVhrQ19jT3Q0Vm82aFlWRzNQQmhNa3hDWml5RHAyWC1yRFpqTEEzVWlBNzNNY0JJRktacmZSbkJTRnN5TWJoeURTYldfN1ZINlkyNGNJNXBLSk96OVc0ODkzLWZzMXFhN01DWi15aFlEbE0xZ0xXd0JaOWF6WDk1WGktR3ZZc0t4bHVFV3gtY2REMTl3?oc=5",
+     "source": "The Information",
+     "time": "18:55",
+     "note": "AT&T moves to open weights to curb Anthropic inference spend."
+    },
+    {
+     "title": "Stripe bets that an AI world still needs middlemen",
+     "url": "https://www.ft.com/content/b536b114-8a82-41ef-8e44-42df0716dd03?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:07",
+     "note": "Stripe buy of OpenRouter assumes AI still needs middlemen."
+    },
+    {
+     "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa3YzNnc5Sjd2N2ZOR0k2YUQ5QWlZaTY2d1hicG9aSUx4MkJIY0JzQUhWQnhCN0dOZjJNX1BNOC1ZRlVSUXF0SlZyeVNaN1o5c3VfdkpyWFBjY2VyaXZ1cjhXVVRBVkE5X3hKR2FHN0l5S2tqRTVlQk9GOWwwSjRTYjkwMHloQnFfQ09qaHZOZXJXUzZIZmR5RThLRzd6Ymk0ODhKemlJRFg2LVla?oc=5",
+     "source": "Amazon Web Services (AWS)",
+     "time": "16:24",
+     "note": "AWS documents enterprise agentic patterns with no lock-in."
+    },
+    {
+     "title": "Nvidia to Reportedly Pay $6 Billion in Licensing and Hiring Deal with AI Model Startup Poolside",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQUpDTFlYZVdIOGhzZDRIbXJZX3ZHcGtmdFFFZEw4UVBKR1lTbEt3X2h5bmtIMFAtMXhUalltY0JGaHloUG9DY3ZFZnV2N0pqQ1o2d0llMjZjNG01N2VxQlczenl0d2xqUUtyT2tYdDFMS3M0OWRDQlVMV2RhM2w0cmpkcDBTRGQxSllPckswQ3lRUVNzdXo0OWo2aEhkNHlVZnpIY1dJcmJqazZYejlvVC1oOUI4dk9WeWd3Ng?oc=5",
+     "source": "The Information",
+     "time": "20:35",
+     "note": "Nvidia reportedly near $6bn hiring-and-licensing deal with startup Poolside."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,174 @@
+{
+ "date": "2026-08-22",
+ "generated_at": "2026-08-22T02:01:08.528124+00:00",
+ "themes": [
+  {
+   "title": "Anthropic turns toward in-house silicon",
+   "signal": 82,
+   "summary": "Anthropic hired Amir Salek, who founded Google's custom chip program, laying groundwork for the lab to design its own semiconductors. The move signals frontier labs moving beyond reliance on Nvidia and pursuing vertical integration on hardware, not just models.",
+   "angle": "The model war is becoming a silicon war - frontier labs no longer trust the commodity supply chain.",
+   "items": [
+    {
+     "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+     "source": "Bloomberg",
+     "time": "19:59",
+     "note": "Amir Salek founded Google's custom TPU chip program before joining Anthropic."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia consolidates the AI stack",
+   "signal": 80,
+   "summary": "Nvidia is reportedly closing a $6 billion licensing-and-hiring deal with model startup Poolside, and separately negotiating land and electricity deals to lock in its hardware bundle. Both moves extend Nvidia's grip beyond chips into model IP and data-center siting.",
+   "angle": "Nvidia is buying both model talent and kilowatts - the platform pull widens.",
+   "items": [
+    {
+     "title": "Nvidia to Reportedly Pay $6 Billion in Licensing and Hiring Deal with AI Model Startup Poolside",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQUpDTFlYZVdIOGhzZDRIbXJZX3ZHcGtmdFFFZEw4UVBKR1lTbEt3X2h5bmtIMFAtMXhUalltY0JGaHloUG9DY3ZFZnV2N0pqQ1o2d0llMjZjNG01N2VxQlczenl0d2xqUUtyT2tYdDFMS3M0OWRDQlVMV2RhM2w0cmpkcDBTRGQxSllPckswQ3lRUVNzdXo0OWo2aEhkNHlVZnpIY1dJcmJqazZYejlvVC1oOUI4dk9WeWd3Ng?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Reported $6B deal spans model licensing and hiring."
+    },
+    {
+     "title": "Nvidia is Using Land and Electricity Deals to Lock In Its Hardware Bundle",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1o2TlhvUU5lSmlKU2xTYUdBTElPZ1czeHI4bi1pRG82enFqVUFyMUR4c1ZhWFRnNExBUk0tTnFnM3ppdEZna29MYjRGUW5pZm9WLTVhVjJubGNHamJrQXdFOVNyMWJXUndQSUNyNG5Ib0RpdENodGJyT1FaVWhLc3c0dEJRVXdaaEhwM1dQM0wtcnV4alJRUUZsc29TUFhocUtJakFDOWwxSV94eU5ZaU5vdWt1NE45?oc=5",
+     "source": "The Information",
+     "time": "21:40",
+     "note": "Nvidia negotiating land and power deals to tether customers to its bundled hardware."
+    },
+    {
+     "title": "Nvidia denies report it is rolling out China AI chip by year-end",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5",
+     "source": "Reuters",
+     "time": "",
+     "note": "Reuters reports Nvidia pushed back on claims of a China AI chip launch this year."
+    }
+   ]
+  },
+  {
+   "title": "AI regulation collides with automated decisions",
+   "signal": 74,
+   "summary": "Uber faces an EUR 825 million Dutch fine for automating driver account suspensions without adequate notice, the clearest test yet of algorithmic-decision rules in Europe. Separately, TikTok agreed to a $400 million DOJ settlement over children's data, keeping AI-adjacent platform accountability in the news.",
+   "angle": "Automated decisions now carry hard regulatory price tags - compliance is a board issue, not an engineering one.",
+   "items": [
+    {
+     "title": "Uber set for EUR 825mn Dutch fine over automating driver suspensions",
+     "url": "https://www.ft.com/content/6a068501-ec65-4061-9716-49c4124025d6?syn-25a6b1a6=1",
+     "source": "Financial Times",
+     "time": "",
+     "note": "Dutch regulator says Uber deactivated drivers via automated systems without adequate information."
+    },
+    {
+     "title": "TikTok to Pay $400 Million to Settle DOJ Child Privacy Case",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/tiktok-to-pay-400-million-to-settle-doj-child-privacy-case",
+     "source": "Bloomberg",
+     "time": "20:02",
+     "note": "TikTok and ByteDance settle a Justice Department suit on children's data under a privacy law."
+    }
+   ]
+  },
+  {
+   "title": "Washington's AI power debate turns political",
+   "signal": 70,
+   "summary": "Make America Healthy Again figures wrote a joint letter warning Trump that data centers should not justify burning more coal, clashing with coal-friendly signals from his administration. Axios ties the fight to a historic capital crunch where trillions in AI buildout meet a $40 trillion US debt burden.",
+   "angle": "The AI buildout is now a fiscal and energy-politics story, not just a tech one.",
+   "items": [
+    {
+     "title": "MAHA warns Trump against coal-powered AI data centers",
+     "url": "https://www.axios.com/2026/08/21/ai-data-centers-coal-trump-rfk-maga-warning",
+     "source": "Axios",
+     "time": "",
+     "note": "Joint letter argues data centers should not justify more coal burning."
+    },
+    {
+     "title": "America's capital crunch: Soaring debt collides with AI spending spree",
+     "url": "https://www.axios.com/2026/08/21/national-debt-deficit-ai-spending",
+     "source": "Axios",
+     "time": "",
+     "note": "Axios frames tens of trillions in AI capex against legacy debt."
+    }
+   ]
+  },
+  {
+   "title": "Amazon readies its own frontier model",
+   "signal": 66,
+   "summary": "Amazon's already large AI effort is reportedly on the verge of fielding a new large model codenamed Olympus, per Rundown. A self-built frontier model would reduce Amazon's dependence on external labs and sharpen its enterprise AI story.",
+   "angle": "Amazon closing its model gap changes the enterprise procurement math.",
+   "items": [
+    {
+     "title": "Amazon's new AI model, codenamed 'Olympus'",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55ZDRfbktzUGx4b3RyaVZCcXYzVjg2QXJaRHVtQlRyczBBTVI4QWlUVlR6Tldld2NlWHo5VHhuY3ZXeTJwMjlDRDR4eUp0TXZFcEU0azVxYWt1bzI0UTdFZDZpUVBib3RLMzdEeEpwdWFFSVVCZHp3RHI3dnU?oc=5",
+     "source": "The Rundown AI",
+     "time": "",
+     "note": "Codename Olympus reported for a new Amazon large model."
+    }
+   ]
+  },
+  {
+   "title": "GCC: Saudi AI momentum and Gulf infrastructure",
+   "signal": 64,
+   "summary": "Saudi Arabia's PIF is reported to have reached $900 billion in assets under management, and local maker HUMAIN teased a Saudi AI laptop designed around intent rather than apps. Separately, Saudi awarded battery-storage contracts (2,000MW, SAR4.4bn) and Qatar Airways finished Starlink rollout on 150 widebodies.",
+   "angle": "Gulf AI is moving past pilots into sovereign compute, hardware and energy real assets.",
+   "items": [
+    {
+     "title": "The Saudi PIF fund reaches 900 billion in assets under management",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcVBKOUdsN1VkUEJFQ2JTN2VvREpjNjdvR25kcDROZlJhRi1YQ1YwRUVhMF9VOFhkRUJWcG1Hd1dvdGdSUWxUS3BmRWhqOXU2OGw3U1hMWmRIT3g3d1lqR2t1cVJUOTZocWhobWd1R1FmUTR4UkRLZWdnT1RVQUNqNUdRU3JBeURFNHdXLWk2T2hHUHIwVTZ6d1Mwd2NWb2lQUDlSWW5Vaw?oc=5",
+     "source": "Il Sole 24 ORE",
+     "time": "",
+     "note": "PIF reported at ~$900B in assets under management."
+    },
+    {
+     "title": "Saudi Arabia's HUMAIN teases new AI laptop designed to replace apps with 'intent'",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsTTZZbDV2aEZINm8zakRGck5MWXVzZkV5VnRoSWpLeFhHWkFsNlpDTDJQNlZvM3ZUYi1GWTJ1c1dtOHhvRkNDSXc4U0NXajI2LXlkLUsxSmdaYUl5NVNPdnl1WWExYTkwS1plNEw2Q0VEbFA2X2Fqd2dwQ003WWs?oc=5",
+     "source": "Arabian Business",
+     "time": "",
+     "note": "Saudi electronics brand HUMAIN teased an intent-driven AI laptop."
+    },
+    {
+     "title": "Saudi Arabia awards contracts for battery energy storage",
+     "url": "https://www.agbi.com/renewable-energy/2026/08/saudi-arabia-awards-contracts-for-battery-energy-storage/",
+     "source": "AGBI",
+     "time": "",
+     "note": "Four projects totaling 2,000MW with 4-hour storage, SAR4.4bn investment."
+    },
+    {
+     "title": "Qatar Airways becomes first airline globally to operate Starlink-equipped Boeing 787-9 aircraft",
+     "url": "https://economymiddleeast.com/news/qatar-airways-becomes-first-airline-globally-to-operate-starlink-equipped-boeing-787-9-aircraft/",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "Starlink now on 150 Qatar widebodies in under seven months."
+    }
+   ]
+  },
+  {
+   "title": "Beyond the frontier: science, games, capital",
+   "signal": 50,
+   "summary": "Khosla Ventures backed AI-for-science startup Discovery Loop founded by former Google leaders including Jeff Dean; SpaceX is hiring a trader to build a natural-gas trading team for its energy needs; Google DeepMind flagged a decade-plus of gaming AI research. A backdrop of scattered, high-signal capital moves.",
+   "angle": "AI capital is rotating into science startups and energy logistics as the agent layer matures.",
+   "items": [
+    {
+     "title": "Khosla Ventures Bets on AI's Next Frontier: Science",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-21/khosla-ventures-bets-on-ai-s-next-frontier-science-video",
+     "source": "Bloomberg",
+     "time": "",
+     "note": "Backing Discovery Loop, co-founded by ex-Google leaders including Jeff Dean."
+    },
+    {
+     "title": "SpaceX Is Hiring in Natural Gas Trading for Energy Needs",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-21/spacex-is-hiring-for-natural-gas-trading-to-support-energy-needs",
+     "source": "Bloomberg",
+     "time": "",
+     "note": "SpaceX building an in-house gas trading desk for fuel and power."
+    },
+    {
+     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+     "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+     "source": "Google DeepMind",
+     "time": "",
+     "note": "DeepMind partnering with studios to prototype breakthrough gameplay AI."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "date": "2026-08-23",
+ "generated_at": "2026-08-23T02:00:13.884970+00:00",
+ "themes": [
+  {
+   "title": "UAE-US launch world's first bilateral military AI task force",
+   "signal": 75,
+   "summary": "The UAE and the US are standing up the first joint military AI task force, after years of shared work on AI-related defence technology. The move turns the UAE from a buyer of AI capability into a co-developer of it alongside Washington.",
+   "angle": "The UAE is now a co-developer of US military AI - sovereign AI policy is defence policy.",
+   "items": [
+    {
+     "title": "UAE and US to launch world’s first bilateral military AI task force - Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT09icnpTeVFPU3JRSl8tNGxxLUxic3p4cExmbDJKTFlFZ0dZVHBWOVRmVGFYQ1JrRC14VFRiMXRLMWJ5NmFzSXE5SzhkcWNSUkZvQ3k1UlJjWkIwblZzYUdFbTltMmdQdHlibThsWklsaVdtNmRfU284Q1phbk56QldVNEVxLW1kSUVVc2ZDelFmbi1FVTB6RUZ5VXVPVGYwMkdQbG5R0gG2AUFVX3lxTE9SMkpJR3hGeFhXRE9mN203SlVjLWc1MzJFYTNlRG5xS1FDbnVQNE0wbnBpZzBzVEVJR0tJMm5JOUZrSkJiVHFSTzN6LWtvdHJaVS1uZlptYzJYNUtnVTVUV1dqdWU0bHdrb0pvdXZiRlZKMlF3eFpXeWVENWFkUDBoZUhDWldvbkFqYzNsX2NfbDV5UlZ3MllyYk5KRDdBd09xN1BPbUlWVWc0X2Yzd29MUnRyY2hR?oc=5",
+     "source": "Gulf News",
+     "time": "12:46",
+     "note": "Launch confirmed by UAE and US; billed as world first."
+    },
+    {
+     "title": "UAE-US military AI task force launches after years of joint technology testing - Khaleej Times",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXFjQWlDeUhSX0xJYVNzYUdaTHphakFEbTNzdGpZYjNRNUx0OEk3Vmc3Q081c01UZjJzTTBxaXVLa00zc3BzaTZETFlGWC1scy1QX1ZubDZWb1dVMUdXdldoT0lyQXI1dUx2NUNjWUxEaWswWVptVC1NVElBWUFERFN6dHdNQmdKUm9WQ9IBlAFBVV95cUxNelVDbUpqMUozNnc3ZnFLeVRqUVp2OVdaQTZRc01mYlA3aFRFYTNVUDA2Mk9aTTlBUHY2Nk01UThvbjlmMHNYRzZWTkg0amRfTlkwdXk0OUhlbkJwdkNhZlMyOWJQd1FIUm83dUxZS3BnbVRtSG1xMVh2M2szVVcwRXJhTjk2bmNQMVhjWGxubTM3bzdx?oc=5",
+     "source": "Khaleej Times",
+     "time": "11:16",
+     "note": "Corroborates; adds that it follows years of joint technology testing."
+    },
+    {
+     "title": "UAE, US to launch world’s first joint military AI task force - The Filipino Times",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0s4TVdfN2YzR2xmR19iQ0hGZTlyVjJBZWk5RFowR3NqS2t1VXhtU2g1THh0Si13VV9RVUxMSzJ2dVZFQXNyV0RxUlEyZUlwdzVUMzJpTGZMVGxESTl1MS1iSlNxQmFUTV9xTHhvUFlldnBoTWVoNW1VQTdEVU1uNmFXN1M3NXlBRkFTUV9tMXpHeDh0dzRmV1pJS0YwRzR0NDdzblRhZW9LUEtt?oc=5",
+     "source": "The Filipino Times",
+     "time": "13:10",
+     "note": "Third regional outlet carrying the same announcement."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia server prices up ~17% as memory costs soar",
+   "signal": 68,
+   "summary": "Server makers are telling Nvidia customers that AI server prices are rising more than 15%, with The Information putting the number near 17%, driven by soaring memory-chip costs. The increase lands directly in enterprise and sovereign AI capex plans.",
+   "angle": "Memory-driven price hikes hit every AI capex model; GCC sovereign builds get squeezed too.",
+   "items": [
+    {
+     "title": "Nvidia AI Chip Prices to Rise About 17%, Server Makers Tell Customers - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmlDcnZreWZ0YUFKbUQwc1FmcUwxVTlyd20tTEM4SU1MUEcwdGNkS0Iyd2hyZC1idC1QaTJUc1l5a0ZQbUx5NklpY3FfdUN2WUFJTWVvcjdUcGsydUYzUUQyUjY0ai1adE5sVG5EbDdCSi1ReXRIamhQTnlZQTBIejBVd0hBOHlxaHFXNGRpUjJpZHVYR2NXbXpjYmpBemM?oc=5",
+     "source": "The Information",
+     "time": "23:45",
+     "note": "Reports ~17% price rise flagged to customers by server makers."
+    },
+    {
+     "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+     "source": "Bloomberg Technology",
+     "time": "18:42",
+     "note": "Confirms >15% hike with memory chip costs soaring."
+    },
+    {
+     "title": "Nvidia customers notified of AI-related price rises above 15% - South China Morning Post",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTVLejFuTnp5OEVQdGQwc0ktakVzMmNHa3pXUnRESENWOGJLaG1RSl9FSHdpQzJCZjlZTjJzZ0VTR05CZ2FMbGpWcGRFZHpJTVZBTEc0Zy0ydGx5alprdmdFTDc1Q0dEQWVIdFFLZjVsRFdYd2VJM0c4WXg4TXhrS3E5X3NoRm1FNXg1bzk3SnMxRG9PVHhWQUxVTDIxVUR5WHN3N0hzajJod2Zp0gGsAUFVX3lxTE9lNUt6MW5Oenk4RVB0ZDBzSS1qRXMyY0dreldSdERIQ1Y4YktobVFKX0VId2lDMkJmOVlOMnNnRVNHTkJnYUxsalZwZEVkeklNVkFMRzRnLTJ0bHlqWmt2Z0VMNzVDR0RBZUh0UUtmNWxEV1h3ZUkzRzhZeDhNeGtLcTlfc2hGbUU1eDVvOTdKczFEb09UeFZBTFVMMjFVRHlYc3c3SHNqMmh3Zmk?oc=5",
+     "source": "South China Morning Post",
+     "time": "21:54",
+     "note": "Same story carried in Asia; SCMP context."
+    }
+   ]
+  },
+  {
+   "title": "Gulf pours billions into water, 6G and bank AI buildout",
+   "signal": 58,
+   "summary": "Gulf capital is moving into the plumbing that AI needs: billions for water security to support data centres and industry, an AI-native 6G vision for autonomous telecom, and an Abu Dhabi bank naming its first AI head. MENA startups are also drawing fresh growth capital.",
+   "angle": "Gulf AI ambition is becoming a utility-scale infrastructure story.",
+   "items": [
+    {
+     "title": "Gulf pours billions into water security to boost AI and industry ambitions - thenationalnews.com",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU1VjU0tlWFpHeWdDNjQwcTR5OVlrTDY0MGYwRnR3dFY3OE5YeWxyM1llOEZCUVZPU3lfQU10cl9mN1FSMzZoM3Y5Ty12cmg1dHpfb0RVUkwyQmhRQlMtZ3cxcWxRRE50VXF2UnJsU0dJWmZIeWQ1WG1pRVYzRzBmQ2ZlbUVmOTZIaTJnTEdDRmdoMEpScF95Wk9KeHJESlA1aDNJZDBWQWhHU0xzSUVGTV93ZmYwNU5fQ19vTlY3aThjVjA4aU5sWFljQU41T0k?oc=5",
+     "source": "thenationalnews.com",
+     "time": "04:24",
+     "note": "Billions earmarked for water security explicitly tied to AI and industrial ambitions."
+    },
+    {
+     "title": "UAE's vision for AI-native 6G: The shift to autonomous, predictive telecom infrastructure - theweek.in",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdm9yOWlWUFN2czZCdzhvNnAyRm1lR0ZrMDNveGZmYTVWYUpLNktDdVdTQzF1MGRuZkZzWWJaNnhrYmJsQkk2aGxrNllwdU1wSlJTZDBvYXgzb25VZEVKR09JVUw2ZlVOTUpiOUFQVTNWWDJHWmlIYm1MRVNvY2JSS3RueHItd9IBiwFBVV95cUxOUnJNVUZNSlY3dW1XelpjOTJoTU1uV3RiRXBwS0x3V1pwb3otaDhrSm9rRWhWeGtMYmFmcUFjUXRMM3NDSEtnT0Z6TVR0Q3hxbjZkMnBTOEc2Z1cySEdEOW1CcDJmUWFQRlRUcEFFaGQyUU5MeTFTU3JYYWZWOUVCSXB0a2l2cEtDbGt3?oc=5",
+     "source": "theweek.in",
+     "time": "17:57",
+     "note": "UAE pushing autonomous, predictive telecom infrastructure as the 6G standard."
+    },
+    {
+     "title": "Abu Dhabi Islamic Bank names new AI head - TradeArabia",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSlV2Y2N4NVQ0TGIwRXlXc1VtcG9pR2NhSTNtdXRvWVZTRTRKLUdJNHkwYThvdXFZcUVLOG1YYnZta0s4Z2lFbUVtY3dhczFucDhGVVp2WHpDUjBLejh0NnVVVFVlRkdGdFNDYkxxREZWczJNQTlLVk55QllEdTFONnVwWFpmZTA?oc=5",
+     "source": "TradeArabia",
+     "time": "11:46",
+     "note": "ADIB creating a dedicated AI leadership post."
+    },
+    {
+     "title": "Startup Wrap: MENA founders secure millions as new growth capital enters the market - Arab News PK",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jYkpNdE54RV9ldk1nakJxV25BWVlDdHR3YXlMSUFCT1VJT2xZcTB0MzdwZmhfdUduMTludUZxc2ZremdOQUpRZms3TWQ0Z3d5dFVnREdnemxNQWZKQ2ZuaUQ4TQ?oc=5",
+     "source": "Arab News PK",
+     "time": "10:24",
+     "note": "Roundup of new growth capital entering MENA."
+    },
+    {
+     "title": "Robo.ai Inc. Announces Appointment of Wang Hao, Senior Executive Officer of UAE Independent Digital Asset Custodian Changer.ae, as Independent Director - Sahm",
+     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPRkF2VHc4Uk10RkFvRXRuNXNaSGdDM3I4TWpCWnM0OFBTLUUyWjZ1VWlBdXVvWEtScFJjVWtCMVAxT0trZlNLRUlyLThRMHpmMHpBdTVLb1ByUTJqNTdfY0dvcFVjOWxtZkRadDh3WGJxcWFVUnBJVkJFZV9kWG94X0F4XzBRMV9rQ3RhemVxRnZHV2ZHaDBHLXowbFhHeF9aRXU1UlJRckU4ZXBnTUNPbFMtb0RzWlBCUkU4MGRXU0ZRdWtrX3dORWU4cVQ1U0N1bnFfeDk2VzFjUUxUUWs5Z3U0RThka1JtM0ZpdHh3a3YzQW9ENzdIQUVnWjlWQ2JIUVN5TkRTMGw4Uk44NzllNVZNQXBJbnFuQ3NUMV9WbUE4MkZ0?oc=5",
+     "source": "Sahm",
+     "time": "10:28",
+     "note": "Robo.ai adds Changer.ae exec Wang Hao as independent director."
+    }
+   ]
+  },
+  {
+   "title": "Enterprise AI: open models, agentic SDLC, hardware lock-in",
+   "signal": 46,
+   "summary": "Enterprise adoption is maturing along three tracks: AT&T going half-in on open-weights models, OpenAI adding business users faster than Anthropic, and McKinsey arguing agentic wins come from redesigning the product-development system, not adding tools. Nvidia is meanwhile locking in the stack with land and power deals.",
+   "angle": "Open weights entered the enterprise boardroom.",
+   "items": [
+    {
+     "title": "Aug 21, 2026 😺 AT&T Is Going Half In On Open Models PLUS: How Claude allegedly lost $31K",
+     "url": "https://www.theneurondaily.com/p/at-t-is-going-half-in-on-open-models",
+     "source": "The Neuron",
+     "time": "",
+     "note": "AT&T committing roughly half its AI work to open-weights models."
+    },
+    {
+     "title": "OpenAI Is Adding Business Users Faster Than Anthropic. That May Matter More Than Valuation - inc.com",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ2hVS3doNVlVVGdCeEQ0UnM1R0dhTGdXX2hxZ2xodVdONkk1TXZCNXVUUF9TRER1MFQ5RERTd0JNbHc5cnVXZ0tOUWx2Nlo2Y0duOVJQRVQ3WkQzWHRLUFdBMDFMNm5zTkJWVGRsQjh6NlQwbXlTTkFvUU9ZcW5kOGRudDZRU3luUUdPR3BaREpaQ3oxZzFrZ3dJWF81NVRRWjNLekhoS2s0TmI5VWFMcnpCemJwRUdSSkozeVNpcF8xcmhsbXZvM2tlTQ?oc=5",
+     "source": "inc.com",
+     "time": "01:28",
+     "note": "OpenAI's enterprise-seat growth outpacing Anthropic's."
+    },
+    {
+     "title": "Beyond the copilot: Scaling the agentic product development life cycle",
+     "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/beyond-the-copilot-scaling-the-agentic-product-development-life-cycle",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "",
+     "note": "McKinsey: impact comes from redesigning the dev system, not deploying tools."
+    },
+    {
+     "title": "Nvidia is Using Land and Electricity Deals to Lock In Its Hardware Bundle - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT1o2TlhvUU5lSmlKU2xTYUdBTElPZ1czeHI4bi1pRG82enFqVUFyMUR4c1ZhWFRnNExBUk0tTnFnM3ppdEZna29MYjRGUW5pZm9WLTVhVjJubGNHamJrQXdFOVNyMWJXUndQSUNyNG5Ib0RpdENodGJyT1FaVWhLc3c0dEJRVXdaaEhwM1dQM0wtcnV4alJRUUZsc29TUFhocUtJakFDOWwxSV94eU5ZaU5vdWt1NE45?oc=5",
+     "source": "The Information",
+     "time": "21:40",
+     "note": "Nvidia bundling land and power deals with its hardware stack."
+    }
+   ]
+  },
+  {
+   "title": "China's robot games: 666 teams, 2,000 humanoids",
+   "signal": 36,
+   "summary": "Beijing's humanoid robot games opened with 666 teams and more than 2,000 robots, and the FT notes policymakers have made robotics a strategic priority. Beijing treats the humanoid supply chain as a national project.",
+   "angle": "Beijing treats robotics as strategic priority - the humanoid supply chain is China's.",
+   "items": [
+    {
+     "title": "Scenes From the 2026 Beijing World Humanoid Robot Games",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-22/scenes-from-the-2026-beijing-world-humanoid-robot-games-video",
+     "source": "Bloomberg Technology",
+     "time": "19:12",
+     "note": "666 teams, 2,000+ humanoid robots competing."
+    },
+    {
+     "title": "China’s robots rock, box and mix drinks. Can they outperform humans?",
+     "url": "https://www.ft.com/content/e16ded89-b618-4952-a0ab-96ef11d06582?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:41",
+     "note": "Policymakers have made robotics a 'strategic priority'."
+    },
+    {
+     "title": "Billionaire Stanley Druckenmiller Just Sold Some Sandisk Stock and Bought These 3 Unstoppable Artificial Intelligence (AI) Stocks - The Motley Fool",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUtZNE1zWVpsM25BUHhSTEdiQmFObkJSNWxpd0d3andIWVlZNG9kNTBwenpsUlZoenJKNGM1M1U2OGswU25JVlJCbVFkd0JiVnBaMzlOZUVGSWNzbi04YVhzX1BybjVLdkRmb0hiWGhWc29JNFhvUHpGNHh2Uy1iamtKcGF5TlZqWnlfQlNUMWN6aXZzTzNpaw?oc=5",
+     "source": "The Motley Fool",
+     "time": "20:44",
+     "note": "Druckenmiller adding to three AI names."
+    }
+   ]
+  },
+  {
+   "title": "AI compresses wages before it cuts jobs",
+   "signal": 33,
+   "summary": "Apollo's Torsten Slok finds AI adoption is weighing on pay without yet cutting headcount - the leading indicator for AI's labour impact may be wage growth, not layoffs. Supporting signals: skills demand is shifting and one US university now runs the country's only undergrad AI degree.",
+   "angle": "Execs should watch wage compression as the leading indicator of AI's labour impact.",
+   "items": [
+    {
+     "title": "Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-22/apollo-s-slok-says-ai-weighs-on-pay-without-cutting-jobs-yet",
+     "source": "Bloomberg Technology",
+     "time": "12:00",
+     "note": "Slok: AI adoption weighs on pay, no job cuts yet."
+    },
+    {
+     "title": "Francisco Tonarely Highlights the Human Skills That Matter in an AI Workplace - Digital Journal",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMzdwUy1PMVY2RHY1WHlyQlJNSlY1TEo0dnpRZExnN2M0anQ5LWVGTU1YajBzMVdZT1VpYk4xNFBfc1g0TGNxY04wUmZ5aE1DNzNWWmFPNEd5QXI2b0pvZy1LWDQ5amtNM1dWMUlzVzNuc3JhY0Z6aVlrMGhZY2ZrODlldEZWVU4tYjZmSFFSOUFWeXo4Y1pvUmN6ZkNuTDhGZmRsWmdYYUIzVUlEU2tDTTJYQ2JBeVE?oc=5",
+     "source": "Digital Journal",
+     "time": "14:07",
+     "note": "Argument that human skills become the scarce input in AI workplaces."
+    },
+    {
+     "title": "UT Knoxville is now home to the only undergraduate artificial intelligence program in the country - WBIR",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWFExSHNhY3RTd1ptekFIbEd4WWtPbXZRdzVHMFRteHI2NVRvTFN4NXNsMG5GcHRaZjQ2OTU4R3ZUWk9FN0w0dm5VMHNPTk5fNmoyYWNDdmdwM09rb1JRRnB0S1pfZUFaWFFHc3FVZXZRX3YtQUNiYVBqZEIzeWxnNWNGRkRsYVJIZURrV1E0Y2NPRm9YaHYzWUJhU3FDd216V0VZVmdfbksxdnV4MVlBbEROWjMxN2JjWG5TR2pxam41Mk5OZWtZTjhvZmhBZjJ0aWdpRU1yMG9tbmJTUm5oVG8zQ1MtbThoYTNSeTE1RGw5QWdyQlIxLV9ld0FuYk1aVWdHZURHb1puRlU?oc=5",
+     "source": "WBIR",
+     "time": "00:24",
+     "note": "UT Knoxville claims the US's only dedicated undergrad AI program."
+    }
+   ]
+  },
+  {
+   "title": "Hype check: AI ethics, privacy and cancer skepticism",
+   "signal": 16,
+   "summary": "A counter-current of sober takes: scientists doubt AI will cure cancer soon, the Pope told legislators AI must serve the common good, and commentators push on digital privacy and ethics in the AI era. Useful calibration for boards facing frontier-lab hype.",
+   "angle": "Sober counter-programming to frontier-lab hype.",
+   "items": [
+    {
+     "title": "No, AI Probably Won’t Cure Cancer Anytime Soon, Scientists Say - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2tzSWJybmU5OW55VUItak1yM3FFQVZTQXR0bjMxWlEzM2JaVnJ2Zk1JN1hNdXRWT1BvRE10eURuVWc0OWhON1ZpQ0Y2V09BUnVqY085c0p6Y01rTGdzRThmbjhXWUFKNENhV3FTVjAyVHdmYzJPVzRCUloyd09uNTBlVDVCRXNyQjFQUzl3SXUxbk12cnc?oc=5",
+     "source": "The Information",
+     "time": "14:17",
+     "note": "Scientists push back on AI-cures-cancer expectations."
+    },
+    {
+     "title": "Protecting Digital Privacy In The Artificial Intelligence Era - Forbes",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTEd1NlJoVkNQRGJLcXlzaVZNTWhFa3h0NUhnU0FaZnppeHVwR19yNEc0X3FBVEY4UnZqRDRtUU40Mm84bjdQTnBfVVQ2SGs5ZlJRcDduOTNITzVRQi1SRHdSSlNzQ0NSYk1USldvaHBmWEswU0RQRjFPN2VHZjUydFZScnp5N25JUDBNMzFKR2g5OTBIU21YdVhJVWdpSjdRMVZkalAtVkxfekowYjhaek04M0Q?oc=5",
+     "source": "Forbes",
+     "time": "21:58",
+     "note": "Privacy risks as AI processes personal data at scale."
+    },
+    {
+     "title": "Home | New Outlook - AI must serve common good, not dominate humanity, pope tells lawmakers - Diocese of Tucson",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0Q2aU51dnhQek5aMWoyeWlvMmNjbE1zU1RObUFjXzhBd3dzRFZTTzBvVlhhS28wbVI3S3dwcUxMbHk1MXZDZngxUnZqcS1GTFZ3cm5nU05YZ2NPZmhxVEItWFNpV1Q0azdOdmtoQ2pKd0gyR3J3S3RraFFKekVTYWpYdlhqaGdDWDJCcHFiQXlDUTBpNW9XWTRBYndwMFlhZ0N5c2JwNA?oc=5",
+     "source": "Diocese of Tucson",
+     "time": "22:46",
+     "note": "Pope's message to lawmakers on AI governance."
+    },
+    {
+     "title": "Do Androids Dream Of The Common Good? - The New Digest",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1psSVRaS1RQWksyeFg0QWRoc2xwZGJKVU5ETVNQbEoySVpMTktMdHJGUl9yc3B4MjZVd3drYkdCWUpFRkgzUEpmdjgyU09obndlcWNJSTJoTmhVQVIyTFNyUU5tbWNpZ0h3YVFLbEptbmRFYWtKS3AySS12Y1FSNnZjQ3ROZ2w0VGdyY003RzNudjg2aHdYenA2eWZGc0Mxb090Q0dXQzFGRFM0bTNNZlhpLXhEZUJrbGpreFJ0aWVMRURrejdDZGxCZTZqTjc4YU5fOEE5WQ?oc=5",
+     "source": "The New Digest",
+     "time": "14:46",
+     "note": "Ethics commentary on aligning AI with collective welfare."
+    }
+   ]
+  }
+ ]
+}

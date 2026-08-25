@@ -1,0 +1,173 @@
+{
+ "date": "2026-08-25",
+ "generated_at": "2026-08-25T02:05:34.361949+00:00",
+ "themes": [
+  {
+   "title": "Saudi sovereign-AI sprint: Mistral-HUMAIN, quantum, Paris deals",
+   "signal": 78,
+   "summary": "Riyadh is converting Vision 2030 ambition into contracts: Mistral and HUMAIN agreed a 'hundreds-of-millions' sovereign-AI collaboration for the Kingdom and the region, and French exposure to Saudi — now put at $21B — is expanding beyond energy into AI and digital infrastructure. Quantum vendor Pasqal and Eleven Ventures also launched a commercial joint venture to scale quantum and AI computing across Saudi Arabia and MENA.",
+   "angle": "Sovereign AI is moving from policy talk to paid enterprise deployments GCC executives should price in now.",
+   "items": [
+    {
+     "title": "Mistral and HUMAIN Announce Strategic Collaboration to Advance Sovereign AI in Saudi Arabia and Regionally - PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaFRtbnR2TFhPM2lMbFlOM1pndXRKNWFlZEl4VnVFSERicXBYZ25LWTYxU0JwUDgwR25MSUczbGN4MUprVWFtWUVEX2FDYTdQbkgxOHBGYTJ1a1FLTVNIN19YUGNGN0J2a0ZlQ3JuWnFyMDFaWV9mMGlURi1fVDllcDJ3Q195TWZUaENzNlYyLVJjd1hERndQcWNQZ2FLZTMxbHQyZ2cyVmhFanhldnlYUTF2M2J4eWhyMGZIRGVELWZ3Q2FQYXJnQUdQWGFNMG81YTVURlJXNEtFUTNWV1JUcTJDMGNOYlYyc19uck1LMzJubGQ4?oc=5",
+     "source": "PR Newswire",
+     "time": "18:52",
+     "note": "Sovereign-AI pact for Saudi and MENA targeting regional enterprise AI, per PR Newswire"
+    },
+    {
+     "title": "French investment in Kingdom worth $19b expands into AI, digital infrastructure, culture, mining - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VWUFkUGFfMFI5T1gzZlFRX0czcGJGb1Rub3A2TGhHSTV0OGFjYzVYdERvX2hENjRGbEhpd2kxMTJsN1JTRU1UVVF1cFhBTTh0VlpoU1VtR0h2UVlkWEdN?oc=5",
+     "source": "Arab News",
+     "time": "15:39",
+     "note": "French investment in the Kingdom (reported $21B?) expands into AI and digital infrastructure, per Arab News"
+    },
+    {
+     "title": "Pasqal And Eleven Ventures Will Build Quantum Computers In Saudi Arabia - Quantum Zeitgeist",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uWm1nVHdWZHRWMjlMU241eUlEcWVyMGV5V3pLTjZQMUJudXRTSnZwdHBOSDBhalZnVmFuVHY5U1RiOWZRSWZNaEVDMHdKclh3RTR4RmUtRGNUTXJCeXpmLTc5Wmpwd01BN2dhRU9QZnp3RE5meU45YQ?oc=5",
+     "source": "Quantum Zeitgeist",
+     "time": "21:56",
+     "note": "Commercial quantum+AI computing JV for Saudi Arabia and the wider MENA region"
+    },
+    {
+     "title": "UAE among 'most ambitious' AI markets, new report highlights - thenationalnews.com",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV1BHY0xXTzREazNjSklIdFkyR2g0dHhaMzNUNVVxOGxYTWx3RGVwdWV2NmI4RkdyQk12Um45VlB5bENKdjRZRjlYbnpNckpiLWQ3dFo0RG8wMUVkZFU3N3ZGanVtc0JtYlBHM0x1OVFzSWtKRmZtVDE4YkFfZlc2MUxzNkNUMWJQckxwQzRxS0Q?oc=5",
+     "source": "thenationalnews.com",
+     "time": "19:34",
+     "note": "The National flags the UAE among the 'most ambitious' AI markets"
+    }
+   ]
+  },
+  {
+   "title": "Nvidia warns customers of ~15% Blackwell/Rubin price hikes",
+   "signal": 72,
+   "summary": "Bloomberg reports Nvidia is notifying customers of possible price rises of around 15% on Blackwell- and Rubin-based AI systems as soaring memory (HBM/DRAM) costs ripple through the infrastructure build-out. The squeeze lands days before Nvidia's earnings and raises the capex arithmetic of every hyperscaler and enterprise standing up AI clusters.",
+   "angle": "Memory-cost inflation is the sleeper line item in 2026 AI budgets — CFOs should re-run compute ROI now.",
+   "items": [
+    {
+     "title": "Nvidia Customers Brace for Higher AI Costs",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-customers-brace-for-higher-ai-costs-video",
+     "source": "Bloomberg Technology",
+     "time": "18:30",
+     "note": "~15% list-price moves expected on Blackwell/Rubin as memory costs climb, per Bloomberg"
+    },
+    {
+     "title": "The Rising Price of the AI Race | Bloomberg Tech 8/24/2026",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-24/bloomberg-tech-8-24-2026-video",
+     "source": "Bloomberg Technology",
+     "time": "18:30",
+     "note": "Bloomberg Tech frames the week: Nvidia earnings plus margin pressure"
+    },
+    {
+     "title": "AI Cloud Provider Lambda in Talks for $3 Billion Pre-IPO Round",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round",
+     "source": "Bloomberg Technology",
+     "time": "23:36",
+     "note": "Nvidia-backed Lambda raising up to $3B pre-IPO — private capital still crowded into GPU supply"
+    }
+   ]
+  },
+  {
+   "title": "Meta 'Hatch' AI agent platform set to roll out soon",
+   "signal": 64,
+   "summary": "Meta is preparing to launch 'Hatch', an AI agent platform, and a new 'Watermelon' model in a monetization push, per The Information (corroborated by TradingView). For enterprises deciding who owns the agent layer, a second big superplatform now enters the race alongside OpenAI and Anthropic.",
+   "angle": "Meta entering the agent-platform race makes the 'agent middleman' battleground three-way — a channel decision CIOs must track.",
+   "items": [
+    {
+     "title": "Meta Reportedly Set To Roll Out ‘Hatch’ AI Agent Platform And New ‘Watermelon’ Model In Monetization Push - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcmpKc2xxTV85T1B2THJQbUIzN1A5RHpMcUdjbGRNZ1VTQTN0SVZXekl1V0pXajJVSFBTNUplalUyMUMyb19qYzUxSVBIY2hLWG02NUxLUEJUaDQyTWRXQmpxQng1cXJiN3JORnhSM24tbTNDU3RrRVdYRV9nZ0J0Ylp3anRsaFpWT0FRN0t5dkZqN0hhanZBWU03eGk1V3l2Q3MtMEstVGZhaUtJMFFDcHc4YU0ydDBFQUtuXzdtN0l5bm9iTi05bm1GcFFJdmk0Y2N6NzUzNnB1OWNiQ1VnMzVFZElENkQwNExKc0hsdUZ3YUVJ?oc=5",
+     "source": "TradingView",
+     "time": "23:42",
+     "note": "Agent platform launch reported 'in coming weeks' by The Information"
+    },
+    {
+     "title": "Meta Reportedly Set To Roll Out ‘Hatch’ AI Agent Platform And New ‘Watermelon’ Model In Monetization Push - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcmpKc2xxTV85T1B2THJQbUIzN1A5RHpMcUdjbGRNZ1VTQTN0SVZXekl1V0pXajJVSFBTNUplalUyMUMyb19qYzUxSVBIY2hLWG02NUxLUEJUaDQyTWRXQmpxQng1cXJiN3JORnhSM24tbTNDU3RrRVdYRV9nZ0J0Ylp3anRsaFpWT0FRN0t5dkZqN0hhanZBWU03eGk1V3l2Q3MtMEstVGZhaUtJMFFDcHc4YU0ydDBFQUtuXzdtN0l5bm9iTi05bm1GcFFJdmk0Y2N6NzUzNnB1OWNiQ1VnMzVFZElENkQwNExKc0hsdUZ3YUVJ?oc=5",
+     "source": "TradingView",
+     "time": "23:42",
+     "note": "Meta's Watermelon model tied to the same monetization push"
+    },
+    {
+     "title": "Inside Musk’s First Address to Cursor: Grok Is Falling Behind - The Information",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRGtMZDNmVUlUYUpSdmdidzRNdm1xcy15cGc2cy1kdGdXX1k2WjBVSV9CVTNSTGFfUDNGT0g5MElKTXk1cHNvcVBHYTZVMTJBSlZfTG53SXo1NE14RktqQlB5dXdiWmRnMVhwbWpqTkR2U1pFRlpucU1RMlpDdw?oc=5",
+     "source": "The Information",
+     "time": "19:04",
+     "note": "Inside Musk's first Cursor address: Grok is falling behind, per The Information"
+    }
+   ]
+  },
+  {
+   "title": "DeepSeek-powered autonomous hacking, countered by UAE AI",
+   "signal": 55,
+   "summary": "Multiple sources report China-linked attackers embedding open models such as DeepSeek into their operations to launch cyberattacks, while the UAE says it is fighting AI-driven hackers with AI of its own (Rest of World). Governments are also hardening supply chains after an Iran-linked cyberattack (FT).",
+   "angle": "AI-on-AI defensive posture is becoming table stakes; boards should audit their exposure to model-enabled threats.",
+   "items": [
+    {
+     "title": "Chinese hackers are using DeepSeek AI to launch autonomous cyberattacks - Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FUVNnN1dBakxDU25abzE4dlJqM2JfR0xjQk9JdW90bnR0OTFyNE1SeGRaZlJwRmtvdnFfZXRzcER3RW40bmUzbnZ0TzVvSVlpeTlseWt4YWdwZk16dnM5b1IwQS0zNmk4bTJsYjJyQUlKZ2lxalV3?oc=5",
+     "source": "Crypto Briefing",
+     "time": "19:47",
+     "note": "Chinese hackers using DeepSeek and open AI models to hit targets abroad, per Bloomberg"
+    },
+    {
+     "title": "The UAE is fighting AI hackers with AI of its own - Rest of World",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1RVlkNVJwYWFfVk1USVJ5a0MwYURtUndYWW9RZ25NSXZJajFnandHUEs3eVV3VWpBUk9FdmtjQ3F4ZlVLc1pZa0gyYkpsRU5pX0NXUTZNZ2U1elVURmxiOHdpSmk0Rm9HZFRXSzd0dGQ3WTlyZzBjeXVWWFA?oc=5",
+     "source": "Rest of World",
+     "time": "10:02",
+     "note": "The UAE is countering AI hackers with AI of its own, per Rest of World"
+    },
+    {
+     "title": "UK seeks to tighten security of supply chains after Iran-linked cyber attack",
+     "url": "https://www.ft.com/content/3d46e4cb-4dee-4f49-adc1-0bb0f63d4c49?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:13",
+     "note": "UK tightening cyber supply-chain security after an Iran-linked attack, per FT"
+    }
+   ]
+  },
+  {
+   "title": "Power becomes the binding AI constraint in Abu Dhabi",
+   "signal": 48,
+   "summary": "GCC business press says Abu Dhabi electricity demand is set to double by 2050 as AI-led and economic expansion accelerate, echoing what TerraPower's CEO says is now the primary driver of nuclear demand: hyperscalers. Energy in the Gulf is becoming the binding bottleneck for AI expansion.",
+   "angle": "Power, not silicon, is the next competitive constraint — Gulf AI builds must anchor on energy premises.",
+   "items": [
+    {
+     "title": "Abu Dhabi power demand set to double by 2050 as AI and economy expand - internationalfinance.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVkU3dFJ3NnUyM3JfYURpV1JBSjFVeXk3YXdPRjJRSW1MaUliOXJfRlJ1aWUtX2NHNVA1Z3hSUm5vZUtlVFZIMXlGbXpMeFg4WEJnblBrZWpuRVBRalVpNGJPNlhQSmhUUExEVlNfdzBiY29TSnIzOUtkbG1UOTFyM196WmNvOEVWV25mTnltSVhNUGJBWGUxZ1B3emxNS2tOVno2TnVDUmdwSWtyTDRTdDZncw?oc=5",
+     "source": "internationalfinance.com",
+     "time": "04:00",
+     "note": "Abu Dhabi power demand to double by 2050 on AI and economic growth"
+    },
+    {
+     "title": "Nuclear Power Demand Driven by AI, Hyperscaler Companies, Says TerraPower CEO",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-24/nuclear-power-demand-driven-by-ai-says-terrapower-ceo-video",
+     "source": "Bloomberg Technology",
+     "time": "19:57",
+     "note": "TerraPower CEO: hyperscaler demand is driving the nuclear build-out"
+    }
+   ]
+  },
+  {
+   "title": "Dev-side: GPT-5.6 in Kiro, Ray on SageMaker HyperPod",
+   "signal": 38,
+   "summary": "OpenAI is shipping GPT-5.6 in Kiro to help developers plan, build, review and test software with better price-performance, and AWS brought new Ray capabilities to SageMaker HyperPod to support larger, more parallel training and inference workloads. Bets land on AI-native software delivery economics.",
+   "angle": "Dev-platform price-performance is front-and-center for the AI-native SDLC migration.",
+   "items": [
+    {
+     "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+     "url": "https://openai.com/index/gpt-5-6-in-kiro",
+     "source": "OpenAI News",
+     "time": "12:00",
+     "note": "OpenAI ships GPT-5.6 in Kiro with improved price-performance for engineering teams"
+    },
+    {
+     "title": "Introducing new Ray capabilities on SageMaker HyperPod - Amazon Web Services (AWS)",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdUFRcGZCbUdsdmJGNkU2TzUxNkJVbEY5cWxnOVVwWUl5VjhfRG1nOXhrNG5BeWw4RUstaGpVYU05dzl4LVBCWTNQMHMyTF9sUzl3WGpOLWJKRDVDamEtcDhMcFI0UkthX3U1OVNfNFBZNmxQb3FLNlAxTmNyb1RPNHBvU3ZwcGo3ZmRZaVhZajItRFBvRVA0dFItMl9KWHpOUkRj?oc=5",
+     "source": "Amazon Web Services (AWS)",
+     "time": "19:32",
+     "note": "AWS stacks Ray on SageMaker HyperPod for large parallel workloads"
+    }
+   ]
+  }
+ ]
+}

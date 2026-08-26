@@ -1,0 +1,251 @@
+{
+ "date": "2026-08-26",
+ "generated_at": "2026-08-26T02:04:50.512832+00:00",
+ "themes": [
+  {
+   "title": "GCC sovereign AI push: Mistral-HUMAIN, quantum, data centres",
+   "signal": 52,
+   "summary": "Mistral AI and Saudi HUMAIN are collaborating to advance sovereign AI in the Gulf, while parallel tracks see new quantum-computer builds in Saudi Arabia and UAE-backed expansion of AI-ready data centres into Africa. Gulf capital is securing control of the full AI stack, from foundation models to on-prem and quantum compute.",
+   "angle": "For Gulf boards, 'sovereign AI' is moving from policy slogan to signed contracts, and the Gulf may be the fastest region outside the US to own the entire stack.",
+   "items": [
+    {
+     "title": "Mistral and HUMAIN Announce Strategic Collaboration to Advance Sovereign AI in Saudi Arabia and Regionally - AiThority",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcnQ3SFhhQTdOTkYyVFFsc2JrdFVoc2NFOGttckY1dU1WU0RBVmNyTjZZS2Z3QllzSnNvRTVXVGFmYVlaZ3RFZi1hR3FxdkN6Sk4tUTlEaUF0ZlVmUUFVVGpVdGJEQ1k5S1ZCSURKTTNtT1llRFAxdkdRSnF6S290aC1QckhlQks2a0RMNm1SMmExRW10cFQ4UjZVbnRPQ1pXMlFiOUZPODFuMGxKWUNwYUVzUGR6S2Z5LWlGVGhmdTJPaFljbk1sbFpuS1JHLXFBNWV2MVAtUTRoUG9SN0VN?oc=5",
+     "source": "AiThority",
+     "time": "08:51",
+     "note": "French lab and Gulf partner move to advance sovereign AI in Saudi Arabia and the region."
+    },
+    {
+     "title": "Mistral AI and Humain partner to accelerate sovereign AI in Saudi Arabia - Telecompaper",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMlJFeGRMc093SGo0bjRQblM3bmNvVjFpRTQzR0M3bXBJMlA1LTRyeXBUNjlqV0RaWVlLeUtNQzRteS05d2dGRXM1VnpyYWN1X1paZjAwcktKVkxCNU9XX25TcTZnampEZVJWYmpGcHZ1YmJXZHA2SENDNFA4ZDNkZy14X0gwYXRFSHIzMWVqcUgwTWdoSUJRVFBhTDNuUGtmbjVHSzlIRkNjaWZoR3dRbkY0MjRodw?oc=5",
+     "source": "Telecompaper",
+     "time": "14:02",
+     "note": "Corroborates the tie-up and its sovereign AI focus."
+    },
+    {
+     "title": "Middle East Claims First Quantum Joint Venture as Saudi Arabia Moves from Cloud to On-Premises - Tech Times",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdy1zT3FvZWE4ejdVOEdqLXE1QkpVOUFMZ3d6OEwtTTh2VVkxdURBLWVnSzhaNUJ5dzR2Q1RsMUdXdzZwcTZXZVFmelptN2R2VkJhNkxYTjdmZ0xYbEstS0J5dzJfelFRMDlxNFQ4d0NpYXhtU1BsN3E2YmNPYVZlXzJxMVBiVVlvTXhfbjQ3RVRCenVIZTN5M1BtNnlsVkkwcXJyUngwLXRYekd4SmVXSUZsam1UUkhvcDlRaGladWt4Q2FJRUZ6MzQtSjhYU2NM?oc=5",
+     "source": "Tech Times",
+     "time": "15:15",
+     "note": "Saudi shift from cloud to on-prem marks the Middle East's first quantum joint venture."
+    },
+    {
+     "title": "Pasqal And Eleven Ventures Will Build Quantum Computers In Saudi Arabia - Quantum Zeitgeist",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uWm1nVHdWZHRWMjlMU241eUlEcWVyMGV5V3pLTjZQMUJudXRTSnZwdHBOSDBhalZnVmFuVHY5U1RiOWZRSWZNaEVDMHdKclh3RTR4RmUtRGNUTXJCeXpmLTc5Wmpwd01BN2dhRU9QZnp3RE5meU45YQ?oc=5",
+     "source": "Quantum Zeitgeist",
+     "time": "10:37",
+     "note": "French quantum firm Pasqal is to build quantum computers in the Kingdom with Eleven Ventures."
+    },
+    {
+     "title": "MTN Group Forms UAE-Backed Partnership to Expand AI-Ready Data Centres Across Africa - TechAfrica News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZy1CbmpERGFuYWxLRWRoTFY3M2prZDZRbVNRbW96Z01TMnZtMkRWbEsyTDUwdGxLTWI4MUFQV19rbG9neFNhMWlxalJRMW1Ud3dTRW54djRuWGNKQ2RkOVpKOTFuX1dBVGZHbDdXQVljVEZQVWZ6OWpyVDB5MGJrTXdCWVJpbHpLbWl5b0dDd3FiTnlXWmI3U0N3?oc=5",
+     "source": "TechAfrica News",
+     "time": "14:54",
+     "note": "UAE-backed partnership will expand AI-ready data centres across Africa."
+    },
+    {
+     "title": "Saudi Arabia’s AI boom is making governance a strategic imperative - Consultancy-me.com",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZzZqaS1qLXFmbkdyVzVrNF9zZkFhVnFFeEU5VXQ0V2VFOVFiSzU4RlhJeElEUmhKQzdfX3lfVU9pVFlQQlJKaHl3VUViZDhvYzFDbU00Zm5fSG5nY1FCOW5DZTNHZ1V0U0NENjd5UklFY2hqejFSaTBPWC1UdWVuWE5Kai1tSkFvR1ExTXZjb2VuemdaRW92VVVLWW9XZVNYeGhPZEd1UDJlSUHSAbABQVVfeXFMUHowSEZtNlVRbGEwV2FIRnBleE9ybjBXRW5aX1pUQkVjM1Y2OXRpdUNNRGo3NFR1Z2RfbUt6bkp4VHF1UWtHXzRCT3F4NXNhejB0NkFzVTN5RHU1VEhsT19ENVRmTnZITDYwTW8xVGFOY3JLc2RCb2VDSTItcFdCR0FQUGtmSDduQkZleUxYVUFHakFPOU5OUlVzeG5odGtLYU1YQ2JQTnhlT3BVdUxQU0Q?oc=5",
+     "source": "Consultancy-me.com",
+     "time": "11:12",
+     "note": "Calls AI governance a strategic board priority as the Kingdom's buildout accelerates."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI's custom Jalapeno inference chip unveils first result",
+   "signal": 45,
+   "summary": "OpenAI published first results for its custom inference silicon Jalapeno, claiming industry-leading speed and efficiency for modern models, while CFO Sarah Friar lays out how chips, compute, models and products compound into cheaper, larger-scale intelligence.",
+   "angle": "Leaders are capturing margin by owning silicon, a signal Gulf enterprises should weigh when pricing AI spend.",
+   "items": [
+    {
+     "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+     "url": "https://openai.com/index/jalapeno-first-results",
+     "source": "OpenAI News",
+     "time": "07:00",
+     "note": "OpenAI reports its custom inference chip delivers industry-leading speed and efficiency."
+    },
+    {
+     "title": "The full stack behind abundant intelligence",
+     "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+     "source": "OpenAI News",
+     "time": "07:05",
+     "note": "CFO Sarah Friar explains how chips, compute, models and products compound into cheaper, larger-scale intelligence."
+    }
+   ]
+  },
+  {
+   "title": "Saudi-France rapprochement deepens from defence to AI",
+   "signal": 40,
+   "summary": "Saudi Arabia and France signed roughly 21 agreements spanning trade, AI, defence, mining and culture, alongside Aramco's potential $3.7bn deals and a growing $19bn-plus French investment footprint, headlined by a $7bn theme-park venture near Paris. The reset hands Riyadh an alternative supplier of AI and defence technology beyond the US.",
+   "angle": "The Gulf is diversifying AI and defence sourcing from sole US dependence, so boards should track the Franco-Saudi corridor.",
+   "items": [
+    {
+     "title": "Saudi Arabia and France deepen ties with 21 agreements",
+     "url": "https://www.agbi.com/trade/2026/08/saudi-arabia-and-france-deepen-ties-with-21-agreements/",
+     "source": "AGBI",
+     "time": "05:25",
+     "note": "The Kingdom and France sign 21 agreements at a roundtable attended by the Saudi crown prince and President Macron."
+    },
+    {
+     "title": "French investment in Kingdom worth $19b expands into AI, digital infrastructure, culture, mining - arabnews.jp",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE91TF8ybFRWcmdINXpaUGxrYVJqMWZUdVpua0lVYUVsR29FcUF2T0ZUUEZNMHRHRks0YWlReUU4bVZwSzMyZlBFRHpHVFlCeDY1ZmFhNV93dE9hT1EteE91Zl9BX2N2Zw?oc=5",
+     "source": "arabnews.jp",
+     "time": "10:08",
+     "note": "French investment footprint grows into AI, digital infrastructure, culture and mining."
+    },
+    {
+     "title": "Aramco deepens French ties with potential $3.7bn deals - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjTG4xSklhRXl1cFNmS2R1SXREM3JpWjRGYzR0TkwxbHdVX0ZyVENkbGVZTXc2cFFHUmRHT1VTVEljdFdIVlRzQTNCblNITXFQVUZR?oc=5",
+     "source": "Arab News",
+     "time": "12:24",
+     "note": "Aramco advances up to $3.7 billion in potential deals with France."
+    },
+    {
+     "title": "France, Saudi Arabia agree on $7bn theme park project near Paris - Al Jazeera",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXBkemRCa0xsakFzS2dXYWYxRjl6cGRpSzZIeXIycU44YmR3RUhMUjVEX1pIVkpxZHRMU0pmZDBxdmx0Mmg0TjI1RE5RdmwzbWFfZVdoYlRKV3pFRElKNTNJbWdfbzRzNl9JYktkemFISUphOVk0cXJYd19yN3hmOWdNUzBIclQ5akNVbmVxR1BsRkZDU2NEclNhcktsVTVxR1d6OHdB0gGrAUFVX3lxTE5IN0JnOGRnOHRfcXp1NDBJV2pET2Q4YlJSQWpnNmplRHdRNXAxRE5KdU1hcTBGMGQ3VDhJd1dNOURWbjhMYzBTVHNWTFh0bmlHeFJBaERvSmNUdUNDT3R6VE0zZzB6MWtqVGtDZlE3RWVJUWVHdDFEQVVxY1JiOTVyeFpZWElYdkdqcmROZ1QwU3RuMGdfbkgzSFZSTVZmTWdoUXdYTXlISGRrbw?oc=5",
+     "source": "Al Jazeera",
+     "time": "04:43",
+     "note": "France and Saudi Arabia greenlight a $7 billion theme-park project near Paris."
+    }
+   ]
+  },
+  {
+   "title": "AI-agent economics: enterprise spend climbs on infra and too",
+   "signal": 40,
+   "summary": "ClickHouse passed $350 million in annual recurring revenue on OpenAI and agent workloads, an AI restructuring at WiseTech drove an output surge and the end of manual coding in areas, and Meta is preparing an AI agent platform. Enterprise spend is shifting to the infrastructure and product surfaces agents actually consume.",
+   "angle": "Companies that rebuild around agents show measurable unit-economics gains, not just press release promise.",
+   "items": [
+    {
+     "title": "ClickHouse’s annual recurring revenue passes $350 million on AI agent demand- The Information - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON0lLTmpaRHFCc3JERmlneEN1MlhPaGd4bUVnTExMc0dfQzY0b1NXT3FJcUZmWE5pTlVob292N1ItRnpldTU5N0d2NFdncHNiaFNfOUVLeHg0VzdsaG9oVlRlS3FlWm5QZ1dPUFYyS3AwS21WLTVabUNMTUUyZDlIWlF5MzQwalppLTVkaGtqWHpkNEY0aV9GNDE3ejd6QVVkSXpvd0FmU0t2Zm5hOU1hNEV4WGNYdEpGcnBXdHh4M2ZyV2dFalVpU3Y0X1habDRZanZFX3NiUmpUV2tieTdscGhlQ0xQZGVhcUJWdnVsUWs0aTQ?oc=5",
+     "source": "TradingView",
+     "time": "13:09",
+     "note": "Data-stack vendor passes $350M ARR as OpenAI and agent usage jump."
+    },
+    {
+     "title": "AI Revamp at WiseTech Leads to Output Surge, End of Manual Code",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-26/ai-revamp-at-wisetech-leads-to-output-surge-end-of-manual-code",
+     "source": "Bloomberg Technology",
+     "time": "00:43",
+     "note": "WiseTech's AI overhaul drove an output surge and ends manual coding in areas."
+    },
+    {
+     "title": "Atlassian Rides the Knowledge Graph Boom - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdm1EMllrenI0NkczWHk1dVNuS00tcDFzMl9pZjlSenY0bkFTdmhLRzdITnFmVGRDZm1HSEZ0Qi1DSk1yUTVkUEdwNk5MSkk2U3M4amN1Z3JTX19LY043SlFKTWlJXzZZZnV0LVBpTVo0bzF6RmpFR0xWTy1WRjZ3bFJwX3gzTXNLbjJUNDNpSzFDNDdf?oc=5",
+     "source": "The Information",
+     "time": "21:24",
+     "note": "The Information on Atlassian riding enterprise knowledge-graph demand."
+    },
+    {
+     "title": "Meta to launch Hatch AI agent platform in coming weeks- The Information - Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeXVCbUl3alRMeUVSSmRXa1c5Y0VJVV9YN0NmTktmaHRNQnFhQk5lN3lJczVoYWZ4ZF84Zk1NZXVQSWNZQVNTSExpV2RsdmdRZWZVa3o3SE1WTk85RWdUMTlPTFZiQ2dkOEdQeTNJV1ltOTE3VEpuNi1mM2ZoZ0hiN1FMMnhlc3g5WTVHLVRPNDlKQXhWYmIxR1RtbnVUR0s4cHRLc0hHUk1pTTMwbHBKRGloRGk1OVNzNWdWbklBVk4ycUZGMnFFRTY3dlM?oc=5",
+     "source": "Investing.com",
+     "time": "06:16",
+     "note": "Meta is set to launch its 'Hatch' AI agent platform in coming weeks."
+    },
+    {
+     "title": "AI Startup That Upends Junior Bankers’ Work Sets Up in Singapore",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-26/ai-startup-that-upends-junior-bankers-work-sets-up-in-singapore",
+     "source": "Bloomberg Technology",
+     "time": "01:16",
+     "note": "An AI startup changing junior banking work sets up in Singapore to target Asia."
+    }
+   ]
+  },
+  {
+   "title": "US politics meets AI buildout and regulation",
+   "signal": 33,
+   "summary": "Barclays warns the relentless US AI data-centre buildout is drawing bipartisan backlash that could become political risk ahead of the midterms, while the SEC subpoenaed Wall Street banks over an AI hedge fund's near-collapse and AI surveillance devices joined data centres as campaign flashpoints.",
+   "angle": "US political risk on the AI buildout may lift the sector's risk premium, a factor Gulf allocators should weigh.",
+   "items": [
+    {
+     "title": "AI Trade at Risk From US Voter Ire Over Buildout, Barclays Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-25/ai-trade-at-risk-from-us-voter-ire-over-buildout-barclays-says",
+     "source": "Bloomberg Technology",
+     "time": "21:24",
+     "note": "Barclays says the AI trade faces political risk from bipartisan US backlash over the buildout."
+    },
+    {
+     "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0RtUFJMRXd0YjRtUzFxNklBQ19kMzBCcmIzeXF1TWR2T2Fha1FUVXh2Zk9ZeTFWY3l6d1QweVJOekFVekdQbk1vN1RDamt2V1F6YkxUUWR0NlM2NzdRUE9udVh6QWFteTF0Wnd2NzV2a1pwY3NWX2FPSzkxS1JCNEQzS3lFN1M1U1JJ0gGQAUFVX3lxTE1hSlgyZFpqYjEtUF9vTVBESzJ2bzZEOGhoMVRnZXd6dmdtRU5iOTF1aW1Ndk02NFNFSUJYR25nZVJqTFFhUWs3M0Nnal93V3doZHN3ajJnbVVDcTVwRW1pSkwtN3hrMDM0aC1LZGJBNG1UMTNadDI2SDctajdqdlF1ZVc0OU9UdlRkVUM1Tnc5Zw?oc=5",
+     "source": "CNBC",
+     "time": "09:35",
+     "note": "The SEC subpoenas banks over an AI hedge fund's reported near-collapse."
+    },
+    {
+     "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
+     "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+     "source": "Axios AI+",
+     "time": "20:18",
+     "note": "License-plate cameras join data centres as an AI boogeyman in the 2026 midterms."
+    },
+    {
+     "title": "Meta, States Have Discussed Settling Teen Social Media Case",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-26/meta-states-have-discussed-settling-teen-social-media-harm-case",
+     "source": "Bloomberg Technology",
+     "time": "01:22",
+     "note": "Meta and state attorneys general discuss settling the teen social-media harm case."
+    }
+   ]
+  },
+  {
+   "title": "Chip smuggling charges and export-control tension",
+   "signal": 30,
+   "summary": "US export-control enforcement tightened with an individual charged over allegedly smuggling advanced chips to China, while the IMF sees AI driving global growth as investment spreads beyond the US. The supply chain asymmetry over AI hardware is fast becoming a board-level variable for Grenada.",
+   "angle": "Compute sourcing for GCC data centres is now a geopolitical variable, not just a procurement line.",
+   "items": [
+    {
+     "title": "Nvidia employee charged with smuggling advanced chips into China",
+     "url": "https://www.ft.com/content/af815e45-b132-4db4-96bc-428f8e0b76f3?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "05:31",
+     "note": "US prosecutors charge an individual over allegedly shipping advanced AI chips to China."
+    },
+    {
+     "title": "AI to fuel global growth as investment spreads beyond US, IMF says",
+     "url": "https://www.ft.com/content/6a76e78b-c493-409a-8694-6fa4ba9a674e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:00",
+     "note": "The IMF expects AI to fuel global growth as investment broadens beyond the US."
+    },
+    {
+     "title": "Waymo picks Munich for first EU robotaxi launch",
+     "url": "https://www.ft.com/content/21ef2743-2cc2-41ef-8329-84adce69d975?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:00",
+     "note": "Alphabet's Waymo chooses Munich for its first European robotaxi launch."
+    }
+   ]
+  },
+  {
+   "title": "AI safety, cyber and influence defense",
+   "signal": 25,
+   "summary": "OpenAI says it disrupted a Russian covert influence operation using AI to project a fake think tank and a 'sovereignty' index, ex-Googlers launched a nonprofit to keep humans in the loop, and researchers warn AI is each lowering the barrier for state-backed attacks on critical infrastructure. Trust and security risk now sits at the exec table.",
+   "angle": "For security-conscious Gulf enterprises, AI trust and resilience is board-level risk, not an IT concern.",
+   "items": [
+    {
+     "title": "Disrupting a new covert influence campaign from Russia",
+     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "OpenAI banned accounts using AI to run a fake think tank and anti-Western 'sovereignty' index."
+    },
+    {
+     "title": "Ex-Googlers Are Planning AI-Human Hybrid to Prevent Rogue Models",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-25/former-google-researchers-want-to-keep-humans-in-ai-driver-s-seat",
+     "source": "Bloomberg Technology",
+     "time": "17:00",
+     "note": "A new nonprofit of ex-Googlers seeks to keep humans central to AI development."
+    },
+    {
+     "title": "AI is making critical infrastructure easier to attack",
+     "url": "https://www.axios.com/2026/08/25/ai-critical-infrastructure-cyberattacks",
+     "source": "Axios AI+",
+     "time": "17:17",
+     "note": "AI is lowering the barrier for state-backed hackers attacking utilities."
+    }
+   ]
+  }
+ ]
+}

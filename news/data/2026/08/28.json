@@ -1,0 +1,173 @@
+{
+ "date": "2026-08-28",
+ "generated_at": "2026-08-28T02:00:21.476122+00:00",
+ "themes": [
+  {
+   "title": "Nvidia acquires Hugging Face for $12.9B",
+   "signal": 65,
+   "summary": "Nvidia has agreed to buy open-source AI hub Hugging Face for $12.9 billion, per The Information's original report, now corroborated by CNBC and multiple outlets. The deal moves the model-distribution and evaluation platform that most of the open-source community relies on under Nvidia's control, reinforcing Nvidia's grip on both the compute and the distribution layer of AI.",
+   "angle": "Watch how rivals and open-model labs respond to a closed vendor owning the default open-source registry.",
+   "items": [
+    {
+     "title": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEI3RDRQUjhES3VnelJ4ZmtWUFdsWUJYVGpNQlV6ZTJnU2RySjQ4SnRhNmhWN09kaEx6elNSVThrSzUyS1lWVVY2d0VpeEVtVjlBX3pIUk0tNjhIM3FHZmxqS3JBOHN1VXdTNTNYMjdwbUVoS0Q5Z3d5Y3pRbnhaTUlwck5BNEdxV2ZoV3ItTGlIekJiWGNKRmJUdzdJUWpFQjQ2S0s0cEtLd016T21GRC1B?oc=5",
+     "source": "The Information",
+     "time": "01:26",
+     "note": "Original report of the $12.9B deal."
+    },
+    {
+     "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1veHl1U0IwU0pDR1ZTd19KdHJEYUNOWG50OVY4SG10VGpzVkh3MG54ZUoxS2FrcFZ5Q0gta05PaWxubV9VM1ZTam4xRGpIMDVrTlZFSEgzeTRvVE1RRGZQeEVEaTFqNnpSeldPS05UWmJIWXFSVldN0gF8QVVfeXFMUDhKY3RqLVcxMHFWOXVsQkRTVEJ6VXh0MzdLN3VuVXl3ZUVyNWRzd1pxVDNESTd4MHhydmhnWUdpZ2VKaHRDUWwzREttekN6dUdhNFRlZmNvM282U2YwZWlyRzgtVnAxd2FCWTllN3E1ZjRJWUN4eFFVa0Z6OQ?oc=5",
+     "source": "CNBC",
+     "time": "07:29",
+     "note": "Corroborates the $12.9B figure."
+    },
+    {
+     "title": "Nvidia's buying Hugging Face for $12.9B PLUS: Robots doing your chores just got a $6B valuation",
+     "url": "https://www.theneurondaily.com/p/nvidia-s-buying-hugging-face-for-12-9b",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Aggregator confirmation of the deal."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia 70% growth outlook; +$375B market cap",
+   "signal": 55,
+   "summary": "Nvidia guided to 70% sales growth, beating Wall Street expectations and rebutting criticism of 'circular financing' deals, per the FT. Shares jumped 7.38% in premarket, adding roughly $375 billion to market value, with the stock climbing $15.47 to $225.13, per Economy Middle East. The read-through lifts the whole AI-infrastructure complex.",
+   "angle": "Growth is intact on the headline number, but 'circular financing' and rate exposure are the risks boards should probe.",
+   "items": [
+    {
+     "title": "Nvidia forecasts 70% sales growth fuelled by relentless AI boom",
+     "url": "https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "09:50",
+     "note": "70% growth guide; rebuts circular-financing criticism; beat expectations."
+    },
+    {
+     "title": "Nvidia shares jump 7.38 percent in premarket $375 billion to market cap as 70 percent growth outlook fuels AI rally",
+     "url": "https://economymiddleeast.com/news/nvidia-shares-jump-7-38-percent-in-premarket-375-billion-to-market-cap-as-70-percent-growth-outlook-fuels-ai-rally/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-shares-jump-7-38-percent-in-premarket-375-billion-to-market-cap-as-70-percent-growth-outlook-fuels-ai-rally",
+     "source": "Economy Middle East",
+     "time": "10:13",
+     "note": "+7.38% premarket; +$375B mcap; $15.47 to $225.13."
+    },
+    {
+     "title": "Robinhood Markets CIO: Nvidia's AI Boom Collides With Rising Rates and Macro Risks",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-27/robinhood-cio-ai-boom-collides-with-rising-rates-video",
+     "source": "Bloomberg Technology",
+     "time": "22:09",
+     "note": "Cautions heavy borrowing, inflation, rates could shape returns."
+    }
+   ]
+  },
+  {
+   "title": "100+ tech firms warn: months, not years, to prep AI cyberattacks",
+   "signal": 55,
+   "summary": "OpenAI, Anthropic, AWS, Microsoft and more than 100 other companies issued a joint warning that organizations have only months to prepare for AI-enabled cyberattacks, with hospitals, water plants and other critical infrastructure most exposed, per Axios AI+. The FT adds that cheap, destructive attacks are now startlingly easy to assemble, making this an enterprise-risk and board priority.",
+   "angle": "Turns 'AI risk' from abstract worry into a dated, boardroom-immediate exposure.",
+   "items": [
+    {
+     "title": "Tech giants warn time is running out to prepare for AI threats",
+     "url": "https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning",
+     "source": "Axios AI+",
+     "time": "17:00",
+     "note": "100+ companies; months to prepare; critical infrastructure at risk."
+    },
+    {
+     "title": "AI's hacking capabilities are severely underestimated",
+     "url": "https://www.ft.com/content/3f154376-fd8b-4255-ac5b-538c5e90fc40",
+     "source": "FT Technology",
+     "time": "13:31",
+     "note": "Cheap, destructive attacks now easy to put together."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic: US court win + lab-autonomy tool",
+   "signal": 42,
+   "summary": "A US judge ordered the Trump administration to lift its ban on Anthropic's AI for federal agencies, after Anthropic won a court challenge to the supply-chain risk label, per Bloomberg. Separately, Anthropic unveiled a system that autonomously operates a range of laboratory devices to conduct scientific experiments, per the FT, extending its push into frontier science.",
+   "angle": "US policy whiplash on frontier-lab access plus a real signal of autonomous science agents.",
+   "items": [
+    {
+     "title": "Anthropic Wins Court Challenge to US Supply-Chain Risk Label",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-28/anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
+     "source": "Bloomberg Technology",
+     "time": "01:12",
+     "note": "Judge orders federal-agency ban lifted."
+    },
+    {
+     "title": "Anthropic launches AI tool that can conduct scientific experiments",
+     "url": "https://www.ft.com/content/dd069af7-a2a2-4984-8d9a-5edeaf54f2f8?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "19:20",
+     "note": "System autonomously operates lab devices."
+    },
+    {
+     "title": "Expanding our support for scientists",
+     "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Lab-side confirmation of the science push."
+    }
+   ]
+  },
+  {
+   "title": "GCC sovereign & enterprise AI capital flows",
+   "signal": 45,
+   "summary": "Abu Dhabi's Sheikh Tahnoon backs a 49% stake in the Trump family's World Liberty Financial crypto-bank venture, per the WSJ. Qatar's QIA co-led a $200M Series D in US autonomous-trucking firm Gatik. UAE tycoon Al Ashram and MTN agreed to build AI data centres across Africa. Gulf sovereign money keeps moving into frontier AI, autonomics and infrastructure.",
+   "angle": "Gulf capital is the quiet counterparty in the big US AI-mega deals of the cycle.",
+   "items": [
+    {
+     "title": "Exclusive | Trump Family's New Crypto Bank Is Backed by Abu Dhabi Sheikh",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnpKYTYwa0FwU3piSWZUczBZck1ZTHJIWWVULUhjZ2FlYmV6TWwyZGxhNkxVUEgxYlNNRVhrU0s1RS1qZk1aLTNvdkU4b2JpUG5wUF9KTl9lNV96aGJsRVNKUEtqVEttR21HN1IyaGNEbVR3bEFjeXBMUDNtNWphT2E5YXl3dndRdDRKWG9DeFRlWjVKb0tLWDFRMmVuRHFkcHB4MlZ5NDZkcms?oc=5",
+     "source": "WSJ",
+     "time": "19:15",
+     "note": "49% stake; WSJ-exclusive UAE backing."
+    },
+    {
+     "title": "Qatar backs US autonomous trucker's $200m funding round",
+     "url": "https://www.agbi.com/logistics/2026/08/qatar-backs-us-autonomous-truckers-200m-funding-round/",
+     "source": "AGBI",
+     "time": "06:17",
+     "note": "QIA co-led Gatik $200M Series D with Koch."
+    },
+    {
+     "title": "UAE Tycoon Al Ashram, MTN Agree to Build Africa AI Data Centers",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTljdHhjSkJQTjBjaWtDQzBzLXZWNzRRUHpWSVctaVRUOXJ3NTk0NXAxQmhPT2o5V09GdXhLeVA4SWxfN1lqTzBveFU0R3V6NGU0TzRJUWVCYjFYV1pjbVVKN2VSZ2xLTnY0b2l0bHRGT21lVHJjY0kwNEJFNGRoTEJnbU1heDJjYXZuWHc3c1VIZTlqbUkxQzF0cEw4WUJCSGxPOHRma2RzUk5leUhxUXJGNA?oc=5",
+     "source": "Bloomberg",
+     "time": "05:18",
+     "note": "Africa AI data-centre build-out with UAE investor."
+    }
+   ]
+  },
+  {
+   "title": "Arabic AI + GCC enterprise adoption",
+   "signal": 40,
+   "summary": "Microsoft partnered with Saudi AI startup HUMAIN to bring Arabic-language AI to Middle East enterprises, per W.Media and Moomoo. Regionally, Bayut launched conversational AI property search in the UAE, HPE will showcase sovereign AI at Saudi LEAP (Aug 31), and AI Everything Abu Dhabi in October will gather 350+ AI companies. Enterprise adoption is shifting from pilots to Arabic-native, sovereign deployments.",
+   "angle": "Arabic-native, sovereign AI is the locally differentiated wedge global vendors must address.",
+   "items": [
+    {
+     "title": "Microsoft and HUMAIN collaborate to advance AI in Saudi Arabia",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZGVWek5SeHdGYVZtMWc3NmxhT0dNck10OXpBLWRPTHBHTUFCYk9jcUxyUDBpejFWM2V6azI3YjAwcFhVdlB1czF2aU5ZalV0NEN1ZHRjdm1PNVB4RGloUkNmcFlzN3ZfbVV5c0JLM0ZDQkhRSTFCUFdwWGpRemp1Tjg1MWRkZw?oc=5",
+     "source": "W.Media",
+     "time": "06:00",
+     "note": "Arabic AI for Middle East enterprises."
+    },
+    {
+     "title": "Bayut launches conversational AI property search in UAE as home discovery moves beyond filters",
+     "url": "https://economymiddleeast.com/news/bayut-launches-conversational-ai-property-search-in-uae-as-home-discovery-moves-beyond-filters/?utm_source=rss&utm_medium=rss&utm_campaign=bayut-launches-conversational-ai-property-search-in-uae-as-home-discovery-moves-beyond-filters",
+     "source": "Economy Middle East",
+     "time": "11:01",
+     "note": "Natural-language property search in the UAE."
+    },
+    {
+     "title": "HPE to showcase sovereign AI, hybrid cloud tech at top Saudi event",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnQ5c1hvQ2cwRnF3dXhVYW0taVMxbHhzdlhsY3BiQWItVFAtS21uV3NqVXNVcy1ZUVNKRkpRSjY1YnFjaFd3ZklZWExaZ2RzNDJiMUZCTFFpNEZ1QUVicU91bHFkLU9xZGNfTGE5RHJVblpZTjRWWV8xeXloZ1U5Z3dsX3diTW1fWE9zWFgwZHBLc2VseXVVS05MSFRfYVR1YWZnQ1Niblg?oc=5",
+     "source": "TradeArabia",
+     "time": "19:00",
+     "note": "Sovereign AI showcase at LEAP."
+    }
+   ]
+  }
+ ]
+}

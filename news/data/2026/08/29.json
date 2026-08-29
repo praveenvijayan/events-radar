@@ -1,0 +1,273 @@
+{
+ "date": "2026-08-29",
+ "generated_at": "2026-08-29T02:00:31.333266+00:00",
+ "themes": [
+  {
+   "title": "UAE-US AI axis firms up",
+   "signal": 70,
+   "summary": "Washington Post reporting positions the UAE as deepening its US partnership to become an AI powerhouse, with Gulf Business tying the push to AWS-backed energy efficiency and e& launching an AI-first enterprise laptop. Emirati capital is also funding AI infrastructure beyond the region, including Africa via MTN.",
+   "angle": "The UAE is placing its AI bet squarely on Washington ties, not just sovereign compute - an alliance worth watching for GCC boards.",
+   "items": [
+    {
+     "title": "UAE views Trump as key partner in push to become AI powerhouse - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEM1eVEzcWdQRkRqeUUyc3ozU25xeUN1aFhKamFwdTRMdDJTOUwtQjZxVGJQcG8zUkY2Nkd1bUpzcVZ1Q25wamRubGlUOEpBNU5lVTFJbC14VUFUNFRmYVhId2dUZzY3Z0pUOGozakQ1a2hqWUJIR3hCT0dxMFhRcXZWaGxGaFZyNEY2NUlhZ0plZ2lMQkZNbE1feU1XUGhrUDFXT0gwdkFkWlZfd2lVVWt3?oc=5",
+     "source": "The Washington Post",
+     "time": "18:04",
+     "note": "WaPo says the UAE sees Trump as central to its AI-powerhouse ambitions."
+    },
+    {
+     "title": "AI & Tech Brief: The UAE's AI ambitions - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcGxCRS1aeGNlRWwyTlVkczFqVVJ6dUdxR0JlZ3JBdERoQ2VtdGxVOERTQkc4WFNkc2l5dFN0RlFwMHJkcnFGZnZvdEZnUFBnQjZZaUptVXdVMDY2WXZYSzlwYmxBOVhRWUQzdUlqZ1VqUWtkckhfWWFSbXhLblAwakY5bTZNTlFiXzMtdmpad0pldE1LNDA4VzdVdzA5UExjWXhmTmhwdw?oc=5",
+     "source": "The Washington Post",
+     "time": "01:57",
+     "note": "Second WaPo brief on UAE AI ambitions in today's feed."
+    },
+    {
+     "title": "How the UAE as accelerating its National AI Strategy with AWS and energy efficiency at its core - Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ1RlejJpWllqU2NrZzR5QlpYY01uNzVIOGFDd19Zd1FvMkdMNlp1Nkg4YTl3SWhzTU92Y2VpSEdZcE5acVlHRG1Xa1NGUHN0WkVaXzNmVHRBS2RQLWN0N0J6N1VKUjhraEhFc3ByUDRuWVpLa2x1djJybmk5YjBYTFBDUTZlUVhDclp4blJOdTZOVUlvYUJWT05FOEhidGRpM2k1NlN3djY1Z3kxTXRfanFCYmV3Wm0tUXhIaUE1RWhaYndlaV9nRERWalFROXNaREE?oc=5",
+     "source": "Gulf Business",
+     "time": "05:05",
+     "note": "Gulf Business outlines the National AI Strategy's AWS and energy-efficiency core."
+    },
+    {
+     "title": "E& debuts first AI-powered enterprise laptop in UAE - Telecompaper",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNME5ab09VaHBMQThPdUZFTmstdEttbkxHUVVrY2FSc1dkMHo0OVBVSHlCZmo3N0dHZ1dIdEJVY2NVSHp6cTdTQXJDQ19lbjJMVkdpaFU0a2JwQmdRWUlwSXhiTUU2b280NzlpdWdWQ1k2SDhwYmRxX2Z4czBrNVV6TkJBYmhjSXhWR09jRE04U2oycTJiTnBNZA?oc=5",
+     "source": "Telecompaper",
+     "time": "12:17",
+     "note": "e& launches what it calls the first AI-powered enterprise laptop in the UAE."
+    },
+    {
+     "title": "MTN and UAE investor to build AI infrastructure platforms across Africa - Developing Telecoms",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSlZiQm1ndGh5ZTBiSEhjRUxURGl3eFgzb0Y1dXpkYXRMWHAwQko3dzVmYXYtYVd2N3hFWVJjaGVmMmtoWFZnSlJ5X29CQnc4TU0wdDQtbV9jaFkzTjJ5VlhrazRCY2gzSklqTmJ1RmxONmtDOE41d0ZkZUtkbjZmZlZlWUJ4SEtMd2VzYXhZQ0pyU1ZjajlDZDQ4TkVJX1pua0QybU1odUY5bVpEVzNoSXp1ajZDRnNtb3dWQUdENDBmRHMyUHctdlR3R0pIaVdUZ1NVTXg2c0EzSnNKNm9ueFZKeEtIMExialE?oc=5",
+     "source": "Developing Telecoms",
+     "time": "03:56",
+     "note": "An Emirati investor partners with MTN to build AI infrastructure platforms across Africa."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI walks away from Cursor",
+   "signal": 65,
+   "summary": "OpenAI says it is winding down its contract supplying models to Cursor after SpaceX acquired the coding-agent company, shifting from partner to competitor posture. The move lands as agentic-coding tooling heats up, with Meta shipping an agent-efficiency RL harness and Notion betting the company on AI.",
+   "angle": "Model access is now a strategic weapon - coding-agent customers face supply-chain risk that enterprise buyers should price in.",
+   "items": [
+    {
+     "title": "Our decision on Cursor following its acquisition by SpaceX",
+     "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+     "source": "OpenAI News",
+     "time": "06:00",
+     "note": "OpenAI confirms it will stop providing models to Cursor after the SpaceX acquisition."
+    },
+    {
+     "title": "Meta AI's EvoHarness-RL boosts agent efficiency - VentureBeat",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVEZQSk9INGw3UGpYSnRFeXFVaFNPMkxwMU9pRWNqSDY4RkFUcHBleVJMeVFyNjh1anQyaVJoY3R3Q2tmYTRwd08tUUFiaEwwNTlWWWFpTUtEa1F2SjBIbDE2MHFLV2pVQkUwamsyMUdqWGVycGRDenVZclpSOUZSaGlYa2lNalBVUmxsMEF5STB6amctdzUzYi1mdEF6UDVNN3Z4ZUZlVWtrSDZIM2wwTEtWVXpsaDlVOEsyb2szZUtvaE1FWmhyOWxIR3k?oc=5",
+     "source": "VentureBeat",
+     "time": "16:33",
+     "note": "Meta AI's EvoHarness-RL improves agent efficiency, per VentureBeat."
+    },
+    {
+     "title": "Every machine is about to speak Claude - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JdWJlbTN0cEVhZ24wd2stYnFueGU0Skh6RTNaRXc4d1RKV1ZFbThPdHhCaDhDRExtV1RscmlMWWtfVU1WQ1BPVnM4bDJFMV9YLUdyWGpGVG9FZFppdFYxM1RFMVI1TkhjUlBmZUpzWGZONDRDRzZjVDJ0NG42QQ?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:03",
+     "note": "The Rundown flags Anthropic's push to put Claude in everyday machines."
+    },
+    {
+     "title": "Notion Plans Hiring Binge as CEO Makes All-In Bet on AI - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUFCMHRIUHNTRXNDTXdWQXZfMVhTZXdicUl6cTZQbEVHRU1UVTBPSjM1SWZWRkU3OFlxUDBxaWVmZm5FbjZqa3phSURRdVR6TE4yR0VQUHVLSmpIRFFWT25XOTlHVTlENHQ1bkt4T3pDUnVoeFRjeGMtNXg1YTdmbTEwNmU2ZjljWmc?oc=5",
+     "source": "The Information",
+     "time": "14:56",
+     "note": "The Information reports Notion's CEO is going all-in on AI with a hiring surge."
+    }
+   ]
+  },
+  {
+   "title": "Export controls move from chips to remote compute",
+   "signal": 65,
+   "summary": "The Trump administration is drafting rules to curb Chinese access to remote AI servers, a pivot beyond chip-level controls that could reach industry as soon as September. The Financial Times separately warns that neoclouds renting out servers and chips concentrate new systemic risk in AI ecosystems.",
+   "angle": "The next AI trade fight is about who can rent compute, not just who can buy chips - directly relevant to GCC cloud strategies.",
+   "items": [
+    {
+     "title": "Trump Administration Working on AI Rule to Curb China's Remote Access to Chips - The Information",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZU51VXJkN2ltWnJJRkszMXM0S0Fmd2Y2VThIcUQzTE1wLTVHeXFvTi00UGV5ajdrR0lIVEw2UTZpVmI5cTZ1eVJkQ0ZVNHVReHV2TjZSa201dmZzcW9VLXQzT3dqWU5OY0REd29KODFWOWNsVWszeElNOW80NUJMWUZVZTdieGFGa2htSUVqcHhqb01QQUFmcWlNTUJBZ1V2blltdUZnQTVQMzZr?oc=5",
+     "source": "The Information",
+     "time": "13:00",
+     "note": "The Information reports a planned rule targeting China's remote access to chips via cloud."
+    },
+    {
+     "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September - Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNV3RGYmw3MU9Ua3ltUW91dXBjSURjWlhYcnIxZ3A0Nkx5cVJJUEZtam1hak8zazhDeS1jRExGYzhvcHVTUmNRT3AzV2JnVjh1R09GdUlRaXgwbElHdHdxRWZ3RUREbDVHSVpYVjZOVXV3SENsWFpqSG9PQ1h0b1dVT19CaEdhbHpDSklSbmRmNC1KeWJ3Z1ZtaFhWekhpY0pBTGFPSGtmbDFqenFNVmF2NThpNm9lMWtDdmU0UHFtcEhFUnRjTmw4U1RvdVFDWVdsNTZmcmljdGlMbHB6bmM4QUJ6OXJ3VlNabU04MmVzMlUtck52ZlhFdF9CTFI0aTVTU0xNQXpKVmlwMVEzdy1pYUhBb2YyZmFBY2NTTHBaR1lfM0RwQ3gwY0NGZHc2TVBTbzFqRXdFaFgtclVpTUE?oc=5",
+     "source": "Tom's Hardware",
+     "time": "15:47",
+     "note": "Tom's Hardware says the cut-down diffusion rule could be shared with industry in September."
+    },
+    {
+     "title": "Neoclouds show how to amplify risks in AI ecosystems",
+     "url": "https://www.ft.com/content/7af605e0-b528-46f6-b86e-b90b46f03c4c?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:09",
+     "note": "FT argues neocloud compute renters amplify risk in AI ecosystems if they unravel."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic wins round vs Pentagon blacklist",
+   "signal": 55,
+   "summary": "A federal judge struck down the Pentagon's blacklisting of Anthropic, ruling it violated the company's constitutional rights in a win for the lab's months-long fight with the administration. Anthropic's commercial momentum continues, with Visa describing an AI harness that makes the model cheaper for cyber defense.",
+   "angle": "US government AI procurement just lost its bluntest exclusion tool - a bellwether for federal AI vendors.",
+   "items": [
+    {
+     "title": "Judge blocks Pentagon's Anthropic blacklist",
+     "url": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
+     "source": "Axios AI+",
+     "time": "02:42",
+     "note": "Axios: federal judge blocks the Pentagon's Anthropic blacklist."
+    },
+    {
+     "title": "Jackson Hole, Anthropic's Court Win and PayPal Deal Collapse | Bloomberg Tech 8/28/2026",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-28/bloomberg-tech-8-28-2026-video",
+     "source": "Bloomberg Technology",
+     "time": "17:52",
+     "note": "Bloomberg's tech wrap leads with the Anthropic court win and PayPal deal collapse."
+    },
+    {
+     "title": "Visa Says Its AI 'Harness' Makes Anthropic Cheaper to Use For Cyber Defense - The Information",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRE1wZHI5ZTdUZktucGUwREx6OGJTcUNsbUpyLVFQQ3NwdFhBM1BhOW1hY0s1VGhTdWFPbUlIUHdQaXRwWUkyT3lwb1djeG8xWkhUYWtkQnZYRmxWbnFMNHJreVdOYnA4bTFQX3ppdXZkdWsyWlIxOUprUEM2c294QnQ3ejJZd1RoeGliMFdTMkJzaldwZS1tdUhmc1ZIQUVzS1ZOWU54LWNwcnhGVjRuOWR6R3Q3RnM?oc=5",
+     "source": "The Information",
+     "time": "20:31",
+     "note": "The Information: Visa's AI harness cuts Anthropic costs for cyber-defense workloads."
+    }
+   ]
+  },
+  {
+   "title": "AI regulation shifts from drafting to enforcement",
+   "signal": 50,
+   "summary": "Axios reports the EU AI Act is moving from idea to enforcement, testing whether Brussels can turn its rulebook into workable regulation and a global benchmark. In Washington, a House panel is weighing the trade-offs between legacy systems and AI security.",
+   "angle": "Enforcement-era AI regulation is the new compliance frontier for any company selling into Europe.",
+   "items": [
+    {
+     "title": "The EU AI Act gets real",
+     "url": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real",
+     "source": "Axios AI+",
+     "time": "09:15",
+     "note": "Axios: a major EU enforcement deadline makes the AI Act real."
+    },
+    {
+     "title": "House Panel Will Weigh Legacy Systems And AI Security Trade-offs - Legis1",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xNXNnUGp6YU1lbGt6RVpFenAtcjV1RjJsdlFrckJaeTNlMmpyLWNUWWdzX0FqTmQ2bk4tcEoyZzJNUEl4TVpPdDM4cEJhOTlTa2FMYzFhYTh6UWFQdzZxSU5UQnhoT3ZJeXJXSXFZT2JZRkdDM19UMm5Dem9Jdw?oc=5",
+     "source": "Legis1",
+     "time": "19:51",
+     "note": "Legis1: US House panel weighs legacy-systems and AI security trade-offs."
+    }
+   ]
+  },
+  {
+   "title": "The AI capex flywheel keeps spinning",
+   "signal": 45,
+   "summary": "Axios charts how Nvidia is recycling chip profits back into the AI ecosystem, financing the buildout that buys more Nvidia compute. a16z closed a $1.1 billion AI infrastructure fund, The Neuron reports Nvidia's $12.9 billion Hugging Face purchase, and quantum newcomer Pasqal jumped 95% on its SPAC debut.",
+   "angle": "Circular AI finance is inflating the buildout - where the money loops back matters for capex forecasts.",
+   "items": [
+    {
+     "title": "Nvidia almighty: Chip riches flood through AI universe",
+     "url": "https://www.axios.com/2026/08/28/nvidia-ai-chip-circular-finance-startups",
+     "source": "Axios AI+",
+     "time": "09:20",
+     "note": "Axios: Nvidia plows chip riches back into AI startups and infrastructure."
+    },
+    {
+     "title": "Andreessen Horowitz Raises $1.1 Billion for AI Infrastructure Fund",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-28/andreessen-horowitz-raises-1-1-billion-for-ai-infrastructure-fund",
+     "source": "Bloomberg Technology",
+     "time": "15:21",
+     "note": "Bloomberg: a16z raises $1.1B for a new AI infrastructure fund."
+    },
+    {
+     "title": "Nvidia's buying Hugging Face for $12.9B",
+     "url": "https://www.theneurondaily.com/p/nvidia-s-buying-hugging-face-for-12-9b",
+     "source": "The Neuron",
+     "time": "",
+     "note": "The Neuron: Nvidia is buying Hugging Face for $12.9B."
+    },
+    {
+     "title": "Quantum Firm Pasqal Shares Jump 95% in Debut Via SPAC Merger",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-28/quantum-computing-firm-pasqal-jumps-52-in-debut-via-spac-merger",
+     "source": "Bloomberg Technology",
+     "time": "16:32",
+     "note": "Bloomberg: quantum firm Pasqal jumps 95% in its SPAC debut."
+    }
+   ]
+  },
+  {
+   "title": "China's model race turns on cost and reach",
+   "signal": 45,
+   "summary": "The Information says Tencent's new flagship model shows major progress, while Z.ai's latest release intensifies competition in low-cost offerings - pressure that keeps reshaping global inference pricing. FT reports Chinese studios replacing actors with AI doubles as video-generation tools sweep the industry.",
+   "angle": "Chinese model economics are compressing inference prices worldwide; GCC enterprises gain leverage and risk.",
+   "items": [
+    {
+     "title": "Tencent's New Flagship AI Model Shows Major Progress - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ3ZMNE5LVHpHaWM5R0Vrd0twc29nVmlYTFBUM0I5RnIwbDNsalFNaVdVRmJlSTFUNWtlcGlqTGgyN2xDR0FwbGJYbHd0aVpxSGNWVGpKX193TGNIcV83LVJzRjRfYW5IVW9SVmlILXdORG53bGk5NmR2VWtlQ2l0QXhfc3hIVnhoOF9kWDJjVkt1NlRnZHNF?oc=5",
+     "source": "The Information",
+     "time": "10:31",
+     "note": "The Information: Tencent's new flagship model shows major progress."
+    },
+    {
+     "title": "Z.ai's Latest Model Intensifies Competition for Low-Cost Offerings - The Information",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbW9tMVdNSV9kak5KUnk3dzRPRkFaWFozRndUS2ZNSW41TlZwZVQwUmloZTU4QmprSjQxVDh2RjI3TkVZT0VBZDNmeWdrakNQWjNCeVowLUpfdC1vQVNRSm1WUHJvYXhfdjFXLXV6M29NUTNfUkFnUWM3SmJwY05kb08wZFRJb0xHVzNVMk5BeHBPbUExS1pYeXktT3V5SExZdHZtOQ?oc=5",
+     "source": "The Information",
+     "time": "09:44",
+     "note": "The Information: Z.ai's latest model intensifies low-cost competition."
+    },
+    {
+     "title": "China's actors written out of dramas as AI doubles ready to take their roles",
+     "url": "https://www.ft.com/content/7117ff02-d495-4936-8f05-fa73a7a5c669?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:00",
+     "note": "FT: AI doubles are writing Chinese actors out of dramas, leaving performers jobless."
+    }
+   ]
+  },
+  {
+   "title": "GCC: AI policy, security and adoption converge",
+   "signal": 40,
+   "summary": "UNESCO will lead global responsible-AI policy efforts in Riyadh in September, cementing Saudi Arabia's governance-hosting role while Asharq reports AI opening new markets for Saudi tech companies. The UAE side is more cautious - Khaleej Times urges checks before clicking AI tools - and Meta disrupted an Iran-linked AI influence network.",
+   "angle": "The Gulf is becoming both an AI-governance venue and an AI target for influence operations - two sides of one regional story.",
+   "items": [
+    {
+     "title": "UNESCO to Lead Global Efforts in Riyadh to Shape Policies for Responsible AI Use in September - وكالة الأنباء السعودية",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kd3daa2Y0N0JsLVp2dEtvbFQ3Yk5FUEdkNHFFbUFURzU0UmtHSGY4RGVGb3BZN0N2eFd3ejFPOWttNTI3VEEzX1NR?oc=5",
+     "source": "وكالة الأنباء السعودية",
+     "time": "16:26",
+     "note": "Saudi SPA: UNESCO leads Riyadh round on responsible AI in September."
+    },
+    {
+     "title": "Meta disrupts Iran-linked AI network targeting US politicians and journalists - Iran International",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zUnVJZVB0c2JNMTVPcHNYUUxUcC04MG0tSzUwVHA4NTZnVTA4MlVHeFVQZjNQNk45TzJDNGlRbVpxV1BUWEViX3MwdElnS0pmRHc?oc=5",
+     "source": "Iran International",
+     "time": "12:27",
+     "note": "Iran International: Meta disrupts an Iran-linked AI network targeting US figures."
+    },
+    {
+     "title": "AI Opens New Market for Saudi Tech Companies - ASHARQ AL-AWSAT English",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMWlEaU1RQi1UQXNoeV84NkdnTGR1dUFyVS1XNHByNkpWUEcyNl9tUWhINktrQ1NSWTNsNkNvcWNJSGY4SlVCSUFqMWlQT24zYkV6anpQUGlueWNsekdhTG1XWURZdnJTUDdjTUVJOFZGa3JlckhTWW1KVUhBazRHQTB0Zkh5SGpHTzV0SU91WQ?oc=5",
+     "source": "ASHARQ AL-AWSAT English",
+     "time": "06:41",
+     "note": "Asharq: AI opens new markets for Saudi technology companies."
+    },
+    {
+     "title": "Using AI tools in UAE? Here's why you should check before you click - Khaleej Times",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDNwM1NySjJSc2tDQjBuTUhJcDAwaVRaR0FzLV9Da1M3aXkxbTZ3elRCZ0ZLTHQwTEtGZnU2NlJLaThCNjF1T0Vfa1VUOWgxMUZlRjN1bUdMUU1IQ3hKd3lnWDdMNEZFTFJzUWx3djRhNlVmTUpsX2RXX1ZkY0hCek1qeDlvYjZXRDFJOTRvZ0dIMXVCYjZRbUNnYXJXUEFMZndFYXl2R1NoTnRz0gG0AUFVX3lxTE9fTGF0QTFXMVlvVTRFRm9aNllFaTNXQVd4TjJiMkloRFU3RXlKbFFxVUNLSFZxemF5ZEk2MmxRUjZxTDEzdUdvN0ZzZklMNkQ1Mmc5TXVHZ2k5d3hrU01ocGpPN0ZUY1FEUk8tNWVKZTduM0R0TVlVRTFmU3JnaC1hYUVhVEg1VDA3QklxOHR2SUFuRkxSVkNEaDFhWndfaHBxSWs2WWFmV2FnM3FENzNtZWV5Uw?oc=5",
+     "source": "Khaleej Times",
+     "time": "15:21",
+     "note": "Khaleej Times: UAE users advised to vet AI tools before clicking."
+    },
+    {
+     "title": "How the Iran conflict has reshaped the Gulf economy",
+     "url": "https://www.agbi.com/economy/2026/08/how-6-months-of-the-iran-conflict-has-reshaped-the-gulf-economy/",
+     "source": "AGBI",
+     "time": "00:05",
+     "note": "AGBI: six months of the Iran conflict have reshaped the Gulf economy."
+    }
+   ]
+  }
+ ]
+}

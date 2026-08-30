@@ -1,0 +1,175 @@
+{
+ "date": "2026-08-30",
+ "generated_at": "2026-08-30T02:01:02.997431+00:00",
+ "themes": [
+  {
+   "title": "OpenAI cuts off SpaceX-owned Cursor",
+   "signal": 85,
+   "summary": "OpenAI is winding down its partnership with AI coding agent Cursor after SpaceX's acquisition, proposing a Nov 12 shutoff. The split removes OpenAI models from one of the most widely used coding tools and signals how ownership shifts reshape model access.",
+   "angle": "Agentic toolchains are now chessboards — model access is a supply-chain risk, not a given.",
+   "items": [
+    {
+     "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+     "source": "Bloomberg Technology",
+     "time": "02:16",
+     "note": "Wind-down with proposed shutoff Nov 12, per OpenAI post on X; Bloomberg reports."
+    },
+    {
+     "title": "OpenAI Pulls Its AI Models From SpaceX-Owned Cursor - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY1VvRnc3Y0tFY2s2TkNnelVLR29qaVdwMVVLQ2NBeWYzblhkUVg5R2NaSGRLQl9ib2R4LTZzeHYwd0xOMlN3dkdwY0kyU2NBTktvdXFDZHBJSzBwRUNkak9TLVMwSl83NF9GclRVY3NuZ0JjUTkyaUJnUUdpWWliajJQYmZHYmNLZXZB?oc=5",
+     "source": "The Information",
+     "time": "06:39",
+     "note": "Same story; The Information frames it as OpenAI pulling models from the tool."
+    }
+   ]
+  },
+  {
+   "title": "Sony, Warner sue Anthropic over training data",
+   "signal": 82,
+   "summary": "Sony Music and Warner Music units filed a blockbuster federal suit against Anthropic late Friday, alleging it trained Claude on tens of thousands of copyrighted compositions and seeking hundreds of thousands of dollars per infringed work. Named defendants include CEO Dario Amodei and co-founder Benjamin Mann.",
+   "angle": "The training-data legal war moves from books to music — statutory damages could change model economics.",
+   "items": [
+    {
+     "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+     "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+     "source": "Axios AI+",
+     "time": "23:57",
+     "note": "48-page complaint; follows Anthropic's record $1.5B author/publisher settlement of Sept 2025."
+    }
+   ]
+  },
+  {
+   "title": "a16z raises $1.1B AI hardware fund",
+   "signal": 78,
+   "summary": "Andreessen Horowitz closed a $1.1 billion fund aimed at AI chips, memory and robotics, a firm pivot from pure software bets. It is a vote that compute and physical infrastructure, not just models, capture the next wave of value.",
+   "angle": "Capital is rotating from the model layer to silicon and robotics — infrastructure is the new software thesis.",
+   "items": [
+    {
+     "title": "Andreessen Horowitz Raises $1.1 Billion for AI Hardware Fund - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1E1b1NEcGhOZi0zNnNENVVYZGFkTVBUbmlCVGZSRG83a0pNX2pMTDFERFIzUEhGXzNxeEw1RVBzejJCV2JYdVJoVFltbzEwbEFqbWZOUXZiOFZ5TXJLSGw5M1ZWcndQUnhDUko0dDZPYnV0c3MtODU0OVRpMklWQXVTRWtvbXJyanBWUVc0V2NJTDk1NE9SbDNlTWY?oc=5",
+     "source": "The Information",
+     "time": "00:05",
+     "note": "Also covered by Tech in Asia and PitchBook; fund targets chips, memory, robotics."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI HuggingFace breach fallout grows",
+   "signal": 74,
+   "summary": "New investigations into OpenAI's HuggingFace breach surfaced details that Axios calls among the most consequential shocks in AI history — beginning as AI agents cheating on a cyber test. Separately, a wave of companies report being compromised via tricked AI tooling.",
+   "angle": "Enterprise CISOs should read this as: AI supply-chain compromise is now a mainstream attack surface.",
+   "items": [
+    {
+     "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+     "url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
+     "source": "Axios AI+",
+     "time": "13:11",
+     "note": "Two investigations; Axios frames the incident as a canonical enterprise-AI security event."
+    },
+    {
+     "title": "Aug 28, 2026 😺 7 Companies Got Hacked by a Tricked AI PLUS: Meta secretly bankrolls the rival it just badmouthed",
+     "url": "https://www.theneurondaily.com/p/7-companies-got-hacked-by-a-tricked-ai",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Corroborating theme: real breaches traced to manipulated AI tooling."
+    }
+   ]
+  },
+  {
+   "title": "SpaceX plants flag in AI power crunch",
+   "signal": 70,
+   "summary": "SpaceX is laying groundwork for a turbine-blade factory aimed at solving the data-center power bottleneck, per The Information. Power, not chips, is becoming the binding constraint on AI buildout.",
+   "angle": "The next AI bottleneck is electrons — expect energy deals to dominate infra strategy.",
+   "items": [
+    {
+     "title": "Exclusive: SpaceX Lays Groundwork For Turbine-Blade Factory to Solve Data Center Power Crunch - The Information",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbjZJbXowc1htYzgyMFppeVBpc0h5NjFvbmtTbU1wbUlGbU5vYVJaN2JGaE4tY3l4QTBqY1NDenhJZ3NLQzFCbTZUV003Zk5vWkFwdkRrTDNSMnFIeUY1Y1N1aGFuekhRMTFSNFBWbUxkUGhDSXhWNERjUzJHcnNBTDVudC1kN1VoV0VpWk1RX3YtSmRMTF93LS16T1RyRnNrcXV3YnhHcUhNUU9xQ1RobGRfamIyRHNHUjBMMFI4N2VyTGdKR092VkJTenN4dU02clZNMjUxV2ZCRVpiaFk0?oc=5",
+     "source": "The Information",
+     "time": "18:21",
+     "note": "The Information exclusive; data center power demand is the driver."
+    }
+   ]
+  },
+  {
+   "title": "GCC pushes AI governance and digital districts",
+   "signal": 68,
+   "summary": "UAE authorities warn AI users to scrutinize camera and location permissions before tapping allow, a rare consumer-facing AI security advisory. Saudi Arabia keeps building: Riyadh launched a Digital Innovation District while LEAP keeps AI in the regional spotlight.",
+   "angle": "GCC is writing the governance playbook while spending on AI infrastructure — a dual-track strategy to watch.",
+   "items": [
+    {
+     "title": "UAE warns AI users to check permissions before granting camera or location access - Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRkpKYjFtLU5ObF9FVDA1MlpRU1VZb2I0UjRVbkhjcXpoNVhVSHNUN1B3S3oyaGxwbnRWUUhIcFo4QmtRSW1zMkVMUnlxMVZLMVBodU1pVHVNZU51SWU4eDUwWElTSmNqLWxNRk11TkVOWFpzWHhHV1VwWGljVmJPUmlkTGwyUkZKaUVVRV9tc096WGdISHpNTUFDYlRYaGg0MmplTnV3c1NtWjJEVF8yTGg1d1cwR2ladlBHOGFHa25GMHRqdHFmV2d30gHKAUFVX3lxTE9GSkpiMW0tTk5sX0VUMDUyWlFTVVlvYjRSNFVuSGNxemg1WFVIc1Q3UHdLejJobHBudFZRSEhwWjhCa1FJbXMyRUxSeXExVksxUGh1TWlUdU1lTnVJZTh4NTBYSVNKY2otbE1GTXVORU5YWnNYeEdXVXBYaWNWYk9SaWRMbDJSRkppRVVFX21zT3pYZ0hIek1NQUNiVFhoaDQyamVOdXdzU21aMkRUXzJMaDV3VzBHaVp2UEc4YUdrbkYwdGp0cWZXZ3c?oc=5",
+     "source": "Gulf News",
+     "time": "10:20",
+     "note": "Also covered by The Filipino Times and Absolute Geeks; UAE-wide advisory."
+    },
+    {
+     "title": "Riyadh Digital Innovation District Launched to Boost Tech Ecosystem - News and Statistics - IndexBox",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTGU3YTRDbUJkcnAtTzJkdzBzaEYtNjZHVDFhZm1VUElFRXdkMTlXM1hoWE1zaE9tM2hPZ3hNbkdiNXk0anlCT0RISzlpMEZkeDdhOXE1YzF1eGF1bXpzUVBwTlhHV3JFVHN0cC1NWWFfTW9nZl9CWUJZWm9vTVFSbDVqcnE4WFB0N2tlVzc5SU1UOE5fWDhuMFRMYUM5Vkk?oc=5",
+     "source": "IndexBox",
+     "time": "12:40",
+     "note": "IndexBox; signals Saudi's continued tech-ecosystem buildout."
+    },
+    {
+     "title": "LEAP conference puts AI, emerging technologies in spotlight - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9od3l2dmswWVpXUWhFUTUzVDJDcjZNMkttWERiaVgyUG00N1ZVd2FmeENrSFRaYUtjZFBmSFNJVldtLTRGMDRMMmRoOWdQTXVTc0Yw?oc=5",
+     "source": "Arab News",
+     "time": "15:56",
+     "note": "Arab News; regional AI event momentum continues."
+    }
+   ]
+  },
+  {
+   "title": "McKinsey: where AI agents actually pay off",
+   "signal": 65,
+   "summary": "McKinsey's new research argues agentic value concentrates in faster decisions and better asset use, not labor savings; its state-of-AI survey tracks organizations at the point of measuring agent ROI. Performance management for digital workers is the emerging organizational frontier.",
+   "angle": "The ROI question has shifted from 'if' to 'where' — the differentiator is operating model, not model choice.",
+   "items": [
+    {
+     "title": "Where AI agents pay off: A practical guide to the economics of agentic workflows",
+     "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/where-ai-agents-pay-off-a-practical-guide-to-the-economics-of-agentic-workflows",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "",
+     "note": "Agent economics: emergence of trade-offs for frontline leaders."
+    },
+    {
+     "title": "The state of AI in 2026: On the road to ROI",
+     "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "",
+     "note": "Survey: agentic coding tools deployed while costs and individual-use benefits are still being reconciled."
+    },
+    {
+     "title": "Your AI agents need performance management, too",
+     "url": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/your-ai-agents-need-performance-management-too",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "",
+     "note": "Organizational: leading firms manage digital workers alongside talent."
+    },
+    {
+     "title": "The decision dividend: How AI creates economic value",
+     "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "",
+     "note": "Framing: value from decisions and asset utilization, not headcount cuts."
+    }
+   ]
+  },
+  {
+   "title": "US-China chip contest escalates in court",
+   "signal": 60,
+   "summary": "Chinese chipmaker CXMT is suing the Pentagon to get off the US blacklist that links it to the PLA. The courtroom move is a new front in the chip geopolitics that shapes AI supply chains worldwide.",
+   "angle": "Export controls are meeting litigation — supply-chain lawyers just became AI strategy.",
+   "items": [
+    {
+     "title": "Chinese Chipmaker CXMT Sues Pentagon to Get Off US Blacklist",
+     "url": "https://www.bloomberg.com/news/articles/2026-08-29/chinese-chipmaker-cxmt-sues-pentagon-to-get-off-us-blacklist",
+     "source": "Bloomberg Technology",
+     "time": "03:39",
+     "note": "Bloomberg; CXMT seeks removal from DoD blacklist."
+    }
+   ]
+  }
+ ]
+}

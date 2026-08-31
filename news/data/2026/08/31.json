@@ -1,0 +1,237 @@
+{
+ "date": "2026-08-31",
+ "generated_at": "2026-08-31T02:00:20.500097+00:00",
+ "themes": [
+  {
+   "title": "LEAP 2026: Riyadh becomes AI's capital market",
+   "signal": 75,
+   "summary": "Saudi Arabia's LEAP 2026 opens with heavyweight capital: 1,289 investors representing $14.5 trillion in AUM converging on Riyadh, per fintech portal Portal Fintech. South Korea's NC AI is running a full-stack Korean AI pavilion, and NetApp chose the show to launch its AI-ready data platform - signalling LEAP has become a serious enterprise-AI procurement venue. Pakistani tech firms are also heading to Riyadh for deeper Gulf footholds.",
+   "angle": "LEAP is now where AI capital and Gulf procurement meet - watch the deal flow.",
+   "items": [
+    {
+     "title": "LEAP 2026 Brings 1,289 Investors and $14.5 Trillion in Assets Under Management to Riyadh - بوابة التكنولوجيا المالية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5CSHV1TWZmVmphQlpTTnBMWmhWbHZFSXEySWVWTC1NXzhDM21DS0NoU3dMT1REa1dOWjU4cDN2VXNHeFZm?oc=5",
+     "source": "بوابة التكنولوجيا المالية",
+     "time": "23:21",
+     "note": "1,289 investors and $14.5T AUM headline figure from the outlet's LEAP coverage."
+    },
+    {
+     "title": "NC AI leads Korea full-stack AI pavilion at Saudi LEAP 2026 - CHOSUNBIZ - Chosunbiz",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jME9Jb1NydzJBX0FDd29uRzc2RHZidnFuUjRNUFJGWEZOcGFnVEtaMW10OGF5M0lSWUo4aDIyYm5LcWc0VVpjVG5USEVHSW8tdGZjOWZIM2pPWS1uQ0VuN1hjX0M5Y2xRQ0MwT3AyU3BMeXBNUjdvWmJ30gGOAUFVX3lxTE9rRmdVRXNuclRXTHNGaE9fSUU3ejNaSURvdHc5UTV2dFNDeVFZYVU1M0xrWkdjTFhVMVZqY0FnM0Q2VmVKRmpDdEJtR3VQSVJMTVZBQnExT2d0a05vMUtNOTV1R3Rrckw2Tm1NYkwzeFJPT1ItVFRFaHpaU0VpSkVjM0d6QmZ5VlVjcWVSOUE?oc=5",
+     "source": "Chosunbiz",
+     "time": "00:53",
+     "note": "Korean full-stack AI consortium pavilion at LEAP, per Chosunbiz."
+    },
+    {
+     "title": "NetApp platform unveils AI-ready data, unified storage, proactive protection and complete control at LEAP 2026 - TahawulTech.com",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTXNtMmg2TC1ScC1Wc2dYNFVORFlzNTlsQWY4eG5tUE5DeUxRX3dVSW5scFVqb05naXZKRTYxdENCemJaX0lvZHE0VEpNOGNLMHg4bTQ3cnFlQXdGQmFkaFdyeFB2eENJYkk1WXRtY1N4d2NkcjktNTdvT2Yzb0k1NmxQQlhMWWxHeF9IZWJ5ZUJvZE5iR3ZkZklmbFdIWExFOGdvckgyTzIwcy1fdmJndWFaRHhJQzlVVnBPc2NFLWVacXMwRkdrVkdlVDg5V19xeGpOSWJ0QzJMTm9qM1lGUkpB?oc=5",
+     "source": "TahawulTech.com",
+     "time": "14:10",
+     "note": "NetApp used LEAP for an AI-ready data/unified storage launch, per TahawulTech."
+    },
+    {
+     "title": "Pakistan tech firms eye deeper Saudi foothold as they head to Riyadh for LEAP 2026 - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wQUR5NGVvWEY3WTZJbVM2Rzdlem0xZGo2LWcyc3I3OFRSanE1b2d1bDlEb19kVUVkS2UyeUV4RUFWeVpPMWRHNTJVWVVoNTVoeEtJ?oc=5",
+     "source": "Arab News",
+     "time": "08:40",
+     "note": "Pakistani tech delegation targets Saudi market entry at LEAP, per Arab News."
+    }
+   ]
+  },
+  {
+   "title": "The liability bill arrives for AI",
+   "signal": 70,
+   "summary": "Music publishers (incl. Sony/Warner labels) filed a blockbuster copyright suit against Anthropic, alleging one of the largest and most blatant ongoing thefts of intellectual property in history, per Axios AI+. It lands as China tightens licensing rules for AI content (Lowy Institute) and critics warn AI disasters will arrive unannounced (Guardian letters).",
+   "angle": "Copyright and content liability are now board-level AI risks - settlement math will set the price of training data.",
+   "items": [
+    {
+     "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+     "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+     "source": "Axios AI+",
+     "time": "23:57",
+     "note": "Late-Friday filing by major music publishers; Axios frames it as opening salvo of a yearslong IP fight."
+    },
+    {
+     "title": "Losing face? Licensing and governing AI content in China - Lowy Institute",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUDBQWkd6c1NhaDlaSWhJbDR4WDlZcGdUenk3Vnp2VkhFcVFhT3RsVEtEVGNMaGJ0Y2Q4bDNEMV84ejBtSW9SVXlHTlktY2JaOW5sNEcxbnJjWWctdWI4UFRKS2xtZUh4Nk5wdHBUNlR1eHhMQk1WVHo3b0FqZUN3a1V3VXlUcGluU3FFWFlyS3BWSlUxbjhiTHZ6YkdjZ0dvOXI4?oc=5",
+     "source": "Lowy Institute",
+     "time": "01:31",
+     "note": "China is formalising licensing/governance for AI-generated content, per Lowy Institute."
+    },
+    {
+     "title": "AI’s worst disasters will arrive unannounced | Letters - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjkwNExjOUFoVjVZMEhsbjktYjJ5TEZiYThGT1FuVWFzWFRlS2V2SHNRZF8tcERQVjhZRHVJLXRaZ2NEY3A5TDQtWld0RF9CeTFHaDZYaW9UU0RlNTRYMTFHX3pJMENUcUxlMjU5ZlVKaVN5anh5cm85bnFlMThFaFlITEVrSXViREpGZVNkUGJ5ZTdkNDd3NGp3?oc=5",
+     "source": "The Guardian",
+     "time": "01:30",
+     "note": "Guardian letters push back on AI optimism; consequence-risk framing."
+    },
+    {
+     "title": "Opinion | Artificial Criticism of Artificial Intelligence? - WSJ",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemNic3p4TnEySWlGLU5oazJ3NUtBS1lxOEo4TEY3dkxyS2Z0aldIOGw0TlRsSEdHTmdSMC1xUlJ0NFhoTUxYYWZJV2UwU2hRb1hrSmtjWFBXNFhIRTdFdVBLVDJGNWRmLXB5OWtiVFdhVjFFeU1Xd1VKbXZWZkExeGQyRm9hQ0ttZ2ZYcg?oc=5",
+     "source": "WSJ",
+     "time": "01:03",
+     "note": "WSJ opinion piece questioning mainstream AI criticism."
+    }
+   ]
+  },
+  {
+   "title": "Frontier agents move into real-world operations",
+   "signal": 64,
+   "summary": "Anthropic is pushing Claude toward operating physical lab equipment, per The Neuron's latest briefing - the agentic frontier extending beyond code into wet-lab automation. Salesforce is overhauling how it charges for AI, per The Information, signalling the monetisation shift as agentic features become product. The analytics stack itself is being rewritten around agents, per Towards Data Science.",
+   "angle": "Agentic AI is leaving the chat window: the next battleground is tool/equipment control and per-seat-to-per-outcome pricing.",
+   "items": [
+    {
+     "title": "Anthropic wants Claude operating real lab gear",
+     "url": "https://www.theneurondaily.com/p/anthropic-wants-claude-operating-real-lab-gear",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Neuron's lead: Claude moving from software to physical lab automation."
+    },
+    {
+     "title": "How Salesforce Is Overhauling the Way It Charges for AI - The Information",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFZKd0s4clI5Mm4wbVZadU1NbVgwbkpWM0l1WWFmTVlUVjhuS1F2c0lEZ2QyZF9tSjlqZ1p3TmI1UnAzY0lnNHpHWE1BSjlXVkhDRUVMVlZwYkpoNXN4RFJVd1dWSjFZMkJqNGh3azJqLW4yZ0FJZjlzSGdZc19Oa3Y2cw?oc=5",
+     "source": "The Information",
+     "time": "15:00",
+     "note": "Salesforce reworking AI pricing model, per The Information."
+    },
+    {
+     "title": "Agentic AI Is Rewriting The Analytics Stack But There's One Skill It Still Can't Touch - Towards Data Science",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmVVekRVWXQxZFpvdkszV0FMZGNsb3RkYjk0b2NWWW9pRXRsUW1jSXAxR1BWUlpqaTlzaWdNRjBDc1VWdm5yYUNydTF1NWxLRFRVclBiaWxYX01kY2hhX3pXMlVkQmRpZXVwNjBxR0lTTXlTSmZOc0NMVW1CaG5jcmM1WUZNWGhlQkN5dUhGNjJkMmNxY0Q5TzhPdjkyRENuWFpzOS1zR3hvNjRVcTYtY1ZWLWRxZHM?oc=5",
+     "source": "Towards Data Science",
+     "time": "23:49",
+     "note": "TDS argues agents are reshaping analytics tooling."
+    }
+   ]
+  },
+  {
+   "title": "Arabic AI: Saudi bet on ALLAM and global stage",
+   "signal": 60,
+   "summary": "Saudi Arabia is doubling down on sovereign Arabic AI: HUMAIN and Microsoft are positioning the ALLAM model family to lead Arabic AI, per entARABI. SDAIA president Dr. Abdullah Alghamdi will represent the Kingdom at India's AI Impact Summit, per News On AIR, while the communications minister touted a people-first AI era (SPA).",
+   "angle": "Sovereign Arabic LLMs are becoming a Gulf national-security and economic play - follow ALLAM adoption.",
+   "items": [
+    {
+     "title": "HUMAIN and Microsoft: Saudi Arabia Bets on “ALLAM” to Lead Arabic AI - entARABI",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSmtpUGJKS0haenl2Wm80d1A4Mmoxajd4SmZwZ2k1ai1KanZYMEpZOGNTMXRxTm56ekl2X0x3azV3X0pWUzZxNEJ0ZkZ4OEJXQzRpVWNNRmpnQ1FmSjE2V2VJWm9RaEpIdFZMMUt2d1duM1FBMWxiYWpfWGVvd2VzNTdHc0dOZWhZVnVxd0pzMURZaTRqTExFazMwVS1IOTQ?oc=5",
+     "source": "entARABI",
+     "time": "07:57",
+     "note": "ALLAM as Saudi flagship Arabic AI, built with Microsoft, per entARABI."
+    },
+    {
+     "title": "SDAIA President Dr. Abdullah Alghamdi to represent Saudi Arabia at India AI Impact Summit - News On AIR",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM3hZaXpOS2Y5VVNaWHp2NXp0RHREd3gzZVBuNjFZOW93RWROUlRsQWMyWC10ekhCeW9uX1VpSFE0enI3NDI1eThtWk1acXhVOE9EalpYVGRYckVWUkZmbG9NZTBCcE1Belotdmk0U1ZfSHdXaVFDcmRLeXJlOUswaUdtVDRobFBrOGFvNi11Q2IxUGo0YzNoa093LTdHT2F4M0Y3ZnlGS1ZXMzRTSFVXZmw5NkU?oc=5",
+     "source": "News On AIR",
+     "time": "14:49",
+     "note": "SDAIA engagement with India's AI summit circuit."
+    },
+    {
+     "title": "Communications Minister: Saudi Arabia Advances to Lead AI Era, Puts People First - وكالة الأنباء السعودية",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5iWjZac1lLdnJmY0FGWW9Ob1pFNFpwU1l0TmNzOUEwZ2dETEt1OE1NU3IxRXJES0FSOUY5RHdOVnpSeFc1bDFNWmhn?oc=5",
+     "source": "وكالة الأنباء السعودية",
+     "time": "23:50",
+     "note": "Official Saudi positioning on AI leadership (SPA)."
+    },
+    {
+     "title": "Saudi organizations advance in adopting the use of AI in business and link it to productivity - jawlah.co",
+     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9RNUpsbUFJTXRoaHVScWZSNWlzTjJGV0V1N3J6R0h5dDZrci1LQ1dQdnVMMGR2Y0xidDBoQjZhaw?oc=5",
+     "source": "jawlah.co",
+     "time": "12:10",
+     "note": "Saudi business AI adoption tied to productivity gains, per jawlah.co."
+    }
+   ]
+  },
+  {
+   "title": "Gulf capital keeps compounding on AI",
+   "signal": 58,
+   "summary": "Abu Dhabi's Hub71 accelerator reported a record $223M raised by its 17th cohort, cementing the emirate's AI push, per Dealroom. Dubai continues selling its FDI and startup story to foreign tech (IndexBox). Meanwhile a federal US charter for a crypto bank is 49% owned by a UAE-linked investor, per Crypto News - Gulf capital is now visibly in US fintech infrastructure.",
+   "angle": "Gulf AI capital formation is accelerating: track Hub71 cohorts and cross-border fintech investments.",
+   "items": [
+    {
+     "title": "Hub71's 17th cohort raises record $223M, cementing Abu Dhabi's AI push - Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2tfRnAycERPQ2FST2xKRjRoRGsxTmVBQkhteV9GcVA0T3JtUHBPdFQ4bHhkY3liWE05bWI2R29yN0ZvYmJmYThoSnJYZklOZVJXNUx0SWk0bWlnX0Vxa0dRaHlmbFcyNlZKRUxfU0VBRzZweFhrN2NOV1JaY1hmTzlnOXAwbHN6aXVTYVZHQmVhOFZ2a3A1WXZmdVZzOEdpWUVyOQ?oc=5",
+     "source": "Dealroom",
+     "time": "18:37",
+     "note": "Record $223M for Hub71's 17th cohort, per Dealroom."
+    },
+    {
+     "title": "Dubai's Business Ecosystem: FDI Leadership, Startup Growth, and Market Entry Support - News and Statistics - IndexBox",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeUVFTkpiblJic0VYRHBwWWlSNjFaa0pYb3RJUjA5bmtpWERaZFk5MHp2UktzWmdNYkZlcm9jZ2pEemctYW96LUEzQ1NFcGtUSl9aYnBRSTItOVFNNkIxUFZHQWRWSDlTUC1JMkQtUUI5Nm80SVN4OWVIM082SEQtMFhPV0VsVERWNDJtcl9XdlJQbTFVVExLS2RZRQ?oc=5",
+     "source": "IndexBox",
+     "time": "00:41",
+     "note": "IndexBox profile of Dubai FDI/startup ecosystem."
+    },
+    {
+     "title": "Trump’s crypto bank is 49% owned by the UAE’s ‘spy sheikh’ and it just got a federal charter - Crypto News",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40SW1qY0NJRU1tSHpic1BNYUpYaXZkR3c4LWlhbnF6M25aOUVRY3h4SzUyRUhXWm8wOXNBX3dBM3k2RV9jWmlXQkdTcVgxajEwQTlfaEdnMmJTN1FUdzlkRE1vcVdGRm02M2Mxd3FxMk1oM3l2c2pNMQ?oc=5",
+     "source": "Crypto News",
+     "time": "06:46",
+     "note": "UAE-linked investor holds 49% of newly chartered US crypto bank, per Crypto News (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "Nations pick sides on AI strategy and governance",
+   "signal": 50,
+   "summary": "South Korea is shifting national AI strategy toward frontier models, per UPI. G20 finance officials convened with AI explicitly on the agenda - and emerging divisions over how to govern it, per Bloomberg. Bill Gates' latest essay argues the turbulent AI era demands deliberate choices, and Meta's settlement is seen as an opening for tougher platform rules (FT).",
+   "angle": "AI is now a macro-policy variable: G20 and national strategies will shape where capital and talent flow next.",
+   "items": [
+    {
+     "title": "S. Korea shifts AI strategy toward frontier models - upi.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXZlX0M4b3ZHYjZ5dmMwOWNwYkEzalJkMHUtaF95SExEb1NMRlREd0t3bkFtY3VnZnVZd2V5X0c1S0hSUV9CQkZHWHoyNUl1ZHhrNk1tN1VhOFBxLTlHNTZ2Qjh4RUJIb1FtOWtoUU9BREhOekc5ckFTbUh1bXdIMDlubWI4MERtSmcyd3BvZHlQQkl2V3h2QnhmeWVQay1zT0wtMDVRMDBjbGJMUlBPatIBtgFBVV95cUxQZXdQX25FYkR6b2N4ZzlSRTdNU0VCNWdiWmJTSWR2eHRLRmk2UFFKbUlJMDRiMlhYU0UwY0UwOW5NREVYYTVRODNkaVJkVVFHeGhQbFZNX2pHNm9XMjBHOUU5VDVWX2xCbml1UERSVldLVV9QeEFzYi10djczeU9yTUdRRjlJRllMdUd4MFJ4ZDcxZXVNeEgwMTczUjliSGxUSGM5b3FNUDM1WlBzQUxjNDFYT2l3UQ?oc=5",
+     "source": "upi.com",
+     "time": "23:58",
+     "note": "Korea pivoting national strategy to frontier models, per UPI."
+    },
+    {
+     "title": "G20 Faces Divide Over Debt, AI and Global Growth",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-30/g20-faces-divide-over-debt-ai-and-global-growth-video",
+     "source": "Bloomberg Technology",
+     "time": "13:38",
+     "note": "AI on the G20 finance track with US-partner disagreements, per Bloomberg."
+    },
+    {
+     "title": "The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+     "source": "gatesnotes.com",
+     "time": "22:03",
+     "note": "Bill Gates essay on critical AI choices ahead (gatesnotes via GN)."
+    },
+    {
+     "title": "Meta’s settlement is a starting point",
+     "url": "https://www.ft.com/content/5729b32c-8b7a-42b1-b1e2-b8b0106739cb?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "12:00",
+     "note": "FT: Meta settlement gives governments leverage on platform rules."
+    }
+   ]
+  },
+  {
+   "title": "Apple enters a new AI era",
+   "signal": 38,
+   "summary": "John Ternus officially becomes Apple CEO September 1, taking over the AI-hardware era from Tim Cook, per Bloomberg. Apple's own AI hardware success with the Mac was partly accidental, per The Information - the company that stumbled into on-device AI compute now has to double down deliberately.",
+   "angle": "Apple's AI strategy shifts from accidental Mac wins to a deliberate Ternus-era roadmap.",
+   "items": [
+    {
+     "title": "The Ternus Era At Apple Begins, But Cook Isn’t Leaving",
+     "url": "https://www.bloomberg.com/news/videos/2026-08-30/the-ternus-era-at-apple-begins-but-cook-isn-t-leaving",
+     "source": "Bloomberg Technology",
+     "time": "21:00",
+     "note": "Ternus becomes Apple CEO Sept 1; Bloomberg video briefing."
+    },
+    {
+     "title": "John Ternus Management Team; Apple Watch Series 12; Foldable iPhone Apple Pencil",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-08-30/john-ternus-management-team-apple-watch-series-12-foldable-iphone-apple-pencil-mtfvmdyu",
+     "source": "Bloomberg Technology",
+     "time": "14:00",
+     "note": "Bloomberg newsletter on Ternus's management slate and upcoming hardware."
+    },
+    {
+     "title": "How Apple Stumbled Into AI Hardware Success With the Mac - The Information",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY3RrWEdyd0s3WmxFQjA3Wk9DUDl3b213LUVfaU9rYkpBMVFqb2p5VFBtNmY4QmMtXzZfQ05LQzJDdU13WERFeUdvanZOWmtnRGJtVmxjelN3WUZ1WWtqMlRlSF9qYXNtc1dzUFB5Yk1kVkp1UzlSWXBnVXdCMnI4WDg0eXE?oc=5",
+     "source": "The Information",
+     "time": "14:00",
+     "note": "The Information on Apple's accidental Mac AI hardware win."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,245 @@
+{
+ "date": "2026-09-06",
+ "generated_at": "2026-09-06T02:00:27.364818+00:00",
+ "themes": [
+  {
+   "title": "G42 weighs selling majority control for chip access",
+   "signal": 90,
+   "summary": "Bloomberg reports Abu Dhabi's G42 is weighing selling a majority stake to US investors to lock in secure AI chip supply. The potential deal shows compute access has become a strategic-asset question for Gulf sovereign champions, with equity rather than contracts emerging as the price of chip security.",
+   "angle": "Sovereign AI's endgame: when the crown jewel has to cede control for compute.",
+   "items": [
+    {
+     "title": "Abu Dhabi's G42 Weighs US Ownership to Safeguard AI Chip Access",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1E0QlBrYkFOTTdEdEdsblM3RGZJNjJZR00zZFVCcDJtYzdMMkJnS29YWWdzM09ic3A4cXo5cW5OWkt0WEhROHVzQlVSLWUzUXNQYWxvUWRqRUZ1MllocHFVWmRLN04wZXV5em80eTdtT3BoaVRQdVZxM1haWHRwaU8ycUhLSEhZX19PbGpsdHhkelVoRFRmSEF6TU5MMWZBS0xxMjhtNVJvSHFicWNIcXp5R1g?oc=5",
+     "source": "Bloomberg.com",
+     "time": "03:39",
+     "note": "Original Bloomberg report; G42 considering US ownership to safeguard chip access."
+    },
+    {
+     "title": "G42 explores US ownership to secure AI chip access",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOTctTGZVNkpPRzhFRkRIeXFzM3A0a3prNm5XckkzSG5iYmlqeHY2YTBVallZN1pRaUNiZUcyeEZob2tYUHZNYk9qUEtXSzJWeHFMdFFCdmpZdFBOM01CQ2NDNG9QYllXQk03YWRUWEJSNFpZa2FjUWhpMnkxOHFuVHFtRkItbE0td3ZTV0lyRWoxOUNjMkVVN1hhV2pRRHNsX19tMWRDUGFyRkVUTHhFd1k4dS1ubU5GZmQ0U1Rvb3k?oc=5",
+     "source": "Investing.com",
+     "time": "04:24",
+     "note": "Carries Bloomberg's report; frames chip access as the motive."
+    },
+    {
+     "title": "Abu Dhabi AI giant G42 considers selling majority stake to US firms to secure chip supply",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBlS2xNcFJDbnBIZmFDNjVZS2ZWRElrTm5zMVFQYjNTN0QxcHhmbE03QnY0LVBlb1BDNVhUN1Q3YnczenZ6UEpjRmhMTWljcFdkWUhLdXVB?oc=5",
+     "source": "odaily.news",
+     "time": "07:02",
+     "note": "Adds that the stake could go to US firms specifically."
+    }
+   ]
+  },
+  {
+   "title": "Saudi Arabia becomes the US AI data-center escape hatch",
+   "signal": 85,
+   "summary": "American AI players are routing capacity to Saudi Arabia as US backlash over data centers grows: AWS is committing $5.3 billion and 50MW to a Saudi AI Zone by 2028, Together AI is eyeing Saudi capacity, and a US firm is building a 250MW data centre there. The Kingdom is monetizing power, permits and policy at a moment of American NIMBYism.",
+   "angle": "KSA is profiting from America's data-center conflict.",
+   "items": [
+    {
+     "title": "AWS commits $5.3 billion, 50MW capacity to Saudi AI Zone by 2028",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWnYteWRQMkdqRW1ET1UxZU95X1hTV1YxSDJvWG5OWGZOZXVNM210Mlk2OVBQN3pObkxzN1lJWXdhSVIyRUZMeFdqVG1Bd3NCSERUNkV2QnBMTlkzZktqRW5qUGM4N3pVeHVJd3FQSWt3MVAxc3J1VFBpVnBFTTFCNEJLN2lPUk0?oc=5",
+     "source": "ppc.land",
+     "time": "20:03",
+     "note": "AWS's committed $5.3B/50MW Saudi AI Zone, targeting 2028."
+    },
+    {
+     "title": "American startup Together AI looks to capacity in Saudi Arabia to sidestep US backlash over data centers",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQay14a0xOemNNVFZsRVlNNS1faUtmZnA0RXVzbmJTcHl3dlFKNFhpb1JoR3IxMmtzbDRKdjc0LTVUVGdwVTRIRWtDbVRhdzQwU3Vfc3JxTV9ISEtFYV8xd1hWOTdHZ0NtTTZUbGd3b0FrTXRjWFFqN2lDckszTHRndTNVbnE0TEluVndUSGNsdjZlOEMycnMtWnNUVklpS3M?oc=5",
+     "source": "Yahoo Finance",
+     "time": "03:55",
+     "note": "Together AI exploring Saudi capacity to avoid the home-market fight."
+    },
+    {
+     "title": "An American AI company is building its 250MW data centre in Saudi Arabia to avoid the fight at home",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnJNU2lscVJWY2FGUV9FNWRKZWY4ZzB0eURJSGszT3d1N3NFclRxMGx5bW9VMDctMjhDZnFteEVYQ2I4MFI2WXIwT2dxSXJwZVRiUFhFN2ZQRktUajhvTnF4M21qV3h2bTBFZVhsb29IU2dRWVBnVU43c0NSSmxoZWFoQVctbDhNa2RvRzk2NkV5SnNWOEgwVXItUVN3TUJERDNoUHh2UG9OZXZHS2JwYmlVOVgxQ1Y4WlgwbzNvaWE4TzdlQTdlZGRucElISjB5X2gxQXB3N1F2ejDSAeABQVVfeXFMTm5HMGpJN0F0Y3NJc08tVHdJN09jb3l3VG5QeGJtYUI2NTRzal85VDdiMFFNLVoxX2w4ejlHYmZyanNjaVp5OXAwVFQ4eGtoMDkyZlJETEdSbnNmXzlORU9HRWsybzFKZHMxdGtJeHd4MDEyVXZ0OUxGck90VGI0V0QwTWdDeVFZOUU3Y2lsSEo2UkktM3hmV0t6eERPekh3SEFEbGxKZnluODJESzRpZWU2MlJWem95Sl9lQ0wxVGt6ZDQ2TnpOUE9vX3ZOb0tHaERKZWZfeXhnd0pqVFBucm0?oc=5",
+     "source": "WION",
+     "time": "18:02",
+     "note": "US firm's 250MW Saudi data centre framed as an escape from domestic opposition."
+    },
+    {
+     "title": "Iron Mountain's AI Lending Deal in Saudi Arabia Might Change The Case For Investing In IRM",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMUlQRnRPWW5DSGhxVVE3Qm1OdEhzSldsQXU3eU1DUjBXVE1pUGg3aHpaa1ZXRjVOVWFueW8wYkhUdDgtc2hDLVNRUS1GOER1LTNfU05CVlVUdnBabUJLamR6WlBsUEtiUkYyYVlFcUpOeGcxYWlFNXgzOGNLTUdsbTRiY2laYjlWbmplVS1UeDhYOThtRm5OQnFpQlVqSEJzNzhGMUZCT3EySVJLQ3lNdmRydkFraDJ4bGJGeTFLRF9xT3BDeXR4bjVqZG85akRW0gHQAUFVX3lxTE8xSVBGdE9ZbkNIaHFVUTdCbU50SHNKV2xBdTd5TUNSMFdUTWlQaDdoelprVldGNU5VYW55bzBiSFR0OC1zaEMtU1FRLUY4RHUtM19TTkJWVVR2cFptQktqZHpaUGxQS2JSRjJhWUVxSk54ZzFhaUU1eDM4Y0tNR2xtNGJjaVpiOVZuamVVLVR4OFg5OG1Gbk5CcWlCVWpIQnM3OEYxRkJPcTJJUktDeU12ZHJ2QWtoMnhsYkZ5MUtEX3FPcEN5dHhuNWpkbzlqRFY?oc=5",
+     "source": "simplywall.st",
+     "time": "21:22",
+     "note": "AI-related lending deal in Saudi changes the investment case for Iron Mountain."
+    }
+   ]
+  },
+  {
+   "title": "Frontier agent economics reset: Fable 5.1, GPT-6 Astra",
+   "signal": 65,
+   "summary": "Anthropic's Fable 5.1 made agents cheaper and launched with fewer interruptions, while OpenAI's GPT-6 Astra can stay on a job and use a computer — both within days of each other. The competitive battleground has shifted from benchmarks to the cost and reliability of long-running agents.",
+   "angle": "Agent economics, not scores, is the new frontier war.",
+   "items": [
+    {
+     "title": "Fable 5.1 restarts frontier competition with fewer interruptions and new cost tradeoffs",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLTAyZkhPRFY2aEVJWVd0dFhlNm93eG9OSTNJRkVKR0tLVl9GQkFJVjRWcGIyUlJndzdEaVdUUjNCeFVBNUZHaXRlX0FBSGJnb1JtaDRFRWpLTFRPa0U3SzVxX2JZZUtvMnJrekM5Q1g4MnlIVXZLNnpYcGNQZHlQMEMxdWxSSS1u?oc=5",
+     "source": "The Rundown AI",
+     "time": "01:14",
+     "note": "Fable 5.1 reopens the frontier race with cost tradeoffs."
+    },
+    {
+     "title": "Sep 02, 2026 😺Anthropic launched Fable 5.1: and now, the agents cost less",
+     "url": "https://www.theneurondaily.com/p/anthropic-launched-fable-5-1-and-now-the-agents-cost-less",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Frames Fable 5.1 as the moment agent prices fell."
+    },
+    {
+     "title": "Sep 04, 2026 GPT-6 Astra can stay on the job and use your computer",
+     "url": "https://www.theneurondaily.com/p/gpt-6-astra-can-stay-on-the-job-and-use-your-computer",
+     "source": "The Neuron",
+     "time": "",
+     "note": "GPT-6 Astra positioned for persistent, computer-operating work."
+    },
+    {
+     "title": "Sep 03, 2026 😺 Gemini 3.8 and Muse Spark 1.3 go head to head for third place",
+     "url": "https://www.theneurondaily.com/p/gemini-3-8-and-muse-spark-1-3-go-head-to-head-for-third-place",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Google's Gemini 3.8 and Muse Spark 1.3 compete for third place."
+    }
+   ]
+  },
+  {
+   "title": "GCC enterprise AI: Aramco, Adobe, DIFC push forward",
+   "signal": 60,
+   "summary": "Gulf enterprises are buying AI capability at state scale: Saudi Aramco signed up to $3.7 billion in potential deals with French firms including AI technology, Adobe is offering free AI tools in Saudi Arabia as part of a $4 billion expansion, and DIFC's Innovation Hub widened its Global South reach. Vendors are pricing accordingly.",
+   "angle": "Gulf enterprises buy AI at national scale; vendors price for it.",
+   "items": [
+    {
+     "title": "Saudi Aramco signs $3.7 billion in potential deals with French firms covering drilling equipment and AI technology",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10XzBKU0hPMDRzUUVQWkVYWEN0M1lIcW93bFhkTElxZFFmM1B0V2dNYW0tYXRQUGJRSlNZRG1yaVhjV3Zpc3JzRXYwRWxTbVY0WURLTXJadTFSLTlVcFVMTkl5RzQ1X0I3?oc=5",
+     "source": "Energies Media",
+     "time": "18:20",
+     "note": "Up to $3.7B in potential Aramco-French deals include AI tech."
+    },
+    {
+     "title": "Adobe offers free AI tools to Saudi users in $4bn expansion",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUGtrZlJzMGF1RXhtRWJCRlRGdGlOLWNXaWxVS3lnLVBnU1VVYmYta2FRcUtTaElqRHBoSVFHSHFYM3ByblJtU1paeFRaOWNicFpzZVJOMTE3UjR4NWtSem9XV1hOempWQk9XWUlaUm1yZkxaTlBsT3RaWnVlaFZLYVZ2UWtha0d4TnNkRjJlU3AxVVB4RzIybTZsODJoelh4Y096c0tMelJ0UnNaTkN3?oc=5",
+     "source": "The Daily Star",
+     "time": "16:56",
+     "note": "Adobe's $4B Saudi expansion includes free AI tools."
+    },
+    {
+     "title": "DIFC Innovation Hub widens Global South reach through partnership with The Foundation Hub",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRFVJUGh0MGNSRUQ0OXR1UDdxVnU3YVI1THR5bkZEc2NKZzdSN1RpQ0VEVEtvMFlkRmlxaFhaUkl6QjhGZWRPdnZUemk4RmRXeVI4Z2FvaUREZmFiWjMtS2RlR05zMHFZYl9iUHhJdlR4Z0VJNVBFcnZZV2c0V2xEWG90SjhCdTVnX0tvY1RRckt1bWVsOVBBRGd3ZVdmVkllbXVBTnlGYjNlcG1JbUVkdFBXS0w5R2JCT1pKTk1QckVheGV3SndqYnFXTTdyblNpNWw2Z2NfOXpWUlJKblU2ZU5RRk4?oc=5",
+     "source": "Zawya",
+     "time": "18:37",
+     "note": "DIFC Innovation Hub partnership extends Global South coverage."
+    }
+   ]
+  },
+  {
+   "title": "The humanoid era: OpenAI, Skild, and Gulf fleet deals",
+   "signal": 58,
+   "summary": "Altman says OpenAI will build humanoids, extending its ambition beyond software; Skild's S1 promises to cut robot training to a single video; and Dubai-based No Competition signed a five-year deal for up to 10,000 humanoid robots annually. Physical AI is moving from demo to procurement.",
+   "angle": "The Gulf is buying the humanoid future at fleet scale.",
+   "items": [
+    {
+     "title": "Altman says OpenAI will build humanoids, opening a path beyond software",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTW8wSmdrWXFhVU52aEtYWG5BcHRKVWhpRjZYT3lxLWJ0V3NaVFdlMDBnSFk2WkRHMG8zMHpNUmxRTFNtZnd3bkRXNTluOXhmaEZVbWpTMlFKbnBWb2ZlRGFTVFo4c3FZZldtNGt4MEFvaXNjZzlMNExuSEdya1N1a1lrODl6Y2lMS2hR?oc=5",
+     "source": "The Rundown AI",
+     "time": "01:17",
+     "note": "OpenAI founder signals humanoid hardware plans."
+    },
+    {
+     "title": "Skild's S1 aims to cut robot training time with a single video",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiX3d4Q0FUM2hFOGFFZm1Bd0JUNFBPNkt2Um9xTGJHM1hneTFBWWtSX2hWQmxEN3JERC1rdHA3dmdlbmwwWVN1OEpoUWNINVZmZUljT0tNVm1yV2RwRS1CM0ZYd2hkb1d3dkN2T05FVVM3NVZuRVE?oc=5",
+     "source": "The Rundown AI",
+     "time": "01:18",
+     "note": "Skild's S1 aims for one-video robot training."
+    },
+    {
+     "title": "Dubai-based No Competition signs five-year deal for up to 10,000 humanoid robots annually",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejFua0x6aXFxUEVOcENQck1XVXFkX0lzYzU2dXF2czdPYnJ6WjBOMlNCSWVXRTM1ZTExM1JCOVhRanhxNDR4X0VEOHQ2UGtMaEltSlNZc0szLTdYbGF5VkQwYzg3dTFwbGh5MXRHOExFek5YRWVxa0tKLVpYUzY1YVBHa2xzelA2WjlURzM2REFGVEpncmJwMzFBbE9DaFFQWTE5RkdKR2xpbXlCWm5oUGRycFRmSFBJb3hoUA?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "19:10",
+     "note": "Dubai firm's five-year deal covers up to 10,000 humanoid robots a year."
+    }
+   ]
+  },
+  {
+   "title": "AI macro: servers surge, gadgets get pricier",
+   "signal": 50,
+   "summary": "The AI buildout is showing up in hard numbers: Hon Hai's monthly sales climbed 52% on AI server demand, TCS is committing ~$7.4 billion for a one-gigawatt data center campus in India, and the FT reports the AI boom has ended the era of ever-cheaper electronics.",
+   "angle": "AI is an inflation and capex story, not just a software story.",
+   "items": [
+    {
+     "title": "AI boom reverses the trend of ever-cheaper electronics",
+     "url": "https://www.ft.com/content/ea9a9dcc-b1df-49b0-b80c-f320161b9efa",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "Phone, laptop and console prices are rising, retailers expect more."
+    },
+    {
+     "title": "Nvidia Partner Hon Hai's Sales Climb 52% With AI Server Momentum",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-05/nvidia-partner-hon-hai-s-sales-climb-52-with-ai-server-momentum",
+     "source": "Bloomberg Technology",
+     "time": "07:45",
+     "note": "Hon Hai monthly sales up 52% on data-center and AI server demand."
+    },
+    {
+     "title": "TCS Plans One-Gigawatt Capacity Data Center in Southern India",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-05/tcs-plans-one-gigawatt-capacity-data-center-in-southern-india",
+     "source": "Bloomberg Technology",
+     "time": "11:07",
+     "note": "TCS commits 700 billion rupees (~$7.4B) for a 1GW AI data center campus."
+    }
+   ]
+  },
+  {
+   "title": "China turns AI tokens into a consumer economy",
+   "signal": 42,
+   "summary": "Chinese banks and carriers have turned AI tokens into rewards, monthly plans and even collateral, while commentators argue Chinese open-source models are becoming the global baseline or 'metric system' for AI. It is a different commercialization path from the US subscription model.",
+   "angle": "China treats AI usage like mobile data, not software licenses.",
+   "items": [
+    {
+     "title": "Chinese banks and carriers have turned AI tokens into rewards, monthly plans and collateral",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZmttOWVRQ2VESDRoZDJHektsY1FKbkJZX3d2ZUNZLWE3bmsybjhqVGhMTkZHWGdDSXdFczNCR01wakxqRmxVMFM4UERPQnBtNy1XT2NCMm9QYmZ6enRaUHhQT2tDSXk5cVR0UGdBVjBjNUxGTWI3Y09PRDJzQWtsYTcyMFhTQ2FCWHVGYTZnYWRvWW40WDhEVzh3bU5ac1hGY0NmZVpBWVlUaGRvcWN5NDlZZzJqUEJGSmFyZUhWc1p3anVJOXZSbTN1cDJhR3hraXJZR1RB?oc=5",
+     "source": "The Next Web",
+     "time": "19:26",
+     "note": "AI tokens used as rewards, plans and collateral in China."
+    },
+    {
+     "title": "China's Open-Source AI Models Are Emerging as the Global \"Metric System\" for Artificial Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qd19iQ0dxM3dJRC13RDBrbDlLME5LMGJ6bXE2cElYQUVQTHBBY1Nua1A4YU96d2RVZDZack5TdVdBVmtZbVlWbnhSYVlTZE14OU1N?oc=5",
+     "source": "36Kr",
+     "time": "09:21",
+     "note": "Open-source Chinese models positioned as the global AI baseline."
+    }
+   ]
+  },
+  {
+   "title": "AI policy and safety stack up: pause calls, agent rules, surveillance revolt",
+   "signal": 40,
+   "summary": "Policy and safety moves accumulated: OpenAI pledged new rules for reporting troubling AI-agent behavior, Sanders took his global AI pause proposal to Fox News with enforcement questions open, and US Republicans are revolting against Flock's AI-powered licence-plate surveillance. The politics of AI are fragmenting across left and right.",
+   "angle": "AI governance is becoming a cross-aisle, cross-border scramble.",
+   "items": [
+    {
+     "title": "OpenAI Pledges New Rules for Reporting Troubling Behavior by Its AI Agents",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0RubE5tVjlrRS1MNXJST0hTUDlCRFVlUnFMTFJCZF80VThQM1VfSFdWekYySE1tNVJsMkVEanBXRW85UlI4YXhfNzY4bG5DQ2w4c3NSZFJ4T0RVaFpjZDJIUFp1Q0xsOVF2UGJNc3BuaG5mRGtrWDhUWktZLUhmWkJBU2RjajVNTnBjYjRmY1lJVk84a2N0YXZWVG9DVURQSlRMcW9zVQ?oc=5",
+     "source": "The Information",
+     "time": "16:21",
+     "note": "OpenAI committing to new reporting rules for agent incidents."
+    },
+    {
+     "title": "Sanders takes his global AI pause proposal to Fox News, leaving enforcement questions open",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QV3J5TjJqYWtQeTFEU3RmRnNHNnRoTDBSS0pGeHZ1dzM1WHdGMWtNUWtrY3BCTkxVSFJSVHpSbDZ3SnUyMHE0NjEtTXQ2TThNeWN3OTBwSlVZZWNVRERxRnJyb0xrZzBkYlRGLWNWT2ppOEV3U0tZZzFB?oc=5",
+     "source": "The Rundown AI",
+     "time": "01:14",
+     "note": "Global pause proposal advances without an enforcement answer."
+    },
+    {
+     "title": "US Republicans revolt against Flock AI surveillance as tech backlash intensifies",
+     "url": "https://www.ft.com/content/b207536e-6def-4080-878f-d0eba61d11e0?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "Governors crack down on licence-plate-reading AI start-up Flock."
+    }
+   ]
+  }
+ ]
+}

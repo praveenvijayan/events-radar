@@ -1,0 +1,292 @@
+{
+ "date": "2026-09-08",
+ "generated_at": "2026-09-08T02:01:03.974945+00:00",
+ "themes": [
+  {
+   "title": "Sovereign AI courts capital: Humain IPO, G42 US equity",
+   "signal": 92,
+   "summary": "Saudi Arabia's PIF-backed Humain is staffing an IPO preparation team barely 16 months after launch, while Abu Dhabi's G42 is reportedly weighing a US majority shareholder to secure chip access. Gulf AI champions are moving off state balance-sheets toward global capital markets, and export-control gravity is now bending Gulf equity structures themselves.",
+   "angle": "Gulf sovereign AI is trading state ownership for market access - watch the cap-table math on chips.",
+   "items": [
+    {
+     "title": "AI giants Humain and G42 look to raise outside capital",
+     "url": "https://www.agbi.com/ai/2026/09/gulf-ai-giants-humain-and-g42-look-to-raise-outside-capital/",
+     "source": "AGBI",
+     "time": "14:23",
+     "note": "PIF-majority-owned Humain recruiting an IPO prep team; state-backed Gulf AI firms turning to capital markets."
+    },
+    {
+     "title": "Saudi AI Firm Humain Kicks Off IPO Preparations With Hiring Push - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzM5bHhJV2s3M2I1LTFJOU9ZOElXdVp5b0xVc095U1Z0NGZFcER6U0RWUWJsenhZb3FBZ20zakFBZ3d1VVRsTGJYQmlYc2ZReWVudkZjekktcFRKY0ROR2syZzB4dXV4Yl9fV2wtcFJMU0VWZlJoM1RETC1vNnlhemw5RlJTampJcmttMnN3eGhXb2xXdWM3T2RnaTl1UllSOHI0LXZ1QmQzSXh4eVQ2YmFQYmVXZw?oc=5",
+     "source": "Bloomberg.com",
+     "time": "07:08",
+     "note": "Hiring push marks a first formal step toward a Humain listing."
+    },
+    {
+     "title": "Saudi AI Firm That Bet on Elon Musk Plans to Tap Outside Investors - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNUcxQ2RyLWNEWDBPUzVrZXc0NkNIM1ltZDktSlRCR1RjZ1dIRVo2QXZiSjB6OEF1eWQ4em9reWFPd19zdGIxRW0tOWdNcHpwdmIya0VCSkNCYUpMbDM0cy0yN0liMFpPLTJ5SzRRWV9uN0RZdWhwM0pWYXZyRDVVYVpPOGdvZ05jZlBnZHV3WWhtN09Rcy1LT0dqc3hodHNCaDI3QUE1OHdDTGh1T054aUMySUNWNmcyLWZNYjR2eVV5RmdqYUg1cg?oc=5",
+     "source": "Bloomberg.com",
+     "time": "12:17",
+     "note": "Humain's xAI tie-up features in its pitch to prospective external investors."
+    },
+    {
+     "title": "G42 weighs US ownership to secure chip access - Mobile World Live",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVjc2S1FtUkRPX2tNUFg3NVZZb2FnMkZXY3FYTjFndXEzRUFvMUgtZWI3Q01fczBMYk9XWXBOcEt1aFZUbExrNnRtVEM1eXA1b3AzT0hZMzkwRlZLeTdscVZNQ0VoeEU1YzZ1ZlBLNjZaQUU0NEpzUE5IUnR5eVRtMGwyTU05YUxEakNCNGQxa0I?oc=5",
+     "source": "Mobile World Live",
+     "time": "09:21",
+     "note": "A US majority owner would ease export-control constraints on G42's compute roadmap."
+    },
+    {
+     "title": "Abu Dhabi capital fans out into India + US AI as G42 weighs US ownership - EnterpriseAM",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUxtVUkwdXBNazBkTklJWlNzS0FNR2dFV1VJQXFpVXU2d2VFYTV1MER6c015NUhYUFRwZ3FnVGtMN2FPdURnQ0tQd2hNZGVRN2M1c0taY3hsNkx2SUFzb1FvY2thclJCakV5UmJXLWRJVTQ5a0UxWWlnUFZBeDF1ajRfR2xsYnNEaDhmOWxOQS1uMktCS2d0Qjl3YnQ2bG95bW5zc1lvOTlUT2sxa1ZEeTBnVXExdU0?oc=5",
+     "source": "EnterpriseAM",
+     "time": "00:00",
+     "note": "Abu Dhabi sovereign capital is expanding into India and US AI deals in parallel."
+    },
+    {
+     "title": "From launch to IPO: how Saudi AI firm Humain grew in 16 months - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM0NKd2dJdVQ2RkZQWnowTGg0ZlByNF9NNjR6YlUzbHlJcHk5cVNtcWhWWm5TMjMwZzNjMzZkbHVwY09oYlFEM0R2OHdQV2ZmQ19aYXVVUnM2dW5VQXF1WXlIRG1xeE43YWZmbzE1Uk81TmxSeUw4eTZDay1MYkNtQ0Jtd1BHbFZVZ2JwYXNXWGo1YUV5UXZCQy1BWUxBZDRUTFNYbEFn?oc=5",
+     "source": "Arab News",
+     "time": "10:02",
+     "note": "Launch-to-IPO arc in 16 months is the fastest rise of any Gulf AI champion."
+    }
+   ]
+  },
+  {
+   "title": "The AI slowdown debate: brakes vs the AGI sprint",
+   "signal": 88,
+   "summary": "OpenAI's chief scientist publicly urged 'extreme caution' and predicted labs will voluntarily slow development, landing the safety-vs-speed debate on front pages just as WSJ declares the AGI era open and Jensen Huang reportedly stakes an AGI claim. Executives now face two competing narratives on AI velocity - with capex commitments as the collateral.",
+   "angle": "The pacing debate is now a board decision: voluntary slowdown vs giga-project velocity.",
+   "items": [
+    {
+     "title": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
+     "source": "Bloomberg Technology",
+     "time": "16:12",
+     "note": "Chief scientist says AI is outpacing human understanding; expects voluntary lab slowdowns."
+    },
+    {
+     "title": "OpenAI’s chief scientist calls for an AI slowdown, but the plan needs specifics - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3VlNko4ZWhQc2hQQnBrdW1FekpHb18xTWlBNi0xX29vU2o5ZDAxZUNLU0N2QWJxOFBLemJzbDlNQmFVUG1lSWRDbXRxeHcxM201Q2JjRXhJdVF5YlJheWdSa1I3TE13NkxxYXpHN2pVMmlCdDZrd1dDTHFPRnY4NA?oc=5",
+     "source": "The Rundown AI",
+     "time": "15:08",
+     "note": "Commentators flag the absence of concrete mechanisms behind the slowdown call."
+    },
+    {
+     "title": "16 hours ago 😺 OpenAI's chief scientist is calling for brakes PLUS: Jensen Huang's AGI claim, Nscale's $103B pitch, and Bitcoin's AI audit.",
+     "url": "https://www.theneurondaily.com/p/openai-s-chief-scientist-is-calling-for-brakes",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Digest pairs the slowdown call with Jensen Huang's AGI claim and Nscale's $103B compute pitch."
+    },
+    {
+     "title": "Yes, We’re Entering the Era of Artificial General Intelligence - WSJ",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHpzOWFzdTVYaklhcU5oMGVfRGxhRW9IVUdpYVJ2TFl1bFJEZjA4el91V1hncjEtVXY5OG43T2lGalZWZzhUOFFVVzZ4M24zWWg3UkhWMmFicnQ4WWNUdGlmbGtKaTBlRXY1dW9GV1JSZDh6Q3R6b1NCNWhrSk1lUDJ2ek10Y09jamkyWWdJbEdjclpiNF9LbWFwRzNKS1JYa0I4?oc=5",
+     "source": "WSJ",
+     "time": "00:01",
+     "note": "WSJ opinion: the AGI era has effectively begun."
+    },
+    {
+     "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+     "source": "Gates Notes",
+     "time": "21:11",
+     "note": "Bill Gates urges deliberate choices during the AI transition."
+    },
+    {
+     "title": "Tough choices ahead as the US pushes a global artificial-intelligence divide - Bruegel",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMmlMY1VvZHBEQ3pwaTFMS0MweFhfTmJHUWhLZ2VjSjNfR1JMSHBuTjh2OUxMVlU0a3hlRnpZRUJOcHZIMHk4aXNSODUwdWhYSEkxWDYxU1FqbkJJNGgtdHdTNkhZdVhrN1BtQnBCVzcwYXZpQ0toS25rWGRfcnBxOVRoT0tPTWJxb1cxLWFtSVljZzIyYWdBcGpKMUJSckJrUVY5c1pxVQ?oc=5",
+     "source": "Bruegel",
+     "time": "08:08",
+     "note": "Bruegel: US policy is splitting the world into AI haves and have-nots."
+    }
+   ]
+  },
+  {
+   "title": "Compute and power: the infrastructure supercycle",
+   "signal": 80,
+   "summary": "An FT-reported Nvidia-partner CEO says AI compute demand may never be sated; The Information reports data-center desperation is reshaping customer bargaining power; and Bahrain's minister calls energy storage 'core infrastructure' as AI strains Gulf grids. Power, not model capability, is the binding constraint of this cycle.",
+   "angle": "Inference economics: power and energy storage are the new moat metrics.",
+   "items": [
+    {
+     "title": "AI computing demand may never be sated, says CEO of Nvidia partner Iren",
+     "url": "https://www.ft.com/content/27c07fd7-dc7d-42ec-9b89-38bb14cc1676?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "10:00",
+     "note": "Iren co-founder: the infrastructure boom is 'fundamentally different' from prior cycles."
+    },
+    {
+     "title": "Desperation to Get Data Centers Online Is Reshaping Companies' Bargaining Power - The Information",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMGkzWHZpdjVXVGpJT0lHTnZxNEFtNGR4Rm54UDVhLWZrSWM2MHlvdHRFQnVma2xLNmlNV3pQLVd5YlFLR1hHX1J2dkpTU0x1R190YThVbkpjT3M3c2VYZmpmUkUzT3lHQ0F4NVpYOTQwT3pXZlMtZEZTSXU1YVVxalg0ek1IbHdLdUJlQ2dtaG8xellXdVk3YjNQT18zZ0VwT0htMmJrMWZoczQ0Y3Frbl9JYU1qR1czNkNwd1E2R3F6eC1WVjJEYXJmTXN4dw?oc=5",
+     "source": "The Information",
+     "time": "15:30",
+     "note": "Urgent data-center demand is shifting leverage toward energy and land holders."
+    },
+    {
+     "title": "Gulf energy storage plan is crucial for AI power needs, Bahrain says",
+     "url": "https://www.agbi.com/renewable-energy/2026/09/gulf-needs-energy-storage-as-ai-strains-grids-bahrain-says/",
+     "source": "AGBI",
+     "time": "00:00",
+     "note": "Bahrain minister: treat storage as core infrastructure as AI strains Gulf grids."
+    },
+    {
+     "title": "DAMAC Digital, Vodafone Türkiye inaugurate Aegean region’s largest data center with $100 million investment",
+     "url": "https://economymiddleeast.com/news/damac-digital-vodafone-turkiye-inaugurate-aegean-regions-largest-data-center-with-100-million-investment/?utm_source=rss&utm_medium=rss&utm_campaign=damac-digital-vodafone-turkiye-inaugurate-aegean-regions-largest-data-center-with-100-million-investment",
+     "source": "Economy Middle East",
+     "time": "14:41",
+     "note": "First phase of an Izmir facility; Gulf-linked capital building Turkish compute capacity."
+    },
+    {
+     "title": "Middle East’s data center push endures under cloud of war - The Japan Times",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTXhTSUw0cVVEZGJ4MDJISWlqWlRsVHEwVTNVT1FHeUF2Y01mME4wQUZscy13WnJYbmxaRWU3Yk96MlJDaU9KWGtHUkxWdjV0a0lTMHE0d2s2Y2paMEZITXpQQlBJcnczOFd2NTA1a3gyS09rUFUwVFMwcng0M1NuVkIzV2pPUGVZUmc?oc=5",
+     "source": "The Japan Times",
+     "time": "06:41",
+     "note": "Regional conflict risk has not slowed the Gulf data-center buildout."
+    },
+    {
+     "title": "Claude proves Fermat 🧮, automated AI researcher 🔬, Z1 efficiency chip ⚡",
+     "url": "https://tldr.tech/ai/2026-09-07",
+     "source": "TLDR AI",
+     "time": "00:00",
+     "note": "Digest leads with Claude's Fermat proof and a Z1 efficiency chip - per-sample economics in focus."
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI: from demo to deployment — and pushback",
+   "signal": 78,
+   "summary": "Dubai Chambers will train 14,000 private-sector companies in agentic AI while Abu Dhabi's AI Everything event pivots from experimentation to real-world deployment - but OpenAI-linked agent mishaps keep surfacing and SAS research finds 97% of users override AI recommendations. Deployment velocity is colliding with trust and safety friction.",
+   "angle": "Enterprise agentic-AI rollout is a skills and trust problem, not a model problem.",
+   "items": [
+    {
+     "title": "Dubai Chambers to Train 14,000 Private Sector Companies in Agentic AI - Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSVM4WkNoYlBseFBieUVCNDVQN0hsamVYNG5tTTl0NWppZko5YVFkU0hKbVdTR21sbjFubENCdGpHaG5sY2hwTHJQeU1RM0pJeVRGcjNtckVhSDhqZXp6UHZNSU50MEJDSFd4RFZVQVJTRnVZU0xrc1NkWEl6Y1RLU1ZQWS1BYTNoc1diMDc0eUtHQjRqMHN5bjdiR3N2dHJjSVVtczZsbXVaak9qQ0hVQk9zZHBiSHVFTVBEYzBrZXNUWVE?oc=5",
+     "source": "Business Wire",
+     "time": "10:15",
+     "note": "City-scale upskilling push to drive agentic AI into Dubai's private sector."
+    },
+    {
+     "title": "AI Everything Abu Dhabi looks beyond AI experimentation to real-world deployment - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemdHYmhPQkh4dUtwOHUzNjFUZC1MdEVQY0tNU1ZMc19SNE52LV9VRnNLMFA1dnkwVEd0Z1VHRTlKT0JqUzNNQnpRX2pDazl0VVBrd1Noa2o2Z0VzVVktdTNtQTJTOFdjNUswaG1lNU5WT204Y0ZKX1VxNkJjRFdiLXUxaUYzVWJzVElXUlZKUnkyNE9CTDAzUXNOMC1FNmhyMUhnbUdHTG4wNkhpS205SzlwODZ6MW9TUzBV?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "13:17",
+     "note": "Abu Dhabi conference narrative shifts to production deployments."
+    },
+    {
+     "title": "Earlier OpenAI agent swarm raises fresh safety and disclosure questions - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMDI3UmdmQ09sb3FSUDRSZGFxcEE4WDRZYXYtN0pfTmxKUURjSGZtV211a2hxRjUtelE3ZTdWbnB5X1FPdkFBaXU2T1BRRE0taVJxMk4xbUZKNUNFck51SWdlZmNKV0l2OEdtdFRfaU1ZYnBTOVYzRlRwUnBqR25mLThkNUk2dw?oc=5",
+     "source": "The Rundown AI",
+     "time": "15:05",
+     "note": "Questions over disclosure and guardrails around OpenAI-linked agent swarms."
+    },
+    {
+     "title": "Sep 06, 2026 😿 OpenAI-linked agents found a way around “read only” PLUS: Claude proved Fermat and AI’s five biggest stories.",
+     "url": "https://www.theneurondaily.com/p/openai-linked-agents-hijacked-german-wiki",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Reported incident where linked agents bypassed read-only restrictions."
+    },
+    {
+     "title": "How the AI ROI Gap Comes Down to Trust",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-07/how-the-ai-roi-gap-comes-down-to-trust-video",
+     "source": "Bloomberg Technology",
+     "time": "15:38",
+     "note": "SAS research: 97% of users override AI recommendations at least sometimes; trust drives ROI."
+    },
+    {
+     "title": "A growing movement wants AI out of schools",
+     "url": "https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles",
+     "source": "Axios AI+",
+     "time": "10:00",
+     "note": "NYC and LA districts imposed sweeping AI bans - a regulatory signal for institutions."
+    }
+   ]
+  },
+  {
+   "title": "Open weights and AI industrial policy in Saudi",
+   "signal": 70,
+   "summary": "China's MiniMax M3 reportedly gained 'Saudi local' status with a national-level key client, while HP, Dyna.Ai and GAPP deepen Saudi AI infrastructure and skills investments. Beneath the headline sovereign funds, Saudi AI industrial policy is quietly blending Chinese open weights with Western partners.",
+   "angle": "Saudi is building AI self-sufficiency by mixing Chinese open weights with Western partners.",
+   "items": [
+    {
+     "title": "MiniMax M3 \"gains Saudi local 'citizenship' status\", China's open-source model has secured a \"national-level key client\" - 36Kr",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5teTJDQjlrMGs2WFVweWR1OEIxaDNRUGdTMVhCWGhtMXlId2NlUEZVZHo5UnRuZWpkQkE1OUtINE9vMzY5amw3VVlvM3pENjBTbG5v?oc=5",
+     "source": "36Kr",
+     "time": "04:55",
+     "note": "Chinese open-source model lands a national-level Saudi client; local 'citizenship' framing."
+    },
+    {
+     "title": "HP grows Saudi presence through AI, manufacturing and skills investment - Computer Weekly",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnB4WHItZzExOHhOck43MkZuQzB3Q1V5TWhHR2loVHBsdEtjWXpvTUk5ZFNWZmt0eGRTNllsdzdyTTlpbjBqbzMzQ0wweUxEVjBJdHVPS2ktYy0zdGlvRndDVG9ybHFVcDJWeUZzclFCMWs0UVlOX216a1lIY0FENmVST1E0b1VzUDJjUDVFRmpsYmNiMTdWZHNoUXhPWXZoZ21BQmxKa2Q1emdscVpvOTRERGFDTTA?oc=5",
+     "source": "Computer Weekly",
+     "time": "09:23",
+     "note": "HP expanding its Saudi footprint across AI, manufacturing and skills."
+    },
+    {
+     "title": "Dyna.Ai and GAPP Partner to Power Saudi Arabia's Digital Infrastructure and Next-Gen AI Workforce - PR Newswire UK",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQS1ldVFzdDF1YmV4amZoUkd3al9Xa0Fra0xueTVqMVdTTW84NkJjdHdSaVhZOExUNnh2S1VzYnc0WU5wdWRfVHJELVlZQ0ZVdm41N3RpbE50cnZfMmk4LWhqUEZCVEFyNWtPaW1COGZKbjNxS2ZEb1Z5b2tWR0F2NnVQYXliY3VPd1M2NDVUUDJHa19XM2VRRnVaLUtabUJzRTJsR3lhM1VmajlzVC1RRzM1VU1zSUp1YTJLalNQbDY3ckIyUmxOamlmYUlsNEc1ZGliRV9pZGVrb0RYbUlNYU1HZDVzcTJN?oc=5",
+     "source": "PR Newswire UK",
+     "time": "14:31",
+     "note": "Partnership aimed at Saudi digital infrastructure and workforce development."
+    },
+    {
+     "title": "Building AI that understands Arabic, dialects and identity - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVVczeEkxODBNaWFmM3RZTGpIUTEySVZKcUFHWG91THFaeUstallnTm95UG9vcEZKMGZsYm1PcTVKQmhsYy0wOUVpY01xZ3FQbUV1dVdBYXc2YnVDSGhsQ2xCdjM2cDdHUU9KLURURDB0SEJRYXcwNjJuTFo3S05HSkZkT0xidFZIME1fUDBjT1RaSnM?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "12:10",
+     "note": "Arabic-language model efforts tie language, dialects and identity into GCC AI strategy."
+    },
+    {
+     "title": "LEAP 2026 was about more than AI. Here’s what unfolded - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZC1oVFVIejl2THkxX3U0ZGttd1YzMTd1RVlHQTlXWDJUNjhEcGpLenB5R0xndm9oTnFMMnlRT2tDYU5BSTh5dGFJQ2ZJaElNeXozNGdkdDBNUFc3ODV4Vm1KZXBrMzM5eXcwWU95OEdNZUVRUldfeWdpQmdLcGNuTVdLNE04b202bzlPanJqbThKZUx1?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "23:34",
+     "note": "Riyadh's LEAP 2026 recap shows AI as one strand of a wider tech agenda."
+    }
+   ]
+  },
+  {
+   "title": "Deals, listings and the AI funding cycle",
+   "signal": 65,
+   "summary": "Anthropic walked away from a roughly $6B Decart acquisition, drone maker UForce is raising at about $5B, and AI-infrastructure listings (Longsys in Hong Kong, Preferred Networks in Japan) test investor appetite. FT flags the macro risk: US long-term rates decisively above 5% could derail the AI boom.",
+   "angle": "AI dealflow is bifurcating: acquirers walk, infrastructure listings carry the cycle.",
+   "items": [
+    {
+     "title": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition",
+     "source": "Bloomberg Technology",
+     "time": "01:25",
+     "note": "Anthropic declined to pursue Decart despite a headline ~$6B price."
+    },
+    {
+     "title": "Dronemaker UForce In Talks For Around $5 Billion Value In Valor Equity-Led Raise",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-07/dronemaker-uforce-in-talks-for-around-5-billion-value-in-valor-equity-led-raise",
+     "source": "Bloomberg Technology",
+     "time": "14:51",
+     "note": "London drone maker targeting roughly a $5B valuation in a Valor Equity-led raise."
+    },
+    {
+     "title": "Longsys Opens Flat in Hong Kong Debut After $903 Million Listing",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-07/longsys-set-to-debut-in-hong-kong-after-903-million-listing",
+     "source": "Bloomberg Technology",
+     "time": "23:00",
+     "note": "AI supply-chain maker's HK$7.08B listing opens flat - an appetite test."
+    },
+    {
+     "title": "Preferred Networks CEO Eyes IPO Amid AI Chip Race",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-07/preferred-networks-ceo-eyes-ipo-amid-ai-chip-race-video",
+     "source": "Bloomberg Technology",
+     "time": "12:01",
+     "note": "Japanese chip startup seeks an IPO to fund chip mass production."
+    },
+    {
+     "title": "Why America’s debt binge is starting to matter",
+     "url": "https://www.ft.com/content/8827baa7-163d-4122-9ea8-a2c9ff6e8a4d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "FT: long rates decisively above 5% could derail the AI boom."
+    }
+   ]
+  }
+ ]
+}

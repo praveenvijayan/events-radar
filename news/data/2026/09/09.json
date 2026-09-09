@@ -1,0 +1,287 @@
+{
+ "date": "2026-09-09",
+ "generated_at": "2026-09-09T02:00:07.790629+00:00",
+ "themes": [
+  {
+   "title": "Washington accuses China's AI labs of mass model theft",
+   "signal": 80,
+   "summary": "US security agencies publicly accused Alibaba, DeepSeek and Moonshot AI of systematically extracting proprietary knowledge from American AI firms, and warned Silicon Valley developers to protect their work. The distillation narrative reframes cheap Chinese frontier models as an IP-security problem, not just a cost advantage.",
+   "angle": "Model-IP theft turns the AI race into a supply-chain security issue for enterprise procurement.",
+   "items": [
+    {
+     "title": "US Says Alibaba, DeepSeek Have ‘Systematically’ Siphoned AI Models",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-09/us-says-alibaba-deepseek-have-systematically-siphoned-ai-models",
+     "source": "Bloomberg Technology",
+     "time": "01:50",
+     "note": "Washington named Alibaba, DeepSeek and Moonshot AI; Silicon Valley urged to lock down its work."
+    },
+    {
+     "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
+     "source": "Reuters",
+     "time": "21:31",
+     "note": "Reuters wire confirms the accusations with 'malicious' framing."
+    },
+    {
+     "title": "Intelligence agencies warn of China’s large-scale AI model distillation efforts - Nextgov/FCW",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMzQ0NVo3M0tSMjhHNFd5Mk1vWUZpTUZMTVlscG9BTUpIbFpoSGNPYldUYUJycjhNQW00ZmdpdkFkQXR3MTB2UDhzemliSDhfWWY4RnA3MlNpZ0dGdUc3UnhGZ1Npdk9WYXU3M1hrekszNkE2T0xtRHdlX3ZUTk9MV0NIY01SNHYyVTdJaWlIWUFVOXF2UUxsdkpnMS1WSjVXOHgtX3V4WG53djdLZjljR1E3cFYwWlVKODI3akp5RjRCcUhseU93NGczQWFKOHhkNk5DNFpn?oc=5",
+     "source": "Nextgov/FCW",
+     "time": "21:52",
+     "note": "US intelligence frames model distillation as a national-security concern."
+    },
+    {
+     "title": "China v. US: The Great Mideast AI Race Heats Up - Informed Comment",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZRUlTQ0NpekxaRHJ0aG80QVR0OVIzWHZ4VmR5dFRnaThkMGRYc19XY0FBaUpibzhQQXI4TG1WdHR4R2V2d2VkcjdRZUtzbjBhb2ZjS3RpaVRsWHRTUVktZEU3QThuaFdV?oc=5",
+     "source": "Informed Comment",
+     "time": "04:15",
+     "note": "Commentary tying the rivalry directly to Gulf competition for AI partnerships."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI claims Millennium Prize solve — and a credit storm",
+   "signal": 75,
+   "summary": "OpenAI published an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a formal proof in Lean, and credited its agents. The achievement was quickly overshadowed as outside mathematicians raised questions over unpublished prior work; Altman said the lab faced 'unfounded accusations of plagiarism'.",
+   "angle": "The attribution fight matters more than the math win for trust in AI-assisted science.",
+   "items": [
+    {
+     "title": "On the Navier–Stokes Millennium Prize Problem",
+     "url": "https://openai.com/index/navier-stokes-solution",
+     "source": "OpenAI News",
+     "time": "10:00",
+     "note": "OpenAI released the writeup plus a Lean formal proof; agents did the solving."
+    },
+    {
+     "title": "OpenAI's historic math solution overshadowed by credit controversy",
+     "url": "https://www.axios.com/2026/09/08/openai-math-solution-navier-stokes-credit",
+     "source": "Axios AI+",
+     "time": "16:32",
+     "note": "Questions over unpublished research by outside mathematicians cloud the claimed breakthrough."
+    },
+    {
+     "title": "OpenAI Says Its AI Agents Solved Prize Math Problem - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHVMempfMVJwMGZZODNzRVdNOVFITUNmRlNwUVFqM3R2QVpJTE9lbm9UWHgwWk5OdzAzTVFnYnZMLTY5ZDJ4RG5zVWdmRFRkazlxQWtaMF85U1VMZEx6eFJHWWV4NXJvQTczSVlJQzVmNHRVQVJXaGVXOHFFcDBHNEFhZkQ2Y0dmVzlsS000RzZMQQ?oc=5",
+     "source": "The Information",
+     "time": "22:51",
+     "note": "Agentic framing of the solve from The Information."
+    },
+    {
+     "title": "OpenAI faces competing claims around maths breakthrough",
+     "url": "https://www.ft.com/content/4d6d28a0-4b12-438e-8850-4b3d49fc57f5?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:53",
+     "note": "Altman says lab was threatened with 'unfounded accusations of plagiarism'."
+    }
+   ]
+  },
+  {
+   "title": "Gulf AI capital deepens: ADGM, LEAP, Humain, Nokia Riyadh",
+   "signal": 75,
+   "summary": "ADGM reported assets under management up 54% in H1 2026 as its workforce neared 50,000 and licences hit almost 14,000, with Arabian Business pegging Abu Dhabi's AI investment at over $100bn. Saudi Arabia's next AI strategy took shape around LEAP 2026, Saudi firm Humain kept expanding after a 16-month sprint to IPO, and Nokia opened a Riyadh R&D centre for AI-powered network automation.",
+   "angle": "Gulf liquidity is converting oil-era capital into AI-era hubs faster than the global press cycle registers.",
+   "items": [
+    {
+     "title": "Abu Dhabi financial hub holds more than $100bn in AI investment as ADGM assets surge 54% - Arabian Business",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53UWlNRENoRDFEZ280SmRrTkhKYW56YWVoREhoOFF4MnRJWmV2aWh4akZsTTdVQkN3LUJjcWdnZmhMYzM2NFFqUjVWZlB3TFhtei10WHRlZWlzdDJzTzd4cWUwV245WVhCWmZfa28xOFdkY3JfUE1VdGR3?oc=5",
+     "source": "Arabian Business",
+     "time": "23:40",
+     "note": "Arabian Business tallies over $100bn in AI investment; ADGM AUM +54% in H1 2026."
+    },
+    {
+     "title": "ADGM Reinforces Abu Dhabi's Standing as a Global Financial Hub with 54% Growth in AUM and Almost 14,000 Active Licences - PR Newswire",
+     "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZjZUQko4MjA4NFFGazFhSkFEbUVCenAzZ2gyeE9PRjh3VWRZQ2tLajNFVzJZdXBlelpzYUhNUE9vQk9rQnVEeDlPVVRsbU9XMVd2NnVTelpmMG5heG9adjZMNDhTYkNEMjBvNG5zNEpuMklXSzJxZmZvMnJkYy0wMW9vNEZ4bkV0bUE4SkFEYzYybHcyOUMwLVYwdXN4VDRUXzMwLWQ1MHdNSWZ0S2U5VEcyNFpqdURibzlSWkFaUXltOVJhZHdhb1lfWjdtckd4UVMzejMyamhTX2ptYzY0LTZDc3otYmZMWTVPZU8wbXJUY2hPWjBPRHg3Z0N5U0ZudkJv?oc=5",
+     "source": "PR Newswire",
+     "time": "14:12",
+     "note": "Official ADGM release; also covered by Zawya."
+    },
+    {
+     "title": "LEAP 2026 reveals the direction of Saudi Arabia’s next AI strategy - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkg2X19Lc21KRTRjbmVPRTFyT1hHN3djZlZnSWlCQ2NpNWNrYVRhN1pBSzN3MUptTDVQcnpEX2pUSW9FQzBDNWEtMlBmQVJrVEN6OUg1WGhxNGxOQ3NwYUJEYnpMdU9BTGZvazE5YnlBVkNwYWV5SV85RVlXdEpxeURWazY5OHNpSTJ4TEFXUnhtV280S2hERnlLZ0xHQQ?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "10:04",
+     "note": "LEAP 2026 positioned as the window into Saudi's next AI policy and spending phase."
+    },
+    {
+     "title": "Nokia opens Riyadh R&D centre to advance AI-powered network automation and support Saudi Vision 2030 - Computer Weekly",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYldLX2otTHJpWGRwcTZ1dXpRRnhMYmU5aFZDRnIyekxIdksxQW5meWNsZHllc2hzY2hDMmJaX1J0Y0c4ZGkxTXVKcHlmcmJrdWlEWXZFaFNlWnkweWNZQU9ka0F3d1NZMHU1WjhfZUlkTUdsYmNhaEJieEpXbi1DU05aUXEwU3lhN1Y2NDlSWUVLSGtta3hHSVJWbmVCU2lUajBVaUpNbkpibzluNjNRTWVfWl94V29FY1NQNUdVRFhXdEljTHN3MmR5ZWo4TmhDZ2VuenJ2QlozQmVfOFE?oc=5",
+     "source": "Computer Weekly",
+     "time": "09:00",
+     "note": "R&D localisation tied to Vision 2030; network automation as the wedge."
+    },
+    {
+     "title": "From launch to IPO: how Saudi AI firm Humain grew in 16 months - arabnews.jp",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80cDlVSmEyY1M2bWJBWk9VV1M4dnFTakYzc0tPYkQxemxDemVZaXgxSWJUam56b2pDUHBXR3F3LXhtdF9kOGdXWlZ5Vkh0UDV5WTlYUGx5cjdvZDlWcjdQVQ?oc=5",
+     "source": "arabnews.jp",
+     "time": "01:09",
+     "note": "Humain's rapid path to listing; it also signed an AI MoU with Jordan."
+    }
+   ]
+  },
+  {
+   "title": "Agents go consumer: Meta's Muse, workplace agent bets",
+   "signal": 70,
+   "summary": "Meta launched Muse, its first consumer AI agent, linked to WhatsApp and Instagram and built to make personalised suggestions from chats and social activity. Agentic AI also moved up enterprise agendas: Paytm is betting its next revenue phase on workplace agents, and Dubai launched an agentic-AI training drive targeting 14,000 businesses.",
+   "angle": "Consumer and workforce agents shipped in the same week — the deployment gap is closing fast.",
+   "items": [
+    {
+     "title": "Meta unveils AI personal assistant linked to WhatsApp and Instagram",
+     "url": "https://www.ft.com/content/5816292b-c36b-4c22-aa50-2680b9970382?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:44",
+     "note": "Muse makes customised suggestions from chats and social feeds; The Information confirms the launch."
+    },
+    {
+     "title": "Paytm Bets on Workplace AI Agents in Pivot Beyond Payments",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-09/paytm-bets-on-workplace-ai-agents-in-pivot-beyond-payments",
+     "source": "Bloomberg Technology",
+     "time": "01:00",
+     "note": "India's payments pioneer sees agentic AI as its next growth engine."
+    },
+    {
+     "title": "Dubai launches Agentic AI training drive for 14,000 businesses - Euronews.com",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTjZNUGdSaFY0Z3ozTG5OaktVaEQwamNzeUhnZXZMSmZxS01lY3duZ2RpU01US0hlRGlBcjRMNzNKVHhtTGxEcnI5MEhJNzRTbko0Zk9KdV9uekpKYXlvb1VSSmU4UjczN1NmNTlCZVBkNGlOTU82YV9EeDFsZC1kWGktNlRXb0tJbE0ycXM3MTRLamp5REFPTUVDSTBybVQ3SDBpWjNIVFE3QQ?oc=5",
+     "source": "Euronews.com",
+     "time": "14:04",
+     "note": "Emirate-level bet: workforce training as agent-economy infrastructure."
+    }
+   ]
+  },
+  {
+   "title": "Record funding week: Mistral €3bn, Cognition $48B, IPO paths",
+   "signal": 65,
+   "summary": "Mistral closed Europe's largest AI round, a €3bn raise led by Samsung, as the region strains to keep pace. Cognition raised over $2bn at a $48bn valuation for agentic coding, ElevenLabs hired a CFO with a 2028 IPO in sight, and the Gimlet deal showed tranche structures that signal a frenzied funding climate.",
+   "angle": "Capital is now rewarding agentic coding and EU autonomy at the same time.",
+   "items": [
+    {
+     "title": "Mistral raises record €3bn as Europe strains to keep pace in AI race",
+     "url": "https://www.ft.com/content/adbf5262-c4d5-4312-a9b8-4d3cf30c9e00?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "05:00",
+     "note": "Samsung-led round; Mistral continues challenging US and Chinese rivals."
+    },
+    {
+     "title": "Cognition Raised Over $2 Billion at a $48 Billion Valuation - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMU5FZVhxMjdMRUpqanFTWThEVlgyNGpMVEdtMVlCdHBGcmNEd3pkNElLY0NYdkZzTjU2NkwyWi14aFBuVXpKQ0E3Wk14S2cwaVFXM0RVeDFTb0JsOExicVl1VDV1V2FLaGtsQ05OTGsyazhaamJkYjVCRTRaRTJRVUp5ZGNIdTJqTzZvNUh1NnVYQQ?oc=5",
+     "source": "The Information",
+     "time": "20:45",
+     "note": "Agentic coding's valuation keeps compounding — Devin's maker."
+    },
+    {
+     "title": "ElevenLabs Hires CFO, Eyes 2028 IPO - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTnBsV1VZb3d4SVhGMXNmQW5oYTFiTG8tSERFcnVUcU9Jai1VTXlFbjJEYXI5dGpmSTFrT0h6V2Q3TzBReGl3Y3ROSmtrN2FsbzVOVVJhc3o3cmxvRjVGZEptSlRmM2gwcUkzcjJ6d2ZldUkyY1FpN1dLRUUwMW1vWUF5d3EwTlBnQXhxalZQbjA?oc=5",
+     "source": "The Information",
+     "time": "12:04",
+     "note": "Voice-AI company starts walking toward a listing."
+    },
+    {
+     "title": "Gimlet's Three-Tranche Deal Reveals AI Funding Frenzy - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeU5NRXBYV0J5ZlhRbW1pN1RJN1pybjBpMlhIREJuX3RZbnFFdnZ4Q1JoYVZJX2tIdlRaYmlwUFhDN0pjc2dNcHZraGFJaTlmdjBTZ0JFVFlfWHZ6NGNZMTJJR1IzbzZJaFFDZVhCdzMtWUlQXy14UnhpS0lyRm9DU1VKSEpVMXlFNXFvUXJsZU5DMGlRVzFkRnEtVHp0R1c4eWpnM2l0TTA?oc=5",
+     "source": "The Information",
+     "time": "00:37",
+     "note": "Complex tranche structures as evidence of financing mania."
+    }
+   ]
+  },
+  {
+   "title": "Security budgets shift as AI becomes both weapon and victim",
+   "signal": 60,
+   "summary": "Cisco, OpenAI and Anthropic co-signed an open letter warning that AI-enabled cyberattacks will become more widespread and sophisticated, and cybersecurity buyers are already reallocating budgets. Bugcrowd's CEO argues AI agents themselves will be the next hacking victims, while the NYT v OpenAI copyright case moved into a decisive courtroom phase.",
+   "angle": "The next cyber battlefield includes your agents, not just your network perimeter.",
+   "items": [
+    {
+     "title": "AI Threats Are Reshaping Where Companies Spend Their Cybersecurity Budgets - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR1lsYy1QWEpPcHlPN0ZZYVc4WWREc290RHdjQ2hsMFRmMllFZXQtYno4QTF3RHczaDROak51R0Z3VFBpVXU4emVvSVVITGNNMjhCUlY4QmFRLWN4VTR2TUcwRDdJUW45ekltZ2Vnbjh1ck9DMHN3LUFJbVFLWGZpRGF1VW4zUFY5YWZrSWVkYjJQUVd6MlkzSGcxLU1wR3c?oc=5",
+     "source": "The Information",
+     "time": "16:01",
+     "note": "Vendor-agnostic budget shift toward AI-specific defences."
+    },
+    {
+     "title": "Historic NYT v. OpenAI copyright battle heats up",
+     "url": "https://www.axios.com/2026/09/08/nyt-openai-microsoft-copyright-lawsuit",
+     "source": "Axios AI+",
+     "time": "22:12",
+     "note": "All three parties presented arguments to a judge ahead of a possible trial."
+    },
+    {
+     "title": "AI agents are poised to be the next hacking victims, cyber CEO predicts",
+     "url": "https://www.axios.com/2026/09/08/ai-agents-bugcrowd-cyberattacks-hack",
+     "source": "Axios AI+",
+     "time": "17:23",
+     "note": "Bugcrowd's Dave Gerry: treat agents as a new attack surface."
+    },
+    {
+     "title": "Cisco President on Defending Against AI Attacks",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-08/cisco-president-on-defending-against-ai-attacks-video",
+     "source": "Bloomberg Technology",
+     "time": "21:50",
+     "note": "Open letter from Cisco, OpenAI, Anthropic flags widening AI cyberattacks."
+    }
+   ]
+  },
+  {
+   "title": "Chip supply and pricing become the real frontier economics",
+   "signal": 55,
+   "summary": "Qualcomm signed Amazon as a data-centre chip customer and investor — a direct push into AI inference hardware. OpenAI's CFO credits lower prices for driving user growth, and Kioxia vows to hold memory pricing down to protect long-term AI demand. Supply constraints, not benchmarks, remain the binding constraint on inference cost.",
+   "angle": "Watch silicon pricing, not just model scores, for the real cost curve.",
+   "items": [
+    {
+     "title": "Qualcomm Lands Amazon as Customer for Push Into AI Chips",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-08/qualcomm-signs-deal-to-provide-amazon-with-custom-ai-chips",
+     "source": "Bloomberg Technology",
+     "time": "13:10",
+     "note": "Amazon is both customer and investor; Qualcomm's datacentre entrance."
+    },
+    {
+     "title": "OpenAI CFO Touts User Growth Resulting From Lowering Prices - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUVNlel9TZE4ycWltTTFTNkpGVlJoN0c5M0E1UXBoZ2RUWDQ1cXdZR05rTHJKUmlnX0JvYTBGbG5CcGlFME9uS1Q3UWppUGFGUnVldk9RTmNReG1qLVF0d3dzUm9ucHhwVlJrMFJxZ09jTWJGbXBYSE1GZ1IzWnRjQXRpM25CQTgtOGVma0EzcGZJZkpmZFVqb1FDaw?oc=5",
+     "source": "The Information",
+     "time": "18:36",
+     "note": "Proof point for the volume-price flywheel at the frontier."
+    },
+    {
+     "title": "Kioxia Dismisses SK Hynix Tie-Up, Vows to Ease Chip Price Rises",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-09/kioxia-dismisses-sk-hynix-tie-up-vows-to-ease-chip-price-rises",
+     "source": "Bloomberg Technology",
+     "time": "00:47",
+     "note": "Memory pricing restraint framed as protecting long-term AI demand."
+    },
+    {
+     "title": "The Work Now Within Reach",
+     "url": "https://openai.com/index/the-work-now-within-reach",
+     "source": "OpenAI News",
+     "time": "13:00",
+     "note": "OpenAI's argument that cheaper, more capable AI widens the addressable economy."
+    }
+   ]
+  },
+  {
+   "title": "AI science scales up: genome maps, disease prediction, quantum",
+   "signal": 45,
+   "summary": "DeepMind published AlphaGenome Atlas, predicting the molecular effects of 9 billion single-letter DNA variants. MBZUAI launched a 25-year UAE study to predict disease years before symptoms appear, and OpenAI showed GPT-5.6 Sol running quantum experiments autonomously via Codex.",
+   "angle": "Frontier labs are shifting from chat demos to scientific instruments.",
+   "items": [
+    {
+     "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+     "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+     "source": "Google DeepMind Blog",
+     "time": "14:00",
+     "note": "9 billion single-letter DNA variants mapped across the human genome."
+    },
+    {
+     "title": "MBZUAI has launched a 25-year study to predict disease years before it shows symptoms: Free and voluntary for residents - Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPc0tSQUZEV1Y3ZXZRa2ZNczNwVUdBamxYdVJHMzBFWmMxTGpoSk1aSmpKMTFwUU5PV2hlOEdCbGxxNjQ5TWRvWlNXOVNRYktyOExpLVl5NEpLVXAzYktTT1hQck5yc05STEFhdTlaeklIaFF2MFZsZkVkVnYwcGZNZkRpdTYxUUY3LWsxVVdaVTVNUEluV2ZXZHZVSzZ1UnU3b2JZeXJwdzZnUG1SUnlldFdJcXJGUlZRU0Jyek9sa3pTRUktSFR2OXFfeTJlZXJBVkpuVFVGak5ZdnE3Q3dJV1hiS19tTlh4Uy0w0gH7AUFVX3lxTFAwZGE1Zk9yMVhMcDNvNXlVQlVZcXRibVhOdlRfcTJ5ZUdhaE1rSG9nODVHX0s4QkdzcnJRTllWbmlIZ1NWTVpzQU9IaV8xOU1xdVF6aHBDM08xZTQwQWxta0JjUUxRaTFCemFtOVZJcmo2c3JXR0xGYVRKdHpydTdfeG5zYUFOLV84Q2huYnRCT3hES2xETGVHU3VWeVN0cERhWjltRE5IN0RRQTctdzRGbjZ6c3ZzZHA0MXlUQkVybDJON2pwb2psYkd5cHRpRmZaSDFvOEZxVkI0N2hjellnbzVvbDZ5ZWNSWXlPZFppeUQyUkkwWEExdHIw?oc=5",
+     "source": "Gulf News",
+     "time": "12:09",
+     "note": "Longitudinal UAE study advancing the preventive-health agenda."
+    },
+    {
+     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+     "url": "https://openai.com/index/codex-quantum-computing-experiments",
+     "source": "OpenAI News",
+     "time": "17:00",
+     "note": "MIT researcher uses Codex autonomy for runs, analysis and qubit calibration."
+    }
+   ]
+  }
+ ]
+}

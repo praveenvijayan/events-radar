@@ -1,0 +1,413 @@
+{
+ "date": "2026-09-10",
+ "generated_at": "2026-09-10T02:00:12.236358+00:00",
+ "themes": [
+  {
+   "title": "Anthropic safety alarms break containment",
+   "signal": 80,
+   "summary": "Three Anthropic researchers went public this week warning that out-of-control AI could destroy humanity this decade. One, Jacob Coxon, resigned two months before his equity vested to sound the alarm, and a former top US official now on OpenAI's board said advanced AI could 'kill most people' without stronger safety features. The Washington Post pushed back, arguing the hysteria has jumped the shark. For executives the story is less about p(doom) and more about safety discourse becoming a governance, diligence and regulatory issue.",
+   "angle": "Safety rhetoric is now boardroom material - expect it in enterprise diligence and GCC regulator agendas.",
+   "items": [
+    {
+     "title": "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears - WSJ",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5",
+     "source": "WSJ",
+     "time": "17:37",
+     "note": "WSJ exclusive on the resignation; the phrase 'out-of-control' came from Coxon's X post."
+    },
+    {
+     "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company",
+     "url": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview",
+     "source": "Axios AI+",
+     "time": "23:14",
+     "note": "Coxon quit two months before his equity vested - a costly signal he says he could not ignore."
+    },
+    {
+     "title": "Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQkNXOVd1RnJGS09XOUY5M1FVNHk2ZUdOUTRtWlFOYXNoSzFBR1RKS01HVGYySlZSb2xfeUppdFJLTTgxNXEtS3IxR1dDV0YtZWhOWUtCQy1XS3VvYW51MXZQRk8td0ZXakpzVzRrQWg1UkJST2g1cnZyRTk1X0lIUjJzR09ZZDhwbFM1NQ?oc=5",
+     "source": "The New York Times",
+     "time": "00:12",
+     "note": "Mainstream coverage that took the acceleration warnings at face value."
+    },
+    {
+     "title": "Anthropic researcher quits over AI labs ‘gambling with our lives’",
+     "url": "https://www.ft.com/content/20c07191-8da6-440f-b04b-8ea0ebdd9153?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "09:31",
+     "note": "FT frames the exit as mounting unease inside labs racing to build ever more powerful systems."
+    },
+    {
+     "title": "Top US official named to OpenAI non-profit board warns advanced AI could be ‘deadly’",
+     "url": "https://www.ft.com/content/d73e188f-b906-42ec-8b91-db9729c9d2d9?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:47",
+     "note": "Paul Christiano says the technology could 'kill most people' without stronger safety features."
+    },
+    {
+     "title": "Paul Christiano joins OpenAI Foundation Board",
+     "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+     "source": "OpenAI News",
+     "time": "17:00",
+     "note": "OpenAI's own note adds that Christiano joined the Safety and Security Committee."
+    },
+    {
+     "title": "AI could kill all humans in next decade, warn experts: but how seriously should we take them? - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5",
+     "source": "The Guardian",
+     "time": "01:31",
+     "note": "Asks how seriously to take the p(doom) estimates circulating among researchers."
+    },
+    {
+     "title": "Opinion | AI hysteria jumps the shark - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1VXT0swYTJEU1pUMVdhdDR4UVZ3TS1rRkY4Zlh2WVJFdE5KQjByMlMxeUswTGFSQ1huVDh4TFBhcmdya1hpYzloVVRQbm5hSTBXUnZYMWZITXJKWi1jRXJvMjA1Mzk3eUlIZWsySUk2bC1MVlhUZ3RjcVBFNXl1ejdtZzIxVDR1WlVYTFVRY3pfLVd6U2pIcWRIZXE?oc=5",
+     "source": "The Washington Post",
+     "time": "01:59",
+     "note": "Counterpoint: the doomer discourse went mainstream faster than the evidence."
+    }
+   ]
+  },
+  {
+   "title": "Agentic work models: OpenAI Astra and Meta Muse",
+   "signal": 65,
+   "summary": "OpenAI made the enterprise case for GPT-6 Astra, its most capable work model: computer use inside everyday apps, enterprise admin controls, and pricing at $10 per million input / $50 per million output tokens, which it says puts it at the cost-efficiency frontier. Astra is the first model rated at the 'Critical' cybersecurity capability threshold under its Preparedness Framework. Meta separately introduced Muse as personal AI agents face growing competition.",
+   "angle": "Agentic AI is now a priced commodity input - the binding constraint shifts to change management and data governance.",
+   "items": [
+    {
+     "title": "GPT-6 Astra: The next generation in intelligence for work",
+     "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+     "source": "OpenAI News",
+     "time": "11:00",
+     "note": "Astra works inside existing apps without APIs; OpenAI claims a 25x latency cut on an internal bottleneck and 'Critical' cybersecurity rating."
+    },
+    {
+     "title": "GPT-6 Astra can stay on the job and use your computer",
+     "url": "https://www.theneurondaily.com/p/gpt-6-astra-can-stay-on-the-job-and-use-your-computer",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Agentic framing: long-horizon tasks on the user's own machine."
+    },
+    {
+     "title": "LIVE: Apple’s AI era starts now? John Ternus, Meta Muse, OpenAI’s $1M math fight",
+     "url": "https://www.theneurondaily.com/p/live-apples-ai-era-starts-now",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Caps a dense product week for the frontier labs."
+    },
+    {
+     "title": "Meta introduces Muse as personal AI agents face growing competition - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpQnRzNnlsVkpXSDA0R1g0WTFNc2RRUkxBVmM3NHpwbTFBM05HNVpjbHR4QVhIWlRzNVlIem5jVWxCVkpEd1pWNlNicUVOalJpVDJmbHFzanJBUDRXUzZtcGFLVWVsTUhxcGc?oc=5",
+     "source": "The Rundown AI",
+     "time": "13:21",
+     "note": "Meta's entry lands into an increasingly crowded personal-agent market."
+    }
+   ]
+  },
+  {
+   "title": "ADGM crosses $100bn in AI capital",
+   "signal": 60,
+   "summary": "Abu Dhabi's ADGM now holds more than $100 billion in AI-related money, and its total assets under management surged 54 percent year-on-year in the first half of 2026 even as regional conflict hit the Gulf. The number of companies operating in the free zone rose by a quarter to nearly 14,000. One outlet asks the sharper question: is the capital actually deployed, or parked?",
+   "angle": "For GCC execs the question is deployment velocity, not headline AUM - the region's advantage is capital, its risk is inertia.",
+   "items": [
+    {
+     "title": "Abu Dhabi’s ADGM now holds more than $100B in AI money - Semafor",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdlNBbDhZWmlPSTl5X3lGd3ZxOVJmU3pReDluOHpESHZfZ1ByZ2c5bGRvUVAyYUJqaDBSMlhYeGRQdGY2Z3FDVEs2dGlZM01nY2F0V1pvR0dUWWw0ZXNQNVgyc3JlR0pxWm1waFB6V0JsZUlDMTNBWk9GTWdoSUg4RU0ydDZkQzVaWG1NeWNNZEh4MVpocEx0YmE3VXB3ODM3U3QtQQ?oc=5",
+     "source": "Semafor",
+     "time": "13:34",
+     "note": "Reports the $100bn AI investment milestone at the Abu Dhabi financial hub."
+    },
+    {
+     "title": "Abu Dhabi financial hub holds more than $100bn in AI investment as ADGM assets surge 54% - Arabian Business",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53UWlNRENoRDFEZ280SmRrTkhKYW56YWVoREhoOFF4MnRJWmV2aWh4akZsTTdVQkN3LUJjcWdnZmhMYzM2NFFqUjVWZlB3TFhtei10WHRlZWlzdDJzTzd4cWUwV245WVhCWmZfa28xOFdkY3JfUE1VdGR3?oc=5",
+     "source": "Arabian Business",
+     "time": "23:40",
+     "note": "ADGM assets up 54% year-on-year in the first half."
+    },
+    {
+     "title": "Regional conflict fails to dampen ADGM growth",
+     "url": "https://www.agbi.com/markets/2026/09/regional-conflict-fails-to-dampen-adgm-growth/",
+     "source": "AGBI",
+     "time": "05:55",
+     "note": "Active licences rose to almost 14,000 from 11,120 despite the US-Israeli war with Iran."
+    },
+    {
+     "title": "ADGM faces its first real stress test",
+     "url": "https://www.agbi.com/finance/2026/09/adgm-faces-its-first-real-stress-test/",
+     "source": "AGBI",
+     "time": "14:32",
+     "note": "Frank Kane column: record growth numbers now carry a different weight for the hub."
+    },
+    {
+     "title": "Is Abu Dhabi's $100bn AI capital held or deployed? - The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWVoM2t5d2ZEaFpsYnNRVjhRUUZPQ0RZLWgtaUhpOGZCUmNUelBvdG1KOXp4amswUHA5eFVkcDRVNU5PbHdUXzdwV1lqMk12dnJOVWVZYVFGeXRZaEtvT2ViSkxtRlNPOXVzTXVFNnIxZDVCZy1vbzZQRG9ob3pXTno0VzQ3V25kbXh3?oc=5",
+     "source": "The Next Web",
+     "time": "18:47",
+     "note": "Contrarian read on whether the milestone reflects actual deployment."
+    },
+    {
+     "title": "THIS MORNING: Adia-backed Jio takes its IPO on the road + ADGM assets up 54% y-o-y in 1H - EnterpriseAM",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSVlLT2MwRmtta05yZU9VUUZHY09hUVFhcUZpWTNpcVhhT3RKcjZBLTRIc1BBSnZoUmdiRHFYTHlXTERGM2U4a3dsanVrY09ia19rdVV1bS1iUWtuMF9naDBYNU5lNjczLWxVT1RsZEpwNjBtMk0wQTJPdjJxbEVsQW55dlRLZ2FGcFpaNGl0VWhvQXNxdXczZ01aUTlfaS1LNkFaeFVmUk9McFdNMHF5cy1lemh1RHVCVHIzUGlmdUo1SjA?oc=5",
+     "source": "EnterpriseAM",
+     "time": "00:00",
+     "note": "GCC-focused briefing tying ADGM's growth to the region's capital-markets momentum."
+    }
+   ]
+  },
+  {
+   "title": "Saudi AI capital push and the US-China battleground",
+   "signal": 60,
+   "summary": "Saudi Arabia is doubling down on AI capital formation: Humain is planning an IPO and a $2.5 billion fund as the kingdom reins in fiscal spending, and PIF-linked delegations are courting Silicon Valley this week. Coverage this week characterizes the Gulf as a contested arena in the US-China AI race, with the UAE positioning on the US side while China holds its ground.",
+   "angle": "Sovereign capital is becoming the swing factor in the global AI race - GCC boards should watch counterparty and security exposure.",
+   "items": [
+    {
+     "title": "Saudi’s Humain is planning an IPO and a $2.5 billion fund to fuel its expansion plans - Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnZxbVEwWDNRc1p6RktPZ0pFVk9LbTVQWFI4WUtRclRlQjVpT2ZJeFRNZHQ5YmVPSU4zaS1VTkRTdUJ5Tkg3dHR0NzNjMjU1RHNZdk1vWklBRFpWVWVaN1J0WEN5VnhrYlN3ekNKZzAyRFZtQVNBaFJDRUJteWNmV3M5YWdzdEFBQ3ZTWF8zN0VGQlIyYnZrdTBEUTFBMGpWU19z?oc=5",
+     "source": "Fortune",
+     "time": "09:27",
+     "note": "Reports Humain's dual-play of IPO plus a $2.5 billion expansion fund."
+    },
+    {
+     "title": "Saudi’s Humain turns to outside investment as the kingdom reins in fiscal spending - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnhKdXZ2Y3l2WkRoT2ZrTEp0amdKQkoyOGN5LUkzMTkzSkVjMElCd0dkNlZVa2dPbkRNV09ZRGZBUFU1T2lOWTFoTnlaRmd1ejlCTG1iaDZ6dU01QndoUzl2RGpaeDhfR2ZKS0JMMjlkQVgyX1VSbWMyWW9WMnN2TXFFRHhkTktJTlBSdUszNHFnb0c1aUZpbDRQeHhTRGFzUWw4?oc=5",
+     "source": "Yahoo Finance",
+     "time": "09:55",
+     "note": "Outside capital arrives as state spending tightens."
+    },
+    {
+     "title": "Saudi PIF and HUMAIN to visit New York this week to seek investment cooperation opportunities - Bitget",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95Ul9nSkhzQmRKemxWWWhDTlVqaWM1TEtQYU5GUDh4WVlwaTBTOHRLb0gtSWlBbC00U3JneW5DT0lIckN2YkkzOGFEbzB5bFZoLUJIaFRTOXhtYlNhcldxSnFSWdIBY0FVX3lxTE95Ul9nSkhzQmRKemxWWWhDTlVqaWM1TEtQYU5GUDh4WVlwaTBTOHRLb0gtSWlBbC00U3JneW5DT0lIckN2YkkzOGFEbzB5bFZoLUJIaFRTOXhtYlNhcldxSnFSWQ?oc=5",
+     "source": "Bitget",
+     "time": "20:15",
+     "note": "The PIF roadshow lands in New York this week."
+    },
+    {
+     "title": "Saudi Arabia steps up Silicon Valley push for AI, deep-tech investment - thearabweekly.com",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVDJMQW5QaHJJUG8wc191WE9NTlNxaHUwbTY4dGh3djROcGZ4MmxaTmNReThncWp5TllWMWl4MEc3OW0yUTdwVGlUcm43eUdRZ1hDNGdkQWxUNkZkYmpuQXpzUXRTWE1GczZGejVyUDNJRXVqZFFtRkhoYXRzVm1CVWdKcGFjMHpSdWFwdE1YSWV6QQ?oc=5",
+     "source": "thearabweekly.com",
+     "time": "09:15",
+     "note": "Deep-tech dealmaking from the kingdom's investment arms."
+    },
+    {
+     "title": "China holds its ground in Middle East AI race - Al-Monitor",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeVRtd0F0RXJVNDVySnc0QUpDay1sX21Db2dzTzhpZ1NhSkV2NmNEOXRQVnBCNUpCQTNTQVhuLVFVUFY0TGZjOUdVSjF1VHdVTlZFbDNmNXRtWm5GUThQU3pmZnBpbVpUTVY0VEk4WG5IV254TmlPcThCVk8xRHRVRkZPOUZvUHVkSy1XRjdCNU5xdUNzSUE?oc=5",
+     "source": "Al-Monitor",
+     "time": "14:12",
+     "note": "Beijing is not ceding the Gulf to Washington's allies."
+    },
+    {
+     "title": "UAE Bets On US AI As Gulf Emerges As Battleground In US-China Tech Race - i24NEWS",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUtQZ0pkQ3hUT3hEd0hyR3dnZHZocDhIeFk3M1lWcTAtMTBLWldWNTFGcWlQT2FDQjhlODZwNk1mRXpLRVNyaWZBbmJ0bThOaHd3a0xrS2lpMk1Bc2l4V1JlTnpheXYyS0xDVUN3ZldQY1IxcWV6blZ2MVJxQVk1THhzZ2JVelA2QlN6clhTejJMXzZxRV95ZGYtdUwxU2tHWUx5clZ2VVM4YzhjcmtpendRRGJjX21VUHJJN3dR?oc=5",
+     "source": "i24NEWS",
+     "time": "04:34",
+     "note": "Places Abu Dhabi's stack choices inside the superpower rivalry."
+    }
+   ]
+  },
+  {
+   "title": "UAE-France pushes into space AI",
+   "signal": 55,
+   "summary": "Abu Dhabi's IHC is taking an 80 percent stake in Marlan Space, and Loft Orbital signed a billion-dollar deal with the UAE's Marlan Space to build an AI-powered satellite constellation serving France, Europe and the UAE, with the UAE committing $1 billion. BlackSky says its Gen-3 satellites will feed exclusive high-resolution imagery into the constellation.",
+   "angle": "Space AI is the Emirati play where capital meets hard infrastructure - watch procurement and orbit economics.",
+   "items": [
+    {
+     "title": "Abu Dhabi’s IHC to acquire 80 percent stake in Marlan Space as UAE space ambitions accelerate",
+     "url": "https://economymiddleeast.com/news/abu-dhabis-ihc-to-acquire-80-percent-stake-marlan-space-as-uae-space-ambitions-accelerate/?utm_source=rss&utm_medium=rss&utm_campaign=abu-dhabis-ihc-to-acquire-80-percent-stake-marlan-space-as-uae-space-ambitions-accelerate",
+     "source": "Economy Middle East",
+     "time": "12:15",
+     "note": "IHC's wholly owned subsidiary takes control, extending the group into AI-enabled Earth observation."
+    },
+    {
+     "title": "IHC invests in space economy with majority Marlan stake",
+     "url": "https://www.agbi.com/space/2026/09/ihc-invests-in-space-economy-with-majority-marlan-stake/",
+     "source": "AGBI",
+     "time": "06:46",
+     "note": "Marlan is the holding company behind Marlan Space, active since August 2024."
+    },
+    {
+     "title": "Loft Orbital strikes billion-dollar deal with UAE's Marlan Space to build AI-powered satellite constellation - Sifted",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zUGt4ZmJlQzJkblZsX3h1cF9aMXZINGxGakxNVXl1eHB0N01QcDN0TEdLT1ZVcEU2MFFXVmVNMm5KWnMydVA4cHc5MlZWVGxFX1I5dlA4SEo2WUV0ZHpTekFjbElSMkJVRWFXUVZZZG9RUER6bThZRUh4NDE?oc=5",
+     "source": "Sifted",
+     "time": "19:20",
+     "note": "European space startup lands the anchor UAE customer."
+    },
+    {
+     "title": "Loft Orbital, Marlan Space to Build AI Constellation to Serve France, Europe and UAE - Via Satellite",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQYWt2Z1BqN2Q4Wm8zc2k1eGhabFFJOFV4MGQwaWpaM0MyRmtIdkJ5dUxZV1A1TjRCNkVKWTFSUlBOYWU0M19KTW1hWVhlbnkyMkJMbUtvVmRMTDNiVlRpa1oxZVhuYVUxbHFtMHJGNjJwdE02SlR6dklGblJRUUV3M3ZMN25ucjY0aTQzdUZqaUVXdVN1MVBkdm1zczVrT1ZLbklUN3E4N0xPT1JJWTVNT2ZlOS1zalNmYWhzbkhwOEY4S2xEM3VRX01vbVBfMld5V0ZlaHpDV0lNdmM?oc=5",
+     "source": "Via Satellite",
+     "time": "19:20",
+     "note": "Same deal from the industry trade press."
+    },
+    {
+     "title": "UAE commits $1 billion to French space AI project - Le Monde.fr",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSmdobURCRkp6WGo0eEpzeXYxRWJlOURNYktyQWdkX05mQ3M2c0tUSjVEN0R2Y0RULXFEWGF0VkwxTkZtUEd5dWd1elNqcW1ZQ3pUWHBPMjlHcnB5dkFfcTZidk1PM3RuSURIYW5Bd3FnTVZFeWFodEN4R2RXX3JTSHdmLXFXNWptZ0QwaV9ZSTlFNUx6SW5TTWU4dXdYTDlEMlNQZU1GVmxNWkxqRGtLd3dLaTFZQUtR?oc=5",
+     "source": "Le Monde.fr",
+     "time": "10:40",
+     "note": "French press sizes the Emirati commitment at $1 billion."
+    },
+    {
+     "title": "BlackSky says Gen-3 satellites will provide exclusive high-resolution imagery for $1 billion France-UAE AI constellation in orbit - defence-industry.eu",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNU43OFNjTWhxZ3AtYVEycXplT0hYTGJ6RW5HaUNsQTk1MlFrQW9Bd2RfS281cDVCYXA3S1RUVnpRNnBDMUtJeklXSWwxR01WMFVQNWszRWVkMWxMZnBXeG5YNVZrWEI2dU5YZ0VuZEVZaHlhNTlaSmJyY2VYQ0dwQTByR09USDR3aFFDeWljeGgxQ01kajVQLW1YSGRWdExsZWwzTTVWMXp5ZmNjVmlkOG5OYm1iTG1QbDBLRUJJV01na2ZTT19nTThpM01iVWNrRlJUWll4X2gzZU9MSUN1MmJnVlZWWUVYblJzRldn?oc=5",
+     "source": "defence-industry.eu",
+     "time": "22:21",
+     "note": "Adds the payload/imagery picture to the constellation plan."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI's $1M math claim and the lab feud",
+   "signal": 50,
+   "summary": "OpenAI's agents reportedly solved a $1 million prize math problem - work The Rundown says involved a 'secret model' - with claims around a Navier-Stokes proof raising the ceiling for AI research. The Neuron reports the breakthrough 'sparked a fight with Anthropic,' and The Information flagged data-sharing concerns over how the problem was solved, while ChatGPT Images 2.5 launched alongside.",
+   "angle": "Benchmark theater is becoming a credibility weapon between labs - verify the methodology, not the headline.",
+   "items": [
+    {
+     "title": "OpenAI Says Its AI Agents Solved Prize Math Problem - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOHVMempfMVJwMGZZODNzRVdNOVFITUNmRlNwUVFqM3R2QVpJTE9lbm9UWHgwWk5OdzAzTVFnYnZMLTY5ZDJ4RG5zVWdmRFRkazlxQWtaMF85U1VMZEx6eFJHWWV4NXJvQTczSVlJQzVmNHRVQVJXaGVXOHFFcDBHNEFhZkQ2Y0dmVzlsS000RzZMQQ?oc=5",
+     "source": "The Information",
+     "time": "22:51",
+     "note": "Agents take the prize - per The Information's account."
+    },
+    {
+     "title": "OpenAI's secret model settles a $1M math problem - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHNzTFdSMkIyYjA4YXdZSmtvdFAtaFRETnhvSjBwczMzN2k1QmpfWjFFNDdtNDJRTmNUakhQMzFUMEFXT3l0ZGM3Qy1iME0wREwzQ19DSlJJSlNJTFRSekx5aHh5ZXljS3Q4bVA1U3c2eTl1UW5ST1c1LWktSUVrX3dfTnp6RWM?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:01",
+     "note": "Frames the solver as a secret model rather than a public one."
+    },
+    {
+     "title": "OpenAI’s claimed Navier-Stokes proof raises the ceiling for AI research - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZGhBWlgteUt1MU5WaVNBQ3hsaHl1Mlo1dnc3UUU4WHV3M3RIWmhIazFxeXMyU2VUVDQ3a0IxaUYtc1I0UFhvclhTVXBEMFNrRzlnTXdLbU9qalVXSDdGdEZVNTByYXFjeDlVb1Z2cTNvYXlWQnpBeTJlVXZLdUdSaA?oc=5",
+     "source": "The Rundown AI",
+     "time": "13:20",
+     "note": "A would-be proof of a millennium problem would change the research economics story."
+    },
+    {
+     "title": "OpenAI Math Result Stokes Data-Sharing Concerns - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVBWNTEzd01hQnhVV1p1ZndzTWQyZDd3OFUyWURraFZJejR2ZGFGN05FT0FQTGJVR3dLQXlPVk5WRDkzTjZmR3JlN0dwOXZiMjh0VTZxci0yRThHNXJkeUFiTzhwZWtYcXlrMDVWNU14VmNuYWNHakgtSXMydDhsYkx4RGotTDBIUE9XMnZ5UWpPLVg1bjdVSUFETG9tZEJHY1E?oc=5",
+     "source": "The Information",
+     "time": "14:00",
+     "note": "Who supplied the problem data is now contested."
+    },
+    {
+     "title": "OpenAI's $1M math breakthrough sparked a fight with Anthropic",
+     "url": "https://www.theneurondaily.com/p/openai-s-1m-math-breakthrough-sparked-a-fight-with-anthropic",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Newsletter account of the cross-lab dispute over the claim."
+    },
+    {
+     "title": "Images 2.5 🎨, OpenAI solves Navier-Stokes 🧮, AlphaGenome Atlas 🧬",
+     "url": "https://tldr.tech/ai/2026-09-09",
+     "source": "TLDR AI",
+     "time": "00:00",
+     "note": "TLDR's digest of OpenAI's big day, including ChatGPT Images 2.5 and AlphaGenome Atlas."
+    },
+    {
+     "title": "OpenAI raises its own bar with ChatGPT Images 2.5 - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORHFhTzlaTkpFMUlmaXU4YTJTMGpKSGFmZDdpR1RxZ0tGZ3hiNkdaS05FMHM4ZGlTS21ZZjd0UjN1Z3lVX2NXNE0tV2kzU0xkUW1OWUNEMmdhcDY4REh0T2tiNDg5bGlsbjV3SlMzOTc4RE5ydC1ra2cyQ2ZHMUVhS1pB?oc=5",
+     "source": "The Rundown AI",
+     "time": "13:22",
+     "note": "The image model step-up shipped the same cycle."
+    }
+   ]
+  },
+  {
+   "title": "AI labs meet the capital-markets ledger",
+   "signal": 50,
+   "summary": "The AI supply chain is showing up in classic finance stories: FT reports AI labs are 'testing the rigour of credit rating agencies' as they seek investment-grade scores, Bloomberg expects an AI-driven IPO wave to accompany Anthropic's listing, Chinese tech firms are selling shares to bankroll AI ambitions, and buyout shops are merging French software groups on AI-driven logic.",
+   "angle": "AI's next funding chapter is debt, ratings and exits - the C-suite should watch the balance sheet, not just the benchmark table.",
+   "items": [
+    {
+     "title": "AI labs test the rigour of credit rating agencies",
+     "url": "https://www.ft.com/content/6842ca4b-1a16-4a76-89b5-098cd288ffc7?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:02",
+     "note": "Private-market valuations collide with investment-grade scrutiny for the first time at scale."
+    },
+    {
+     "title": "AI-Driven IPO Wave Set to Accompany Anthropic Listing",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-09/wave-of-ai-driven-ipos-expected-to-accompany-anthropic-s-listing",
+     "source": "Bloomberg Technology",
+     "time": "19:35",
+     "note": "Post-Labor Day calendar points to a cluster of AI floats around Anthropic's."
+    },
+    {
+     "title": "Chinese Tech Firms’ Share Sale Spree Sparks Valuation Concerns",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-09/chinese-tech-firms-share-sale-spree-sparks-valuation-concerns",
+     "source": "Bloomberg Technology",
+     "time": "23:30",
+     "note": "Equity fundraising to bankroll AI drives dilution and oversupply worries."
+    },
+    {
+     "title": "Silver Lake to merge French software groups in €10bn deal",
+     "url": "https://www.ft.com/content/2cc88608-04b2-4dcb-8c89-698f251de170?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "10:00",
+     "note": "Buyout groups grapple with AI's impact on software assets bought at high valuations."
+    },
+    {
+     "title": "MercadoLibre Sells $1 Billion of Bonds in Return to Market",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-09/mercadolibre-returns-to-global-debt-markets-amid-spending-push",
+     "source": "Bloomberg Technology",
+     "time": "13:35",
+     "note": "Reopened debt markets to fund AI-era investment across Latin America."
+    }
+   ]
+  },
+  {
+   "title": "Policy catch-up: California, UK, US whitelist",
+   "signal": 40,
+   "summary": "Regulators moved on multiple fronts: California's governor signed first-in-the-nation AI safeguards, the UK was urged to overhaul AI-medical-device rules with staged approvals and continuous monitoring, and confusion persists over the White House's AI whitelist. OpenAI itself pushed for durable policy action while restricting rival ads inside ChatGPT, and the NYT v. OpenAI copyright case entered a critical phase.",
+   "angle": "The regulatory patchwork is widening - compliance cost is the sleeper budget line for 2027.",
+   "items": [
+    {
+     "title": "Governor Newsom signs first-in-the-nation AI safeguards to protect Californians, calls on the federal government to do its part - California State Portal | CA.gov",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUZRVHhudU1zcDhNQmhkRHpFNk9SOUJlN2EzZHlwZEZPdVFIcVJpU0pieUhsVGFNRUFNTWxidHRFeEJhR3ViMThRNWRHeFZncmp0dTZTazBYcXJLaXJTY0k4VmFCRW5KU0loMlJuWWhSdnhSdzFyTVNndlk2NFNRam9Pdk40U19KUnZaamZzcHYwamFLb2JkQ1hTNHJOc0Uxb1ZMbzJ1Xy1yM0p3NER2bFJuVlZESXZMNVBDRzhzVkRpREtfXJzWGFMRkVIY2doVDY0dG50WERMdWZmcmtNbWFSYXE5ZmdZbU1sQ2RkWWNQSGc?oc=5",
+     "source": "California State Portal",
+     "time": "23:20",
+     "note": "State-level safeguards land ahead of any federal framework."
+    },
+    {
+     "title": "New AI health tools need ‘L-plates’, says UK review",
+     "url": "https://www.ft.com/content/25e31948-c429-4c46-8465-72220b7e2e53?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:01",
+     "note": "Live monitoring proposed as AI moves deeper into patient care."
+    },
+    {
+     "title": "UK Is Urged to Overhaul Regulation of AI-Medical Devices",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-09/uk-is-urged-to-overhaul-regulation-of-ai-medical-devices",
+     "source": "Bloomberg Technology",
+     "time": "23:01",
+     "note": "Staged approval plus continuous monitoring recommended by an advisory panel."
+    },
+    {
+     "title": "Confusion Reigns Over White House’s AI Whitelist - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQkNybnJEdnc2anVkTlB5MWlLekpwcTZlbWQta2xMR2c3ZU9IOF9VOTRkRFlCZjRuaHFEYV9lZDB5a0FILXp4SHZVNFV4c0F3b2xuU3d3dWFkV1N3UVU3ODhYYW53RklqRi10Mnp4MlVOTXdvNEwwaDE4b1dRWGhmNVI5c3VRWm1VVWc?oc=5",
+     "source": "The Information",
+     "time": "13:00",
+     "note": "Executives still can't tell which compute deals the whitelist actually clears."
+    },
+    {
+     "title": "The AI policy window is open. We need to act.",
+     "url": "https://openai.com/index/ai-policy-window",
+     "source": "OpenAI News",
+     "time": "13:00",
+     "note": "Chris Lehane argues stronger capabilities require durable policy, not just safety evidence."
+    },
+    {
+     "title": "OpenAI Restricts Adobe and Other Competitors From Advertising in ChatGPT - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSGJNLTIzM2lQYlRfaElFczdNTmh1bkFYS3RrN2hQdW1Sb1luMk5jU0VNc19MajQwRWFnaXpQbzdMVms2bWZIRzN2c3RuLTRpZ0E2OFk5R0xjYW92RzVBdVdySGNDWWkwdVZUYm5PTFMwWHllVldqTzc4d283RWV0Vkc2VC1ZZWVtMUJscWxpbTRzVVJKNXBnbFFVbkJtZ0tKOGhJNk8tV0Ezdw?oc=5",
+     "source": "The Information",
+     "time": "20:54",
+     "note": "ChatGPT ads come with a competitor-exclusion policy - antitrust watchers take note."
+    },
+    {
+     "title": "Historic NYT v. OpenAI copyright battle heats up",
+     "url": "https://www.axios.com/2026/09/08/nyt-openai-microsoft-copyright-lawsuit",
+     "source": "Axios AI+",
+     "time": "22:12",
+     "note": "All three parties presented arguments to the judge, ahead of a possible trial."
+    }
+   ]
+  }
+ ]
+}

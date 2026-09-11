@@ -1,0 +1,337 @@
+{
+ "date": "2026-09-11",
+ "generated_at": "2026-09-11T02:00:15.137991+00:00",
+ "themes": [
+  {
+   "title": "AI capex supercycle: compute demand hits new highs",
+   "signal": 68,
+   "summary": "Microsoft plans to more than triple its data-centre footprint, adding 26GW to reach over 38GW by 2032 after shortages forced it to turn away AI and cloud business. Oracle's cloud sales beat estimates and its data-centre revenue surged, cementing compute and electricity - not model quality - as this cycle's binding constraint.",
+   "angle": "Compute and electricity are the binding constraints of the AI trade, not model quality.",
+   "items": [
+    {
+     "title": "Microsoft AI Focused Data Center Plan to Add 26 Gigawatts of Compute",
+     "url": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
+     "source": "Bloomberg Technology",
+     "time": "21:00",
+     "note": "Capacity plan lifts Microsoft from ~12GW to 38GW+ by 2032, more than New York state's peak power use."
+    },
+    {
+     "title": "Oracle Posts Cloud Sales That Top Estimates on AI Demand",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand",
+     "source": "Bloomberg Technology",
+     "time": "20:15",
+     "note": "Oracle's cloud growth is set to accelerate to 64-70% year-on-year, beating analyst estimates."
+    },
+    {
+     "title": "Oracle’s data centre revenue surges as AI strategy accelerates",
+     "url": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:47",
+     "note": "Infrastructure unit revenue $7.4bn; $30bn new contracts in the quarter, pipeline $664bn; capex tripled to $28.5bn."
+    },
+    {
+     "title": "Tencent-Backed Chipmaker Enflame Jumps 188% in Shanghai Debut",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-11/tencent-backed-chipmaker-enflame-to-debut-after-911-million-ipo",
+     "source": "Bloomberg Technology",
+     "time": "00:25",
+     "note": "Enflame raised about $911m (6.12bn yuan) in a Tencent-backed IPO and jumped 188% on its Shanghai debut."
+    },
+    {
+     "title": "India’s Top Bank Says Data Centers Aiding Capex Cycle",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-10/india-s-top-bank-says-data-centers-aiding-capex-cycle",
+     "source": "Bloomberg Technology",
+     "time": "23:00",
+     "note": "State Bank of India's MD flags data-centre spending as a key new-economy capex driver."
+    },
+    {
+     "title": "Blackstone’s AirTrunk Seeks $1.6 Billion Loan for Singapore IPO",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-10/blackstone-s-airtrunk-seeks-1-6-billion-loan-for-singapore-ipo",
+     "source": "Bloomberg Technology",
+     "time": "22:00",
+     "note": "Blackstone-owned AirTrunk seeks ~S$2bn in loans to back a Singapore REIT listing."
+    }
+   ]
+  },
+  {
+   "title": "UAE-Germany pact: 40bn euros aimed at AI and tech",
+   "signal": 58,
+   "summary": "The UAE announced roughly 40 billion euros ($46.5bn) of planned investment in Germany across AI, advanced technology, industry, digital infrastructure and energy, alongside a new strategic dialogue and a swathe of MOUs. It is the clearest signal yet of Gulf capital buying into European AI-industrial capacity.",
+   "angle": "Gulf capital is buying into European AI-industrial capacity, not just US compute.",
+   "items": [
+    {
+     "title": "UAE to invest $46.5 billion in Germany’s AI, technology, industry and energy sectors",
+     "url": "https://economymiddleeast.com/news/uae-to-invest-46-5-billion-in-germanys-ai-technology-industry-and-energy-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=uae-to-invest-46-5-billion-in-germanys-ai-technology-industry-and-energy-sectors",
+     "source": "Economy Middle East",
+     "time": "15:56",
+     "note": "40bn euros / $46.5bn pledge; AI and advanced technology named alongside energy and industry."
+    },
+    {
+     "title": "UAE and Germany launch Strategic Dialogue, deepen partnership with new investment, energy and tech deals",
+     "url": "https://economymiddleeast.com/news/uae-and-germany-launch-strategic-dialogue-deepen-partnership-with-new-investment-energy-and-tech-deals/?utm_source=rss&utm_medium=rss&utm_campaign=uae-and-germany-launch-strategic-dialogue-deepen-partnership-with-new-investment-energy-and-tech-deals",
+     "source": "Economy Middle East",
+     "time": "16:24",
+     "note": "Strategic dialogue and MOUs spanning investment, energy, advanced technology and security."
+    },
+    {
+     "title": "UAE to build first satellites for France’s AI space project",
+     "url": "https://www.agbi.com/space/2026/09/uae-to-build-first-satellites-for-frances-ai-space-project/",
+     "source": "AGBI",
+     "time": "06:49",
+     "note": "Marlan Space and Loft Orbital lead a $1bn consortium; the first 50 Altair-Next Gen AI satellites will be built in the UAE."
+    }
+   ]
+  },
+  {
+   "title": "Wall Street exits, non-bank capital finances the buildout",
+   "signal": 55,
+   "summary": "AI infrastructure financing is shifting away from constrained bank balance sheets: Vantage Data Centers is seeking $2bn from Pimco and PGIM, and Blackstone is assembling an AI-financing machine spanning real estate, debt and exits. The Information details a new Wall Street exit ramp into AI as lenders limit exposure.",
+   "angle": "The AI buildout is being financed by insurers and private capital as banks step back.",
+   "items": [
+    {
+     "title": "Vantage Data Centers seeks $2bn in loans from Pimco and PGIM",
+     "url": "https://www.ft.com/content/e7a8a9fa-0dc2-41df-890c-9628efac54fd?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "16:04",
+     "note": "DigitalBridge-backed Vantage taps Pimco and PGIM for $2bn as banks limit AI-infrastructure exposure."
+    },
+    {
+     "title": "Inside Blackstone’s Bid to Rule Over AI Financing - The Information",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDl6dy1QRDVJNEJhTGVsZEgyY2kxMWQ0Ty1IOWo3S1VSa3dhTFdxZFdZUTZSdnNSam8xNXpoVFlKYmZHS2FXTkRhRElwdWVFcGhBQk5LMUMzWEQ3aUxmblFSTUxjQlZaZjRJVUgwYkJyYUxTSWdsMTVFRjVLNXJMN3JXRE5QdXc?oc=5",
+     "source": "The Information",
+     "time": "19:54",
+     "note": "The Information examines how Blackstone is positioning across AI real estate, debt and investment banking."
+    },
+    {
+     "title": "Wall Street's New Exit Ramp Into AI - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQk5MaHRCRHFrbHh0OENnVTlOOVdSWjdacVdhUXdTVFRtUUZReUFNcVdMMTd2Uk02MmxvNzA4NC1ScnEyMTZZbXd5N2xmb25lTGlkUkkzSFFSNmwwbTZzVWRic1J2d0x4a3huXzZSSDNDaHVvakxJSEswbEhqZUVnVGJMYjFHMTJOTHJsVHBWRDZPR1lQTjRBNU83UF8?oc=5",
+     "source": "The Information",
+     "time": "16:10",
+     "note": "Reports a new route for bankers and capital to ride the AI wave beyond tech balance sheets."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI ships agents, voice and a finance vertical",
+   "signal": 55,
+   "summary": "OpenAI rolled out a managed Agents API on the Codex harness, ChatGPT for Financial Services built on GPT-6 Astra, a Data agent inside ChatGPT Work, and full-duplex voice via GPT-Live-1 in the API - plus a GSA deal cutting government prices. The company is repositioning from model vendor to platform and regulated-vertical vendor.",
+   "angle": "OpenAI is moving from model vendor to platform plus regulated-vertical vendor.",
+   "items": [
+    {
+     "title": "Introducing the Agents API",
+     "url": "https://openai.com/index/introducing-the-agents-api",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Managed cloud agents with orchestration, long-running sessions and tool use on the Codex harness."
+    },
+    {
+     "title": "Introducing ChatGPT for Financial Services",
+     "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+     "source": "OpenAI News",
+     "time": "07:00",
+     "note": "Built-in financial data and GPT-6 Astra for research, modelling and client-ready materials."
+    },
+    {
+     "title": "Now everyone can put data to work",
+     "url": "https://openai.com/index/put-data-to-work",
+     "source": "OpenAI News",
+     "time": "15:00",
+     "note": "Data agent in ChatGPT Work builds interactive dashboards from company data via natural language."
+    },
+    {
+     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Full-duplex voice API with custom voices and telephony support."
+    },
+    {
+     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+     "url": "https://openai.com/index/expanding-ai-access-us-government",
+     "source": "OpenAI News",
+     "time": "07:00",
+     "note": "GSA agreement: zero license fees and 50% off usage for eligible federal, state, local and tribal governments."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI under scrutiny and a softer frontier line",
+   "signal": 55,
+   "summary": "A GOP-led Senate subcommittee is investigating OpenAI's handling of the July Hugging Face breach, while CEO Sam Altman told staff the lab is open to slowing cutting-edge development and hopes rivals follow. Hugging Face's co-founder argues the breach shows commercial AI tools failed and open-weight models are the defence.",
+   "angle": "Frontier labs now hedge between congressional scrutiny and voluntary slowdown - a governance signal for buyers.",
+   "items": [
+    {
+     "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
+     "url": "https://www.axios.com/2026/09/10/openai-hugging-face-senate-investigation-hawley",
+     "source": "Axios AI+",
+     "time": "09:00",
+     "note": "Senate disaster-management subcommittee probing OpenAI's handling of the July Hugging Face breach."
+    },
+    {
+     "title": "Hugging Face co-founder: What we learnt from OpenAI’s hack",
+     "url": "https://www.ft.com/content/9faf688d-9192-418e-b7d3-c2202526e85e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "12:25",
+     "note": "HF co-founder: commercial AI tools failed to defend the platform; open-weight models are the fix."
+    },
+    {
+     "title": "OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells Staff",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-11/openai-is-open-to-slowing-cutting-edge-ai-ceo-sam-altman-tells-staff",
+     "source": "Bloomberg Technology",
+     "time": "00:43",
+     "note": "Altman says OpenAI is open to slowing frontier AI and hopes other labs do the same."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic safety reckoning goes mainstream",
+   "signal": 52,
+   "summary": "Anthropic is at the centre of a safety showdown that has escaped the labs: researcher Jacob Coxon quit two months before equity vesting over extinction concerns, the public discovered researchers assigning 10-20%+ catastrophe probabilities, the lab disclosed stopping scientists pursuing bioweapons, and its threat report shows governments using Claude to automate surveillance.",
+   "angle": "AI safety is now a procurement and governance risk factor, not an esoteric debate.",
+   "items": [
+    {
+     "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company",
+     "url": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview",
+     "source": "Axios AI+",
+     "time": "23:14",
+     "note": "Whistleblower Jacob Coxon gave up equity to leave, citing AI safety concerns."
+    },
+    {
+     "title": "AI's extinction debate breaks containment",
+     "url": "https://www.axios.com/2026/09/09/anthropic-ai-human-extinction-pdoom-safety-risks",
+     "source": "Axios AI+",
+     "time": "22:10",
+     "note": "Online panic as 10%, 20% and higher extinction probability estimates surfaced publicly."
+    },
+    {
+     "title": "Anthropic says it stopped scientists potentially developing bioweapons with AI",
+     "url": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:27",
+     "note": "Anthropic disclosed five cases of users circumventing controls and obfuscating research intent."
+    },
+    {
+     "title": "Governments are turning to Claude to automate spying",
+     "url": "https://www.axios.com/2026/09/10/anthropic-claude-government-surveillance-threats",
+     "source": "Axios AI+",
+     "time": "17:00",
+     "note": "State-run surveillance operations are using Claude; barriers to spying are falling, per Anthropic's threat report."
+    },
+    {
+     "title": "What Anthropic Doomsayer Jacob Coxon Saw - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDlmakdvVkE4a2puUHVQRlVvYnhtQWozeE1EYUFnOTNaTGFFekk2N21JNlJTUTBBMXY4bkVSVjVPSVRyUzVjRFhHV2lESGY4WHFIay1kVS1lMTB6Q0tyUldET0Z3OGpjUTBkcjU4NVkwbFMyRmIzRHRQU0UyVzdObGZrb1ltUENibUJ3NW9fS1MyUQ?oc=5",
+     "source": "The Information",
+     "time": "00:13",
+     "note": "The Information details the departing researcher's reasoning and its fallout."
+    }
+   ]
+  },
+  {
+   "title": "Gulf sovereigns treat AI as a core asset class",
+   "signal": 48,
+   "summary": "Gulf capital and policy are visibly organising around AI: ADIA's 20-year return rose to 6.6% with an expanded AI and private-markets focus, Saudi Arabia is courting Silicon Valley from OpenAI to Dell with ministerial-level partnership talk, and LEAP 2026 delivered billions in Saudi tech investment.",
+   "angle": "Sovereign balance sheets now treat AI as a core asset class, not a venture side-bet.",
+   "items": [
+    {
+     "title": "ADIA’s 20-year annualized return rises to 6.6 percent as private equity allocation expands and AI, private-market focus sharpens",
+     "url": "https://economymiddleeast.com/news/adias-20-year-annualized-return-rises-to-6-6-percent-as-private-equity-allocation-expands-and-ai-private-market-focus-sharpens/?utm_source=rss&utm_medium=rss&utm_campaign=adias-20-year-annualized-return-rises-to-6-6-percent-as-private-equity-allocation-expands-and-ai-private-market-focus-sharpens",
+     "source": "Economy Middle East",
+     "time": "15:15",
+     "note": "ADIA leans further into data, quantitative strategies and AI as private-equity allocation expands."
+    },
+    {
+     "title": "From OpenAI to Dell: Saudi Arabia steps up Silicon Valley AI drive - Qazinform",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPenBxM19nWUljMXJnRzVtcktfaUNVZEItRFBzWWo3aFZtS3g2RVlBMkh1VklRRXVEaktIcllMVjFQRmlzR3BzQk1Rb29DTTJscG12Y2doTXdzWVZpZ1M4WUs5eHZFeUo1MEU5R1ZoNW1hZldid1BZU0thWXJpejhWVWtfZGQ3d2Mya0t1b1RzbkFUcnZKM1AtajM1QTRoTGQ50gGgAUFVX3lxTE96cHEzX2dZSWMxcmdHNW1yS19pQ1VkQi1EUHNZajdoVm1LeDZFWUEySHVWSVFFdURqS0hyWUxWMVBGaXNHcHNCTVFvb0NNMmxwbXZjZ2hNd3NZVmlnUzhZSzl4dkV5SjUwRTlHVmg1bWFmV2J3UFlTS2FZcml6OFZVa19kZDd3YzJrS3VvVHNuQVRydkozUC1qMzVBNGhMZDk?oc=5",
+     "source": "Qazinform",
+     "time": "22:36",
+     "note": "Saudi outreach to US tech spans frontier labs and enterprise hardware vendors."
+    },
+    {
+     "title": "LEAP 2026 brings billions in Saudi tech investment across AI, infrastructure and gaming - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUXFweFBhcGl3NVQwakZLWVREMFlXRF9uT3d4NXJtVFJEcVl4aWdpUmNHY21iUmk4TG0zNUFlVFU3NFAwRm82SWU1QzgwYzFCeDZXY2d6YXo3cUc5TzgxZEFGZ2VGeVFMbFgxUmdCSlk0TGFxQTRDQUlaaEpVaFc1MFIwOHhLQmJOT0MyOG0teTdLMjY1TC1icmJWQkpZcGxTekNFclZTTE1rZ2puaGtZYUxIa0s3S3NrYmc?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "21:09",
+     "note": "Multi-billion-dollar commitments across AI, infrastructure and gaming at Riyadh's LEAP 2026."
+    },
+    {
+     "title": "The AI race to secure Saudi Arabia’s payment boom - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjQxYzM1M040Zzl4bUxReEtEQ3QxNVh4Tmhxc3N2dzhEU1lxZDJPZWE0cG5GbnY3ZGdRMGN0TlhhaHd1VWxvelNUcmtwQ055UFJwNWNOWDJncHFoM0N2UkZMWFdYaGZGYTNOMmVSczRBTHdTUTVmSzN0VXJDMzZqT0M0RTduTG9IZ01FVkZRWjgycjllcEE?oc=5",
+     "source": "Arab News",
+     "time": "00:12",
+     "note": "Payments growth is pulling AI-driven fraud and security investment into Saudi Arabia."
+    },
+    {
+     "title": "Communications Minister Discusses Strengthening Saudi Arabia’s AI Partnerships in Silicon Valley - ASHARQ AL-AWSAT English",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdGZLTnlFeVgtZFV2Q1IzN0E5OWlYUW5vN0dNTlhRRGhfM2J0NGY1bFhaNXFDYlYtN0g1eU1HMUxMQTQzRE1yc3NyaTlpUDh2MFVKXzlFdHhsbHV0Y21VeXhFc3UxcnN1ZThwSHNpcVNJM2pCQWpyVE40YUktcFBqNU1RbXpnbC0wdzJKR2lCQnhoRUlKeDZHVXgtaXZVSkhFcFV1aVBWT29WOGVidVVVWVlMZlJERmMwYkhKUFFiN0JfVFhpMG9odzg1a1o?oc=5",
+     "source": "ASHARQ AL-AWSAT English",
+     "time": "14:47",
+     "note": "Minister-level push to deepen Saudi AI partnerships in Silicon Valley."
+    }
+   ]
+  },
+  {
+   "title": "Enterprises go self-hosted and open-weight",
+   "signal": 45,
+   "summary": "Enterprise compute preferences are shifting: law firm Latham & Watkins bought Nvidia servers to run customised open-weight models instead of OpenAI or Anthropic APIs, while a fully open K2 Horizon model family shipped with weights, code and training data. Cheaper, owned inference is quietly eroding the managed-API default.",
+   "angle": "Open-weight plus owned hardware is becoming a credible enterprise alternative to frontier APIs.",
+   "items": [
+    {
+     "title": "Latham & Watkins buys Nvidia servers to set up in-house AI systems",
+     "url": "https://www.ft.com/content/a2aaa848-92c3-4f7a-b758-5858bfb29e70?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "10:00",
+     "note": "Latham & Watkins customises open-weight models on its own Nvidia hardware."
+    },
+    {
+     "title": "Institute of Foundation Models Releases Fully Open K2 Horizon Models with Weights, Code and Training Data - HPCwire",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVS0teGo2SVJ2X3FrdjZLZEt0TGcwWGlpMTJrVWtiN0JybXJVM1NETmU0QXkwSnc0WGQ2V2pSTHJ0aGdOd2EzTE5fcDdGd2t1MVI5anhkSlNYTTQ1R2dRQjVlc21pWDhjbWdFZ3labjVQMGJsRkdMWGhtNmlvN0JYSlh2TF9Wc0d0NTJaUDUxMWRVa2hOVkRTejFCcy1VNmdHendva2UwTUJWbkZmaXZ2TVlGNUZKWkEtLVBxLTlrUkhfRDIzaVMxd1R2NGgtSjdMRmVUbDhmbEhfS2F0Q2hpbE9BS1pldjIxS2c?oc=5",
+     "source": "HPCwire",
+     "time": "22:44",
+     "note": "Weights, code and training data released openly for K2 Horizon models."
+    },
+    {
+     "title": "DeepSeek Flash v4.1 🤖, Siri AI 📱, Anthropic AI economics 📈",
+     "url": "https://tldr.tech/ai/2026-09-10",
+     "source": "TLDR AI",
+     "time": "00:00",
+     "note": "TLDR AI roundup: DeepSeek Flash v4.1, Siri AI, Anthropic AI economics."
+    }
+   ]
+  },
+  {
+   "title": "Adobe's miss reopens the SaaS-vs-AI debate",
+   "signal": 42,
+   "summary": "Adobe's outlook narrowly missed analyst estimates and its shares slipped even as AI product sales grew, reviving fears that AI upstarts are eroding incumbent software. The FT argues reports of the SaaSpocalypse are overstated - software firms can be AI beneficiaries - while Salesforce and Figma place opposing bets on the future of apps.",
+   "angle": "The disruption debate has flipped from 'SaaS is dead' to 'which SaaS is dead'.",
+   "items": [
+    {
+     "title": "Adobe Forecast Misses Views, Renewing Fears About AI Impact",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-10/adobe-forecast-misses-estimates-renewing-fears-about-ai-impact",
+     "source": "Bloomberg Technology",
+     "time": "20:11",
+     "note": "Outlook narrowly missed analyst views; AI upstart competition cited as the pressure."
+    },
+    {
+     "title": "Adobe Shares Drop 2% Despite AI Product Sales Growth - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU01pS3JjOVc3dkxaMzlCQS14cGdQU2VoUTRSWkwtMGRxdElOSFJfT1N1OW9kTDYxUFo3VWhlZDRIek5wM2g1cU5mWFg4VDNrcUE1eVB5aDNHa1VIUEVaSUNJZ1EzZlk0UWJXdFJtVnd1bkVvS0ZGak1DTnl0dUIyWTFXUlZDdVl3dFAwQzlJRVZMd1Y4R1JJ?oc=5",
+     "source": "The Information",
+     "time": "23:01",
+     "note": "Investors punished the miss despite AI product uptake."
+    },
+    {
+     "title": "Say goodbye to the SaaSpocalypse and hello to the RenaiSaaS",
+     "url": "https://www.ft.com/content/6508d169-35b1-4e56-a29a-57911d9123d8?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "16:35",
+     "note": "FT argues software firms are becoming beneficiaries of AI, with residual risks."
+    },
+    {
+     "title": "Why Salesforce and Figma Are Placing Opposing Bets on the Future of Apps - The Information",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVVR5Z1RJdTBad1d2RmNzUi16cUhDdDNxOG5RcVJTbzhvcGhpQjFHT2lNc0twSzl6aS1raXFJdkE1dGhJNDU0UkJLSFBSY0RKNG83OUY5YXh2VEYweWQ2alZIand6azVibFEwcFI1bEEzQmUwa0JKM1BTY1dsSFZ1VVVwVUMyaE5mckZfUTh3blZWaWJ6RUpFZFlBeXFIY3BtQU1PaFV3NA?oc=5",
+     "source": "The Information",
+     "time": "19:36",
+     "note": "Two contrasting bets on how software is built and bought compete for the enterprise."
+    }
+   ]
+  }
+ ]
+}

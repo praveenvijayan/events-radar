@@ -1,0 +1,352 @@
+{
+ "date": "2026-09-12",
+ "generated_at": "2026-09-12T02:01:30+00:00",
+ "themes": [
+  {
+   "title": "Anthropic dossier: UAE-linked op, Houthis on Claude",
+   "signal": 85,
+   "summary": "Anthropic published a sweeping global misuse report: an operation it links to the UAE used Claude in influence campaigns aimed at UN experts over Sudan and the Muslim Brotherhood, while Houthi and other armed groups reportedly tried using the model to develop guided weapons and ballistic missiles, with one Houthi missile test apparently failing. The disclosure lands squarely on GCC AI ambitions.",
+   "angle": "AI governance just became a GCC boardroom and sovereign-risk topic, not a San Francisco debate.",
+   "items": [
+    {
+     "title": "Houthis used Anthropic AI to try to build ballistic missiles",
+     "url": "https://www.ft.com/content/8310cf56-ce60-4e6e-8254-5bb470e9a880?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": ":54+00:0",
+     "note": "FT reports a Houthi missile test apparently failed, exposing limits of model safeguards."
+    },
+    {
+     "title": "UAE campaign used AI Claude to target Muslim Brotherhood and Sudan - Middle East Eye",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUhRWVBudXJCOVliMDNkSzItamVTQWJEU1pxNWlVMGhKY2tYU0EtNEw4TXp4b1YyZVUwTmQwVnJwQ0NkdWtueFplMU1IVFplbWE1a0pyTmsxaUQ4eGZNdkZ4TE9udmZuclFQWlBTZlBEVG5IejBzcUl3X3F6V1ltckZ3NC1ma255LVMtdEZKTEZBVFFQdnNobnRiVEZTalk?oc=5",
+     "source": "Middle East Eye",
+     "time": ":50+00:0",
+     "note": "Anthropic links a UAE-based operation to Claude influence campaigns."
+    },
+    {
+     "title": "Anthropic says UAE-linked AI op targeted UN experts over Sudan - Yahoo News UK",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56QWQyWnIxZ1VxYllaWG9YTWszdUF3eTZOTWlWVkhQbHJja2Z2NDNoV1JCT0VWTjFjbFlsbGVaQ3g2d1ZvQ0VmSVZMWGpsZGJsTlBvWkhDcUk4SHBhZVV2ZlFUVDJOenZTT1V0cjNfUkROcUxENlRqZQ?oc=5",
+     "source": "Yahoo News UK",
+     "time": ":59+00:0",
+     "note": "Anthropic links a UAE-based operation to Claude influence campaigns."
+    },
+    {
+     "title": "Anthropic opens the files on global Claude misuse - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVU9udWtBbk51RzR4LWJ0VTVrRnhTcFZjWFNzaUY3eHJ4Y05sZWxwd3BIa1k0TExXcXpDZFIzZlNWeXZxMjEwRDJJY3dpZ3lENGU0RHdnVkl6dFRBNi1KYktYMHk1LVNyUkxQcmQ1RWlubVhpOXQwZG9aZ0lXaW5LXzBQaXpKWjZVdFZsSw?oc=5",
+     "source": "The Rundown AI",
+     "time": ":34+00:0",
+     "note": "Anthropic's misuse dossier as aggregated by The Rundown."
+    },
+    {
+     "title": "Rebels used Anthropic’s AI bot to develop guided weapons, report says - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5",
+     "source": "The Washington Post",
+     "time": ":00+00:0",
+     "note": "WaPo reports rebels used the bot to develop guided weapons."
+    },
+    {
+     "title": "AI giant says UAE-linked operation used its chatbot against Muslim Brotherhood - Muslim Network TV",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3phYk00QUQ1S3lmNGVyc21xeDBpNWpFNE9GZlZSR3RYT21SZlNOamNtUkN6clBubTRxMU5ibHExWFdmWGUwbVpRcnZpb1F4UGw5Wl9iVVJjalZmcUkwdS1NdVROeGtaZUp4Wkgya1k3akg2aVlrdVdZQnVDX0oyUTFVRWY2QXIyNWF5RnhnOGpiclZlbzZOUW9TWGJYVE10NEdQYnFZb01JZUto?oc=5",
+     "source": "Muslim Network TV",
+     "time": ":37+00:0",
+     "note": "Anthropic links a UAE-based operation to Claude influence campaigns."
+    }
+   ]
+  },
+  {
+   "title": "UAE rethinks 5GW AI data-campus after Iran strikes",
+   "signal": 80,
+   "summary": "Reuters and others report the UAE is revising its US-backed 5-gigawatt AI data-centre campus plan after Iranian strikes targeted US assets in the Gulf, with reporting ranging from redesign to dismantling the mega-campus. Security now shapes compute geography: the region's flagship AI-infrastructure build is being re-planned around war-risk, not just power and capital.",
+   "angle": "Compute siting is becoming a national-security decision in the Gulf; data-centre risk models must add missile range.",
+   "items": [
+    {
+     "title": "EXCLUSIVE: UAE revises AI data center plan after Iranian attacks, sources say - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaXdNOTVXY3kwZHluN2wtdk16OHYyYjR6aWxCZ3RFaDNveWtIMTZ3dzFwZExPZmpOX1YxbTJMdmdEeVZabF9NTjV3ei1KSWJXR2NKR2lnbWZjczZyQlBEU0x6c0dnWFplWFVteEJoQ0JTMGpFdnZqd2hXR2JpSF9ILU9WM2tGUTAtQWxuQnl4LXhZQWRnZXNEdFZlUFBDbXhxLTJVUVoyRkwtQm1KS3R5M05uaktvT0dWVzhV?oc=5",
+     "source": "Reuters",
+     "time": ":16+00:0",
+     "note": "Reuters exclusive on the revision, the most authoritative account."
+    },
+    {
+     "title": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf - Crude Oil Prices Today | OilPrice.com",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUUkxcUpwQmlOQXJ5ZUEtbHlkY21zejI2dDMxMXBmOXhGQUNfeTlrYjMyTW5JREFGWFRQS2FERWVkXzJpa1RYZzZOSFNwdV9oM1VTaEJ6WTh6a0tocDV1WXZqSmNOci0xVmlndFZHNXVjS1JqQjBnd293OTNoMjB3eFIxaGVQdGs0cUJBMU1tSTIxaENka0NsLUlUdHVTZS0xX0kyR3NHQUVpRlJlMTV5V092TzdlX05FYk5ETnM4WENxVXZt0gHKAUFVX3lxTE54dll2QkJETGQxX1d3QmJJRkNwR1Zsc0VjVk9ua1U4eTBoaEgtQzd4UDBUaXR0SGFibDBfMDdIckpWaHl4cnJVS3BhQWNlX1M4WEdGMDdZV2tYSUtYZURpUGNVM2kxeDh1TmgwRktXS0lWdURGb3ZHTWNRQnJWUGJDR3BCbE5VcGtsNnRXbjZvUVZTeEJLbWFqN2czeXVEVWVjanF4MFBNVG9jSlNSZXRmMThsVElYbkNBVlpvd1c4T3U0UmRNX19xVFE?oc=5",
+     "source": "Crude Oil Prices Today | OilPrice.com",
+     "time": ":00+00:0",
+     "note": "Corroborating coverage of the 5GW plan revision."
+    },
+    {
+     "title": "UAE Revises 5-Gigawatt AI Data Centre Plan After Iranian Attacks - CXO Digitalpulse",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHAwdmRPLXdCa0N1M0YzdERPYWRCNHZ5QTgyeHU2aW5xOElGWTQ0TDVRNHE3NmNiVFN4Zk83M0tabmk1ZWlSTlJVckhaZjBuNmJPaTBNU2c3VzNvZ1JNdXpoMDcyRmgxRGlScldwNU9fU0RmNXlZUXR0QUNtVUFfbGVFSXJmdDVGR0VNdUVsS3FlMmNWeFcwRzM5cVRWdw?oc=5",
+     "source": "CXO Digitalpulse",
+     "time": ":38+00:0",
+     "note": "Corroborating coverage of the 5GW plan revision."
+    },
+    {
+     "title": "UAE rethinks AI data centre plans after Iranian attacks, Reuters reports - Free Press Kashmir",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWpCWDBGVFZ6Rm93LWdldE9jMlpnZmlMSl9rLTBQdzFBemlyT0ltRGJXT0s3b0liaDNWMkJ0ejEtclgxT21FWGl2Q0d3d2lfc1lFaEJ5d0lmRWlrcXFBaXVWZjNJTUpVVm9IbjRrNjJpSjZCMi12WHdTeGxCVl9SckxmVDV3ZUZiM3lDY1ZLTFoxLTF5TGRaamFjYWQ2eFh1WHlQZElBUFFPZkxDUDltWS1Hd1d5SlAt0gG4AUFVX3lxTE1pakJYMEZUVnpGb3ctZ2V0T2MyWmdmaUxKX2stMFB3MUF6aXJPSW1EYldPSzdvSWJoM1YyQnR6MS1yWDFPbUVYaXZDR3d3aV9zWUVoQnl3SWZFaWtxcUFpdVZmM0lNSlVWb0huNGs2MmlKNkIyLXZYd1N4bEJWX1JyTGZUNXdlRmIzeUNjVktMWjEtMXlMZFpqYWNhZDZ4WHVYeVBkSUFQUU9mTENQOW1ZLUd3V3lKUC0?oc=5",
+     "source": "Free Press Kashmir",
+     "time": ":53+00:0",
+     "note": "Reuters exclusive on the revision, the most authoritative account."
+    },
+    {
+     "title": "UAE Rethinks Blueprint For US-Backed AI Hub Amid Iran Attack Fears - NDTV Profit",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOU05NOTNPVHc2QXpwX1d3Q0VNOS1sTWVXZE96UnZhR2ZVcmhhVk9KbERTSG1FVHo4LVRrMUttU19BT2NaYm1KRXVsWmtFZndQYmZ6Z3V5Qkk0eXpjbWt1Xy1QeEthQm1JeVpVNGNMVnNub19aQWdKQ0loc1BQcXNSU2kxQlI0VU5GYm5iN2NpSE9RRnR0U1piWVRMVm01UVZpZVhTd0steVEzV2dPb2tKbkNoRlTSAbQBQVVfeXFMTlNOTTkzT1R3NkF6cF9Xd0NFTTktbE1lV2RPelJ2YUdmVXJoYVZPSmxEU0htRVR6OC1UazFLbVNfQU9jWmJtSkV1bFprRWZ3UGJmemd1eUJJNHl6Y21rdV8tUHhLYUJtSXlaVTRjTFZzbm9fWkFnSkNJaHNQUHFzUlNpMUJSNFVORmJuYjdjaUhPUUZ0dFNaYllUTFZtNVFWaWVYU3dLLXlRM1dnT29rSm5DaEZU?oc=5",
+     "source": "NDTV Profit",
+     "time": ":24+00:0",
+     "note": "Corroborating coverage of the 5GW plan revision."
+    },
+    {
+     "title": "Iranian strikes force UAE to dismantle plans for its AI mega-campus - Tehran Times",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWxPRTBGVnhpSTBPSkNUR3FmYzBoaVpqZm8xZVp2V2JfcFpfbHFoRHBFaDBXUWhPUk5UMHlFSXNWeFR2bmNBODIyUldOel9LRU9WZjU5ck1BTXoyaFpuVUpEWF9YMGdsekw5dnJpU3AwcUNBU09QYjB2VWw3LW1WaDVnQ1VxWWhQSXNnbFNEVEczVTl4VkpNczRoTDN0WHpUUkZOakpxelI2MXc?oc=5",
+     "source": "Tehran Times",
+     "time": ":42+00:0",
+     "note": "Iranian strikes are forcing the rethink, per Tehran Times."
+    },
+    {
+     "title": "UAE moves to ‘war-proof’ data centers after Iranian retaliatory strikes: Report - thecradle.co",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHVwenN2bFh0VHc0OEl2UFY2Q2FfVTlUWEl1cnZFeEk2RU5UVVBFQlZVZlhfM0M0OUh3bExxQUxPVF91RHl1bjVfYXdaLWdqc1RSbUxsUHVpcXFHVXlJdmFKV0tIVVY3bWMxTjBOcmJiMW1tdjlzeWFwTW1rUG5UdmdOaVVRTkhpSHR3YkxWTkJOeFRyZ0VtVXU0LUNYYlJ5RUdlUGJwRGV0Zw?oc=5",
+     "source": "thecradle.co",
+     "time": ":02+00:0",
+     "note": "Corroborating coverage of the 5GW plan revision."
+    }
+   ]
+  },
+  {
+   "title": "Washington AI panic: Senate safety mandates loom",
+   "signal": 75,
+   "summary": "A week of doomsday warnings has shifted the US debate from whether to regulate AI to how far to go: Senate negotiators are considering requiring AI firms to mitigate known major risks, and members are pressing Speaker Mike Johnson to cancel the House recess over AI safeguards. Axios, Reuters and FT all frame this as regulation finally moving from theory to drafting.",
+   "angle": "Mandatory risk-mitigation duties would change enterprise AI liability math globally, GCC included.",
+   "items": [
+    {
+     "title": "Congress gripped by AI panic after doomsday warnings",
+     "url": "https://www.axios.com/2026/09/11/congress-ai-anthropic-coxon-researcher-democrats",
+     "source": "Axios AI+",
+     "time": ":07+00:0",
+     "note": "Part of this week's US AI-safety panic coverage."
+    },
+    {
+     "title": "Scoop: Mike Johnson urged to cancel House recess over AI warnings",
+     "url": "https://www.axios.com/2026/09/11/mike-johnson-house-recess-ai-doom-warnings",
+     "source": "Axios AI+",
+     "time": ":58+00:0",
+     "note": "Axios scoop: House members urging Speaker to recall recess for AI safeguards."
+    },
+    {
+     "title": "US Senate negotiators consider requiring AI firms to mitigate known major risks - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVJFRjl0M2NxU3YtVmplOGp5YkNqcllYY0R0Y2xPV0ZaTU5fNElVVXl1WDI4NjRRRGtSNXlwanRTUjRFY2ZCTUdLcE52QTZyTnN4WDdKNGE1bWM0SDBBdmdpSUw4YXZ1WDNnZ1hGTzl1RVhodnhBZzFEVHJ1VlJUd3Q1Z3gwTUVIMGR3X1g4Q0ZkUUFLdTc2dnAzZzZzaEREYjg5SGltUTJrelRKdjJwQ2RZbUJzY0NjMjI0SFUyUTF3X18wZ2ZjSw?oc=5",
+     "source": "Reuters",
+     "time": ":47+00:0",
+     "note": "Reuters: Senate weighing a duty on firms to mitigate known major risks."
+    },
+    {
+     "title": "Lawmakers clash on safety testing language for in-development AI legislation, people familiar say - Nextgov/FCW",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQU25GZkRyem03M2x0N0Q4OUZ3VzFaZUdpa2ZxTGNoRUFLOG5JQnJTV2dNVmY3LS1GNHhUWEtVRll1Zlc2cF9MellyT09SWnp4clljOHZUOThaeE5JaVNXaHc4c25PeDdHUXNqQzNPWnRYSUtKTlRBb3J3S2pDNEZJdjU4R19wWVIyZ1ZsaFRiWFhlakZGNENvd2hNVnJtUnRfV1BIYzVVUy0xS2daR3hCMjZMSkRuVFJLV2o0bURPZzBDNllSWlR5cVFacTlGMU9rcmdHWkRuYW1STmp4R3VyUnpMNDk?oc=5",
+     "source": "Nextgov/FCW",
+     "time": ":00+00:0",
+     "note": "Part of this week's US AI-safety panic coverage."
+    },
+    {
+     "title": "What's next for the AI safety debate",
+     "url": "https://www.axios.com/2026/09/11/ai-safety-debate-next",
+     "source": "Axios AI+",
+     "time": ":06+00:0",
+     "note": "Part of this week's US AI-safety panic coverage."
+    },
+    {
+     "title": "Time to start taking AI risks seriously",
+     "url": "https://www.ft.com/content/bcffd7aa-d9fc-4ae3-bf3e-c121d50a7d6d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": ":04+00:0",
+     "note": "Part of this week's US AI-safety panic coverage."
+    },
+    {
+     "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+     "source": "Gates Notes",
+     "time": ":18+00:0",
+     "note": "Part of this week's US AI-safety panic coverage."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia eyes up to $10B in Anthropic's mega-IPO",
+   "signal": 75,
+   "summary": "Reuters reports Nvidia is considering investing up to $10 billion in Anthropic's IPO, which could become the largest IPO of all time. The deal would lock Nvidia into Anthropic's compute trajectory, deepening the chipmaker's role as both infrastructure supplier and strategic equity holder in the frontier-model race.",
+   "angle": "The AI value chain is consolidating: the chip monopolist is underwriting the model maker's public debut.",
+   "items": [
+    {
+     "title": "Nvidia Mulls $10 Billion Anthropic IPO Backing, Reuters Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters",
+     "source": "Bloomberg Technology",
+     "time": ":47+00:0",
+     "note": "Bloomberg citing Reuters on the $10B figure."
+    },
+    {
+     "title": "Exclusive-Nvidia in talks to invest in Anthropic’s mega IPO, sources say - WTAQ",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1hwNEVpYkd3bXpyXzdXWllMQ2V1WDRUbm5MM01Cd2RxTmRpZ3FXSXgzNzl6cUpYXzVQUDhSbnJnMzNHUEJHbVNWYlMwOFBMbDNJR2Z0VmxqOElhUG0tcE52Nm9NaVNleFZlaHFrZVVMc3VNWGVuTVFZalkyTms1b2Raa2VqMS04b2ktZU5DUVRwMFBWQXV0NEtNZk81b0tZ?oc=5",
+     "source": "WTAQ",
+     "time": ":58+00:0",
+     "note": "Wire version of the same exclusive."
+    }
+   ]
+  },
+  {
+   "title": "Saudi AI: 14GW compute, Riyadh governance push",
+   "signal": 70,
+   "summary": "Saudi Arabia is partnering with the private sector to build more than 14 gigawatts of AI computing capacity to lure global AI companies, per Economy Middle East, while UNESCO launched ethical-AI governance tools at a global forum in Riyadh. The Kingdom is pairing raw compute with a soft-power regulatory agenda.",
+   "angle": "Riyadh is positioning itself as both compute capital and the Global South's AI-governance arbiter.",
+   "items": [
+    {
+     "title": "Saudi Arabia to develop 14 gigawatts of AI computing capacity as it seeks stronger tech investment",
+     "url": "https://economymiddleeast.com/news/saudi-arabia-to-develop-14-gigawatts-of-ai-computing-capacity-as-it-seeks-stronger-tech-investment/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabia-to-develop-14-gigawatts-of-ai-computing-capacity-as-it-seeks-stronger-tech-investment",
+     "source": "Economy Middle East",
+     "time": ":53+00:0",
+     "note": "14GW target announced at a Kingdom AI event, per Economy Middle East."
+    },
+    {
+     "title": "UNESCO launches new tools to reinforce ethical AI Governance at global forum in Riyadh, Saudi Arabia - UNESCO",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFdhalJ5OUpQenQ2Y080RUdhT3h1N0M1ZGJGUEEzTEpaXzJvTGZOZUMxNFdfZHNPYlBMUV9iYnpXcEtRdnlQcnNja0NTbWpOWVBSTUtoUndRYmt2U196eTBFYXpHQ3R6SXdUenJHcWFCSGZXeXNKZWFxWkszVG5oLTk4ZFNEOUhiYTBndzlRYnI4V0Zmbi1vV0ZCRGFFYW8tb0U1MG0tMmhWOFBGMkp6Q3ZnVlFfeGZ6X0JlLUJreXFOZ1E?oc=5",
+     "source": "UNESCO",
+     "time": ":27+00:0",
+     "note": "UNESCO governance tools launched at the Riyadh forum."
+    },
+    {
+     "title": "Saudi Arabia Approves First Locally Developed AI-Powered Medical Software for Dentistry and Ophthalmology - entARABI",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2stckVTLXBhRXFKQVdRUVlhTHBSdjJQRXBfeDVTdWNPeUNLd1M5NEZCNlFkSTZROFhoZ0JUX3VUbXcyRklPODdmc0ZYOERFZzJGMloxZ2NuX2J4Ykt0UElWQzdRSjhfU1FsQjFVOW55N3JFSWt6bjZUU1djTUlFaVBBd1ZEQy1FbEdUdmNCZWZFY2ZqczhhZ1M0RGpLZnhUUVluVHBHQ1hUMkRiX3d2MWVGeTNzclNDa2Q0VldmNXVSZVk3X0w3WUpJeG04a2NvY09LMQ?oc=5",
+     "source": "entARABI",
+     "time": ":08+00:0",
+     "note": "First locally developed Saudi AI medical software approved."
+    }
+   ]
+  },
+  {
+   "title": "UAE-Germany AI data-centre investment push",
+   "signal": 65,
+   "summary": "The UAE committed roughly $45-46 billion to Germany in a push centred on AI data centres, and the Germany-UAE Business Forum closed $11.2 billion in deals across 30 agreements. Sovereign Gulf capital is now wiring itself into European AI infrastructure.",
+   "angle": "Gulf AI capital is going transatlantic; European compute becomes a Gulf strategic-asset class.",
+   "items": [
+    {
+     "title": "UAE commits $45bn to deepen trade ties with Germany",
+     "url": "https://www.agbi.com/trade/2026/09/uae-commits-46bn-to-deepen-trade-ties-with-germany/",
+     "source": "AGBI",
+     "time": ":00+00:0",
+     "note": "AGBI: EUR 40bn (about $45bn) committed during the Berlin meeting."
+    },
+    {
+     "title": "The UAE is committing $46 billion to Germany in a push centered on AI data centers - qz.com",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03UHpqZ3dZRW1WWk1FeTFUX0RkRVBoNF9MODVNTThRaXk2RzBkRUxuVUl5LWdZdllfQjBoV1BNamdaLVZ4Z21kcHEtU2Y2NjRSRlFFZUZxS3NxMXpCa0d5NjkzYWQ4ZDhBejNrMw?oc=5",
+     "source": "qz.com",
+     "time": ":31+00:0",
+     "note": "Quartz frames the push as centred on AI data centres."
+    },
+    {
+     "title": "UAE and Germany seal $11.2 billion in deals across priority sectors at Germany-UAE Business Forum",
+     "url": "https://economymiddleeast.com/news/uae-germany-seal-11-2-billion-deals-across-priority-sectors-germany-uae-business-forum/?utm_source=rss&utm_medium=rss&utm_campaign=uae-germany-seal-11-2-billion-deals-across-priority-sectors-germany-uae-business-forum",
+     "source": "Economy Middle East",
+     "time": ":32+00:0",
+     "note": "Quartz frames the push as centred on AI data centres."
+    }
+   ]
+  },
+  {
+   "title": "Inference economics: DeepSeek price pressure, OpenAI demand",
+   "signal": 65,
+   "summary": "DeepSeek's V4.1-Flash release is putting fresh pressure on AI pricing, per The Rundown, while OpenAI is pausing new Pro subscriptions citing demand for GPT-6 Astra, per The Information. The market is squeezing price and capacity at the same time, a squeeze that hits anyone running heavy inference workloads.",
+   "angle": "Price deflation plus capacity rationing: the two forces defining 2026 inference unit economics.",
+   "items": [
+    {
+     "title": "DeepSeek V4.1-Flash puts pressure on AI pricing - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42QjhyQWpzbkcxdmlDbHJOMExyTnlwUVRpYjN1bDZIZktTWk4xN1h0a1Bqdi1taE5ULThVaXVCb3F5cFdTXy1vWHVKaEF0WVBkQlNKc20yNDBOV19KM0x5amVKelpSME5leFlQUmd3?oc=5",
+     "source": "The Rundown AI",
+     "time": ":40+00:0",
+     "note": "DeepSeek's flash model pressuring API pricing, per The Rundown."
+    },
+    {
+     "title": "OpenAI to Pause New Pro Subscriptions, Cites Astra Demand - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVJqSUcxcG1SeF9mWjlEcFZsRlNXYUM0RVlpWkU0MWFtVDdCYmZFQnlxNWo0Z2tkVmstX3hWazFlaWZuTlhVM2FSYThUX2xCQlB0U2hNVlZpMURQakFHZ01UUTdnRDBVbnFHb08yZ29MOTVnZHFyUVhKWXZwaXF1eDZEZFZ6UUhFYnJVYl84M1F5dlZGOEZkYXlB?oc=5",
+     "source": "The Information",
+     "time": ":00+00:0",
+     "note": "OpenAI pausing new Pro subscriptions on Astra demand, per The Information."
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI enters production: Perplexity, Cognition on Astra",
+   "signal": 65,
+   "summary": "Perplexity is trusting GPT-6 Astra with end-to-end systems - writing communications, changing software and monitoring production - checking in far less often, per OpenAI, and Cognition uses Astra to help Devin test its own work. OpenAI is seeding the story that long-horizon agents are now dependable enough to run real operations.",
+   "angle": "The autonomy narrative moved from demos to production load: agents now touch live systems.",
+   "items": [
+    {
+     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+     "source": "OpenAI News",
+     "time": ":00+00:0",
+     "note": "Perplexity runs end-to-end systems on Astra with less check-in, per OpenAI."
+    },
+    {
+     "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+     "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+     "source": "OpenAI News",
+     "time": ":00+00:0",
+     "note": "Cognition uses Astra to make Devin self-test software, per OpenAI."
+    },
+    {
+     "title": "Agents API 🤖, Cognition SWE-2 👨‍💻, Muse Shared Agents 🧑‍🤝‍🧑",
+     "url": "https://tldr.tech/ai/2026-09-11",
+     "source": "TLDR AI",
+     "time": ":00+00:0",
+     "note": "Cognition uses Astra to make Devin self-test software, per OpenAI."
+    }
+   ]
+  },
+  {
+   "title": "Oracle's AI capex cash crunch: Ellison sell-down, layoffs",
+   "signal": 60,
+   "summary": "Oracle founder Larry Ellison plans to sell up to $7.5 billion of stock while the company boosts its layoff plan by $700 million, Bloomberg reports, against investor fears the firm is overcommitted to AI data-centre buildout. Even AI infrastructure winners face financing stress as capex outruns cash flow.",
+   "angle": "The build-now-pay-later AI infra model is hitting its first cash-flow test.",
+   "items": [
+    {
+     "title": "Larry Ellison to sell up to $7.5bn worth of Oracle stock",
+     "url": "https://www.ft.com/content/25b1abb0-790f-4315-9b0c-530d959a086f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": ":54+00:0",
+     "note": "FT: up to 50mn shares as investors question AI overcommitment."
+    },
+    {
+     "title": "Oracle Boosts Layoffs Plan by $700 Million",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+     "source": "Bloomberg Technology",
+     "time": ":29+00:0",
+     "note": "Bloomberg: layoff plan scaled up by $700mn on data-centre cash crunch."
+    },
+    {
+     "title": "Oracle Keeps a Lid on Capex as Customers Pay Up-Front - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQemo3R0FQcmVIT3NkY3piQzNHd3JaSTM5TUhESmw0a18wVVBBb0p4Mi1mV1NSdndpeHhIT2ZQV0w3XzVRaWQ0RFJYTHI3ckhtVVNtWGwxcGJFb2w3UnMzVnMweV84MEN3SkV6cUppLUFYQTJqbW1ZS3Z0NmFpYlZJTm5BQzlGMlhFLUw3T3hOcEdxdTY2aWdqcDNKS29Pd3c?oc=5",
+     "source": "The Information",
+     "time": ":22+00:0",
+     "note": "The Information: capex held in check as customers pay up-front."
+    }
+   ]
+  },
+  {
+   "title": "China chips rally; fully open K2 models land",
+   "signal": 45,
+   "summary": "Tencent-backed chipmaker Enflame tripled on debut as China pushes chip self-sufficiency, per The Information, while the Institute of Foundation Models released fully open K2 Horizon models with weights, code and training data, per HPCwire. Open-weight supply is broadening exactly as export controls tighten.",
+   "angle": "Both ends of the stack - silicon and open weights - are de-coupling from US incumbents.",
+   "items": [
+    {
+     "title": "Tencent-backed Enflame Triples on Debut as China Pushes for Chip Self-sufficiency - The Information",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2plWHdvbXZXMTJjclVfZ0ZPa2hGT2NVQjBVNDNGVzcyTVRPU3JmZGVCMkwzUUxKSXJrenlYakt3Q2FqWVpvOXBRMTFKZDlwMklOUGlwam00aWMyUzR3emZSN3VQdnVVZGFzNE0ybDJmSW45ZGpCZmRtMmdua0RLNFBETmlEZUI1ZnRaWElaRmhoTm1RMVdpeDlnSUw5dkRQVUc5TXBCcW1LMy1ORFEtSDZ3?oc=5",
+     "source": "The Information",
+     "time": ":00+00:0",
+     "note": "Enflame tripled on debut amid China's self-sufficiency drive, per The Information."
+    },
+    {
+     "title": "Institute of Foundation Models Releases Fully Open K2 Horizon Models with Weights, Code and Training Data - HPCwire",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVS0teGo2SVJ2X3FrdjZLZEt0TGcwWGlpMTJrVWtiN0JybXJVM1NETmU0QXkwSnc0WGQ2V2pSTHJ0aGdOd2EzTE5fcDdGd2t1MVI5anhkSlNYTTQ1R2dRQjVlc21pWDhjbWdFZ3labjVQMGJsRkdMWGhtNmlvN0JYSlh2TF9Wc0d0NTJaUDUxMWRVa2hOVkRTejFCcy1VNmdHendva2UwTUJWbkZmaXZ2TVlGNUZKWkEtLVBxLTlrUkhfRDIzaVMxd1R2NGgtSjdMRmVUbDhmbEhfS2F0Q2hpbE9BS1pldjIxS2c?oc=5",
+     "source": "HPCwire",
+     "time": ":22+00:0",
+     "note": "Fully open K2 Horizon models with weights and training data, per HPCwire."
+    }
+   ]
+  }
+ ]
+}

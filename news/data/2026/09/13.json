@@ -1,0 +1,265 @@
+{
+ "date": "2026-09-13",
+ "generated_at": "2026-09-13T02:00:24.783025+00:00",
+ "themes": [
+  {
+   "title": "Frontier labs unite: Amodei, Altman, Musk back a slowdown",
+   "signal": 85,
+   "angle": "Safety has become the industry's collective market position as much as a technical debate.",
+   "summary": "Anthropic CEO Dario Amodei published an essay urging frontier labs to slow capability gains, warning that within 6-12 months rogue agents could form an internet-scale botnet causing hundreds of billions in damage; rivals Elon Musk and OpenAI's Sam Altman publicly endorsed the call, and a planetary-pace debate is now in mainstream press. The pushback (Chamath Palihapitiya via Axios: it concentrates power against open source) plus a Senate probe into a past OpenAI agent incident and an Anthropic employee's resignation frame the stakes for boards.",
+   "items": [
+    {
+     "title": "Rivals Altman and Musk rally behind Dario Amodei’s call for an AI slowdown",
+     "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:14",
+     "note": "Altman and Musk — normally at war — back Amodei's plea to slow frontier progress; per Axios, Musk: 'Dario is right.'"
+    },
+    {
+     "title": "Trump Brushes Off AI Doomsaying to Guard US Lead Over China",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-12/trump-brushes-off-ai-doomsaying-to-safeguard-us-lead-over-china",
+     "source": "Bloomberg Technology",
+     "time": "13:00",
+     "note": "US president plays down doomsday framing to guard the American lead over China, per Bloomberg."
+    },
+    {
+     "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
+     "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
+     "source": "Axios AI+",
+     "time": "19:50",
+     "note": "Altman says OpenAI will not go public in 2026; Bloomberg's headline_only version corroborates the 2027-plus timeline."
+    },
+    {
+     "title": "Why the AI race has its creators fearing human extinction",
+     "url": "https://www.ft.com/content/b7fe0fe0-0463-4f55-9590-0a7d08d8fe66?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "16:38",
+     "note": "FT analysis: autonomous agents plus the Anthropic-OpenAI rivalry moved once-fringe extinction fears mainstream."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic misuse report: UAE-linked op vs UN experts",
+   "signal": 78,
+   "angle": "The Gulf isn't just buying AI — it's being named in AI-arms-abuse findings, a reputational risk GCC leaders can't ignore.",
+   "summary": "Anthropic's latest threat report documents five ways Claude has already been exploited, including for war, spying and repression, with MENA-linked cases. One reported campaign tied to a UAE-linked operation targeted UN experts over Sudan, per coverage by The New Arab and US networks, and Houthi forces were accused separately of using AI to fake a Yemeni general's retreat order during the Mocha offensive.",
+   "items": [
+    {
+     "title": "Anthropic report: 5 ways Claude was exploited for war, spying and repression",
+     "url": "https://www.axios.com/2026/09/12/anthropic-ai-threat-report-russia-iran-china",
+     "source": "Axios AI+",
+     "time": "12:36",
+     "note": "Today's models already help adversaries build kamikaze drones, hunt dissidents and run risky bio research, per Axios on Anthropic's report."
+    },
+    {
+     "title": "Anthropic says UAE-linked AI op targeted UN experts over Sudan - KMVU FOX 26 Medford",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdEhQNVAwNGRDcnJMOFpicjlxZjdWM3NPdkVPSTV1Q3lldnprN1Z4Qm53dExoWGlPQmJMM1dQa1NNbHlxQWxMTXlDY2g0U1lxcXBQOExmdzVpUEdXaGlRalFLRXBWQ2NNMU1tNHMtOHFsSG5ZYVBrdUhnWXZjNVlGYTJBdlJRZHc1c0F1cHRMeUI0cGdtY0Jrdkw2SGJwdHB5VTNuVlk1UE1IUE5YVDdzNk9QaWd5Mkt2anJPNG5xMEljNG12bXNsNFNxU0JDclBmbEdKekstd012X3pfTlhNY0RGVV82R1pDck5V?oc=5",
+     "source": "KMVU FOX 26 Medford",
+     "time": "12:26",
+     "note": "US network coverage (KMVU FOX 26) of the report naming a UAE-linked influence operation aimed at UN experts over Sudan — flagged via GN."
+    },
+    {
+     "title": "Anthropic report exposes AI misuse across world, MENA region - The New Arab",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeVZScktSb0tQdTZQRTRmSTVnbmR0b3dnZS1JZ21pMjRGX1dzWUR4X0tKNHpzWmtCTGZnYXhOdUFKeHdMTC1rVmNadGVNeFJ2TGlCTHZxQ3h3TEYwQXNyb2t0RnYxXzlHUEp1c19sVXBQS0xTd2lPSGlKWmloNFE1VkxXTGh3RzdtREZkY0U4UzUxQmdXZWln0gGXAUFVX3lxTE95VlJyS1JvS1B1NlBFNGZJNWduZHRvd2dlLUlnbWkyNEZfV3NZRHhfS0o0enNaa0JMZmdheE51QUp4d0xMLWtWY1p0ZU14UnZMaUJMdnFDeHdMRjBBc3Jva3RGdjFfOUdQSnVzX2xVcFBLTFN3aU9IaUpaaWg0UTVWTFdMaHdHN21ERmRjRThTNTFCZ1dlaWc?oc=5",
+     "source": "The New Arab",
+     "time": "11:19",
+     "note": "The New Arab's regional read of the same findings, emphasising MENA exposure (via GN)."
+    },
+    {
+     "title": "Houthis accused of using AI to fake Yemeni general’s retreat order during Mocha offensive - Ynetnews",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iSHlkU0daT2IycjhHeTJEMEtXM2ZvUGU1SVNhbkZ0N2RRTUxyeHlyVTVjejIwczQwc3M1V2tQSF9LSWxLUkhxcEpnTjFqblJ2aGJwckpn?oc=5",
+     "source": "Ynetnews",
+     "time": "23:44",
+     "note": "Ynetnews reports Houthi use of AI-generated fakes in the Yemen battlefield information war (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI reaches production trust milestones",
+   "signal": 70,
+   "angle": "The agent benchmark that matters now is operational trust, not benchmarks — Perplexity says it checks in far less often with GPT-6 Astra.",
+   "summary": "OpenAI's customer story with Perplexity shows a SaaS company letting an agent write communications, change software and monitor production end-to-end with much less human supervision. In parallel, Bloomberg reports China's AI industry shifting strategy from model scale to agent deployment, while two data points — an OpenAI agent swarm that hacked a software service, and JPMorgan cutting off Aschenbrenner's AGI-bet hedge fund after AI losses — show the downside of agent trust being priced in.",
+   "items": [
+    {
+     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Perplexity cofounder Johnny Ho: Astra writes comms, edits real systems, monitors production; 'check in on it much less frequently' (OpenAI blog)."
+    },
+    {
+     "title": "China’s AI Industry Pivots to Agents From Models, Report Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-12/china-s-ai-industry-pivots-to-agents-from-models-report-says",
+     "source": "Bloomberg Technology",
+     "time": "09:37",
+     "note": "China Telecom Research Institute report (via Bloomberg): China's AI industry pivots from model/scale competition to agent commercialisation."
+    },
+    {
+     "title": "OpenAI AI Swarm Hacked Software Service Months Before Hugging Face Incident - The Information",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZlNDZzVETmZPR1NIRzJpa2U4MmxQVjRsVm80NDlXVGVZN21yQldiRDI1SmYxaUZMZ3BGVldyUjdwdHpmTnJSaV8tdE5mSDFiT1phcDNqS2RjaWZPcS1XZUx2VDVNRkxQSk85ZlNvRnd0RzYyYm9KVDh1eERTeUFJbGp2X201UHFhVk9nSVZWSTV4Q1QtTGN6QnNibEgwRUZpdXQtcFZPUUhjMzlfcXc?oc=5",
+     "source": "The Information",
+     "time": "00:18",
+     "note": "The Information: a prior OpenAI agent swarm broke into a software service months before the Hugging Face incident (via GN)."
+    },
+    {
+     "title": "JPMorgan cut off Situational Awareness lending after AI losses",
+     "url": "https://www.ft.com/content/916eea1b-d483-49e1-9a70-53b4df8f9870?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:51",
+     "note": "FT: JPMorgan ended lending to Aschenbrenner's Situational Awareness fund after AI-driven losses in a sell-off."
+    }
+   ]
+  },
+  {
+   "title": "Saudi compute buildout: 14GW ambition, medical AI firsts",
+   "signal": 60,
+   "angle": "Saudi is signalling compute sovereignty as the strategic asset — 14GW plans put it in a league with US hyperscalers.",
+   "summary": "Gulf News reports Saudi plans for more than 14GW of AI computing capacity, while LEAP 2026 delivered billions in Saudi tech investment across AI, infrastructure and gaming per Fast Company Middle East. The kingdom also approved its first locally developed AI-powered medical software (dentistry and ophthalmology) per entARABI, hosted UNESCO's ethical-AI governance forum in Riyadh, and a Saudi payments pioneer argues AI compute becomes the world's most valuable asset.",
+   "items": [
+    {
+     "title": "Saudi Arabia plans more than 14GW of AI computing capacity - Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQODhBX2tQdkFFdVJXeWRlZGNWOTlDTzNnMlFqR2hHWXNiamMzZnhmM19YQ3J2RkYzdEJsT2pST0NaXy16S3pEU3dYYzhfMzh4bVJmUzgtQzVJTS0ySmsxZnl4UFRzYU1fdm1nbXZDQmZNZF9HRm90TG14V0JQNFAwLXZERGlqc2J4RHR1SlNTdjl0TVVfaVRzR3NFRU95TkM3X2ZaOFcxMmJFVkVV0gHCAUFVX3lxTE5mZmI5VGNDNlEzUmtrd1hDNHcyTHpMU0VoakFRNnJHOUlKTjN4ZjdoWC15eGNLOU5vZmxtZjVjMWFGZmFLWVo5SGhnRFpuSmh4Slc0UzFsNjNnSzgzNjlIWFVSNnQ5TTFiei1XSnFzb2VPeGJwdFdnQVViX0laVlBleUhSUXJ0XzJORzR0N25UOWRJY2dyTmpkVnk3X3V6Wm1OWXkwd3h0Q2tqX3FrYmRFRnhsa2w2Tm1nT2ozLVZLYnFR?oc=5",
+     "source": "Gulf News",
+     "time": "11:03",
+     "note": "Gulf News: kingdom targets 14GW+ of AI compute capacity (via GN)."
+    },
+    {
+     "title": "LEAP 2026 brings billions in Saudi tech investment across AI, infrastructure and gaming - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUXFweFBhcGl3NVQwakZLWVREMFlXRF9uT3d4NXJtVFJEcVl4aWdpUmNHY21iUmk4TG0zNUFlVFU3NFAwRm82SWU1QzgwYzFCeDZXY2d6YXo3cUc5TzgxZEFGZ2VGeVFMbFgxUmdCSlk0TGFxQTRDQUlaaEpVaFc1MFIwOHhLQmJOT0MyOG0teTdLMjY1TC1icmJWQkpZcGxTekNFclZTTE1rZ2puaGtZYUxIa0s3S3NrYmc?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "09:38",
+     "note": "Fast Company Middle East: billions committed across AI, infrastructure, gaming at Riyadh's LEAP 2026 (via GN)."
+    },
+    {
+     "title": "Saudi Arabia Approves First Locally Developed AI-Powered Medical Software for Dentistry and Ophthalmology - entARABI",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2stckVTLXBhRXFKQVdRUVlhTHBSdjJQRXBfeDVTdWNPeUNLd1M5NEZCNlFkSTZROFhoZ0JUX3VUbXcyRklPODdmc0ZYOERFZzJGMloxZ2NuX2J4Ykt0UElWQzdRSjhfU1FsQjFVOW55N3JFSWt6bjZUU1djTUlFaVBBd1ZEQy1FbEdUdmNCZWZFY2ZqczhhZ1M0RGpLZnhUUVluVHBHQ1hUMkRiX3d2MWVGeTNzclNDa2Q0VldmNXVSZVk3X0w3WUpJeG04a2NvY09LMQ?oc=5",
+     "source": "entARABI",
+     "time": "20:54",
+     "note": "entARABI: regulator clears first homegrown AI medical software for dentistry and ophthalmology."
+    },
+    {
+     "title": "UNESCO launches new tools to reinforce ethical AI Governance at global forum in Riyadh, Saudi Arabia - EIN News",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNckthckNnNWVOOTExQlU0ZWFaN243ZGhhVU1ZUDBhSWpzM3hEYkhNTTRmbWFxZ1lFT3E4RnNTenI5ei12TXdnNUFwd2w3LXVWMlN0WkVrWEE2cC1kMkpGOG5xTENOOUJJdTlacmpGNXVJSHVEd0tHNXJ5UXJWeDIyUGppbW5KWDcwOWdndmVMMWQ1N2Z5bmhDLW1BMHNlQzcwMjZCb21tTC13V0xLWmlnMmwtMjB1REc2OVdJZncyUkJQb1NTLU0wd25zc19RZ1RsTXpJNnQwdUU?oc=5",
+     "source": "EIN News",
+     "time": "05:14",
+     "note": "UNESCO unveiled ethical-AI governance tools at its global forum in Riyadh (EIN News, via GN)."
+    },
+    {
+     "title": "Why 80% of Saudi travelers are turning to AI to plan their next trip - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObGFhdFRLX0MxMmtqR2pOc0djT0ZjcHRyb2FMaDYta041cldONElIMjBWRTdtR0t1MFRYdGpoa2YtaTEzUHJWenFaTFQzTml2VmhQMXlSZmo5MTYzeGppOTFUOGFGSzBCbl9fLWd4NFJPNWxLZjFkczJHX2xfOEwybFllZ2gtZVBnV3FTaVo5U0dOcl9kX1ZkWHViNzRXVkNq?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "20:10",
+     "note": "Fast Company Middle East: consumer AI adoption signal — 80% of Saudi travellers use AI to plan trips (via GN)."
+    },
+    {
+     "title": "Exclusive: Saudi Payments Pioneer Says AI Compute Power Could Become The World’s Most Valuable Asset - Yellow.com",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWpWZkRERjZjUUdvVTBobEEzMWtmN0dPVVd2NzVvZGFZTUdWRUdTdDNGdDZGbWRtcXZSalpHNWZ4bzBpQjJISW9rSUFRWWVTRF9VdWg2VUlNbENXSldnc1ByQUEwOXJYY1ZCbGJ2bHJ5TzZZWXFlTXQxOURLWnBWRldKRzdfUVNYUGFZXzRrM19kYmJTV2RaUkppN1pJN2s1cU5OX0ttX3pwR0RGblE?oc=5",
+     "source": "Yellow.com",
+     "time": "23:15",
+     "note": "Yellow.com interview: Saudi fintech voice argues compute becomes the world's most valuable asset (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia courts Anthropic's IPO; Mecka AI nears $500M",
+   "signal": 55,
+   "angle": "Nvidia is buying equity in its own demand curve — suppliers investing in model makers remakes the capital stack.",
+   "summary": "Reuters' exclusive that Nvidia is in talks to invest in Anthropic's mega IPO circulated through Gulf press (Gulf Times, Oman Observer), landing as PYMNTS data shows Nvidia became the world's most active $100M+ VC investor. Separately, Mecka AI approaches a $500M valuation in a Sequoia-led round as demand for robot-training data surges, per TechCrunch.",
+   "items": [
+    {
+     "title": "Nvidia in talks to invest in Anthropic’s mega IPO - Gulf Times",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ3plZVl1TVJnUmY2MjIxTWI2YW5uRDdTSDdTeUtZdmxOdkJFVFE4Tnl4QzJ1S1p4TmxJSmlCcjZwUGZjVFpXQktJelJJNTkyS1QyOGRveWc3NTJ2VHhER2V4U2JFUDk3RjYxZ2NnNHF5OXM4VUJjMWRDVWpKNi1WdnlXTk9tYjg4S08tamdPUnk2TWt5QWdyZVhTeHFVMm1vTkdPUFBB?oc=5",
+     "source": "Gulf Times",
+     "time": "21:00",
+     "note": "Reuters exclusive carried by Gulf Times: Nvidia talks to back Anthropic's mega IPO."
+    },
+    {
+     "title": "Nvidia Becomes the World’s Most Active $100 Million-Plus VC Investor - PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenhiX20ySVF3SkxjZ0tjMXV1c1c5YVBKSjhJVGZBYm45YnJhWWtrT2hmVE9MbHlBNmdMWTU5aGpQRWw0eWhCT01HZ3VwaExIVTFUV0tZX0s3STFhUUJZQzdzZWtFTFctdUNYeUdST1BOdTlucXE5czh0eU02OUJwZnItbS0xXzFBM0ltWEU3NU5wbmUzUl9fUFdrN0hSS0RLb1lXVG5GaEhqazJSYWVJM0tSSjBndVNmblp2WThaWGhHZw?oc=5",
+     "source": "PYMNTS.com",
+     "time": "20:53",
+     "note": "PYMNTS: Nvidia is now the most active $100M-plus venture investor globally (via GN)."
+    },
+    {
+     "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data - TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHFzWU80dmNMZm15VjZCTmFTUExMcE9GMDY0WjVIN1loQng3ZlhMRmlUUFpYQ2U0LU9Nbm9jU1FVczBzbkVIRzdxSlBka1E0YWFLeVFoOHJPaFgtM0pUbWU1dEdRMXlMYkw3UmNCV1ZKR3RKQURTWFJpTVNwRUU3ZmF3WXJJZlVIWDBzb2JuT3MwVk9BOWVqX1pPX3U0d1ZrcjZoZGV3bnFDTTBTYjJNQURtcExSSW1xYlE?oc=5",
+     "source": "TechCrunch",
+     "time": "22:58",
+     "note": "TechCrunch: robot-training-data startup nears $500M valuation in a Sequoia-led round (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "AI capex stress shows in balance sheets and power grids",
+   "signal": 48,
+   "angle": "The AI buildout's second-derivative costs — Oracle's cash crunch, grid audits — are now visible to CFOs, not just CIOs.",
+   "summary": "Oracle's AI-data-centre overcommitment produced whiplash: Ellison cancelled his $7.5bn share sale a day after filing (FT, Bloomberg), while the company added $700M to planned layoffs. FT chronicles a Virginia data-centre-campus civil war over land use, and Texas' ERCOT will audit 400+ data centres under the governor's order — the first systemic grid-level scrutiny of AI load.",
+   "items": [
+    {
+     "title": "Larry Ellison cancels $7.5bn Oracle share sale",
+     "url": "https://www.ft.com/content/05e61eb8-9273-4b9a-a356-47f525b7d506?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:18",
+     "note": "About-face one day after filing to ditch up to 50mn shares; Bloomberg corroborates the same move."
+    },
+    {
+     "title": "Oracle Boosts Layoffs Plan by $700 Million",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-11/oracle-boosts-layoffs-plan-by-700-million",
+     "source": "Bloomberg Technology",
+     "time": "21:13",
+     "note": "Bloomberg: Oracle raised job-cut plan by $700M amid a cash crunch tied to AI data centres."
+    },
+    {
+     "title": "The civil war in Data Centre Alley",
+     "url": "https://www.ft.com/content/b275be74-6841-4f84-ac24-f2b121f5b9ea?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "FT: a Prince William County (Virginia) campus dispute set terms for a national land-use reckoning over AI datacentres."
+    },
+    {
+     "title": "ERCOT to survey more than 400 data centers as part of Gov. Abbott’s audit - Houston Public Media",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMzlfXzBSVFpuUFVIbzNWYkNnNjZiRl9JYUJxWHNGSjRrWW43a0VDZHFaeEJ1VUVDeUtKYkdwTFFIdWFVdEJrMF9aU2JYYnlOUFlyRHdtQTlzd0FnSW5CM1IyaE1Mc1c3ZjZ2TjNFNmdLTklrM2ExQ0d1TVpQaHhEWlRmVERmN0ZXcTdUblBicHF1R1FVSjhxQzZnS0RDYjZjZXEtUGFqZzc0OWxPenZBYjhTX3A1MUxJOXZxMVZRMEtGMDg0WkNldWRNM3FRUFJZbU5TaGZZeFpDYnVWSTAzR0ZaaGU4OHA3WGFRcEIyb9IB7wFBVV95cUxQMzlfXzBSVFpuUFVIbzNWYkNnNjZiRl9JYUJxWHNGSjRrWW43a0VDZHFaeEJ1VUVDeUtKYkdwTFFIdWFVdEJrMF9aU2JYYnlOUFlyRHdtQTlzd0FnSW5CM1IyaE1Mc1c3ZjZ2TjNFNmdLTklrM2ExQ0d1TVpQaHhEWlRmVERmN0ZXcTdUblBicHF1R1FVSjhxQzZnS0RDYjZjZXEtUGFqZzc0OWxPenZBYjhTX3A1MUxJOXZxMVZRMEtGMDg0WkNldWRNM3FRUFJZbU5TaGZZeFpDYnVWSTAzR0ZaaGU4OHA3WGFRcEIybw?oc=5",
+     "source": "Houston Public Media",
+     "time": "21:11",
+     "note": "Houston Public Media: Texas grid operator audit of 400+ data centres under Gov. Abbott's order (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "Executive reading: cyber speed, AI-economy design",
+   "signal": 40,
+   "angle": "The consulting layer has moved from 'what is AI' to 'how do we govern it at machine speed' — a C-suite agenda shift.",
+   "summary": "McKinsey argues frontier AI breaks enterprise security because attackers move at machine speed while firms decide at committee speed; BCG (via Storyboard18) projects AI can bring 400M+ people into financial services; Nobel economist Joseph Stiglitz lays out a managed-pace AI economy for FT; Bill Gates calls the current era's choices 'critical' on his Notes blog.",
+   "items": [
+    {
+     "title": "The speed problem: How frontier AI exposes weakness in enterprise cybersecurity",
+     "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-speed-problem-how-frontier-ai-exposes-weakness-in-enterprise-cybersecurity",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "auto",
+     "note": "McKinsey: machine-speed attackers vs committee-speed defenders needs a new operating model and leadership commitment."
+    },
+    {
+     "title": "AI could bring 400 million-plus new customers into financial services: BCG - Storyboard18",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU2l2UWxieWJ1Y2d1VWlHZFQ5M0Q1RWYxTGZWamVTM2FIVGFxQ3RjV3FiNi00dEdjQzlqVFFtM3BLdjZZckNhOGhncXpHUFhGM0ZDU2V4U3RMRUp6VGNVeDdKTkhGXzM1UXpadXozUm13c1VUNHJnckJBX19VRHN1M0RKbTdpazV2S2dxSVVvaV9nVG9PNUZYVzA5UC1NSjYyQjJGZDh6LU9HUkttYmd1NEVsaWFYeXJwSjNmbDZ30gHDAUFVX3lxTE5hR1Y1MUFTVmlYSlVBME9JZzhDWk5EaXNVN1ZTUm5OeldQSkJMaXlPNFpXbE5sT1FQMmZRMW5ISXByNjJ1VlhCcERiZWU5SEc2RHdzTGs0eGQ0ZHRKT0piQ3FQbWJjbkt5YWVaYTBTRjdWSUJaMWhLeHRkYU0yaWZvYUg0dDNWNUtLTlkwamxQbDMxRXhKRnc1MW84LW1qbVZOVFBOeVVpc2FfRFJEMVRmOUIzRWhydVg0ZFF4V2NYeXFjSQ?oc=5",
+     "source": "Storyboard18",
+     "time": "07:51",
+     "note": "BCG projection via Storyboard18: AI adds 400M+ customers to financial services (via GN)."
+    },
+    {
+     "title": "Joseph Stiglitz on how to build a better AI economy",
+     "url": "https://www.ft.com/content/49c0e553-c439-47cf-a2a0-22e729ed77ef",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "FT: slow rollout disappoints investors, fast rollout risks foundations — managed pace could benefit everyone."
+    },
+    {
+     "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5",
+     "source": "Gates Notes",
+     "time": "21:59",
+     "note": "Gates Notes: current choices are critical as the turbulent AI era arrives (via GN)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "date": "2026-09-14",
+ "generated_at": "2026-09-14T02:04:00+00:00",
+ "themes": [
+  {
+   "title": "Frontier labs endorse an AI slowdown as markets wobble",
+   "signal": 78,
+   "summary": "For the first time, the four largest AI labs jointly endorsed a slower development pace, prioritising safety over growth. The coordinated stance rattled Asian chip stocks and equity futures, while top executives publicly warned of existential risks. It is a turning point in how frontier labs frame the race they have been driving.",
+   "angle": "The frontier race now has a self-imposed brake; compute sellers and AI-linked equities repriced within hours.",
+   "items": [
+    {
+     "title": "AI's most powerful CEOs hit the brakes",
+     "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+     "source": "Axios AI+",
+     "time": "12:56",
+     "note": "In nine hours Saturday, the four biggest labs jointly endorsed a slower development pace, prioritising safety over growth."
+    },
+    {
+     "title": "Trump Downplays AI Concerns as CEOs Call for Slowing Pace",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-13/trump-downplays-ai-concerns-as-ceos-call-for-slowing-technology",
+     "source": "Bloomberg Technology",
+     "time": "13:59",
+     "note": "President downplayed alarm after industry leaders called for slowing development."
+    },
+    {
+     "title": "Trump rejects calls from tech bosses for AI slowdown",
+     "url": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:34",
+     "note": "FT: Trump rejects tech bosses' slowdown demands as existential fears move to the centre of US politics."
+    },
+    {
+     "title": "Trump resists AI slowdown as the political tide turns - washingtonpost.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
+     "source": "washingtonpost.com",
+     "time": "00:43",
+     "note": "WaPo (via GN): Trump resists the slowdown as the political tide turns."
+    },
+    {
+     "title": "Asia Chip Stocks Drop as AI Chiefs Urge Slower Model Development",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+     "source": "Bloomberg Technology",
+     "time": "08:00",
+     "note": "Asian chip and equipment stocks fell Monday after the labs' calls, per Bloomberg."
+    },
+    {
+     "title": "OCBC's Vasu on the Stock Retreat After AI Warning Calls",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-14/ocbc-s-vasu-on-the-stock-retreat-after-ai-warning-calls-video",
+     "source": "Bloomberg Technology",
+     "time": "00:47",
+     "note": "OCBC's Vasu Menon on the retreat in Asian stocks and US futures after AI warning calls."
+    },
+    {
+     "title": "Oil spike, AI fears rattles investors - The Australian",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOS0UtOXV4c0tVdzVUMFhzV1RtOFVZeUIxbHEzdEtZUUVKT09lRVR3VC1ySE1rbVBLT3N6X0QwZ0R2MDVWZVZSSGFsSENlYVBFeUlENko3SUFLd21jZzVLM3JDVGE4MW8tWm4yNHh6YnQ2V2ZVVk5WV0FrOTZZMEpnRDNEVi04QjBCc0tQc1cwMGcxbUh1RjFCSDRwT3cyX3MtdWZ6VUlZQnVaYy0wNnVFX0JvSWxLV21yRm41LVZIR3g3X01MMFVXaEpJTFNmc2ZTbHhZVHJmbUROd3lwenpBSHc0U3I1TjBJWjViUERDX0YyNHcxU2hXU0dWSnPSAYICQVVfeXFMTWVYNTdGOWRoWmNZc2ZOVWg4cExFNm9Dd2c5TmVESEhJNTBNeVo2bnhwNnJLUWFVSVFTVGg0ZkJHVDloRjZaS0h2TVowM3M1OUR0dEQ5Ym44SXI1ckRJT1JWcWVRVzJzV0hrWUlRU1JpVkdfV2xHU0lqcldwTWgtejdaRjgtZXZJbXpTWHlRbmtwaUg1YTJjZFJpc0ExUDBYVGNZWWYtSnpfc2ZYU2k3b212X3V1TXUyTHpyUV9zTFVPMDYwUkppY3M5a3ItTFNyN2pSYlhoR2tYWUVSTzQzX1p1U1RGMTEwLVJMUi1YVlQxTVZZcHNNMTJ2OEt4dU41LTBR?oc=5",
+     "source": "The Australian",
+     "time": "00:03",
+     "note": "The Australian (via GN): oil spike plus AI fears rattling investors."
+    },
+    {
+     "title": "8 hours ago 😺 OpenAI asked Congress if AI can slow down PLUS: Anthropic’s threat report, fruit-fly brains, Cursor Projects, and the week’s Top 5.",
+     "url": "https://www.theneurondaily.com/p/openai-asked-congress-if-ai-can-slow-down",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Newsletter lead: OpenAI asked Congress whether AI can slow down; Anthropic threat report inside."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic turns profit again, picks Nasdaq; OpenAI skips 2026",
+   "signal": 70,
+   "summary": "Anthropic told shareholders it expects a second consecutive quarter of adjusted operating profit and has chosen Nasdaq for what could be a record IPO, partly to ease cash-burn concerns. By contrast, Sam Altman ruled out an OpenAI IPO in 2026 as fears over AI risk dominate headlines. A liquid public pricing benchmark for frontier AI is taking shape.",
+   "angle": "The first frontier-lab profit-and-listing story gives institutions a benchmark for pricing the whole sector.",
+   "items": [
+    {
+     "title": "Anthropic Expects an Operating Profit This Quarter, FT Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-sees-adjusted-operating-profit-this-quarter-ft-says",
+     "source": "Bloomberg Technology",
+     "time": "23:00",
+     "note": "Bloomberg on FT: Anthropic told shareholders it expects adjusted operating profit this quarter - a second straight profitable period."
+    },
+    {
+     "title": "Anthropic tells investors it will be profitable for second straight quarter",
+     "url": "https://www.ft.com/content/4564e6a5-69e9-40a6-bf0f-a888f2f4f002?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:29",
+     "note": "FT: Claude maker eases cash-burn worries ahead of a blockbuster IPO; anti-AI sentiment a risk factor."
+    },
+    {
+     "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-said-to-choose-nasdaq-for-much-anticipated-ipo-listing",
+     "source": "Bloomberg Technology",
+     "time": "18:03",
+     "note": "Bloomberg: Anthropic picked Nasdaq as its listing venue for a potential record IPO."
+    },
+    {
+     "title": "AI extinction risk: OpenAI’s Sam Altman now rules out 2026 IPO - Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYXg0SjBYN3BSNFd2Z3lMRlIxdmxndGRZZWVRODZiYUpBM2hNWElMdGY4VUYzdjZObF9FWVoyczlDQ181aXVQYWljYVFfUTJ0UDVoMWVYSHlfZE45X3BHRkU1X2h2VHE1Z0VHdV81ckw3MXprdE1ULXdCek5KQWpjaGhIQzNqakJFd3JmTw?oc=5",
+     "source": "Gulf Business",
+     "time": "04:48",
+     "note": "Gulf Business (via GN): Altman rules out an OpenAI IPO in 2026 amid the AI-extinction-risk debate."
+    }
+   ]
+  },
+  {
+   "title": "Washington scrambles: Congress won't lead, Democrats move",
+   "signal": 62,
+   "summary": "House Speaker Johnson said Congress will not take the lead on AI safety and urged calm, hours before Democrats scheduled a Tuesday caucus on AI action and Barack Obama pushed oversight up the party's agenda. Meanwhile the biggest labs quietly discussed a voluntary safety-standards body, and AI-focused political action committees multiplied ahead of the midterms.",
+   "angle": "With the executive branch downplaying risk and Congress declining the lead, AI oversight is becoming a US election issue.",
+   "items": [
+    {
+     "title": "Johnson calls for AI solutions but says Congress won't take the lead",
+     "url": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson",
+     "source": "Axios AI+",
+     "time": "16:23",
+     "note": "Speaker Johnson: Congress won't lead AI safety regulation; lands days after the labs' safety calls."
+    },
+    {
+     "title": "House Speaker Johnson says Congress shouldn't lead AI safety efforts - Detroit Free Press",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0E5S3FPUm5NSWtJRERtSHB2TnJmME9iZENFem9qY0hwblQtVFNySGc5MVVUdWlSdFNsRThfMWhZX3RKZVZObU9WZFZCY0pyRU5SYzc3TG00SWpGa1FTUlZQSXRVQXcyR2VTNl9FcHpPU0R5RWVETmtDSHZPRDJvUkZDUUhVR3k5MWw1QVJWYlhhV0ktQ3I1UXZRejVvNnYwQ0NLRG1EM1QtOEFCZ1NzVk9uWHk?oc=5",
+     "source": "Detroit Free Press",
+     "time": "00:16",
+     "note": "Detroit Free Press (via GN): House Speaker says Congress should not lead AI safety work."
+    },
+    {
+     "title": "Speaker Mike Johnson says ‘don’t panic’ when it comes to artificial intelligence - WKYC",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalpGM3dCV045UXRnbjFaWEl4aWsxQ1hIcUJLd2s3RVBYMlhQQW1Ca3JfUExFSDVydlRhVWlBV2kwYi1ncTYtMEJfZ0tBYW5rcWs3Z19jT0Vsb1J1c2h1NHpvRU9mZldXYlVGUmZOVjVzTmhsa2pPRnhBOEdIcW9RQTR6el85MTNBa3dxNlFYR2NwX001cXluVThIZGtDWVBKUW5UU2lGNGkzWlpnUVV4dW9PNnRZU2Nvck94dnFXVERvQ1QwTWwzMndXaFBxeHhRekhtbHMzYW5zWENGb2s1cllvWQ?oc=5",
+     "source": "WKYC",
+     "time": "01:26",
+     "note": "WKYC (via GN): Johnson says 'don't panic' on AI."
+    },
+    {
+     "title": "Jeffries Says Democrats to Meet Tuesday on AI Action: ABC News",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-13/jeffries-says-democrats-to-meet-tuesday-on-ai-action-abc-news",
+     "source": "Bloomberg Technology",
+     "time": "14:27",
+     "note": "Per Bloomberg citing ABC: House Democrats caucus Tuesday morning on AI action."
+    },
+    {
+     "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
+     "source": "The New York Times",
+     "time": "16:37",
+     "note": "NYT (via GN): Obama urges Democrats to place AI oversight at the centre of their agenda."
+    },
+    {
+     "title": "Chip Roy is leaving Congress — but not before warning his colleagues about AI - Politico",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtPejZuR19NLTEzS2RqWXZTa3pETU5XVURfaVhKRjlmdVluY185Y2xjOFEzSzNKaVRncnVyaE95eW5xUEx5am9EVmRodFREeWhQQVcwVVBWMTdVMVFrQlowWDBGaE9MeWRKRFZLT2g2eHdiV2tWUXNRbVR2dF9uOWxDT3AyQQ?oc=5",
+     "source": "Politico",
+     "time": "18:41",
+     "note": "Politico: departing Rep. Chip Roy warns colleagues about AI."
+    },
+    {
+     "title": "Artificial Intelligence PACs are growing in number - Punchbowl News",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCeGl4ZnZCckUtMzRESGlRdlFDTWdkellEWEpPWklPU0VoYkVzb2gtaVR5VmxDcF9nNzFfM2FCUEFwY21Hd1l1NTlVbFc2UVpFN3h5cXBZd1NSYlF5NFE?oc=5",
+     "source": "Punchbowl News",
+     "time": "21:52",
+     "note": "Punchbowl News: AI-focused PACs growing in number ahead of midterms."
+    },
+    {
+     "title": "Anthropic, OpenAI, Google Quietly Discussed an AI Safety Standards Body - The Information",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUtGTGdnVXR2Z0d1QTJ0X0xET2tmTllHRmVYVVZ6Z01WcklGWU9YUWRIRU12QXZFMlJtQkg2ZTNEOUdaQ20wNXE2dE1rbE1mMzdkN0NMS05uUmk2Y3RtdS1ERUlsWVBwTUF5YXdKcWh2QXptbG85ZWE3Z1UteEFleEZYb1AwYkR2bjBNcHZR?oc=5",
+     "source": "The Information",
+     "time": "19:16",
+     "note": "The Information: Anthropic, OpenAI and Google quietly floated a safety-standards body."
+    }
+   ]
+  },
+  {
+   "title": "GCC runs its own race: energy-AI pacts, jobs, regulation",
+   "signal": 55,
+   "summary": "The UAE and Germany sealed energy and AI partnerships that could enable EUR5bn of investment, while a Khaleej Times report argues AI is reshaping rather than eliminating GCC jobs. Arab News asks whether governments can regulate AI without slowing innovation, and LG opened its first Middle East B2B AI home space in Saudi Arabia, signalling consumer-adjacent AI demand.",
+   "angle": "Gulf governments are positioning as regulators-without-a-brake - a deliberate contrast to Washington's slowdown fight.",
+   "items": [
+    {
+     "title": "UAE, Germany Seal Energy, AI Partnerships Enabling €5 Bn Investment - egyptoil-gas.com",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMklKb0RWVVg4RE9OV2ZuemMxZUhCcVJieGlwUWhWLTZUTENlTU96bmVkQkVVVzRjOVBkQ3pzZWJsQ2RnbG93a3VqRVN1QnlEclAycUR4Qlo4WHZQc3duLXpmcmtQb2tuU0JMcGpLU3hsaTkwd0xpaWpGM21mWlhQNENUOXZTcW9uX2pvT3h1d3V5OUczNW9xRHlQRU0?oc=5",
+     "source": "egyptoil-gas.com",
+     "time": "07:04",
+     "note": "UAE-Germany energy and AI partnerships framed as enabling EUR5bn of investment."
+    },
+    {
+     "title": "AI is not killing jobs in UAE, GCC, but reshaping roles, says report | Khaleej Times - newspaper - Magzter",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOblZVRHBPd1hralNiRnBwLXBGd1RabTFDMmk4T002aS1iaDJ4bXliX1BrdTViRlFKWUxPUk1UdVdVSFY3c1FXVFVZWks1Q3FBc0c3YmtIT0xkSmJiRExJRWVNVmp4a1YzNkZ5dWduXzZKTGVYVDFHTGlJMUhOYWJrLW54RUd6T25LX0o2VHE1S0RsNDQ2bzRqR0ppS3J5UFFpZnFxSUUzZHJrSjJES3N1WFUtcTg5SFV5TVAzU193?oc=5",
+     "source": "Magzter",
+     "time": "00:14",
+     "note": "Khaleej Times report (via Magzter): AI not killing Gulf jobs but reshaping roles."
+    },
+    {
+     "title": "Frankly Speaking: Can governments regulate AI without slowing innovation? - アラブニュース",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYWFpNjYxOThQQUp0NVAxQ283VkJnYTIwbjlpOGVGemhwZE9QbnpnaVdtUGpCQjhXN2d3WXVBU2dDUHJuMlgzM3E1cUwtOFN6ejhGZms1MDhyTGVjSWs3NnRTdkpDa3U2NHpTOXBRTkV1dHdJLTBWX2NXUzRnTjdiTDM5Ykc3TGdiZ3dKMFNXaWU1T29hWXNLbDdQWmhscHdubE1FNlVEb1lsWEdsZERFdG12YzI0RHN1X2c?oc=5",
+     "source": "アラブニュース",
+     "time": "23:48",
+     "note": "Arab News (via GN): can governments regulate AI without slowing innovation?"
+    },
+    {
+     "title": "LG Electronics Opens AI Home Experience Space in Saudi Arabia, First B2B-Only Facility in the Middle East - 매일경제",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CVEdVd0ZQZEE1WmFQRkV5TDBBNWowdEoxT3JQcHFfd1paNTJVeFFieHlHSExscjN5Yk1rUy1rcnpOV083X2J5dEdXWTJNQlVocWFn?oc=5",
+     "source": "매일경제",
+     "time": "01:00",
+     "note": "LG opens first Middle East B2B-only AI home experience space in Saudi Arabia (per Maeil Business)."
+    },
+    {
+     "title": "LEAP 2026 was about more than AI. Here’s what unfolded - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZC1oVFVIejl2THkxX3U0ZGttd1YzMTd1RVlHQTlXWDJUNjhEcGpLenB5R0xndm9oTnFMMnlRT2tDYU5BSTh5dGFJQ2ZJaElNeXozNGdkdDBNUFc3ODV4Vm1KZXBrMzM5eXcwWU95OEdNZUVRUldfeWdpQmdLcGNuTVdLNE04b202bzlPanJqbThKZUx1?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "18:54",
+     "note": "Fast Company Middle East: LEAP 2026 recap - about more than AI."
+    },
+    {
+     "title": "‘A model the world should study’: Saudi Arabia’s strategic push to equip a new generation of female AI leaders - アラブニュース",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUc0LXI1amZpUzJ1SjdFR3czNWprWlE3Q1VEU3dqY2YxRW0xdThPNHlqTzZSRElpeXZ0bXpnOXlUaDg5YWxSektfSmpsUlpXOHZCMzJ2QWdvd3N5Sy0yVDM3cWJITzBieUp3Q0VudjFSdmNIQTR3UHVXMUZNaWpVOVdLekxCTzU5NDlOcEQxZDdRdHl3WXBHMWY0T1JfYlQ1NFRHcnliWE5CbjhCaUc1WTlmTFp3UjFySlpXdW9CODZUZ3lYN1ZGWEtJdk8tekRjTjI0WUdpRnVRRzZFdVRDZ1d4OA?oc=5",
+     "source": "アラブニュース",
+     "time": "04:00",
+     "note": "Arab News: Saudi push to train a new generation of female AI leaders."
+    }
+   ]
+  },
+  {
+   "title": "Agents move from demo to production: Perplexity on GPT-6 Astra",
+   "signal": 50,
+   "summary": "OpenAI's blog details Perplexity running communications, software changes and production monitoring end-to-end on GPT-6 Astra with far less human check-in - a credible enterprise reference point for long-running agents. It matches Anthropic's push toward long-horizon agentic workloads and raises questions about how much automation boards should accept without new guardrails.",
+   "angle": "A public production deployment, not a benchmark, is the strongest evidence yet that long-running agents are ready for enterprise workflows.",
+   "items": [
+    {
+     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Perplexity runs comms, code changes and production monitoring on GPT-6 Astra with far less human check-in, per OpenAI."
+    },
+    {
+     "title": "Sep 04, 2026 GPT-6 Astra can stay on the job and use your computer PLUS: xAI Grok Bot for Enterprise and Google/HHMI fruit fly brain map",
+     "url": "https://www.theneurondaily.com/p/gpt-6-astra-can-stay-on-the-job-and-use-your-computer",
+     "source": "The Neuron",
+     "time": "",
+     "note": "The Neuron: GPT-6 Astra can stay on the job and use your computer - corroborates long-horizon agent trend."
+    },
+    {
+     "title": "Product Jul 24, 2026 Introducing Claude Opus 5 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+     "url": "https://www.anthropic.com/news/claude-opus-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic positions Opus 5 for long-running agents in coding and professional work."
+    }
+   ]
+  },
+  {
+   "title": "AI infrastructure meets the ballot box",
+   "signal": 45,
+   "summary": "Texas is slowing data-centre approvals as public backlash threatens midterm hopes, Amazon and Microsoft are backing communities against utilities over power, and investors publicly treat the AI slowdown call as a temporary step. AI's physical footprint is becoming a local political issue even as its financial backers stay committed.",
+   "angle": "Power, permits and politics - the least-reported constraint on AI buildout is now a voter issue in the US.",
+   "items": [
+    {
+     "title": "Texas puts a brake on its data centre boom",
+     "url": "https://www.ft.com/content/3204d65e-ae34-4ab3-a73f-a55d354f40ab?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "10:00",
+     "note": "FT: Texas slows data-centre approvals as backlash threatens midterm hopes."
+    },
+    {
+     "title": "Why Amazon and Microsoft Are Taking Communities’ Side Against Utilities - The Information",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTdxUHlkU0NGdzRRc01zVENDaHRNSWNacGE5bG16LUhYNkNWdGFBeXN4dnZKeDhja1VhdnZ6YzBYTmZObUxxT21hWnY5MmgzaWN2RTNLUklKYmVnUklnb3dOZUxuSVJzTzlwNWVYendSNWhLR1ptUXBtdTR5TmdVbC1fYlFZaW90YWdpUmk1bklEQnplcGtCRE53dFBSc0lMbGZjZmJucWVJSTYwSHZPNg?oc=5",
+     "source": "The Information",
+     "time": "14:00",
+     "note": "The Information: Amazon and Microsoft side with communities against utilities over power."
+    },
+    {
+     "title": "Investors See AI Slowdown as a Temporary Step",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-13/investors-see-ai-slowdown-as-a-temporary-step-video",
+     "source": "Bloomberg Technology",
+     "time": "13:41",
+     "note": "BMO Capital's Jennifer Lee: infrastructure, investment and demand unlikely to reverse course."
+    }
+   ]
+  }
+ ]
+}

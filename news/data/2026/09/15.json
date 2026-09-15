@@ -1,0 +1,294 @@
+{
+ "date": "2026-09-15",
+ "generated_at": "2026-09-15T02:00:24.314538+00:00",
+ "themes": [
+  {
+   "title": "Frontier labs call for AI pacing; debate hits boardrooms",
+   "signal": 92,
+   "summary": "Anthropic's chief executive has publicly asked the frontier to slow down, and Microsoft has now backed 'pacing' with a commitment to build kill switches into its AI products. The FT's leaders argue a pause would ease the enormous capital intensity of training runs, even as rival labs signal support for the idea.",
+   "angle": "The AI slowdown story reframes capex risk for GCC digital ministers and CIOs.",
+   "items": [
+    {
+     "title": "Dario Amodei calls for an AI slowdown as rivals signal support - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLOUNMQXNSMkZVbWxDcFVrak1sZVB2X2NNUFZHQ2NpU1JHN05ZVnRqdFpjWE5BSVU3eGVMVEpoOXhYakp6bWdnNjVMZWR5VUdpajMtNGkzUUNnbnRJN3AtR1o1RUl0V0Mtb3IySnFiMUhTQjZE?oc=5",
+     "source": "The Rundown AI",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Microsoft Joins Calls for AI “Pacing,” Pledges to Build Kill Switches Into AI Products - The Information",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZnowSGt1bmlIdmtUeTRsYk9VXzZGRHdqUmViTDdpZ0dQMHJKWEVyTzE5ckx4NGFpTGN4c2F2R0gyWHpqMlctd1ZtemZndnMzaXRjSGl2RlFVeWZHZ25ZMUxMSjg1RlNfTTR0bTZBd3U3bnZSSklQMlZSVHdlTFRQOU1BVVNMQ3JzOUNSNHVxRkluM0RpQ0QzZ3pCV0NUbXh3aDF1NkZJeTl4dDR2RTNsUlZR?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Time for a pause on cutting-edge AI",
+     "url": "https://www.ft.com/content/b132d848-7d0b-4938-81ee-3683ef2004db?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "AI companies must relinquish some of the power at their disposal",
+     "url": "https://www.ft.com/content/7bc5ed85-47db-400c-b5c2-7b403d7e4608",
+     "source": "FT Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Top AI labs want to pump the brakes - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBwZ0x0MXlGS2RyNW44MDlRMmpYYlYwdUc2dWdqc3FBaVpONkdSWjJVZkhnNEoyTllMclR1RUd5WXRiYXRqOWtqNnd3RlNram1vU2dIbU1BenFkcUFSOFpYbHVGekUwN3p3N1lZa2hOTkY1aFdCVHhKdEJB?oc=5",
+     "source": "The Rundown AI",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "UAE buries and disperses AI data centres after Iran strikes",
+   "signal": 85,
+   "summary": "Multiple regional reports say the UAE is overhauling its billion-dollar AI data-centre plans, moving capacity underground and into distributed sites after Iranian attacks on regional infrastructure. Oil spiked as Iran-Arab talks were postponed and Saudi assets were hit, layering macro pressure onto GCC compute build-outs.",
+   "angle": "Compute resilience is now a first-order sovereign risk in the Gulf, not an ops footnote.",
+   "items": [
+    {
+     "title": "UAE Overhauls Massive AI Data Center Plans, Shifting to Underground and Distributed Deployment - finance.biggo.com",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HVWJ5ektwU3J1UHI0TzlhUFJYcGVPaTRtOHFjR0FQZDhpOV9vYlpOeUtWb0dSeXBsRDhkZ2pRQk4zdWNVbHgzWXFRYWtjMjQ1WC0wNzk2TS1yYVlEU1AxcGtJQzJnQVgxTURLWDI2aS1NeGJ3Z3c?oc=5",
+     "source": "finance.biggo.com",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "UAE rethinks billion dollar AI data centre project after Iran attacks: report - The Daily Star",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWRySHJSWFhqOFFGUVNWaWlTbFIweDY4RWIxWGxXSjBETGR5RGdzUkNNX2hCajhtUVlfU2h0dGltYmhRNUNXLTNqMi12YWdIbHllU00yYkpQbW9oSXpuOHJDWUpaNnFiNWZIb0ZvTTBDODhzY2Z2YzhjMVFXd0RGYy1hQlM0eUUtYVEtTndOU0JCcjdNQ2s3S091aHUyS1pVMkxQQTlxY0hmUGVMV0huR3E2SjNULVhYRS1XVWpZX0xSVHI0cWx0LUtrdFFtcGs?oc=5",
+     "source": "The Daily Star",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "UAE revises AI data centre plan after Iranian attacks: Sources - The Business Standard",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTVWNEpkTjZoeDRWTGh1c3BzNEV2NlMtUFFfUHlla2RLM1B1cjNCa2did0YyZHpYYXI1S0RuN0ItRkFBVHVLRS1LMlRfVUo5SHZqSXRhTmltS0FaQzdHVElWT0lwd0FvRFlJWVVWTHJTM1pjazIzRFlCNWY2cGRZSGpyU3FyaF9uaXFPcTVjT3pZekZwV1lMS25NeE04M1N5YnRMT2ZTM1RFenZCVXY5SWFWM0k?oc=5",
+     "source": "The Business Standard",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "War with Iran forces UAE to bury and disperse its AI data centres - Atalayar",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONFlMMFpHRUR2UUhTS3BvRW5UeXJkUE5jOWJXdUJaZVZxek9nd1pYeUQ5VEYzT3dqRGZlbzU2b3I5RDBVa3BLOVc1b1dFNEpWV2tzWUZWb1pHZjJFNUVvaGZaRGVaWXU0UTRURlN0SEl3RHIyb2dmazJlejBmWFg5djRCY09RZWRmR1dnWTAzUTJWM0lxUGZsVzJteGZ1VEFBckp4MDhmRUozVVdTT2pIbFJ5UzJZQzg2QkxYUDZuOTRSbDAtM3pERGs4SWhxS0dKNHRxMFkyc3JqdElPZXo4MzZQdG9qRzI2cDVscdIB8gFBVV95cUxNblJWLWxDcVVJazRvUGQwZTduQkpZWlhwT0t1Z25tQTFmc1pyY1RhVUd5em5yZlpIVXhOVE1NZEtoZlcwMWgzQmtha2FrZ1BJd2lTRGtKVC1MaHhnUmU0Q3pWNjVJbmRETG82RGRUQ2cyeDdYUGw2SFdvWE1vTEJCS05uM2Y1dUVVZUxaMGZkaExVMVA1ekRuYW41VWhKTHE4NXVEangzZnkteWhIb2x4QXlHdEc3dW5pNGxUaVVaNnBDWjZlOGg2R0VjVHA3T2g2MXh0NVU5SXV3aFl1RW5EcVJiSjA0QTVSUDN4STRrOXFqZw?oc=5",
+     "source": "Atalayar",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Postponed Iran talks and Saudi attacks push oil higher",
+     "url": "https://www.agbi.com/oil-and-gas/2026/09/postponed-iran-talks-and-attacks-on-saudi-push-oil-higher/",
+     "source": "AGBI",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Chip and tech stocks sell off as markets weigh an AI slowdown",
+   "signal": 78,
+   "summary": "Wall Street repriced AI this week: US tech stocks fell and chip makers slid as the labs' slowdown warnings combined with rising yields and oil above $100. Analysts began naming winners and losers of a slower build-out, while BlackRock moved emerging-market equities back to overweight on AI-driven earnings.",
+   "angle": "The AI trade is splitting into pacing winners and capex losers - portfolio-level signal.",
+   "items": [
+    {
+     "title": "US tech stocks fall after big AI groups call for slowdown",
+     "url": "https://www.ft.com/content/aa8a1be7-abe0-44b7-bcd3-31fd0a44de08?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Chip Stocks Tumble on AI Safety Fears & Rising Yields",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-14/the-close-9-14-2026-video",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Wall Street Delivers Verdict on AI Slowdown’s Winners and Losers - The Information",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaTVEa2dPV2s2QnJtSjRjdmlWUUxZZHNMSENEV3RxNHJ4d2hLd2did0llbWxOcXdIV0dtaFdnODQ2Qzh2TFFTaW0xNnpFX2YzdHV5VElrYjFLM0dibUJ4VEdhakJWR1h0eFlPX1dLVERJSHhWYTBDS1VOODJkWkRuWUVqaU1FNjQwMk84aWl3Nk5hX0VUZ3lYLVJwdmJYcmdKZlB1OHNIRTNVbTZKMU1iQllB?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "BlackRock Raises EM Equities Back to Overweight on AI, Earnings",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-15/blackrock-raises-em-equities-back-to-overweight-on-ai-earnings",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Trump vs Congress: the AI guardrails fight",
+   "signal": 70,
+   "summary": "President Trump is all-in on AI - calling the strongest president the only guardrail needed and dismissing warnings as a hoax - while Senate Majority Leader Thune and House Minority Leader Jeffries assert a congressional role with a 'light touch'. The split lands as chip markets wobble and midterm voters grow uneasy.",
+   "angle": "US AI policy gridlock matters as much to GCC adopters as any model release.",
+   "items": [
+    {
+     "title": "Thune sees role for Congress on AI — Trump does not",
+     "url": "https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress",
+     "source": "Axios AI+",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Trump says a strong, smart president is the only \"guardrail\" AI needs",
+     "url": "https://www.axios.com/2026/09/14/trump-ai-safety-anthropic-dario-amodei",
+     "source": "Axios AI+",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Trump’s AI Defense Defies Voter Unease Heading Into Midterms",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-15/trump-s-ai-defense-defies-voter-unease-heading-into-midterms",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Jeffries calls for immediate congressional action on artificial intelligence - CBS News",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMlduNExraVJXQ05mekpROWY2c25zM3k1MUp1c3NlVmJXeE02cHFhWEZ0bXRURWkwRnJGZEYxbUpoOEFmZWZZNTg0dHBfZHRJNUNCZ0RFTDRnXzJ6ZDl5T1B2N2x3cnBwY3BHZ2gxVW9uY2VXQmFVNTY4SWZZS25NQWctYTZyQ0VDQWctUWhfS1d2cUJRWlR4bUt3?oc=5",
+     "source": "CBS News",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Washington's AI paralysis: Let 'er rip vs. hit the brakes",
+     "url": "https://www.axios.com/2026/09/14/trump-ai-safety-regulations-congress",
+     "source": "Axios AI+",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "AI agents go production: OpenAI's enterprise push",
+   "signal": 68,
+   "summary": "OpenAI is signalling the agent era for business: Perplexity now trusts GPT-6 Astra with end-to-end production systems, a new case study shows an AI executive assistant built on OpenAI models, and the lab's top agent priority is automating AI research itself.",
+   "angle": "Agents are crossing from demos to production systems - the boardroom beat.",
+   "items": [
+    {
+     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+     "source": "OpenAI News",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "How Fyxer built an AI executive assistant people trust",
+     "url": "https://openai.com/index/fyxer",
+     "source": "OpenAI News",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "OpenAI’s ‘Top Priority’ for AI Agents is Automating AI Research, Says Noam Brown - The Information",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRGJlSmxNYkE0M292SnJrQUgyV1VlMFNaZmdYQ1NWRHVxMXd2dU1kVHctSmJpa3dOdjVTRGtRSHQ1QkVfU3VkVERkQm9zN1hhVDFPRGdWWXBXLUxkWWhQbElZdjhOUmRoWG9oaDA0UWR3WV9QeGx5OGtULVMxM19NOTR4OHVYbkNFbEVQOVpXUTlJTkZjQ0ZGMjRTWkZaNTJkN2R2MFY1Vk9ucldOTWc?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Saudi data-centre market scales fast on AI demand",
+   "signal": 62,
+   "summary": "Saudi Arabia's live data-centre IT power grew 57 percent since 2024, making it a joint world No.4 fastest-scaling market, per Savills research covered by Economy Middle East. NVIDIA's regional head frames the shift as ambition moving to deployed compute, with KAUST-linked HPC offerings coming online.",
+   "angle": "Saudi is converting AI ambition into live megawatts - the metric that matters.",
+   "items": [
+    {
+     "title": "Saudi Arabia among world’s fastest scaling data center markets as live IT power grows 57 percent",
+     "url": "https://economymiddleeast.com/news/saudi-arabia-among-worlds-fastest-scaling-data-center-markets-as-live-it-power-grows-57-percent/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabia-among-worlds-fastest-scaling-data-center-markets-as-live-it-power-grows-57-percent",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Saudi Arabia becomes joint world No.4 fastest-growing data centre market as AI demand rises - Arabian Business",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb0ZaNTZqOGpHVVlyUjRhZncwTmVqOGp1UjJxeVFkazZkeFZ2MVd1b1hNdGFIdnhHZHB4bGNMSnBJN1o1eXpQMkFBVXFHLVZycFVJNXhOWjlpdUFBNlQ0RUNLOGZORElzazVOLVgyN2Nwei1UZDFXU2pEbmsyUkcxX3dCYU95Mkx6TndrclZqV0hxVVN6SllIbFdpUWZ5cnlGVGVYaU5Va3hZZlpfVmdhb1ptZTczSXNKVnl5eG9xUFlMV090Vzh4c2xFVW94bXRBS2ZidHFXSTZyZUk?oc=5",
+     "source": "Arabian Business",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "NVIDIA’s Marc Domenech on Saudi Arabia’s shift from AI ambition to deployed compute - Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWlA3dlAtYTdHSGdORXBrVl8wRHU0SkNOcFREOGQxbmQxVUpTX2huTzkxdlZ0cmVrRG1KZnJpdUQtWDFUa3RSU21hTWs4WmdEZFRhYlUxMXgweUJyUFA4R2NmXzZJS2VCNGNDRXpoNnhsYUJaZXdxNDlycXBDYVdZWEdjSmRGTkR1a2NnVlAxOVRTeGdhbGdWRENZdWJ1M1Bia3Z0RWt1N2dhUG9WUXRxVWh2WVk4V3RqVEhha2l5T3lfMlNRWDVocGl2UUk5em5KajJXXw?oc=5",
+     "source": "Gulf Business",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "HUMAIN Cloud to offer high-performance computing through new KAUST collaboration - zawya.com",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVkQtZy04cVRtRlQyYjZxVTZmamRaTmZ5dGxyTml3ZzRwYllvZDV2OTRrYUx4ZXdzTXNSM285VEE3d2pUcXcwaVM2bGxFeUpXcjNsUFZtbFRqNWVIUXhibnVuS0VRcFFlR01DSGhJdXJyMnY0VXdfTjM2M212VUVWTmxUSlFsMHJqcjg1NjljOVR1dlNTWTlSQmJ4em5wWUpJZmVvOE4zY0hkamtEM2k1TVVLVWZsT1lkZkNDRjJUMUxkV1I1Z21sRUZGTHk5OHVoclhBU083bUQ?oc=5",
+     "source": "zawya.com",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "China rebuffs 'pacing' talk and keeps scaling",
+   "signal": 58,
+   "summary": "Beijing dismisses the US 'pacing' push as fearmongering while quietly preparing its own safeguards against AI escaping human control. A Chinese Surge AI rival reached a $1 billion valuation on just $30 million in orders, showing how differently capital is meted out in the two ecosystems.",
+   "angle": "The US-China divergence on AI tempo is a geopolitical undercurrent GCC planners should watch.",
+   "items": [
+    {
+     "title": "China Rebuffs U.S. “Fearmongering” in Light of AI Pacing Calls - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQWpiUmVERHQ1d1NxMktSMlNIREVNUUFjb3dza2RHQV91T3JEVHY1ODVfOG9TQVR3YURwcDdmZHkyRFItU1F2SEtfRFZUMGxGM2NnZXJOWDk2OS1MT0pZVnhHb0JyVmh1OVVIZnZEWWRsRXBnbF9vS21GdkVNek5TSHMwS1hsQ3V3b3ZRZU5ZNW1LdUJsRlN0T3dR?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "How China is preparing for the risk of AI escaping human control - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
+     "source": "Reuters",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Why China’s Answer to Surge AI Got a $1 Billion Valuation On Just $30 Million in Orders - The Information",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHY3c0F6VEE2NDJUUzdFLVZ6WXdQbklqT3IyRlJQemRKZWNNTE1XMnRUU19Za2ZrRVNXTnFIMlNRUWRlVlcwSUR0RW4tZHpReXNMUGhSZzVqcG5Eay01T0hZaDdYMk45TTBkX1FhVWVpZExXbS1RNWNjZThhU3pNOC1TcGZRUEFKYkF2SjB4bWZldVp6UkltRTdnWUZlc2k3TzZSODU1RHVfejF6dG1aWWc5dE1TcG5xcEZ6c2NMbw?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "AI capital keeps flowing: Z.ai, Shield AI, data curbs",
+   "signal": 55,
+   "summary": "Capital markets stay hot despite the slowdown rhetoric: Z.ai is raising $5 billion as compute costs grow, and defense AI startup Shield AI is in talks at a $20 billion-plus valuation. In parallel, Palantir and Nvidia are curbing internal AI model use over data-security fears, per The Information via Reuters.",
+   "angle": "Funding concentrates in inference economics and defense while enterprises tighten model hygiene.",
+   "items": [
+    {
+     "title": "Z.ai Plans $5 Billion Fundraising as Compute Cost Grows - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQV9rLThPZ3paTDNUeHNuWHlWZzJ2ZG9GMFVvOGdUSmROclAtajdhTUFES3hFZ1RQM3JKRktlTTYwYmhKbWh6MW84bXFPM3BPbmx1SkxFLXRYZFEyYkt4VHRDZWRiNUJLLVdIM2c5djZqOE9RLUM1cHU5Z2pXWExNUWxfdUlUWEpQWlZMcERGbFhrVmwzOHhz?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Defense Startup Shield AI in Talks for Valuation of at Least $20 Billion - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWZ6a1k3SkRSWlJDSFFRRWJRdHVaY2JyWkdFS2dDY1psdVh3RDBkQjUxazZ4RWZlZ0owS3FvS3A1Z1Y4N2RDNWdDdEw2RFo1dGRZbXdCNWVtOWVncXR0VndhZ25kU0hac1ZFaFVEajNuYlQ0bXRBZFltaXhEU1V0cFU3Wk1YNDVwTUU0TUw5dHJxcUY5T1hwQkNKTmVaY1E?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Palantir, Nvidia curb AI model use over data fears, The Information reports - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWNhdEVPc1dqTGMyRWxhWWFrWF9wM2J3NmhWRW1HS3VQT1U3ZjV5M1R1Qi1faVE0cVJzaXZEWHhac25nT1J4bFlGaVdkVHFOZklJcWxydE5OWk04anFNZURQeEVxZklRYk5rRDN0dXdMWlZSOC13RHY0eXJqVi1VQ2x1WHRWemZXMElNVm5JWHZBS3d3UmNGWXJwa2poV0VGdjBfRjM5WUNHZFhWTW5oRkZVaU4?oc=5",
+     "source": "Reuters",
+     "time": "",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

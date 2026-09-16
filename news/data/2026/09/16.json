@@ -1,0 +1,280 @@
+{
+ "date": "2026-09-16",
+ "generated_at": "2026-09-16T02:01:08.462264+00:00",
+ "themes": [
+  {
+   "title": "AI slowdown standoff: no brakes in DC or Beijing",
+   "signal": 70,
+   "summary": "Washington, Beijing and Silicon Valley's biggest names have lined up against Anthropic's proposed AI slowdown. Nvidia's Jensen Huang and Meta's Mark Zuckerberg reject a coordinated research pause, while OpenAI quietly coordinates safety steps with rivals. The message for executives: slowing down is politically and commercially off the table, so safety is being outsourced to independent evaluation rather than regulation.",
+   "angle": "Regulation risk is shifting from 'pause' to 'prove it' — third-party evals become the compliance floor.",
+   "items": [
+    {
+     "title": "Jensen Huang and Zuckerberg reject co-ordinated effort to slow AI research over safety concerns",
+     "url": "https://www.ft.com/content/2e20c674-3386-46ad-b07f-5cd8a013f67e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "01:55",
+     "note": "Nvidia and Meta chiefs distanced themselves from OpenAI, Anthropic and SpaceX leaders."
+    },
+    {
+     "title": "Zuckerberg Backs Independent Evaluators for AI Safety Over Slowing Development",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety",
+     "source": "Bloomberg Technology",
+     "time": "00:00",
+     "note": "Zuckerberg argues third-party evaluators are the route to safe models, per Bloomberg."
+    },
+    {
+     "title": "OpenAI Says It's Working With Anthropic, Google on AI Safety",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety",
+     "source": "Bloomberg Technology",
+     "time": "14:18",
+     "note": "Rival labs are quietly coordinating safety work as the public clash escalates."
+    },
+    {
+     "title": "Trump and Beijing push back on Amodei's AI slowdown plan",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sLU1XSVJPYjlPaEt4WWlZMG52V2xiWHJHb0l3MmpUajJ5QmVUZmc5OWNaTnFiREFTSXpLSFdUVUx2SFRxR1hLaGNKeUZxRjB4WnowcnlJUG1jUHZ0QV9lWHNyT01EVTRzMUtTUWtn?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:49",
+     "note": "Both capitals rejected a pause on AI development, per The Rundown AI."
+    },
+    {
+     "title": "Nvidia's Huang Says AI Industry Doesn't Need Any New Laws",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-says-ai-industry-doesn-t-need-any-new-laws",
+     "source": "Bloomberg Technology",
+     "time": "19:20",
+     "note": "Huang says market forces, not new law, will keep AI innovation safe."
+    },
+    {
+     "title": "AI panic sparks rare bipartisan moment on Capitol Hill",
+     "url": "https://www.axios.com/2026/09/15/ai-congress-regulation-bill-trump-bipartisan",
+     "source": "Axios AI+",
+     "time": "23:08",
+     "note": "Cross-party momentum for AI rules is building even without a bill, per Axios."
+    },
+    {
+     "title": "Trump and Jensen Huang unite against AI doomers in surprise on-stage call",
+     "url": "https://www.axios.com/2026/09/14/trump-jensen-huang-nvidia-ai-all-in-summit",
+     "source": "Axios AI+",
+     "time": "20:52",
+     "note": "Trump phoned Huang onstage at the All-In Summit to dismiss AI-takeover fears."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI weighs $1.2T pre-IPO round",
+   "signal": 65,
+   "summary": "OpenAI is in early talks for a funding round valuing it above $1.2 trillion ahead of a possible IPO, per Bloomberg and the FT. The contrast with ByteDance — whose first-half profit fell to $20 billion on AI spending — shows how uneven the economics are even among leaders.",
+   "angle": "Valuation euphoria meets capex reality: the OpenAI-vs-ByteDance gap is today's clearest inference-economics tension.",
+   "items": [
+    {
+     "title": "OpenAI Weighs Funding Round at Over $1.2 Trillion Valuation",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation",
+     "source": "Bloomberg Technology",
+     "time": "22:31",
+     "note": "Early investor talks value the ChatGPT maker above $1.2T pre-IPO, per Bloomberg."
+    },
+    {
+     "title": "OpenAI weighs funding round at $1.2tn valuation before IPO",
+     "url": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:54",
+     "note": "Altman's startup could capitalise on demand after new model launches, per FT."
+    },
+    {
+     "title": "ByteDance's First-Half Profit Drops to $20 Billion, Weighed Down by AI Spending",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRkhPRjlFNWNtYmEtdGFFcmY0VVFTM1p5ZnYxNzlsMWhzQ1NvMVZSU01NNnNKcmhPRS1WT295d2dKeC1hSklnazB6cllWVTBMakVQS1dseUR2dEY1YUZLUGxvSEZkaHhBdkdGV1NyaU43Sm9hb055RmY1dHhxbDd5dnV5ME9pbk84VTFUaWJCOEhabUhpMU10bVVlN25ieUt1VkgxczJJZ2Q?oc=5",
+     "source": "The Information",
+     "time": "12:00",
+     "note": "AI investment cut ByteDance's H1 2026 profit to $20B, per The Information."
+    }
+   ]
+  },
+  {
+   "title": "War damage tests GCC cloud resilience",
+   "signal": 60,
+   "summary": "AWS says wartime damage has put data in its Bahrain cloud region and one of its three UAE zones beyond recovery, per AGBI — the first hard confirmation that the Iran war has hit the GCC's cloud stack. Reports also suggest the UAE is rethinking a billion-dollar AI data-centre project and moving infrastructure underground.",
+   "angle": "Resilience, not speed, is now the GCC data-centre story — sovereign cloud strategy becomes a board-level risk question.",
+   "items": [
+    {
+     "title": "AWS: war damage has put some cloud data beyond recovery",
+     "url": "https://www.agbi.com/tech/2026/09/aws-war-damage-has-put-some-cloud-data-beyond-recovery/",
+     "source": "AGBI",
+     "time": "14:19",
+     "note": "AWS says it exhausted every option to restore Bahrain-region and one UAE-zone data."
+    },
+    {
+     "title": "UAE rethinks billion dollar AI data centre project after Iran attacks: report",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWRySHJSWFhqOFFGUVNWaWlTbFIweDY4RWIxWGxXSjBETGR5RGdzUkNNX2hCajhtUVlfU2h0dGltYmhRNUNXLTNqMi12YWdIbHllU00yYkpQbW9oSXpuOHJDWUpaNnFiNWZIb0ZvTTBDODhzY2Z2YzhjMVFXd0RGYy1hQlM0eUUtYVEtTndOU0JCcjdNQ2s3S091aHUyS1pVMkxQQTlxY0hmUGVMV0huR3E2SjNULVhYRS1XVWpZX0xSVHI0cWx0LUtrdFFtcGs?oc=5",
+     "source": "The Daily Star",
+     "time": "15:23",
+     "note": "A major UAE AI data-centre project may be re-scoped after Iranian attacks, per report."
+    },
+    {
+     "title": "War Pushes UAE Infrastructure Underground to Evade Iranian Drones",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclRFa0trTWllRzJGbnlFZ2Z1SURJN3gxdmdEOC1KRV9ad1NXbGVXNG55bE9lcG9EN0dkaHJoVk1uRmZhRy1yUFAyTExpZzlnczBKOEVzcmVOU0xjZVdmb0J1SWlDY3hTaFBhTks3bllYNzJmZ01PTDE0eEpFV0FkLWxyN1h1a3JLUk5iS2NEY1kyYV9DdEdhNFhvQk44a01mZlVSV3dYNnNuQQ?oc=5",
+     "source": "Seoul Economic Daily",
+     "time": "21:18",
+     "note": "UAE is relocating critical infrastructure underground to counter drone threats."
+    }
+   ]
+  },
+  {
+   "title": "Riyadh doubles down on ethical-AI agenda",
+   "signal": 55,
+   "summary": "UNESCO's AI ethics forum opened in Riyadh with Saudi and UNESCO officials calling for practical, globally cooperative governance, per Xinhua and Al Arabiya. Saudi Arabia says it has trained more than one million people for ethical-AI readiness, per Arab News.",
+   "angle": "The Kingdom is positioning itself as the Global South's ethics-and-governance hub for AI — a soft-power move Western briefs underplay.",
+   "items": [
+    {
+     "title": "UNESCO's AI ethics forum opens in Riyadh, calls for practical governance",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zY0VRdTAtV0kydVNGMU9majIyMUlQRkc1VUlPS0ZqMW53d3JGYzVYa0pibC1heFhtRkg4dEJfdmlaNEU2TXpiNWUtOHp4SGlPLTlaRUVjeVJpR01sVE94ZTZKM0oxOVRROHM2dnlmV3FaTFlTazJhemgxNEw?oc=5",
+     "source": "Xinhua",
+     "time": "21:37",
+     "note": "Forum urges governance that is implementable, not aspirational, per Xinhua."
+    },
+    {
+     "title": "Saudi Arabia, UNESCO call for stronger global cooperation on ethical AI",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjUtYXNjdE00SnZFNllNV0UyYjk1YVNGRG1Mb19Wc3ZUczg1d3p6ckNqN2p1YS1lNTJxQjBKU2lrRVRQN2JrVU1zUEdYVWFGVGVRMDFCYVY4bU5ydkpfZ0RmZklHUWxkSDQyN3NWQXB4TFRXRmZMdFJ1bkp4UkhTT21ISXcyOXJkLTdxVkRpSHl1eGpMNFQ4b0k0U1pOUnhBSW9PUUlwUHNvbndSMFEyeTJQSTZ5UEE1Y3NPWEtXZ3ZMdW93VEEyQdIBzgFBVV95cUxObGgxUFFHRXloQ3V0SFVsQnhmS1NfbFJwdVVKMkhZUEVYeTZ3TmxORkF1V0o0blptMkJ0cFczQkFubWhieU02bFR2R3F5bWRuOTRiWTdJSUl2TUNwSGpEbmp0ZFNVYlNqNWpTSVpfeFBxQ0NmZVJzSlpQSlB2M2RBX2xKdF83bXo4SFcwMWd4Q2Jnb1B4LWFYMG9Del85UXI2MnB3SG1TU0hfTUp4TG5vZTVmWlhPRDVUSVN5Tk9lUmJFaVJZQk10SzhieEhFUQ?oc=5",
+     "source": "Al Arabiya English",
+     "time": "11:21",
+     "note": "Joint call for stronger international cooperation on AI ethics, per Al Arabiya."
+    },
+    {
+     "title": "Saudi Arabia trains over 1m people in push for ethical AI",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeENrOTFOd01pelV3dXFXUTNqYUtJV0tHNDNsMTRodUVzYmo0NGlRT1lsTW1IY3NQcnVKWGlUVEpRZUR3N01LbExNczJPQTNmY0JURzdqYzhYQW5JYVg4eXNyWHpVcDFiYklvZUU4WkJiODlKNFBkTkxSeEdIWC1OSE02N1JkbjF5amp0X09ZVXlzczVURV9QLTUzV3J4b20zOHJkNXpR?oc=5",
+     "source": "Arab News",
+     "time": "14:57",
+     "note": "More than a million people trained under the Kingdom's ethical-AI push, per Arab News."
+    }
+   ]
+  },
+  {
+   "title": "Saudi AI investment and data-centre surge",
+   "signal": 50,
+   "summary": "PIF-backed AI investment and infrastructure expansion continues to accelerate, with Saudi Arabia now the joint world No.4 fastest-growing data-centre market on AI demand, per Arab News and Arabian Business. The pattern: sovereign capital is underwriting compute capacity ahead of Western deployment curves.",
+   "angle": "Sovereign capex is front-running AI demand — watch Saudi compute supply versus regional adoption as a contrarian risk.",
+   "items": [
+    {
+     "title": "PIF accelerates Saudi Arabia's global AI leadership through strategic investments and infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNekdIS0NmRDRKNnJFSWt2WW1TNjdFcl9rTjBoYmVlM09kbHlhV2NodkZjUng5VzE5RDRybzhkZ0NOR3lrNEUzVWlNTC1kZnZIZkh2Qk5EdDVJSFlXX3FDUmJoQ3dwLWFGa0NNX2NVdFpxdnNQcVlZQ1h6NC1kTlA0bFVnZjhGWEM4U3ZYYlg3RjNhaWV0blgzeTQ3RlhnTGQ5UTVxSkF0NjFpaHdtT0xFTUJFdUpJZmpna0IxV1BlS2FVMEFHTkV1Tk1EZm01Zy1yaDBYaTRiTUs?oc=5",
+     "source": "Arab News",
+     "time": "13:26",
+     "note": "PIF is channelling strategic investment into global AI leadership, per Arab News."
+    },
+    {
+     "title": "Saudi Arabia becomes joint world No.4 fastest-growing data centre market as AI demand rises",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb0ZaNTZqOGpHVVlyUjRhZncwTmVqOGp1UjJxeVFkazZkeFZ2MVd1b1hNdGFIdnhHZHB4bGNMSnBJN1o1eXpQMkFBVXFHLVZycFVJNXhOWjlpdUFBNlQ0RUNLOGZORElzazVOLVgyN2Nwei1UZDFXU2pEbmsyUkcxX3dCYU95Mkx6TndrclZqV0hxVVN6SllIbFdpUWZ5cnlGVGVYaU5Va3hZZlpfVmdhb1ptZTczSXNKVnl5eG9xUFlMV090Vzh4c2xFVW94bXRBS2ZidHFXSTZyZUk?oc=5",
+     "source": "Arabian Business",
+     "time": "23:46",
+     "note": "Ranked joint fourth globally for data-centre growth on AI demand, per Arabian Business."
+    },
+    {
+     "title": "Saudi Arabia Expands AI and Digital Infrastructure Investment Through PIF",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb05Ia3Atck1VWXlWcjhHc3VJZVp1dmFQZzN3aHNaZU9rbE9yRGl5cDRHX1JkSHhEeFNRNmRBOHp0SFdjUkI2RU5Ia3ljRTYtRG1TVWl2cGMyZThNUDZvX2Vxb1RJV1hmWlJrNlN3TnJUMUF2RE9mc3gxcV9hNzVra3JQX3hZenZJTkhDMTI1TjhuSGZGX2w4cWtWWlBabGVzR2o1aHpB?oc=5",
+     "source": "IndexBox",
+     "time": "22:20",
+     "note": "PIF continues expanding AI and digital infrastructure investment, per IndexBox."
+    }
+   ]
+  },
+  {
+   "title": "GCC enterprise AI: health, green, banking",
+   "signal": 50,
+   "summary": "UAE healthcare group M42 will adopt Oracle Health Data Intelligence for AI-powered precision medicine, per Oracle's announcement. Oman formalised its Green AI Alliance targeting 10% of GDP from the digital economy, and Vision Bank is partnering with Publicis Sapient to scale AI in Saudi banking; the Gates Foundation separately praised the UAE's AI approach.",
+   "angle": "GCC enterprise AI is consolidating around flagship verticals — health, sustainability, finance — with named global-vendor partners.",
+   "items": [
+    {
+     "title": "M42 to Adopt Oracle Health Data Intelligence to Advance AI-Powered Precision Healthcare in the UAE",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzhnWENKZEJ1TFpHRlg5NVFPZWQ0bHRtcXphMkNSMWljejVNcmliMkRmdHVDVlEtTnI3NHVOMktfeU5IRldiQkhVeGloaGlrYXdpV3B4OV9ibzFxNFdlQkVRaDQ3OXBFS0pLZkR4MFlyZXZPVVRQVUtkTmozR3gyRHpzTk0xUE5GWEJFN1JTZkJGSWdDUnFQSGF5eDhsQ0xtVWc?oc=5",
+     "source": "Oracle",
+     "time": "23:37",
+     "note": "M42 is adopting Oracle's health-data stack for precision medicine, per Oracle."
+    },
+    {
+     "title": "Oman launches Green AI Alliance as digital economy targets 10 percent of GDP",
+     "url": "https://economymiddleeast.com/news/oman-launches-green-ai-alliance-as-digital-economy-targets-10-percent-of-gdp/?utm_source=rss&utm_medium=rss&utm_campaign=oman-launches-green-ai-alliance-as-digital-economy-targets-10-percent-of-gdp",
+     "source": "Economy Middle East",
+     "time": "12:57",
+     "note": "Green AI Alliance unites government, industry and academia for sustainable computing."
+    },
+    {
+     "title": "Vision Bank and Publicis Sapient Partner to Scale AI Innovation in Saudi Arabia",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXVjRUhEZGVMZlZpZGRhZEFvMF8zMWF3SUdfZ0VqM1F6d2JJd3RId2d0ajd6a1M3a25TTi1LUXQxUGQ3WGZzd204bWRRZzBja2FnR2pTenlNUERpVVFQc1lxVXVCRXdVb0hiN2VBWTdRclFaT3Z1eTNmLWw5UDdYeW1BMVBCUnpXOVBBd3VzY0FxMmgyaGpEa1R4YkM4MENvaGFRNWVYaF8zZTMzaV96Qzgxbw?oc=5",
+     "source": "FF News",
+     "time": "15:43",
+     "note": "Banking AI partnership to scale innovation in Saudi Arabia, per FF News."
+    },
+    {
+     "title": "Gates Foundation praises UAE's AI approach and agricultural tech ambition",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZE1hNTBVdVdSSTdWNGczcFZWZXliQ3lFc1EtNTBfQi1hcWplbk1FdFBad016aWlld2pmYTZLSFRudmxGU2VfU29UREJITnFRYWFJYWg1ZnBOWDFtM0NpbmNVLWg4WjZYS2xSaXBTTjJrYVR0a3dTcFo5WUUxX3RXb3Zka2RtV3ZvaVVRMEZGNEdKN3BmcmNB?oc=5",
+     "source": "The National",
+     "time": "15:08",
+     "note": "Gates Foundation endorses UAE's AI strategy and agri-tech goals, per The National."
+    }
+   ]
+  },
+  {
+   "title": "Agent and defense startups draw mega-rounds",
+   "signal": 45,
+   "summary": "AI agent startup Instinct is in talks for a $10 billion valuation while defense AI firm Shield AI seeks at least $20 billion, per The Information. Meta is joining the AI subscription rush and Italian security-software maker Exein raised $270 million to fight AI hackers with AI, per FT.",
+   "angle": "Venture money is bifurcating: agentic software and defense AI command the premiums; everyone else waits for revenue.",
+   "items": [
+    {
+     "title": "AI Agent Startup Instinct in Talks for $10 Billion Valuation",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEtfeEVfeW5qa0xLMnh4UUluQnBHU0J4NVVuYWx6bmQta25QVnY3bTEzV1M5eXFGMXlYU3NTRGJMQk1sYXlaNlpKQjU0aVdWVjB0YkRCSEVqNHptOVo0bXk4SFdXa1RBc0JVYjBkbFdVLWMwdlRBRU1DbE1rVVVlZndUZWtEZjZGUUhyZTRwNC1Ic2YtWkJv?oc=5",
+     "source": "The Information",
+     "time": "01:50",
+     "note": "Agent startup Instinct is negotiating a $10B valuation, per The Information."
+    },
+    {
+     "title": "Defense Startup Shield AI in Talks for Valuation of at Least $20 Billion",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWZ6a1k3SkRSWlJDSFFRRWJRdHVaY2JyWkdFS2dDY1psdVh3RDBkQjUxazZ4RWZlZ0owS3FvS3A1Z1Y4N2RDNWdDdEw2RFo1dGRZbXdCNWVtOWVncXR0VndhZ25kU0hac1ZFaFVEajNuYlQ0bXRBZFltaXhEU1V0cFU3Wk1YNDVwTUU0TUw5dHJxcUY5T1hwQkNKTmVaY1E?oc=5",
+     "source": "The Information",
+     "time": "20:44",
+     "note": "Shield AI is seeking at least a $20B valuation, per The Information."
+    },
+    {
+     "title": "Meta Joins Tech's AI-Fueled Subscription Rush",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXNEN016amcxdlpNNG9zNWJGQWl0VWVzeGg4UmV6NFlNSms3ak1yUWxfaG5rZk00OTUyZ1V1dzVXUzh5MXZzdnoxMTJvWXVWNDJ2SGU3UnM0REdEVU1iaEdDaHdMQ2VNbTJiSGgzMGNWTjllbG1JdVk4ZF8wS1lqSGxPRmNwSVdyc2c2WXR5OU9nTVBxMFNkb0ZUS0pwbDBRSEE?oc=5",
+     "source": "The Information",
+     "time": "00:00",
+     "note": "Meta is adding AI subscriptions to consumer products, per The Information."
+    },
+    {
+     "title": "Italian start-up Exein raises $270mn to fight AI hackers with AI",
+     "url": "https://www.ft.com/content/9fca2d3f-b689-4f08-801c-ee7f8475e7bc?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "Exein raised $270M for an AI security foundation model, per FT."
+    }
+   ]
+  },
+  {
+   "title": "Model and product launches keep shipping",
+   "signal": 40,
+   "summary": "Google DeepMind introduced Gemini 3.8 Live and an extended-thinking variant, Salesforce unveiled a new AI model plus agent-security tools at Dreamforce, and Apple began shipping Siri AI with app access and cloud limits. The launch cadence continues even as the safety debate rages.",
+   "angle": "Ship-and-safety-run-later: model releases are accelerating in parallel with the slowdown fight — the real policy signal.",
+   "items": [
+    {
+     "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+     "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+     "source": "Google DeepMind Blog",
+     "time": "17:05",
+     "note": "DeepMind shipped Gemini 3.8 Live plus an extended-thinking variant."
+    },
+    {
+     "title": "Salesforce Unveils New AI Model, Agent Security Tools at Dreamforce",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVkNMdnJvUVE0Nm1hTFF1QUJYa1F4UnpiTTczaDBBbHJLVEV0RUYzbkY0T2lLRHdicG9wT0RTbnlNYjJEU1FKdm96dDk1WUd5YUxWSjZpcUdqTWU1MnZfVmllMGhXLW1YVTlkbFhSc2Iya3Vwb0M5TGFzQWRlTGtUbjZIMnBodjNoWXZGSTdJSUVBbEIyeXpBaXAzdEFQNE5WUzZvNzJ4QQ?oc=5",
+     "source": "The Information",
+     "time": "19:38",
+     "note": "Salesforce debuted a new AI model and agent-security tooling, per The Information."
+    },
+    {
+     "title": "Apple starts shipping Siri AI with app access and cloud limits",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sUHRKd3JEVEJVMzh1ajNIS0ZXUWcyZU5KamhFU1RNdy1HLWo2Ri1XZW4zR1NCaEM2WFF6UHcxQXpSMmZtVE8yaWRXWkFqcHVrX1hCa05JOFM3R1JFTnVQTEsyeTlnQzh1d25z?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:25",
+     "note": "Apple's Siri AI rollout begins with app access and cloud constraints, per The Rundown AI."
+    }
+   ]
+  }
+ ]
+}

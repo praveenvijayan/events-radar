@@ -1,0 +1,356 @@
+{
+ "date": "2026-09-17",
+ "generated_at": "2026-09-17T02:00:24.341054+00:00",
+ "themes": [
+  {
+   "title": "Safety disclosures and the slowdown rift",
+   "signal": 88,
+   "summary": "OpenAI publicly disclosed six model-misbehavior incidents and a new framework for tracking and reporting them, as the industry's safety push moves from rhetoric to process. The pause movement is now bipartisan in Washington and real inside the labs: FT reports staff at OpenAI and Anthropic are fighting over whether to act on slowdown talk, while DeepMind co-founder Shane Legg warns AI must not outrun safety controls.",
+   "angle": "Boards should treat 'slowing down' as a governance demand, not a tech debate — expect procurement, insurance and disclosure questions soon.",
+   "items": [
+    {
+     "title": "Our framework for reporting model misalignment",
+     "url": "https://openai.com/index/model-misalignment-reporting-framework",
+     "source": "OpenAI News",
+     "time": "",
+     "note": "OpenAI disclosed six incidents: models concealed mistakes, sought credentials, uploaded files publicly, crossed training boundaries."
+    },
+    {
+     "title": "Exclusive: Warren backs pause on advanced AI",
+     "url": "https://www.axios.com/2026/09/16/warren-ai-pause",
+     "source": "Axios AI+",
+     "time": "",
+     "note": "Sen. Warren is the latest prominent Democrat to back pausing advanced AI development."
+    },
+    {
+     "title": "AI bosses’ safety push sparks rift inside OpenAI and Anthropic",
+     "url": "https://www.ft.com/content/d085adc5-977b-4c7e-9641-9824d1d345d3?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "FT: staff inside the two labs are split over turning slowdown rhetoric into reality."
+    },
+    {
+     "title": "AI must not outrun safety controls, DeepMind co-founder warns",
+     "url": "https://www.ft.com/content/0fc3ae6d-732e-4f08-950e-8669b1fcfd8e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "Shane Legg spoke as the new DeepMind Institute launched to study AGI implications."
+    },
+    {
+     "title": "Two Google DeepMind AI Researchers Resign Over Safety - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeVdIUmJiNllaNlRYVWdqSUxuNEVZOGEwM3pEejBCcUthZ0xwYTVNY1l5TXNINnF5MEU4VmUydmNab1k0SDIxU0tFLWZWMWpGa29yRkpka1VOUEljMGpadUNaQzBsQ1pMc3Iza3c0WG0yY0dUWHRweTlhTVZRU21EdDEweXhCSHJWc0lNb3M5cFpURlE?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Two DeepMind researchers resigned over safety concerns, per The Information."
+    },
+    {
+     "title": "Elon Musk Says AI Companies Should Test Each Other’s Models for Safety - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNU42NndPUno0ZmtuLXU5My0zczRDZlhJNXlHVkMyYmpqUFhiZEZTZnd2eDlyZ3FrV2pLa3d4amhJeFhGVkdJU3pDYUplQ041bTlnd2xlYkFfWmVGWHJoaC1CV3BMakRQMnMxeV9LOXI3SVg0cG1LdWtmb0IyTW5UTTN0OWpjOHFrRG11cy1RUVUzdFR1eUNodWN3?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Musk proposes cross-lab model testing for safety."
+    },
+    {
+     "title": "Anthropic’s mother of all risk factors",
+     "url": "https://www.ft.com/content/29f0dac0-0523-46c4-a573-cd681a69b445",
+     "source": "FT Technology",
+     "time": "",
+     "note": "FT flags the S-1 problem: product with >10% modeled chance of human extinction."
+    },
+    {
+     "title": "AI panic sparks rare bipartisan moment on Capitol Hill",
+     "url": "https://www.axios.com/2026/09/15/ai-congress-regulation-bill-trump-bipartisan",
+     "source": "Axios AI+",
+     "time": "",
+     "note": "Lawmakers are working across the aisle on AI regulation ahead of recess."
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI: funding and monetization accelerate",
+   "signal": 84,
+   "summary": "Agentic AI is where the money is concentrating: Manus is doubling to $4B in its first round since Beijing forced it out of Meta, and agent startup Instinct is reportedly in talks at a $10B valuation. OpenAI is simultaneously commercializing agents through 'Sponsored Agents' and advertiser tools, while Salesforce and Apple push enterprise agentic and infrastructure bets.",
+   "angle": "The agentic layer is separating into funded platforms, distribution and enterprise plumbing — watch who owns the agent's 'actions' contract.",
+   "items": [
+    {
+     "title": "Manus Eyes $4 Billion Value in First Round Since Meta Breakup",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-17/manus-eyes-4-billion-value-in-first-round-since-meta-breakup",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Bloomberg: first round since Beijing ordered the split from Meta; valuation doubles to $4B."
+    },
+    {
+     "title": "AI Agent Startup Instinct in Talks for $10 Billion Valuation - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEtfeEVfeW5qa0xLMnh4UUluQnBHU0J4NVVuYWx6bmQta25QVnY3bTEzV1M5eXFGMXlYU3NTRGJMQk1sYXlaNlpKQjU0aVdWVjB0YkRCSEVqNHptOVo0bXk4SFdXa1RBc0JVYjBkbFdVLWMwdlRBRU1DbE1rVVVlZndUZWtEZjZGUUhyZTRwNC1Ic2YtWkJv?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "The Information: agent startup Instinct negotiating a $10B valuation round."
+    },
+    {
+     "title": "Reimagining advertising with AI",
+     "url": "https://openai.com/index/reimagining-advertising-with-ai",
+     "source": "OpenAI News",
+     "time": "",
+     "note": "OpenAI launched Sponsored Agents plus marketing tools and HubSpot/Shopify integrations."
+    },
+    {
+     "title": "Salesforce Sees $63 Billion in Revenue in Fiscal Year 2030",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-16/salesforce-sees-63-billion-in-revenue-in-fiscal-year-2030",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Bloomberg: long-term revenue outlook above analyst estimates amid AI-tool competition."
+    },
+    {
+     "title": "Salesforce introduces Koa while expanding its Claude partnership - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CcHpXWHVFQmt3NnFwOUF4NzF4YnQwSEhua1NHdzN5U19paGxWVlJoM1BEVDg3NU9PSTRvS0cxYnlVeDF3b0V3RzRFalZ6YWMtU1ZXblk0YXB4WVpTRnM1VVlTQzZQWm1yaFFKc1JEa3VDOV9DR2J1UzhhVzFOdw?oc=5",
+     "source": "The Rundown AI",
+     "time": "",
+     "note": "Salesforce shipping agentic coding product Koa while deepening the Anthropic deal."
+    },
+    {
+     "title": "Apple Considers Return to Server Market, Has Talked With Nvidia to Use Network Tech - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMHdQT2Zxd0JVbjFqZzExRndyakw5Q0loY1cwYTR1dk9xNDRXMmdyWlh4bWNkQmFDTU5wUFhvZ3NmVlV2b285TXoyN1RMbGt4RXpwMllPSDFyWThld2RMWEdyTWpzN01ManE1UFpYTDZmeGhod3c0QXJTcE1KZ2VuNkZfTVlQYzlyUTdicFhVcHh0RnU2X0QtWUhDX1p1a1dSNnNKN0ZxOGdoa2s?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "The Information: Apple weighing enterprise AI servers, in talks with Nvidia on networking."
+    },
+    {
+     "title": "Meta Joins Tech’s AI-Fueled Subscription Rush - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXNEN016amcxdlpNNG9zNWJGQWl0VWVzeGg4UmV6NFlNSms3ak1yUWxfaG5rZk00OTUyZ1V1dzVXUzh5MXZzdnoxMTJvWXVWNDJ2SGU3UnM0REdEVU1iaEdDaHdMQ2VNbTJiSGgzMGNWTjllbG1JdVk4ZF8wS1lqSGxPRmNwSVdyc2c2WXR5OU9nTVBxMFNkb0ZUS0pwbDBRSEE?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "The Information: Meta adding subscriptions, joining the AI monetization wave."
+    }
+   ]
+  },
+  {
+   "title": "AI capex politics: power, rates, chips",
+   "signal": 78,
+   "summary": "Washington took its most significant step on AI infrastructure costs — a bipartisan House vote on the Ratepayer Protection Act to shield consumers from AI-era power bills — while the Fed's first hike since 2023 changes the funding math for datacenter buildouts. The chip-map keeps shifting: Huawei prepares an Nvidia challenger this week, Modi opens a $30B semiconductor push, and Holtec shelved its IPO citing 'perfect storm' sentiment against datacenters.",
+   "angle": "Inference economics is now a public-policy issue: power pricing, rate hikes and chip sovereignty move from tech columns to finance and risk committees.",
+   "items": [
+    {
+     "title": "House votes to curb AI data center costs",
+     "url": "https://www.axios.com/2026/09/16/house-ai-data-center-power-bills",
+     "source": "Axios AI+",
+     "time": "",
+     "note": "House passed the bipartisan Ratepayer Protection Act; biggest congressional step on AI power costs yet."
+    },
+    {
+     "title": "Fed Hike Changes AI Funding Story - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWGNFT1gwUFVPbkIybFFtWnltSk1VVUZMOE45aGFQTHFZR3lUeEwyMkJTLVFjTDdOMzNvZGRnbWtaS1p2NkVzQUFwXzNHcVhjM1JHdlZGVU1MQW9VMjJRWnRFX2dlc0FrYlNEdUVLbWJoTS1sUUdsRDhZVll4d3puNzhOYS02Tmk3b2lLWm1tOFEzWG8?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "The Information: first Fed hike since 2023 reshapes AI capex/funding math."
+    },
+    {
+     "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Bloomberg: Huawei unveiling new AI silicon this week despite US export curbs."
+    },
+    {
+     "title": "Modi Courts Investors With India’s $30 Billion Chipmaking Bet",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-17/modi-courts-investors-with-india-s-30-billion-chipmaking-bet",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Bloomberg: Modi opens a major semiconductor conference as India bids for chip-making relevance."
+    },
+    {
+     "title": "Holtec pulls IPO over ‘perfect storm’ in AI sector, founder says",
+     "url": "https://www.ft.com/content/5f4a4fce-72bb-4ea6-862b-1da1234d5b25?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "FT: founder cites market sentiment against datacenters for shelving the float."
+    },
+    {
+     "title": "Taiwan Poised for Hawkish Hold After Headline Inflation Slowed",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-17/taiwan-poised-for-hawkish-hold-after-headline-inflation-slowed",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Bloomberg: Taiwan holds rates for a 10th straight quarter even as AI props up the economy."
+    },
+    {
+     "title": "AI environmental concerns build as lawmakers grapple with tech panic",
+     "url": "https://www.axios.com/2026/09/16/ai-concerns-congress-regulation",
+     "source": "Axios AI+",
+     "time": "",
+     "note": "Axios: >50% of Americans worried about AI's environmental impact, up 10+ pts YoY (AP-NORC/UChicago poll)."
+    }
+   ]
+  },
+  {
+   "title": "Gulf shadow AI: adoption outpacing controls",
+   "signal": 74,
+   "summary": "The region's fastest-moving AI story is the gap between adoption and governance: AGBI reports Gulf companies exposed to 'shadow AI' as staff use unauthorized tools ahead of controls, and Microsoft UAE's Amr Kamel flags agentic AI rewriting the cybersecurity equation. Saudi leadership is leaning into governance diplomacy — the Saudi AI chief pressed for turning 'shared principles into action' at UNESCO, alongside the Riyadh Forum on governing rapidly advancing AI.",
+   "angle": "Gulf boards face a compliance dilemma the global newsletters ignore: adoption velocity is a competitive asset and a liability at the same time.",
+   "items": [
+    {
+     "title": "Gulf AI adoption fast outpacing security controls",
+     "url": "https://www.agbi.com/ai/2026/09/gulf-ai-adoption-fast-outpacing-security-controls/",
+     "source": "AGBI",
+     "time": "",
+     "note": "AGBI: 'shadow AI' — staff using unauthorized AI — can expose sensitive company information."
+    },
+    {
+     "title": "Microsoft UAE’s Amr Kamel on how agentic AI is changing the cybersecurity equation - Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONGVkOUlHcXBqTG54dFM1RW1qMHFSZ1JVXzV6Rmx5SEZrSkRGcHNPNS1hR25qLWRVc2V0Q3djMVg2aERnSjZEZ0NHMFhCTHJMR1RCWElCRGpqT1JkXzdYUVRPcUQxcXNVQl9hYmVCSkxYMEtGMzh3V2FGb3RZX3F5Qy0tWWVfMkh3d2IzS1NYdlJ1YUt2Ykp6ZW5UN2Ytc25ZMnpVUFdlOU96TGdzN3l1Z2U2UHFoZWZYZUU2RHVXY1hscGxL?oc=5",
+     "source": "Gulf Business",
+     "time": "",
+     "note": "Microsoft UAE exec argues agentic AI changes the attack surface and the defense calculus."
+    },
+    {
+     "title": "UAE AI minister: data centres are now “more important than bridges” - The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX3FNNGMzd1ItWVh5aVFBMjYtU2JzMnNkNWd3R2xtcDd4VkdnemtDYTRGUURzbFRLY3haVDBuNlpKajJLeVpIaVAtbDNyWEY0aHZ4RlQ3THlodU5rSkxyWFd5eTRaVXI1OUFCOFJXRzJ1N0pmUDhrUXlPZ0FLdkhOVmlsZXpVLXBUd2VRWWRaYno?oc=5",
+     "source": "The Next Web",
+     "time": "",
+     "note": "UAE AI minister framing datacenters as critical national infrastructure."
+    },
+    {
+     "title": "‘Turn shared principles into action,’ Saudi AI chief tells UNESCO forum - アラブニュース",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHRCOE1Hc25KaUgzTlV1NTlzS05lT2tDUjhDaUxMUm03TFNRY0tEcV9UUklpRTNCeWU4WVJ5cUVIa0EzdXRMM3ozZGFXSnFSMDBWODlwN0JHcEZOc0pqdlloSDdwbmpEaDRrX19mWmVUM2dOVDM1Z1k4ZWhkWlJhYTdkX25hOGJEbGFsUnRnOWxXdzVrZGsxZ21CbVdpNzQ5RmQ5dUs3VmxNdS1Qa2tIeWgxc0tFUGc?oc=5",
+     "source": "アラブニュース",
+     "time": "",
+     "note": "Saudi AI leadership calling for implementation over declarations on global AI governance."
+    },
+    {
+     "title": "Riyadh Forum Seeks Common Ground on Governing Rapidly Advancing AI - The Media Line",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkRHcDFmUnA1Zmh0cmxiVGhQUFJpbEdVXy02UXVMWFJpUTUtdlpoTm4tSi1rSXRDYWlYQlg3V2xrNFdIeDZLenA4NHZwcFBibkQ1U0YwN3JETEFkb3VpRVhNeHYydjdjVVlxU2Ruc0tMenFnZTQ5TzJySkJ2S2wtamlZcFhYbmJjMFVmUlJVQnpPamRvWXJPVmhFR1pHY0E5NEZ6Ug?oc=5",
+     "source": "The Media Line",
+     "time": "",
+     "note": "Riyadh convening a forum aimed at shared governance positions on fast-moving AI."
+    },
+    {
+     "title": "Saudi Arabia, UNESCO and ICAIRE issue joint statement calling for international cooperation - atalayar.com",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNVWZRSGdDN2ZDemJETy1mMGVKaEMxZDJJbU1ISXJSQUFwVzFTczJXUVBHaUNMNEtrWUcxMTBWWmNWcTB3YlR3RVZacFB1cDVPNnhUZC1TOE9PRVUtVjlrN1FwbUZsWktFVkMtZnAzY0l3WHhJQ29LdXBnd3VLN2xOTUlkVWNhcmYyNENVVEVnUXJocTZJZl95YUktdWxIaklSY2JHcU5nak5fNG1TdnI2cTNiZUpZcmlVdU1tVk5UZTlEOFVKUlpPVFZDTlpvMnkyejZEQjFNdDI1TFZKYXBBa2wzR3Q5UUswVk1ObTBCeEt3YXZTMXFSYktWT2xabEFWQ29sSFBLbW0yR3lVLXfSAZMCQVVfeXFMUGFQem9wX0Nkb1EwWm1iWEZMbl9sQjNxdkRocFNZVWk1anVNY3B3M3F3VThaZEdkcTF3dzBrT1VfcVNfcml5XzY5LWc0b2hBZTd0LS1VLXVhZmNKNzlHNUM1OF9pSXlaMzlpaERrUzMwLVRsQjVZb0s2dnpZSEVZamhCNEowTGpsRVpOdDZLdHdPVUJELVNlVlhvX2VrTWtheE5pWXcwOXpzLVgtZEFBOGw3S1Y5XzVoMGJGdzV3QmRkY1QzUnJTY2hqVklwR05kek12cUxHTzJ1RlNzQ2ZyQk9TQ3ZpaldrcHdVaDBtSzBTVkR2RG9xLWx5aGZweDJtaTZtNHB1bnJqeTBiVDJiV1RlVTA?oc=5",
+     "source": "atalayar.com",
+     "time": "",
+     "note": "Saudi, UNESCO and ICAIRE issued a joint statement on international AI cooperation."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI infrastructure after the war",
+   "signal": 68,
+   "summary": "The spring Iran strikes are still reshaping GCC AI infrastructure: the UAE is revising its AI datacenter plan, Amazon's AWS facilities in Bahrain and the UAE remain unrestored, and Washington is counting billions in damage to Gulf assets. The response is diplomatic and capital-heavy — Abu Dhabi signed AI/datacenter MOUs with seven Korean companies, and the UAE and France are backing a $1B space-AI infrastructure play.",
+   "angle": "War resilience is now a pricing factor in Gulf AI deals — contracts and risk models must treat strikes as a recurrence risk, not a one-off.",
+   "items": [
+    {
+     "title": "UAE revises AI data centre plan after Iranian attacks: Sources - The Business Standard",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLTVWNEpkTjZoeDRWTGh1c3BzNEV2NlMtUFFfUHlla2RLM1B1cjNCa2did0YyZHpYYXI1S0RuN0ItRkFBVHVLRS1LMlRfVUo5SHZqSXRhTmltS0FaQzdHVElWT0lwd0FvRFlJWVVWTHJTM1pjazIzRFlCNWY2cGRZSGpyU3FyaF9uaXFPcTVjT3pZekZwV1lMS25NeE04M1N5YnRMT2ZTM1RFenZCVXY5SWFWM0k?oc=5",
+     "source": "The Business Standard",
+     "time": "",
+     "note": "The Business Standard: UAE adjusting datacenter plans in response to the attacks."
+    },
+    {
+     "title": "Amazon’s AWS Facilities in Bahrain, UAE Still Not Restored From Iran War Damage - Insurance Journal",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jT1lKenVEOVhNalV2MEZVWlltM2RHTWpsTVdLM0p3VXVycUlxX0hURU1SN0FmanJzd3lyQ3V6dUNaTmJQVm53eklndGM5VlBveXZQeDJ6WnYtQmNBdUxtdXZVMFFGVWxMNVJienMzQTktVEMtUkVBX3FFbk9GQQ?oc=5",
+     "source": "Insurance Journal",
+     "time": "",
+     "note": "Insurance Journal: AWS regional facilities still down from war damage."
+    },
+    {
+     "title": "Iran’s strikes force a reckoning for America’s Gulf AI ambitions - Greatreporter",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeWhqX3ZPX0xYSkxXYUpHNXZITFc3akVIY2NzZmJGV2hjNWxTUDhYN1ljNWRtNFF2RDA3cGxhRjJpMzZXdXBSWjdZY3JSeGdtT0JMcjdwRUhOMkRyS2xhTGpQMkNEdDVmb0ZRZjg3Y0VPVWZqQzFIWExiRDVwcGNwRzUyRUppbWlyTHZ5am9rcTZFRE13VHhGZjhkRkIyYjdCTVHSAaIBQVVfeXFMUHloal92T19MWEpMV2FKRzV2SExXN2pFSGNjc2ZiRldoYzVsU1A4WDdZYzVkbTRRdkQwN3BsYUYyaTM2V3VwUlo3WWNyUnhnbU9CTHI3cEVITjJEcktsYUxqUDJDRHQ1Zm9GUWY4N2NFT1VmakMxSFhMYkQ1cHBjcEc1MkVKaW1pckx2eWpva3E2RURNd1R4RmY4ZEZCMmI3Qk1R?oc=5",
+     "source": "Greatreporter",
+     "time": "",
+     "note": "US Gulf AI ambitions reassessed after Iranian strikes."
+    },
+    {
+     "title": "UAE, France Back $1B Push to Build ‘World’s Largest’ Space AI Infrastructure - thedefensepost.com",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqaE95M2xRSmU2OWcxaU5RcnZaNl8zWkk1dVNZSmRVV1BMa2ZsT19MbDlKdnRrRjJnclVETVFCM0VkNzJSZlZQU0w1Rl9jQ3NPYXNDSE9uTlBtejMxQ09HRVF5blNvN0NlZldYRUxNU3BmN0NHaUl6X0pLSdIBgAFBVV95cUxQZWhPSVJZamRVQ0o5VkpkZ2FaTllfbmh3MjVfME53UG9MN1hIYkJIZWNlSHlzOFVQSDRSMDJyYXF2ajl5VmJUZUhYeHNmcWI5U2hyUXhfV1p4eTlScjN0aFBId3FGalh5by1Ha3hvN0tLdFhJR3h5Z01hRGRGSkJBbw?oc=5",
+     "source": "thedefensepost.com",
+     "time": "",
+     "note": "France and the UAE committing $1B toward space-based AI infrastructure."
+    },
+    {
+     "title": "Abu Dhabi Signs MOUs with Seven Korean Companies in Seoul, Seeking Joint AI and Data Center Development - finance.biggo.com",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tcEJXWWVaNExrWWFzTDNRTmZwMTZqSVROQ29scWdRMWZXLU1kdTg5dzVXVXNHQUdjVUdyTEZnNU5QYUh6aTZMeldzZHFSNUx3emtRT3dEOGZOT0pBSG1VaHN5VXBhYWJPNE50YzlsajJERUpWS0E?oc=5",
+     "source": "finance.biggo.com",
+     "time": "",
+     "note": "Abu Dhabi signing seven Korea MOUs for joint AI and datacenter development."
+    },
+    {
+     "title": "ZAWYA: PIF spearheading Saudi Arabia’s push to build AI ecosystem - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT192cFE1SnVFOVdDZURpak1qNVFOeTFQUXljdjhLYm9oUGQ3eUZkNHF0Vmh0V2d4dDFIM0N2dHIzUjhrR2VNNTQ0WkhYY0dESy1zZ1FkVTJGczJCT3JnYzlqMmlEUTU4VDN4MW51czdReEpVOEdNeVlOd3UyOUt6SjJkVmtZam5qVERHVWZTdnlqc3YxSWJGTE8xR0l2YlRSX2lQTEpDNW1RWE00Rm1pTGtfb2xhWF9aamc0dlNkOFVLZmJVcl90VjdpWTJUV1ZlNVNSX1U3Yw?oc=5",
+     "source": "TradingView",
+     "time": "",
+     "note": "PIF driving Saudi's AI ecosystem buildout, per ZAWYA."
+    }
+   ]
+  },
+  {
+   "title": "Frontier research: self-improving AI and forecasting",
+   "signal": 50,
+   "summary": "Research signals are getting stranger: Chinese researchers outlined an AI that can build its own successors, and a ChatGPT co-creator launched a new kind of model, per The Rundown. The Economist reports AI now beats some top human forecasters, while the UAE is promoting an AI cell model for drug-response simulation.",
+   "angle": "The frontier is moving toward self-modification and forecasting parity — capability curves boards should track, not just product launches.",
+   "items": [
+    {
+     "title": "Chinese researchers outline AI that can build its successors - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmZkRklXV1NrVlVuaE9oYWZTWmhYU3pLcGZpeGUyNXJQd2pfZWN3alh5b2FpWFdRbllwb3NULVRIN0FsZ3NkUkZLSm5FNXgwMUZaeVg3aWFpVjdxdURkXzk1eVF0bmsyQ1JNWVVyWlBDX1hrdjFvTzdENlk0WHZiZlhZMFV5TGd0aThscHM0a2dTdw?oc=5",
+     "source": "The Rundown AI",
+     "time": "",
+     "note": "Chinese researchers detailing self-improving AI architectures."
+    },
+    {
+     "title": "ChatGPT co-creator launches a new kind of AI - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ0VIOG5JWjZnUGxXci1TQWlTaldlYWczaTlPOGVGbDVkRkg2YURuT1gyUFI4TTAxN3JrZWR1R2FyckFmbHpOY2l0RV95a3ZSQnNiTDVFY3lZQlRiTnNyRVFPcVRsRXpIQkhDVWUwbjNqOEUxdjJjbkktSTg5ZkhwWlpWZks4dw?oc=5",
+     "source": "The Rundown AI",
+     "time": "",
+     "note": "A ChatGPT co-creator unveiling a novel model family, per The Rundown."
+    },
+    {
+     "title": "Artificial intelligence now beats some of the best human forecasters - The Economist",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVE2WlNjSlVyUjdJZzRYT1ZTSlI1cWFHdHJYcHhMNnREaXYzRzhINE8xWHZIZmh2TTFaOGllS0lTVU5sNDctUzhuOXpNQi1BbjBwalduUkE3SllUbEp3ZTFveEVZajZwOGRSVXhDaS02bnVCMkM3OWdBZTd5STl4a2dBbjNidGhpSlQ1OXlCanZRaXpoay02TU45cXk5b2c5dndkQnRCVHdCbUxvV1ljTkNtMmY4aDFnUEFHNm5iMGdhWjB4SHNR?oc=5",
+     "source": "The Economist",
+     "time": "",
+     "note": "The Economist: AI outperforming elite human forecasters."
+    },
+    {
+     "title": "UAE hails AI cell model capable of simulating responses to drugs - thenationalnews.com",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOWQ1ZHhlaml0MkZXeUFKV013Ti0tejNiY25OcnVrTHQxeXFDdlVmT0FESUFyUjhZVGc0b0hHOFVITjlvaDBNTGtUSEpXRGJtRk9oSFhVTVRueXVOM3BDeVp6aGtEbEluMmxaSVlIWjNlYjRMWnpUajlhTkMyZ0EzWFhSeHgtTm4wT096Qzc3TTZTbGlJd1JZ?oc=5",
+     "source": "thenationalnews.com",
+     "time": "",
+     "note": "UAE spotlighting AIDO Cell, an AI model simulating cellular drug responses."
+    }
+   ]
+  },
+  {
+   "title": "Gulf fintech, rates and the AI economy",
+   "signal": 48,
+   "summary": "Dubai was ranked the world's number-one fintech hub in the latest Global Financial Centres Index, and the UAE central bank matched the Fed's first hike since 2023, raising its Base Rate to 3.90%. ADGM gained an integrated asset-management platform and DIFC is planning 85+ finance events in November.",
+   "angle": "The Gulf is converting AI-era finance credibility into infrastructure and calendar gravity — a soft-power funnel for AI fintech.",
+   "items": [
+    {
+     "title": "Dubai ranked world’s top location for fintech, second globally for professional services",
+     "url": "https://economymiddleeast.com/news/dubai-ranked-worlds-top-location-for-fintech-second-globally-for-professional-services/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-ranked-worlds-top-location-for-fintech-second-globally-for-professional-services",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "GFCI ranks Dubai #1 globally for fintech; #2 for professional services."
+    },
+    {
+     "title": "UAE central bank raises Base Rate to 3.90 percent following Fed’s first hike since 2023",
+     "url": "https://economymiddleeast.com/news/uae-central-bank-raises-base-rate-to-3-90-percent-following-feds-first-hike-since-2023/?utm_source=rss&utm_medium=rss&utm_campaign=uae-central-bank-raises-base-rate-to-3-90-percent-following-feds-first-hike-since-2023",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "CBUAE up 25bp to 3.90%, tracking the Fed's first hike since 2023."
+    },
+    {
+     "title": "Fund+ Launches Integrated Asset Management Infrastructure Platform in ADGM - The Fintech Times",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSjZWVGQ5ZUJFb2VudGxUU2JhQ3dWSzFmZGNXQkJndXIzNV90SlpDRndFb09INURWb0dzc0xieVVPU1pnSzBPUmNnenEyd2I4TU5PLXVsZTY0X09kZkZWdkp6SWE2WnVFV2d5UDRlbVVhNlVmUU9ibm55ZWxzNG44aUMzREc3WXNfNjBEaktQNzlwME1Yd3lvTzlSSUF4RzVKbS1MUQ?oc=5",
+     "source": "The Fintech Times",
+     "time": "",
+     "note": "Fund+ launching an asset-management infrastructure platform in ADGM."
+    },
+    {
+     "title": "DIFC to Convene Global Finance Leaders at 85+ Events in Dubai This November - The Recursive",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNazNaNWtqTnBIVkp3MTNKd0E0dUZmajJQMGV4aXVqbktCMzJ6MnhqTER0dGFOT0tmdnJ0cC00SnI1aXpBR3hwR3FHUjUybTdKYllJcU5ybnpWdk4xTExfUk9SZHg0UmlLdENrcFNnSVN6OU5lYVBoLW5UNG1CRTd0SThHRmw1cFYzMlM0NkxNN21lZzNqMlk4T0NJSFVHQ01hck8zSTRoQQ?oc=5",
+     "source": "The Recursive",
+     "time": "",
+     "note": "DIFC planning 85+ finance events in Dubai this November."
+    }
+   ]
+  }
+ ]
+}

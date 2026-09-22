@@ -1,0 +1,307 @@
+{
+ "date": "2026-09-22",
+ "generated_at": "2026-09-22T02:01:08.228788+00:00",
+ "themes": [
+  {
+   "title": "OpenAI pushes global AI safety standards ahead of UN week",
+   "signal": 72,
+   "summary": "OpenAI published a proposal for international AI safety coordination and joined calls for US-led global standards, with Sam Altman set to brief the UN Security Council this week. Treasury Secretary Bessent confirmed Washington and Beijing discussed an AI safety system ahead of the Trump-Xi summit. The direction of travel: safety standardisation is being negotiated as trade diplomacy, not just lab policy.",
+   "angle": "Safety standards are becoming the new trade lanes - watch which bloc GCC supply chains must comply with.",
+   "items": [
+    {
+     "title": "Ahead of Sam Altman's UN address, OpenAI proposes new ways to track AI misalignment risks",
+     "url": "https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china",
+     "source": "Axios AI+",
+     "time": "17:00",
+     "note": "Treasury involvement; US-China risk coordination will lean on industry recommendations."
+    },
+    {
+     "title": "OpenAI joins call for US-led global AI standards",
+     "url": "https://www.ft.com/content/4e502288-b611-4193-acdb-46ef34b1e3b0?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:24",
+     "note": "Altman briefs the UN Security Council this week after safety outcry."
+    },
+    {
+     "title": "OpenAI Releases Proposal for International AI Safety Coordination - The Information",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLVFNZmJaTWtvYXhOUU9ZaElFWmxYXzE3bXRxTVNxN2lrbkJfenhVb1c2dXUwOVJUbm5fdDNRUjB3bWdtQkNGeDFCdWlWQlhLT05tVExkaldoRHFyOXlyRE5waUV2ZDl6ajBKUDk1dVJTdzRKWW4tc3p2aUxhZXViOXRyVWV0WDBFaWg1T1ZidmY4bXRBM3NmXzZEM1RnbG55THFUMA?oc=5",
+     "source": "The Information",
+     "time": "18:11",
+     "note": "Covers coordinated evaluation, reporting and governance."
+    },
+    {
+     "title": "U.S. and China Discussed AI Safety System, Bessent Says - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdmJEQXMzRWxlMUJUdlRRYkYyZUV0RWcybzJ5anAxSDdBd3dTWmx2VEphb2FXTUwxWnlLNVk3X1laRE9obXM0UXJWM1BKbGZpQVZrVjIzei1hR0xaMEQ1bWd2MW1LeDBpRUppU3ZYeUlnTVpQdkFwOW5WcFNkOGlzcjcwWUh6MjlrNFhsNUdYT29Yc25C?oc=5",
+     "source": "The Information",
+     "time": "01:18",
+     "note": "Bessent confirms AI safety was on the US-China agenda."
+    },
+    {
+     "title": "Burnham to call for global effort to control threats posed by AI",
+     "url": "https://www.ft.com/content/697c5196-3aa4-4c59-bad9-a455bcc1858f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:30",
+     "note": "UK PM meets Trump in person for the first time at the UN meeting."
+    }
+   ]
+  },
+  {
+   "title": "Meta's Muse tops app charts and reignites the AI rally",
+   "signal": 68,
+   "summary": "Meta's consumer agent Muse hit the top of app-store charts and dragged global AI and chip stocks back up after a rough stretch driven by calls to slow AI development. The Information reports Amazon is blocking Muse and OpenAI is building counter-features against Grok Bot while weighing a response. The market read: consumer agent adoption is now the marginal signal for chip demand and capex confidence.",
+   "angle": "Agent adoption, not model releases, is what moved the tape today.",
+   "items": [
+    {
+     "title": "Meta’s New Muse AI App Tops Charts, Draws Strong Reviews",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-21/meta-s-new-muse-ai-app-tops-charts-draws-strong-early-reviews",
+     "source": "Bloomberg Technology",
+     "time": "17:44",
+     "note": "Muse climbed to the top of mobile app charts with strong early reviews."
+    },
+    {
+     "title": "AI Trade Roars Back as Meta’s Personal Agent Fuels Optimism",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-22/korean-chip-stocks-gain-as-meta-s-muse-ai-agent-spurs-enthusiasm",
+     "source": "Bloomberg Technology",
+     "time": "00:11",
+     "note": "Korean chip stocks gained as Muse enthusiasm offset recent AI-slowdown fears."
+    },
+    {
+     "title": "Meta leads tech rally as oil prices fall",
+     "url": "https://www.ft.com/content/18f9e0ac-b7d9-4648-803f-3e894990c626?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:43",
+     "note": "Meta led the tech rally while Brent crude sank on Iran-summit speculation."
+    },
+    {
+     "title": "Amazon Blocks Meta’s Muse Agent - The Information",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVT1lxOWh3MGFVbmc0T0NOWGV0bUVFbWk1RXM3S2FsQVJwV1AzclIxb2ZpSEhwTWtLc2dreFN6RmRidjl6SDNRbk5zZ2lxbXFFaTRKRXE5ZjNWcTJYdVRFcU40NzF0TmZmZWFEUy1DZjdxNHhFOHJ0aVcyYw?oc=5",
+     "source": "The Information",
+     "time": "11:46",
+     "note": "Amazon is blocking the agent on its properties."
+    },
+    {
+     "title": "OpenAI Develops Features to Counter Grok Bot, Mulls Response to Meta’s Muse - The Information",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHk4c2RWM2lxN3Blc2JIMFJ5YXZ1XzhIVVNxbWJpb181c0wyZjZLVkd2TE1nMDNlT0ZVUDZYU0hqdU1yR0NVTjEtVE56Wlh4MkVvTEFqb3Y1VnpKY1p2NnczRzVlOGFieV9LVy1WS3BmY1YtRjI0WEJ3am53Qk02YXhlQzJmbGlTTDN0OGJtWW5QWC1LRHduSnk4VjNtOXBNTG9xS25wQ0s0M0pXeGo2dHdTYTdXNExGTHB2cQ?oc=5",
+     "source": "The Information",
+     "time": "14:30",
+     "note": "OpenAI building anti-Grok-bot features; Muse response under discussion."
+    },
+    {
+     "title": "Muse connectors 🤖, Meta SAM 3.1 🖼️, Gemini hacks companies 🔓",
+     "url": "https://tldr.tech/ai/2026-09-21",
+     "source": "TLDR AI",
+     "time": "00:00",
+     "note": "TLDR's lead: Muse connectors and Meta SAM 3.1 shipped."
+    }
+   ]
+  },
+  {
+   "title": "AI power crunch and the new capital stack",
+   "signal": 65,
+   "summary": "Google agreed to fund around 96MW of new nuclear capacity at two Georgia plants as the FT pegs the US data-centre power gap at 'six New Yorks'. SoftBank's $50bn data-centre group slowed its IPO on AI-slowdown fears, even as SoftBank launched one of the biggest junk-bond deals on record (target over $11bn) to fund its OpenAI bet. Governments are responding: a US congressman wants a national data-centre strategy, an Australian state bans data centres from residential areas, and the WEF flags a $1tn unlock opportunity in the ~$7tn global buildout.",
+   "angle": "The AI buildout now runs on nuclear megawatts and junk-bond markets.",
+   "items": [
+    {
+     "title": "Google, Georgia Power Strike Deal to Boost Nuclear Capacity",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-21/google-georgia-power-strike-deal-to-boost-nuclear-capacity",
+     "source": "Bloomberg Technology",
+     "time": "23:40",
+     "note": "Alphabet funds ~96MW of added nuclear capacity via a Southern Co. subsidiary."
+    },
+    {
+     "title": "US data centres ‘are short six NYCs of electricity’",
+     "url": "https://www.ft.com/content/f29de45a-3d32-4d9f-90cd-615f7466c1de",
+     "source": "FT Technology",
+     "time": "16:01",
+     "note": "FT: 'short six NYCs of electricity' as demand outstrips supply."
+    },
+    {
+     "title": "SoftBank’s $50bn data centre group slows IPO",
+     "url": "https://www.ft.com/content/4a80f076-d1bb-4492-a854-0833d981d5f4?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:51",
+     "note": "Market fears over an AI slowdown and lacklustre debt-sale interest."
+    },
+    {
+     "title": "SoftBank launches one of biggest junk bond deals to fund OpenAI bet",
+     "url": "https://www.ft.com/content/4e7004b7-d262-40c8-b979-fdf7f237adda?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:59",
+     "note": "Targets >$11bn in dollar and euro bonds to fund the OpenAI investment."
+    },
+    {
+     "title": "Congressman Calls for National Data Center Strategy",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-21/congressman-calls-for-national-data-center-strategy-video",
+     "source": "Bloomberg Technology",
+     "time": "17:50",
+     "note": "Rep. Subramanyam argues state-by-state siting leaves communities bearing costs."
+    },
+    {
+     "title": "Sustainable AI data centers could unlock $1 trillion as global buildout nears $7 trillion: WEF",
+     "url": "https://economymiddleeast.com/news/sustainable-ai-data-centers-could-unlock-1-trillion-as-global-buildout-nears-7-trillion-wef/?utm_source=rss&utm_medium=rss&utm_campaign=sustainable-ai-data-centers-could-unlock-1-trillion-as-global-buildout-nears-7-trillion-wef",
+     "source": "Economy Middle East",
+     "time": "11:44",
+     "note": "WEF: sustainable practices could free $700bn-$1tn of ~$7tn buildout by 2030."
+    },
+    {
+     "title": "Australian State Bans Data Centers From Residential Areas",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-22/australian-state-bans-data-centers-from-residential-areas",
+     "source": "Bloomberg Technology",
+     "time": "00:17",
+     "note": "New rules force data centres to bring their own renewable supply."
+    }
+   ]
+  },
+  {
+   "title": "British Columbia sues OpenAI over mass-shooting warning failure",
+   "signal": 55,
+   "summary": "Canada's British Columbia filed suit in California arguing ChatGPT logs should have alerted police after an account linked to a mass shooting in the province was flagged. Whatever its merits, the case pushes AI liability from speculative to concrete: providers are now accountable for what they could have inferred from their own systems.",
+   "angle": "The first big test of 'failure to warn' liability for a frontier lab.",
+   "items": [
+    {
+     "title": "OpenAI sued by Canadian province over role in mass shooting",
+     "url": "https://www.ft.com/content/30d2f29b-e750-4a90-9e8d-b1a7f14e4908?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "01:28",
+     "note": "BC claims OpenAI failed to act after the attacker's account was flagged."
+    },
+    {
+     "title": "British Columbia Sues OpenAI Over Canada Mass Shooting Warning Failure",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-21/british-columbia-sues-openai-over-canada-mass-shooting-warning-failure",
+     "source": "Bloomberg Technology",
+     "time": "19:40",
+     "note": "Suit filed in California over the mass shooting earlier this year."
+    }
+   ]
+  },
+  {
+   "title": "UAE: agentic AI enters public services; cyber and quantum push",
+   "signal": 55,
+   "summary": "The UAE government partnered with Dell to advance agentic AI in public services, and Meta joined the UAE Cyber Security Council to launch Wearables Studio UAE, the nation's first AI-wearables talent programme. TII's Abu Dhabi Quantum Optical Ground Station pushes secure communications into space, while CrowdStrike warns AI agents are creating a new cyber battleground for GCC organisations.",
+   "angle": "Abu Dhabi pairs agentic-AI adoption with a quantum-hardened security posture.",
+   "items": [
+    {
+     "title": "UAE Government Partners With Dell Technologies to Advance Agentic AI in Public Services - TechAfrica News",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcXU4RnJSVkllTTZ1MWdXa0VmYUR5Nkc4ODhUZ0ZNUHgxakRQS2g5MU1vcVVjQkV1YS01MXI0cHRLSnIxVlM4Si1aems4dWFpREdKWGNvYnFpT2Y1MGppdnA4alkzeWZzMndrSGNGVktiQ1ZOaVJjWkk5bTdJeGZmQzJrUnFCZnZHZUJtX0FDdGp6QTdOcTRqS09MaWhhRnM?oc=5",
+     "source": "TechAfrica News",
+     "time": "07:59",
+     "note": "Dell partnership targets agentic AI in government services."
+    },
+    {
+     "title": "UAE Cyber Security Council and Meta launch first-of-its-kind Wearables Studio UAE",
+     "url": "https://economymiddleeast.com/news/uae-cyber-security-council-meta-launch-wearables-studio-uae/?utm_source=rss&utm_medium=rss&utm_campaign=uae-cyber-security-council-meta-launch-wearables-studio-uae",
+     "source": "Economy Middle East",
+     "time": "12:27",
+     "note": "First-of-its-kind AI wearables innovation and talent programme."
+    },
+    {
+     "title": "UAE heads into space for quantum security",
+     "url": "https://www.agbi.com/cybersecurity/2026/09/uae-heads-into-space-for-quantum-security/",
+     "source": "AGBI",
+     "time": "00:00",
+     "note": "TII leads the Abu Dhabi Quantum Optical Ground Station project."
+    },
+    {
+     "title": "CrowdStrike warns AI agents are creating a cyber battleground for GCC organisations - Computer Weekly",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWl9IbnFqbzdoNm1kZGg5dElBZ3VmUXpfcEE5eDZxQ2c5dDlJRkZGT0FqQlUtN2g0dEV5R3ZickttaXFxVUxEa2p4Nk5UWUZTNTkyTWJKXzRlNjJuZHNFVlYzV2V6VDBrTk1RSGNoNXpJcENGbEItN25RcUtITE1BTENSdVBZR1RtMWxOZk1paHBSbnVNdlVKZEJuQlZVZXFPQkZScmZibW9tTzVpN3E4WW5Jb3R3blNYdzRob1hsaU4zc19xdUNKRw?oc=5",
+     "source": "Computer Weekly",
+     "time": "11:16",
+     "note": "Agents expand the GCC attack surface, per CrowdStrike."
+    },
+    {
+     "title": "A step further in collective licensing for AI training in the UAE - The Global Legal Post",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2VuRkttSFYtWlpwOEhJZjNoZzVJaXhlVmcycVZhZmFMYnA3V0hXYnBmVWxwVE00QmtwZW5NTjViUUwwMGlrSVlONDhPQzhFbG1HQ3NoMmNsamkwdFUwWm02UHRSVjdfM2tEYTJJVEdocDhnNjBpdTR3MlBPV1hVVmRfZ3JxOTJGZnpseDBBUWJoLW5vSkU0cUU2NVk4anp3Y1RDUElVeWVMcl92b0pHanlUdw?oc=5",
+     "source": "The Global Legal Post",
+     "time": "09:46",
+     "note": "UAE moves forward on collective licensing for AI training data."
+    }
+   ]
+  },
+  {
+   "title": "Saudi Arabia presses its data, AI and physical-AI agenda",
+   "signal": 52,
+   "summary": "Saudi officials are pushing the Kingdom's data-and-AI leadership story as Echelon and Applied Intuition partner to scale physical AI across the country and PNY Technology teams with MTC to expand AI computing. Rest of World notes Nvidia's free model could pull the UAE closer to Washington - a read on how US AI exports are reshaping Gulf alignment.",
+   "angle": "Physical AI is Saudi Arabia's wedge: simulation-to-reality rollout, not just models.",
+   "items": [
+    {
+     "title": "Saudi Arabia advances data and AI leadership, promotes responsible use for humanity - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3N5eDZNeGRDS0MzZnVlVllLeFd6bi1mRFRLdXFHNGt0ZkRGZEo5Ni12YXlwWWVBbnRDTGFGTWRfNlk3U3Q0MlJfQjRNTEwyS2RoSlFFNWc3cHdpWUR2dzhYWlhqenJ3MVE5eVRhSzkwYWZ0THZMSTFMWnBLWnJ5Q040SGRBb1AxbmVSbkNjb2R3ajktODNCaXl0TzVTTXRnNVRPcEFHZnNEdW8wQWIwc0FFM0t6NE9EbkRiOF8zOTBuREJ3TVhj?oc=5",
+     "source": "Arab News",
+     "time": "23:08",
+     "note": "SDAIA-aligned messaging on responsible data and AI leadership."
+    },
+    {
+     "title": "Echelon and Applied Intuition Partner to Scale Physical AI Across Saudi Arabia - Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWkE4WkYxMWxrZUl3UWYzUk9YSDNpeWpmWVpmby1hRFBQSTRCMGNVRHVYVEtNdUgwZ1o4R0R5ZUVmMUxncFg5Slo4UU5uSURJQTV5bS11QzF0aFBLa29XOTlZbTRReEZucTlHNlhTYWNNeEY1NTZJc3p3dXB3YnBDc0RQX1NKdTZKZmFPMTBWRjc2Y3JfblZ5Mng0NkQ0ZWVwMmdIUmRTVHpqNTJzMHExeUV5QmF1Y21xUTQtQ0plZEE1OFZ0VDNCdVVoSDg0akg3?oc=5",
+     "source": "Business Wire",
+     "time": "15:34",
+     "note": "Partnership to scale physical AI deployment across the Kingdom."
+    },
+    {
+     "title": "PNY Technology, MTC partner to expand AI computing solutions in Saudi Arabia - Al Arabiya English",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcGhFRlVjWFdNVkd1bWFQamZERXRHX2R3ekJfOF93eTY3dEMwaTRFNVgwSkJHeTIxNkxUTkNCVXRnZTNTSmotRG1RYlZjcnpidUxqYnRlRUNTU1V5VldfcnlNR1VtS2VUU21SVE1DUTBmMFl5SFdSMXVNbVh5d2JJeFgtSHFvMDY4WDFYV05iX2pHdU5fMFR1VUg0bXZPbW5NZVFQaEU1b0h2Rnl5bS1kTHhrUHFCSktXX2NQbHFBZ2tXUXAyVkZianQ4YWNBUkHSAdQBQVVfeXFMT3ZERDJaSy1ESmprVHpqbE9QUEFkazR1U3p0Zk82RnFMY21pc1QzZGM1LVdJLUI0cE5JWmhrZUpJU3RIMkczMFBSdWZ1dEFETGk3ZUx2R0NZOU1zc1pTLWt1Rlh1eFFMQmFob1ZiTGdlbl94TGE5MVFULXFYU05EUVhNSHRxVlRpZDVNTnhiVVZfS3JyazJhVVNrS1JpSllIbzlWV2FFWkd1eEpWSDY3cWd5cFBma1UxbGF5TFNwR1dhZERfcmVCS0EyXzdTX29JTW03VTg?oc=5",
+     "source": "Al Arabiya English",
+     "time": "11:30",
+     "note": "Agreement to expand AI computing solutions in Saudi Arabia."
+    },
+    {
+     "title": "Nvidia’s free AI model could push the UAE closer to the U.S. - Rest of World",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92R1BsTElLNzZySjA1eUl5ajFZUW9vS3YyQXh0dWVDMVZaTk1paFNPT3ZGSmFXQVJrU1pWWWhRTURuM25vSFFMWVZhU0E4SFBmVlhzRHBnVmRCQVpKUDA3OV9lRWhId2t1Y2l5V2stVQ?oc=5",
+     "source": "Rest of World",
+     "time": "11:29",
+     "note": "Geopolitical read on Nvidia's free-model strategy and UAE-US ties."
+    }
+   ]
+  },
+  {
+   "title": "Frontier ecosystem: Grok on Bedrock, stress tests, agent memory",
+   "signal": 50,
+   "summary": "xAI's Grok 4.6 landed on Amazon Bedrock, widening enterprise distribution; The Information reports OpenAI and Anthropic nearly signed a deal to stress-test each other's models. OpenAI also shipped a maths advisory group, a GPT-6 Astra customer story and V7 agent-memory tooling, while Luma's CEO argues world models need more intelligence. The coupling of models and agents for enterprise work is accelerating.",
+   "angle": "The frontier is distributing: model access is becoming a procurement decision.",
+   "items": [
+    {
+     "title": "xAI’s Grok 4.6 is now available in Amazon Bedrock - Amazon Web Services (AWS)",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHdPbU5wTkQ2X3ZxSUdFX1Z1dHMtTlA1OGhBTTJDYUg0OHFhY0JRSUxvZldPQnlYNEwyR1BOUkhTM01NOVh1dklFUXRZelVZOGVwX3BjWXVOWDc2Y2s2cjRKdGsyR0daYXA3TFVrZFRkdUtEX2h6eDhKZnkyZWpnRnY3NWs4eXhaRGhGLWt2TjhwUncyYjVKaTVENA?oc=5",
+     "source": "Amazon Web Services (AWS)",
+     "time": "18:30",
+     "note": "xAI's Grok 4.6 is now available through Amazon Bedrock."
+    },
+    {
+     "title": "OpenAI and Anthropic Neared Deal to Stress-Test Each Other’s AI - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDRwaDNUMzFDNEdibnZnNE9OYnpoeVIzQjhlQ1BtUmQzU3BoM0ZOM3JUZXEzTDdMcHpiQ05RUjNBRGJ0ZzBQbFRrQXdJWkxaVzZLeVo0QTN0ZEU3MjVNblItQ3J0WGI2dV9HUEpUU2FsU1B1T0hKMWdBTm9FZDhoTnRYYW1VTGFCQTFzNU9xLUVmRmN1?oc=5",
+     "source": "The Information",
+     "time": "13:55",
+     "note": "Cross-lab safety stress-test deal nearly happened earlier this year."
+    },
+    {
+     "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+     "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+     "source": "OpenAI News",
+     "time": "12:00",
+     "note": "Small-business video ads shipped in a day with GPT-6 Astra."
+    },
+    {
+     "title": "Advisory Group on Mathematics and Artificial Intelligence",
+     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+     "source": "OpenAI News",
+     "time": "12:00",
+     "note": "Independent group guides review of emerging AI results."
+    },
+    {
+     "title": "How V7 gives AI agents institutional memory",
+     "url": "https://openai.com/index/v7",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "GPT-5.6-based tooling turns company files into agent memory."
+    },
+    {
+     "title": "World Models Need More Intelligence, Says Luma CEO Amit Jain - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZU1iWm9VcklhdjM4Z01oVUNtSzFjMGxaQ0oyX0NUTThFT1JobEdkRGRUZl9PRGI3UHdrOThMeVY5QzFlSlBfejctRm9lbk04NjNIbnlxdzdBeWh1ZmtFazRDTHJZaThuS3UtVnpfYmNkUG1pY0tFblg5bzViMjh2ZDJraU5JYzEtbEgweml6LTRoOUhlX3VXMDR3?oc=5",
+     "source": "The Information",
+     "time": "22:46",
+     "note": "Luma CEO Amit Jain on the limits of current world models."
+    }
+   ]
+  }
+ ]
+}

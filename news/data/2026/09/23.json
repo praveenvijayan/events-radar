@@ -1,0 +1,345 @@
+{
+ "date": "2026-09-23",
+ "generated_at": "2026-09-23T02:00:54.634662+00:00",
+ "themes": [
+  {
+   "title": "Frontier price war: GPT-6 Sol/Luna vs Opus 5.5",
+   "signal": 75,
+   "summary": "OpenAI and Anthropic both shipped cheaper frontier tiers within hours: GPT-6 Sol and Luna rebalance capability against cost, and Claude Opus 5.5 delivers near-Fable-5.1 performance at 40% lower running cost. The competitive axis has shifted from raw capability to cost-per-outcome as both labs chase usage growth.",
+   "angle": "The inference-economics story behind the model headlines - a P&L lens most briefs ignore.",
+   "items": [
+    {
+     "title": "Introducing GPT-6 Sol and Luna",
+     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+     "source": "OpenAI News",
+     "time": "18:00",
+     "note": "Two new GPT-6 models aimed at everyday work, trading capability and cost differently."
+    },
+    {
+     "title": "Introducing Claude Opus 5.5 Announcements Sep 22, 2026 Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Opus 5.5 matches Claude Fable 5.1 on most work and costs 40% less to run than Opus 5."
+    },
+    {
+     "title": "Anthropic and OpenAI release cheaper models as price war intensifies",
+     "url": "https://www.ft.com/content/0e50a3c6-9731-4b29-a21e-4e0ff89a595e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:31",
+     "note": "FT frames the releases as an escalating price war, not just product drops."
+    },
+    {
+     "title": "Cheap, powerful AI models are increasing usage, a bullish sign for the AI boom",
+     "url": "https://www.axios.com/2026/09/22/cheap-powerful-models-new-ai-frontier",
+     "source": "Axios AI+",
+     "time": "18:00",
+     "note": "Axios argues cheaper models de-risk the demand side of the AI boom."
+    },
+    {
+     "title": "Better prompt caching for GPT-6",
+     "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+     "source": "OpenAI News",
+     "time": "21:00",
+     "note": "OpenAI ships prompt-caching improvements to cut latency and cost at scale."
+    }
+   ]
+  },
+  {
+   "title": "Trump at UN: 'super intelligence', no global leash",
+   "signal": 72,
+   "summary": "At the UN General Assembly Trump moved to rebrand AI as 'super intelligence', rejected a 'globalist scheme' to control AI, flagged possible US Justice Department limits on AI firms, floated an AI Force, and the US-China summit is weighing a Cold War-style crisis hotline for AI.",
+   "angle": "US policy posture is the story the GCC must plan around - no binding global rules are coming from Washington.",
+   "items": [
+    {
+     "title": "Trump says he’s renaming AI to ‘super intelligence’ - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQckMxTlUwUEdVMk5jNEVzdGt3aS1FUHhwS2JwQThYLWNHaUpCbnI1T1dLcWxxVXkzTVlOVkwwbEE5S3UyYmhXbHBjYWkza0x2TTZ0ZEFoMWVNaHRuaWNwLWpmT2JzY09nY3pybDlzbGlNR3YtTGpaMC1LaDQxdWdZR2ZwQmxtaGUwSk5iRjYxRlBFTXNvUnVXWHgwY18xV3py?oc=5",
+     "source": "The Washington Post",
+     "time": "23:48",
+     "note": "WaPo reports the president will formally rename AI in US documents."
+    },
+    {
+     "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
+     "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:42",
+     "note": "FT: Trump says the US leads China 'by a lot' and will keep it that way."
+    },
+    {
+     "title": "Trump says US Justice Department could rein in AI companies if needed - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkFwcnFpOFFycEx0SEwwNUxZazVuTTh6aUNKZ0pUUHlPU2toMkk2WXAyc3RkYTdKWlVsTEVoTmR5VGJaZlhaU21OdHp2aXRWZ0VGNGtJdERKVGUtWXBiMWdKRm9JY04zTnZ3YXp5akdBU2RsS0tHZG9ESTVmR0hOWUYyaWpjYVNCcFF3c3RBVk53NC1SanNTaXpxOHdMei1SNUJPWnhLLTkzU2VOaUE?oc=5",
+     "source": "Reuters",
+     "time": "22:32",
+     "note": "Reuters: DOJ reserve powers floated if AI companies step out of line."
+    },
+    {
+     "title": "Trump proposes an AI Force to protect the U.S. lead in AI - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91OW1IRDNfVDlQZ3NLMTNrZkVUZW85eS0xV1JiZ0ZzMHJ5UDRJaWR5eUtTUHhvd3ZoZzVwZTR6NGxCcmpGdTRrd0t6Zk1jSzBXTW5WTFdIWVV5YW1iWVdDQnBaWEI?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:49",
+     "note": "The Rundown flags a proposed US AI Force."
+    },
+    {
+     "title": "U.S.-China \"red telephone\" could bring a Cold War guardrail to AI",
+     "url": "https://www.axios.com/2026/09/22/trump-china-ai-hotline-xi-summit",
+     "source": "Axios AI+",
+     "time": "09:00",
+     "note": "Axios: US-China weighing an emergency AI crisis hotline ahead of the Trump-Xi summit."
+    }
+   ]
+  },
+  {
+   "title": "Global AI oversight coalition grows; UAE, Bahrain sign on",
+   "signal": 68,
+   "summary": "The UAE and Bahrain joined a 20-country call for stronger oversight of advanced AI, including mandatory safety testing before deployment and a possible global coordinating institution. OpenAI meanwhile published its own principles for third-party safety assessments, as analysts argue $7trn of value makes safety secondary to speed.",
+   "angle": "GCC as a first mover on AI rules - the regional angle that sets The AI P&L apart.",
+   "items": [
+    {
+     "title": "UAE, Bahrain join 20-country call for global AI oversight, mandatory safety testing",
+     "url": "https://economymiddleeast.com/news/uae-bahrain-join-20-country-call-for-global-ai-oversight-mandatory-safety-testing/?utm_source=rss&utm_medium=rss&utm_campaign=uae-bahrain-join-20-country-call-for-global-ai-oversight-mandatory-safety-testing",
+     "source": "Economy Middle East",
+     "time": "15:03",
+     "note": "Economy Middle East: 20-country initiative wants pre-deployment safety testing and a global standards body."
+    },
+    {
+     "title": "Priorities and principles for effective third party assessments",
+     "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "OpenAI details how frontier-model safety evaluations should be run independently."
+    },
+    {
+     "title": "With $7 trillion on the line, AI safety may always take a backseat to market domination",
+     "url": "https://www.axios.com/2026/09/22/ai-safety-vs-ai-speed",
+     "source": "Axios AI+",
+     "time": "09:00",
+     "note": "Axios: industry insiders say the supremacy race undercuts safety pushes."
+    },
+    {
+     "title": "Is it ‘killer robots' or ‘super intelligence'? At the U.N., leaders see both - NBC4 Washington",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM3VnR201ckVSeEpsbmdkdWE3Nk4zc2RDYnI4U2JkQ0p4b2FaSWVEakt4SWpWMUY3UnBnbXBpZ05CNUdkSHlnZnk3Q3FZZElwTUF3SUFaRmNMOFMxdzlWRTRaVFZ1d1Byamg5dXcyTVdidmlsWEl6QVRDaWtnakdOUUsyQW1xWDFfVUU0Q2pPTHppRTRKa09OQ0RCTzhHWDlxY2ppUm9CQzVRTTlmN2xBdEVkb0kyV0JlNVpCX1prdHhDYWpST0t5TdIByAFBVV95cUxPM3VnR201ckVSeEpsbmdkdWE3Nk4zc2RDYnI4U2JkQ0p4b2FaSWVEakt4SWpWMUY3UnBnbXBpZ05CNUdkSHlnZnk3Q3FZZElwTUF3SUFaRmNMOFMxdzlWRTRaVFZ1d1Byamg5dXcyTVdidmlsWEl6QVRDaWtnakdOUUsyQW1xWDFfVUU0Q2pPTHppRTRKa09OQ0RCTzhHWDlxY2ppUm9CQzVRTTlmN2xBdEVkb0kyV0JlNVpCX1prdHhDYWpST0t5TQ?oc=5",
+     "source": "NBC4 Washington",
+     "time": "23:05",
+     "note": "NBC4: UNGA leaders split between existential alarm and hype."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI localization: Arabic LLM, deepfake defense, talent",
+   "signal": 62,
+   "summary": "Regional AI capacity is building fast: a Saudi firm is developing a 428B-parameter Arabic LLM on MiniMax infrastructure, Dubai released an open-source deepfake detection tool, G42 affiliate Presight partnered for AI-city products, and OpenText data puts 40% of Saudi organizations at AI-ready. The talent shortage remains the binding constraint.",
+   "angle": "Sovereign Arabic AI is moving from ambition to roadmaps - a Gulf-first story.",
+   "items": [
+    {
+     "title": "Saudi Firm Humain Builds 428B Arabic LLM on MiniMax [2026] - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLVG5hOVhFS3VZMno2TEgtbDBhakRFS3JRRG00cjdHdkNuRWZhSF81cTBaOHYwRml2QXNQTlgwMnlmbWxSRTJRYWlQUFY4OGYxRVpSZ0pRX2QzSTF4ZUk3bU1JOUVYM0s4R0tVdDF4dXA?oc=5",
+     "source": "shattered.io",
+     "time": "10:29",
+     "note": "Per shattered.io, Saudi firm Humain is building a 428B-parameter Arabic LLM on MiniMax."
+    },
+    {
+     "title": "Dubai Unveils Open-Source Deepfake Detection AI - BankInfoSecurity",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQREJIQVBfdkVMX21kdFUyZkxrYm1mcDhnZzlYQXhhZDNpQTJjTDJxalVQVEIzWlRLc2swV1pfN2N5VFVDSUNYbXB1aHZzRUtfMnozMWROcXIybkgtMkIxOHQ2NUdOd0UzZGQ2ZUpXU19aTjRXLVZwd0F6QTg4SzNJZGQxaTZYQmNaNlVPUzZmNGY1dw?oc=5",
+     "source": "BankInfoSecurity",
+     "time": "17:43",
+     "note": "BankInfoSecurity: Dubai released an open-source deepfake detection tool."
+    },
+    {
+     "title": "The Middle East’s AI race has a people problem - computerweekly.com",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1lycnhybEVwRGNZdVpPNndRLU43WDNUSEM4VFZqYmVid1dfNTk3ektEN1JwOWhwcnBpVEJjTWhKSHU2RnA3WGM3cXV5TjhHQ3RqT0tVXzc3NVU5V2FBVUFlQkhtVHN0cktpM1VDclg1YVpVR28zZVNHQUJMcmVCQmVhWkNEX1FNaDFyWGpjNll6ZGE0WVE?oc=5",
+     "source": "computerweekly.com",
+     "time": "11:10",
+     "note": "ComputerWeekly: GCC AI ambitions hit a skills bottleneck."
+    },
+    {
+     "title": "40% of Saudi organizations are AI-ready and qualified: OpenText says - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOODYyaFp0OHp0R2pUZWFUM196djVCSjZLTEZUY1dIdVJnM3lqWXRiR3czXzVESk9rUnRoSENJRHBGdjhJcjdGeGlRVDRXdHZGaW14enR6SkNKN29tRnJMc0VYYWVYQjFxdzAxWFVCeHVHcFRsSzkzRzJLZkRRR01CX0dnYUhVc0dOOTFjNF9UdkxOckRPQlJBd09ZSF9NNnVwMnVSRkhuU3JNTjNoRHc?oc=5",
+     "source": "Arab News",
+     "time": "10:47",
+     "note": "Arab News cites OpenText: 40% of Saudi organizations are AI-ready."
+    },
+    {
+     "title": "Dtonic partners with G42 affiliate Presight to target global AI city market - 디지털투데이",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzNPUU5HMEE4eDVQdE9WX09NUnhBLWpaOXRlNFdyaExvMjVvakVZY0k1d1prWXNRaHpfbnNHWnhPT1Z2ZnIzWmtUbE04SjFUY3NhbW96TnZhUEUzWkEyMlZsaGRaXzNFY1ZQb3pac1pCMG1vbzBGT0JPclZudDdJZ2pMZHNUQVlYSmlrUHNhbmJDVVNVZ1E5SlNmRkpoWHlhX1lTMHRuaWRnT0E?oc=5",
+     "source": "디지털투데이",
+     "time": "12:28",
+     "note": "Presight (G42 affiliate) partnering on AI city products; also picked up by multiple Korean outlets."
+    }
+   ]
+  },
+  {
+   "title": "Software budgets under siege from AI upstarts",
+   "signal": 60,
+   "summary": "New data shows Anthropic, OpenAI and other AI upstarts are taking share of corporate software budgets, and incumbent software firms are discounting AI products to keep customers from defecting. Microsoft is readying an AI 'super app' while boosting Copilot discounts.",
+   "angle": "Incumbent software pricing is bending - a direct P&L signal for enterprise CIOs.",
+   "items": [
+    {
+     "title": "New Data Show Anthropic, OpenAI and Other Upstarts Are Eating into Software Budgets - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenQ5eWJwZmw0aEtNdXNZUlZDQXNtRHRMemYyWjdrWGM1cUVFZU82bTlwRE91ZUtGLVRkMHVOMlp1QktDR2NMek9GWFFrcEo3R3pjUVFVYXBTTFhhb3JjREV0X3VDX0tGZFJCVUJvNGhoRjlfUU9xcnVYUWhPWXVsakNtVWZ1Z0NneWczUkVMUU5xTEVsb29US2JPQTd0aFhvbFVrSDJ5M1l6X2tWbVdlRGNMQzFOZUEy?oc=5",
+     "source": "The Information",
+     "time": "17:38",
+     "note": "The Information: fresh data shows AI labs capturing software spend."
+    },
+    {
+     "title": "Software Firms Discount AI to Keep Customers From Anthropic, OpenAI - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFE0dDlzUktaU2FTcDY5YXFLU0xkZjBhWjJqcmtwQ1lSWjZjVExfanFaaHJlSXktNmkxTnduaU9FYk9FTElGaVV3eTQ4ZUJZQUsyWGRkNm8yb0NoekpZaHBfQUVQazRnZkd6ejVVYXdUUXg2a1NoUHdhMDlBZV9oRWFwSGpXWUhrNGNzWnFnNktaaElfbHg3V2Q0dC1tY1E?oc=5",
+     "source": "The Information",
+     "time": "13:01",
+     "note": "The Information: incumbents cutting AI prices to stop churn to labs."
+    },
+    {
+     "title": "Exclusive: Microsoft to Boost Copilot Discounts as It Launches AI ‘Super App’ - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGJPWjhPUUkxZ2lXUFo1NGR5dGdJNUhqOTU0WTJmeThNbUpaOWxOaDhWRHlRdzVCcHYweXlZTGdFYXNaSXpaazlPc0NKVy1HcnNZbzVoNWN2bGEzQ2VoTG5LTHlCZjFWajVzeEZMTkM3TF8wRHF3cjhuX194R3JXVHl6ZTJSSFY2WDhwYm56WDNIeDE0aVdiRUNCa2t4R1BMUld5RWxYZzdFdw?oc=5",
+     "source": "The Information",
+     "time": "18:41",
+     "note": "The Information: Copilot discounts tied to a coming Microsoft AI super app."
+    }
+   ]
+  },
+  {
+   "title": "Amazon vs Meta: the AI shopping standoff",
+   "signal": 58,
+   "summary": "Amazon has blocked Meta's Muse assistant from its shopping surface while Shopify reportedly stepped in, signaling the first major platform-versus-platform battle over agentic commerce. Separately, Singaporeans want AI shopping agents but with the strictest guardrails of any market studied.",
+   "angle": "Agentic commerce gatekeeping is beginning - who controls the shopping agent channel?",
+   "items": [
+    {
+     "title": "Amazon blocks Meta’s Muse in dispute over AI shopping access - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Qa1h0c0ZQZTFvRHhDY0N6NGlKY3ZxZHNwaXNlRXpuRlljNE1pSERMWWhRMUhKbUJfV0xVS0RueHFFa2NZejluVlk0R2NFUWV6SnJHVFJDYWVxR2VJQU1NR3BoUG9wVXFRR1RWaTl1QXlkZ0pnNFZzMQ?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:49",
+     "note": "The Rundown: Amazon cut Meta's Muse off from AI shopping access."
+    },
+    {
+     "title": "Singapore Wants AI to Shop But With Strict Limits, Study Shows",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-22/singapore-wants-ai-to-shop-but-with-strict-limits-study-shows",
+     "source": "Bloomberg Technology",
+     "time": "21:00",
+     "note": "Bloomberg: Singapore open to AI shopping agents but wants tight guardrails."
+    }
+   ]
+  },
+  {
+   "title": "AI infrastructure squeeze: energy, chips, data centers",
+   "signal": 55,
+   "summary": "AI's power appetite is reshaping agendas: China is accelerating nuclear fusion work to feed AI energy demand, US utilities face regulatory pushback over data-center profits, Alibaba unveiled a new AI chip with data-center expansion, and SoftBank-backed SB Energy is prepping an IPO as it pivots to data centers.",
+   "angle": "The physical layer of AI - energy, chips, land - is where the constraints (and the money) are.",
+   "items": [
+    {
+     "title": "AI energy demand accelerates China’s quest for nuclear fusion",
+     "url": "https://www.ft.com/content/e6f2c05a-ea91-458c-8842-25913d3e4cac?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "02:24",
+     "note": "FT: China's drive for self-sufficiency pushes fusion R&D."
+    },
+    {
+     "title": "US utility profits come under fire over data centre demand",
+     "url": "https://www.ft.com/content/a7aa2544-c328-40ef-87e2-488975a79f57?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "FT: politicians question utility returns from the data-center buildout."
+    },
+    {
+     "title": "Alibaba Unveils New AI Chip And Data Center Expansion Plan - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVkczMXRMNmM4NmRlMXJJaEhVMEpsaGM2cGcxeUxfUmVsOWdYeHlEV3FRd3R4aXE5M1F1dURXcHUxTXRVRWlEd2p3TVZWMmNaMmMxdVZjZmZLWUlMN0ZwS3NQV2NFZ0psdkNMVzJjZnpDRl9RamY2VTIxR3B3N0REOWRjemtUdDdQdzcwbFBLc1hlUFpoQ092NW5hOA?oc=5",
+     "source": "The Information",
+     "time": "07:27",
+     "note": "The Information: Alibaba's new AI chip and data-center push."
+    },
+    {
+     "title": "SB Energy Plans to Start IPO Marketing After SEC Review Finished",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-22/sb-energy-plans-to-start-ipo-marketing-after-sec-review-finished",
+     "source": "Bloomberg Technology",
+     "time": "23:19",
+     "note": "Bloomberg: SoftBank-backed SB Energy, now building data centers, nears IPO marketing."
+    }
+   ]
+  },
+  {
+   "title": "Markets: AI FOMO is back",
+   "signal": 52,
+   "summary": "The Nasdaq 100 hit a fresh high as 'AI FOMO' returned to markets. Barclays raised its 2026 S&P 500 earnings-per-share forecast to $365, crediting AI investment for 31% EPS growth, and a WEF survey of chief economists sees AI investment supporting a stable or improving global outlook.",
+   "angle": "Quantified macro case for AI spend - numbers GCC allocators can trade on.",
+   "items": [
+    {
+     "title": "Nasdaq 100 rises to new high as ‘AI Fomo’ returns",
+     "url": "https://www.ft.com/content/2c60812b-77b4-4de5-a276-5e3eb2ceb5c3?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:28",
+     "note": "FT: tech-heavy index recovers from the summer sell-off."
+    },
+    {
+     "title": "S&P 500 earnings forecast raised to $365 as AI drives 31 percent growth despite rate hike outlook",
+     "url": "https://economymiddleeast.com/news/sp-500-earnings-forecast-raised-to-365-as-ai-drives-31-percent-growth-despite-rate-hike-outlook/?utm_source=rss&utm_medium=rss&utm_campaign=sp-500-earnings-forecast-raised-to-365-as-ai-drives-31-percent-growth-despite-rate-hike-outlook",
+     "source": "Economy Middle East",
+     "time": "13:28",
+     "note": "Barclays via Economy Middle East: 2026 S&P 500 EPS seen +31%, AI-led."
+    },
+    {
+     "title": "56 percent of chief economists see stable or improving global outlook as AI investment rises, WEF says",
+     "url": "https://economymiddleeast.com/news/56-percent-of-chief-economists-see-stable-or-improving-global-outlook-as-ai-investment-rises-wef-says/?utm_source=rss&utm_medium=rss&utm_campaign=56-percent-of-chief-economists-see-stable-or-improving-global-outlook-as-ai-investment-rises-wef-says",
+     "source": "Economy Middle East",
+     "time": "10:00",
+     "note": "Economy Middle East: WEF survey sees AI investment aiding the outlook."
+    }
+   ]
+  },
+  {
+   "title": "Autonomy moves into enterprise and banking",
+   "signal": 50,
+   "summary": "Autonomy is crossing into physical and financial operations: Mercedes-Benz will integrate Wayve's autonomous driving into a production model within two years, Honeywell executives describe the Middle East shifting from automation to autonomy, and Dubai's MEBIS banking summit put AI at the center of the sector's future.",
+   "angle": "From software to steel: autonomy is now an operations decision, not a tech demo.",
+   "items": [
+    {
+     "title": "Mercedes-Benz aims to close AI gap with China rivals through Wayve deal",
+     "url": "https://www.ft.com/content/4ed7bccb-7d02-485f-aed6-9e7b0244ac78?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "13:00",
+     "note": "FT: Wayve's system to ship in a Mercedes model inside two years."
+    },
+    {
+     "title": "Honeywell’s George Bou Mitri on the Middle East’s shift from automation to autonomy - Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU1lCVTdfYktrTDBkR0F3Nl96QkpSeVJpVC1uZjd6dmljeWlqT3JTMThudWFoRUI4Q1RwQm9pbzhGRjB3dVQ1S01Qb3NTdUNOR1ZrM2dJUkFfOGtqN0NSYkl5WlZNMFI5NmVFdGxQb3FxVW9SSjBTaFRRWjkwQ2dCRHVOd2JmTGpHOHVmQVRHUUxIVThDdnA0U3RxSjNnWHN5QmZEdXRqV2NXQVhvTjIxTWl4cmdFcGtWR29V?oc=5",
+     "source": "Gulf Business",
+     "time": "00:02",
+     "note": "Gulf Business: the region's industrial shift toward autonomous operations."
+    },
+    {
+     "title": "MEBIS 2026 Concludes in Dubai as AI Takes Centre Stage Across the Future of Banking - FF News",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTU1QSkVUT3pETGZHMlFYMFZUekN4R1p2SHhyOFNqYlZZaW9SekhuOEZXZjJ4U1BwWTcxMHl1SjlNWDA3OFYyTDdpeV82X3NxZDU1TmRKNnBnMXNrd2NCWDJNZ1JiLWYyc084b29VVllSX1h4a0QyYU94U194aS04Z2h0dWFSOHdPelNwUmhGYVd3cjgwcXQySndDREVSQUM0MUMybDRqbHBtajA?oc=5",
+     "source": "FF News",
+     "time": "19:45",
+     "note": "FF News: Dubai banking summit closes with AI at the center."
+    }
+   ]
+  },
+  {
+   "title": "AI workforce strain: burnout, retraining, new paths",
+   "signal": 48,
+   "summary": "The human side of the boom is showing cracks: top researchers at Aisi, OpenAI, Anthropic and Google DeepMind report burnout over building powerful AI, while a16z launches an AI school for recent grads and dropouts, and BBC reports AI creating rather than cutting jobs in Newport.",
+   "angle": "Talent risk is operational risk - boards should track lab burnout and the new AI-talent pipeline.",
+   "items": [
+    {
+     "title": "AI staff complain of mental toll over fears of threat to society",
+     "url": "https://www.ft.com/content/60870960-f433-48ca-bc2c-708686a69ae7?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "11:27",
+     "note": "FT: researchers at leading labs cite burnout and stress."
+    },
+    {
+     "title": "Andreessen Horowitz Launches AI School as a College Alternative",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-22/andreessen-horowitz-launches-ai-school-as-a-college-alternative",
+     "source": "Bloomberg Technology",
+     "time": "13:00",
+     "note": "Bloomberg: a16z program to train young AI builders."
+    },
+    {
+     "title": "Artificial intelligence 'creating, not cutting' jobs in Newport - BBC",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16MTg3M0oyQ2pGdFUyWmRKVjB5eHdSV3IwY05TaGI3UW1oZmNoMFk5anJ0em5tNmx6enJuT09Oblo4MjVGTTFWRGJxdm91QlhRaGZaUlVUSW5SVGs?oc=5",
+     "source": "BBC",
+     "time": "22:02",
+     "note": "BBC: local evidence of AI adding roles."
+    }
+   ]
+  }
+ ]
+}

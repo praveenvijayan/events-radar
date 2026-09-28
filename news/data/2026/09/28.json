@@ -1,0 +1,258 @@
+{
+ "date": "2026-09-28",
+ "generated_at": "2026-09-28T02:00:32.882118+00:00",
+ "themes": [
+  {
+   "title": "AI safety hits Washington: Amodei-Trump dinner",
+   "signal": 75,
+   "summary": "Axios: Trump plans a private White House dinner with Amodei - their first one-on-one - signalling a thaw in relations. Axios: OpenAI, Anthropic and researchers are probing tens of thousands of incidents flagged as problematic by outside evaluators. Bloomberg: fresh disclosures of a far wider range of advanced-model breaches raised global anxiety ahead of the dinner.",
+   "angle": "Election-year politics meet frontier-model risk: boards should plan for a policy-regime shift, not a stable status quo.",
+   "items": [
+    {
+     "title": "Scoop: Anthropic's Dario Amodei to have White House dinner with Trump",
+     "url": "https://www.axios.com/2026/09/27/anthropic-trump-dario-amodei-dinner-invite",
+     "source": "Axios AI+",
+     "time": "15:26",
+     "note": "Axios: Trump plans a private White House dinner with Amodei - their first one-on-one - signalling a thaw in relations."
+    },
+    {
+     "title": "Scoop: Top AI companies probing tens of thousands of security incidents",
+     "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+     "source": "Axios AI+",
+     "time": "22:35",
+     "note": "Axios: OpenAI, Anthropic and researchers are probing tens of thousands of incidents flagged as problematic by outside evaluators."
+    },
+    {
+     "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+     "source": "Bloomberg Technology",
+     "time": "23:27",
+     "note": "Bloomberg: fresh disclosures of a far wider range of advanced-model breaches raised global anxiety ahead of the dinner."
+    },
+    {
+     "title": "Trump confirms meeting with Anthropic's Amodei, repeats dismissal of AI fears - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmNRNTdyaGdENWhHUlEzVFpTVnRndmtXcDBfZlVmTVZpWWF2SEF6M1FwXzBtbFZRdWJWOGNKc2JfYll1aEZxamJYYTJwZ2pXMUZ0NW1wWjEyQXRObnRJa29BbzhrLWxXOTFmSVZlRlkyS1Z3endodzAyYm9Sc0NOYlE5REhwbnZQbERfdWc2Mi1LbWVyaGpiOGtjZ1dVWGQ2cTJib1FVM1ZJYkVZbmRJWA?oc=5",
+     "source": "Reuters",
+     "time": "22:58",
+     "note": "Reuters: Trump confirmed the meeting while again dismissing AI fears in public."
+    },
+    {
+     "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+     "source": "Bloomberg Technology",
+     "time": "13:00",
+     "note": "Bloomberg: Bill Gates says safeguards will not hurt US competition with China."
+    },
+    {
+     "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
+     "source": "Bloomberg Technology",
+     "time": "11:17",
+     "note": "Bloomberg: Australia's Senate has asked the OpenAI and Anthropic CEOs to appear after a hack of a government website."
+    }
+   ]
+  },
+  {
+   "title": "Beijing opens Nvidia door; open models win corporates",
+   "signal": 70,
+   "summary": "The Information: Beijing may permit ByteDance and Alibaba to buy Nvidia's new RTX Pro 5500 chips. Bloomberg corroborates the report that China may allow Alibaba and ByteDance to buy the new Nvidia chips. FT: US businesses far beyond Silicon Valley are adopting cheaper Chinese open models over OpenAI and Anthropic systems.",
+   "angle": "If China reopens Nvidia access while US firms embrace open weights, inference cost - not capability - decides the enterprise stack.",
+   "items": [
+    {
+     "title": "China Weighs Allowing Purchases of New Nvidia Chips by ByteDance, Alibaba - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNl9kVzV0NlBYQ0pyQ1ltekFUemRHX0pKNkJMcHRJN2pBMzFEYXh2U3NLbnd1dkJaWGUza3NRR1VJYmE1bVk2SlNMS09EcGNDR3RDZkdDSWd4aGVKYTNZek5CQzRoM2NUd0VCOUMxWHNXLTd5eFA2d05tLVRab1ZWS0QxSjlBX1ZHN2xHcU9ndzZPMG5NVTFCem1tSm5HWlBtNXVpem44dUNNZw?oc=5",
+     "source": "The Information",
+     "time": "15:00",
+     "note": "The Information: Beijing may permit ByteDance and Alibaba to buy Nvidia's new RTX Pro 5500 chips."
+    },
+    {
+     "title": "China May Let Alibaba Buy New Nvidia Chips, Information Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
+     "source": "Bloomberg Technology",
+     "time": "15:44",
+     "note": "Bloomberg corroborates the report that China may allow Alibaba and ByteDance to buy the new Nvidia chips."
+    },
+    {
+     "title": "Corporate America embraces cheaper ‘open’ AI models",
+     "url": "https://www.ft.com/content/d9de4776-1fc9-4f2b-aaaf-9961c35d8acd?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:00",
+     "note": "FT: US businesses far beyond Silicon Valley are adopting cheaper Chinese open models over OpenAI and Anthropic systems."
+    },
+    {
+     "title": "China Tech Needs AI Catalyst to Close Valuation Gap, BI Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-tech-needs-ai-catalyst-to-close-valuation-gap-bi-says",
+     "source": "Bloomberg Technology",
+     "time": "00:33",
+     "note": "Bloomberg Intelligence: Chinese tech needs a domestic AI catalyst to close its valuation gap with US peers."
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI enters UAE government",
+   "signal": 65,
+   "summary": "Gulf News: UAE Ministry of Justice says agentic AI cuts pre-trial case review from 18 days to about 2 hours. Khaleej Times: experts say AI agents will become the new 'staff' layer as firms go AI-first. Zawya: Cognit DX launched homegrown enterprise AI platform Cortex plus an AI Film Studio.",
+   "angle": "Quantified government deployment is the region's edge: a working template, not a pilot.",
+   "items": [
+    {
+     "title": "UAE Ministry of Justice unveils Agentic AI to slash pre-trial case review from 18 days to 2 hours - Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOekNUTUVSbGN0Qzl3TGpNUVpidHRiRUJpczRkaVNibkdCU1lvd3ZLcDVuejlwNWVENDZEM3Y3N1V3Y2RMYURmY2xzOUQtYl9vRmljSlp4UW5laksteUpaLTBPbWIwM09tZnBsZWx0UEVQeGd0ckJRcmRib0MxM3pjaXdUVEpwT29WZDN0NXFnZHBtQllBTDZrTEtyN2g0WDhtSlJUVlpvR2thdzlqNTZEZk0wNVVqdzZLUF9CQjNibkZfTnlOTkIwc05sQWxaaVFBSjdyOEphM010RWg2bW0yd21velkzVVZpdm1PUlQ4NNIB7wFBVV95cUxOekNUTUVSbGN0Qzl3TGpNUVpidHRiRUJpczRkaVNibkdCU1lvd3ZLcDVuejlwNWVENDZEM3Y3N1V3Y2RMYURmY2xzOUQtYl9vRmljSlp4UW5laksteUpaLTBPbWIwM09tZnBsZWx0UEVQeGd0ckJRcmRib0MxM3pjaXdUVEpwT29WZDN0NXFnZHBtQllBTDZrTEtyN2g0WDhtSlJUVlpvR2thdzlqNTZEZk0wNVVqdzZLUF9CQjNibkZfTnlOTkIwc05sQWxaaVFBSjdyOEphM010RWg2bW0yd21velkzVVZpdm1PUlQ4NA?oc=5",
+     "source": "Gulf News",
+     "time": "13:29",
+     "note": "Gulf News: UAE Ministry of Justice says agentic AI cuts pre-trial case review from 18 days to about 2 hours."
+    },
+    {
+     "title": "AI agents to become the new ‘staff’ as firms go AI-first, say experts - Khaleej Times",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZjQzVEs2NFMwYVdOb1NpZnFhMUNuRnBiWUF1VnBRQkc0ZXhDUzRhd2Y3UVgzeWtsVzFJUjhZb0V5OHNEVHU2ekFvQlZ6aXNtS0t2VXZBNnc3Z2R5NXEyb0hmc1cxNkJzdmNTWE1zck1IXzlfQkVIcG5jb0RpNXZKSzgtZ1JLaFhMX2ptbGg3VVZhQ0puSHNvY1FsQUJjTVNXUkQ3cV8wVdIBrwFBVV95cUxNc3J6TEVrZ3BvMU0tOEFTaFA2cEt0eDBEb3JneUpvbW9BdFJwR2hVd2twTVpvNjJhVW8ybGlfbWVoM2pZUkViamVJMnQ3YzlyZHZwUGtGZGdNWHMxUzN0YUdrUHkzQnNDNlFiZjk5NlAzNDFscGZaSm1NYXcwOXdoMWdRaHpvWWxSV1l5X1YwRk4yV1d5Z05YZ2FoT0NZcG5XVzAyYnFQeFBOSTkxY2RF?oc=5",
+     "source": "Khaleej Times",
+     "time": "07:23",
+     "note": "Khaleej Times: experts say AI agents will become the new 'staff' layer as firms go AI-first."
+    },
+    {
+     "title": "Cognit DX unveils homegrown enterprise AI platform Cortex and its AI Film Studio - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVWJKbmk3XzdraWxZbVlXYncySHh4cWx6Rmk2azBCZlY2Wl9FRkhTa01JVEZtT1lqUUtVcDVSQ1BRWlZsb3ZCT3RCQWZJSDdwanViRmVYUTF1Y1ZLU21QUldOb3BVVFpMQ1BRUjM0MXVJX05xWkhVQ015X2wyUUZONVFtblo1Y1NONmx5YXpKWUJLMDlLM2IxZHBSMlhOM2ZMZ3BIOEpqVjEtZDd0Vng3ZnFtcHR2UkhVbU1HWnZMeGpFV1dHdmthUkxyUEFOU1pPcjllY056eUQwQQ?oc=5",
+     "source": "Zawya",
+     "time": "14:19",
+     "note": "Zawya: Cognit DX launched homegrown enterprise AI platform Cortex plus an AI Film Studio."
+    }
+   ]
+  },
+  {
+   "title": "Gulf scales AI infrastructure and soft power",
+   "signal": 55,
+   "summary": "EnterpriseAM: Al Yamama won the infrastructure contract for Humain's 6 GW Riyadh AI campus. Egypt Today: Abu Dhabi's AI Everything is billed as the world's largest AI-first expo, cementing the capital's global-AI pitch. Fast Company Middle East: show focus shifts from experimentation to real-world deployment.",
+   "angle": "Saudi and Abu Dhabi are buying physical AI infrastructure and global AI standing simultaneously - a capital-intensive, long-horizon bet.",
+   "items": [
+    {
+     "title": "Al Yamama takes the infrastructure contract for Humain’s 6 GW Riyadh AI campus - EnterpriseAM",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVDFNUUxYWGJXSTlDZmlqVTVTMEdEY2hTdmxVU1hZT2o3MGthWnRzcFRyR2Fmd3FZVVFMTW1rUkM2dXFDdVhTWkZsXzJWOGVkX3FhVUJNUDZHT2psMXQwMzc4MUtVNzFMUHVaVjRhM1BBVDJVWVhFTk1RSWoweGRYTE1kbTFHMlpzeXRRMnVqNXc4RExYZjEzeUlLMkwtUHZ0cldnS25KWVBpclFxdWQ0amxNTGphd0hEYUE?oc=5",
+     "source": "EnterpriseAM",
+     "time": "00:00",
+     "note": "EnterpriseAM: Al Yamama won the infrastructure contract for Humain's 6 GW Riyadh AI campus."
+    },
+    {
+     "title": "World’s largest AI-first expo and summit in Abu Dhabi solidifies the capital’s rise as a global intelligence powerhouse - Egypt Today",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcE1uazQ3SE5Fb195VEtWSW1TazUyTGtxRWRwaHJLbjg1bHZ2aWpoWVRYLUUzSlRsQjBWejB2TzJfLVFNWHdDWUMzWEVCdllJcTUxcVl2WEJMNnVobFZ2QzhSbzNtTWxkdkw3TGV2QUxkVVJ6bjZUNnZ6NVczQXprSjMxWVk5VGk0bjFreHI4cGh2NkR4QlI4YXh6SU5qNTMtTWlOWUxLTTVYQQ?oc=5",
+     "source": "Egypt Today",
+     "time": "10:40",
+     "note": "Egypt Today: Abu Dhabi's AI Everything is billed as the world's largest AI-first expo, cementing the capital's global-AI pitch."
+    },
+    {
+     "title": "AI Everything Abu Dhabi looks beyond AI experimentation to real-world deployment - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQemdHYmhPQkh4dUtwOHUzNjFUZC1MdEVQY0tNU1ZMc19SNE52LV9VRnNLMFA1dnkwVEd0Z1VHRTlKT0JqUzNNQnpRX2pDazl0VVBrd1Noa2o2Z0VzVVktdTNtQTJTOFdjNUswaG1lNU5WT204Y0ZKX1VxNkJjRFdiLXUxaUYzVWJzVElXUlZKUnkyNE9CTDAzUXNOMC1FNmhyMUhnbUdHTG4wNkhpS205SzlwODZ6MW9TUzBV?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "22:46",
+     "note": "Fast Company Middle East: show focus shifts from experimentation to real-world deployment."
+    },
+    {
+     "title": "Abu Dhabi institute brings UAE’s disease prevention and AI expertise to New York - thenationalnews.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOczlldGtMUzRxbmthOUh3LV9pVzJJNUFXcHJMbjdlVjNNMlRrY1k2UzVWOHJVYW5femtrNjUwTEN4Wmh4WkRLSTNsdERubDQzOEViR1JaVUxjc1dTRFI1djBQY2xVNWxPbDhKOUpHbUdTX25HUWRZVlUtd2FiUWFfQkYzWGFSa2tTYUlSeWlGNGUxR3dZb3BudUNQSFB2UkVaRmZicmdNcnEwWS1RMDdzd0FBcEJkanR3dVl2X3NyR3hQaWFzaXVvN2lacy1UQQ?oc=5",
+     "source": "thenationalnews.com",
+     "time": "06:10",
+     "note": "The National: an Abu Dhabi institute is taking UAE disease-prevention and AI expertise to New York."
+    },
+    {
+     "title": "UAE expands US healthcare partnerships in genomics, digital health and specialised care - Emirates 24|7",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRHNJVzB2R1g4aFgtSG1QVXJPYnc2YXJwM0JhSlUwTy1yUlRYNnUtenA3UFVUMzlRZzg3T2ZNZmlGaGE2ODdSZ0l4aU51RWRqaGNibDhGZDVlcXp2bXNvMjZfdGlUYjRvYkQyRnJUcERtZmYyeGtia2JzMzl5N1B1SC1Ub0R4Z3hKVl9zckVNYk5ieHZQeVlYNldoYWFyUnBVVFpuRGI1S1A1d25PdFI5WnVIMm5wLWxSYzBfS2V5SEhFaERh0gHfAUFVX3lxTE8xa25lVm4tY0NCZ0xTR2ZLR0kteDRjNGNNcHRUak8tZVJ4TW5UZmtjeEpZdlpjVkZNcmRGUnJoQzdtMm1YNzFSLUg0UFZPc2dHQ3BpVXdWVWppWHBlVElKeWtJX2hJdU9NaEdDNlpGWmVLYmxwWXRoUmFzOFl5U18xYXdnOFgydDJQbUc1bHR3dkIzeGdXSFNJOWwycWw4MUNCTWRTbWpMTXpzWFhQUjhibXd4bVN0bmFQUjBWWXkxVlFPZVV3T2hjZ09wZFZDQ2ZJa0NEZHAyaXgteWYtVms?oc=5",
+     "source": "Emirates 24|7",
+     "time": "09:33",
+     "note": "Emirates 24/7: UAE is expanding US healthcare tie-ups in genomics, digital health and specialised care."
+    }
+   ]
+  },
+  {
+   "title": "AI IPOs: big dreams, tiny revenue",
+   "signal": 50,
+   "summary": "FT: the AI boom's valuations make the contrast between ambition and income more striking. The Information: questions whether Oura would be a healthy IPO. EnterpriseAM: commentary urging IPOs to deliver what their names promise.",
+   "angle": "Valuation-versus-revenue discipline is returning to AI public markets.",
+   "items": [
+    {
+     "title": "Big dreams and tiny revenue are the new norm for AI IPOs",
+     "url": "https://www.ft.com/content/b5707707-730e-40d3-9ff7-8ebfe27d5708?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "FT: the AI boom's valuations make the contrast between ambition and income more striking."
+    },
+    {
+     "title": "Why Oura May Not Be the Healthiest IPO - The Information",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNERpbXlzUlJEWlpFRW1qMzBGTnMyRjZfT0wyM21KaTBMMnpZTl9tTzZhQjNia1pzLW5UQldjd3BVdWZ3NjBwcEYzZ0pZZUNVdjFuSFlMYmVNZTZKaTZHdlVRbnBxX3RqOVR4c0Q2TGZfWVVyZVlNZmJVdjhZUUUzUlNvMUx1Zw?oc=5",
+     "source": "The Information",
+     "time": "22:01",
+     "note": "The Information: questions whether Oura would be a healthy IPO."
+    },
+    {
+     "title": "Making IPOs mean what they say - EnterpriseAM",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Pb0tIRGFmcWJ1Yk1mUHZrU3d2Q19rNHN2RXpHOWxsUGVrYUdLbDVtbFNUYi1tZVhTMGUxZmVoVzk4TGkxZEU3ZVROcU03eWxuakNTU0lTZlc1UFFocEFxLU9GU0tUbW9EeVU1a0VMd0J1eTBRM0E?oc=5",
+     "source": "EnterpriseAM",
+     "time": "02:50",
+     "note": "EnterpriseAM: commentary urging IPOs to deliver what their names promise."
+    }
+   ]
+  },
+  {
+   "title": "Frontier economics: cheaper quality, science wins",
+   "signal": 45,
+   "summary": "Anthropic: Claude Opus 5.5 performs at Claude Fable 5.1 level on most work and costs 40% less to run than Opus 5. The Neuron: live-testing GPT-6 Sol against Opus 5.5 found cost is the real story. Anthropic: Claude discovered a novel enzyme system with CRISPR-like repeats.",
+   "angle": "Frontier quality is commoditising - watch cost curves, not demos.",
+   "items": [
+    {
+     "title": "Introducing Claude Opus 5.5 Announcements Sep 22, 2026 Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic: Claude Opus 5.5 performs at Claude Fable 5.1 level on most work and costs 40% less to run than Opus 5."
+    },
+    {
+     "title": "Sep 23, 2026 😺 GPT-6 Sol vs Claude Opus 5.5 PLUS: We live-tested the new models, then found the real story: cost.",
+     "url": "https://www.theneurondaily.com/p/gpt-6-sol-vs-claude-opus-5-5",
+     "source": "The Neuron",
+     "time": "",
+     "note": "The Neuron: live-testing GPT-6 Sol against Opus 5.5 found cost is the real story."
+    },
+    {
+     "title": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+     "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic: Claude discovered a novel enzyme system with CRISPR-like repeats."
+    },
+    {
+     "title": "Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation",
+     "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic: partnering with Accenture on embedded evaluation."
+    }
+   ]
+  },
+  {
+   "title": "National strategies: Korea all-in, Europe conditions",
+   "signal": 45,
+   "summary": "Yonhap: South Korea's AI adoption rate tops 40%, placing it 12th globally. FT: Seoul's deputy PM is an evangelist for AI even as some fear catastrophic risks. FT: multinationals say a lack of 'AI openness' could hit investment in Europe.",
+   "angle": "National AI strategies are diverging - adoption momentum vs openness conditions.",
+   "items": [
+    {
+     "title": "S. Korea's AI adoption rate over 40 pct, ranks 12th place globally: report - Yonhap News Agency",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrMnc0QmxOTVI5VkxWZmRsVERJeHpjWjFnNWdTWWVKX3d4Sk8yaW1kdWc1M211LTBhc2E1dHhBeVhUWE5PdXNPbmVwOHQ0S1oxTmRURzI0Y1pFUQ?oc=5",
+     "source": "Yonhap News Agency",
+     "time": "01:23",
+     "note": "Yonhap: South Korea's AI adoption rate tops 40%, placing it 12th globally."
+    },
+    {
+     "title": "South Korea bets big on AI for all",
+     "url": "https://www.ft.com/content/2c5e6862-65b6-4569-8c03-464e686ea88e",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "FT: Seoul's deputy PM is an evangelist for AI even as some fear catastrophic risks."
+    },
+    {
+     "title": "Big companies warn lack of ‘AI openness’ could hit investment in Europe",
+     "url": "https://www.ft.com/content/aeabd0d5-be0e-4270-987e-0b119b24b355?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "FT: multinationals say a lack of 'AI openness' could hit investment in Europe."
+    }
+   ]
+  }
+ ]
+}

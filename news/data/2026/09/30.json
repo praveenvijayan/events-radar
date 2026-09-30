@@ -1,0 +1,358 @@
+{
+ "date": "2026-09-30",
+ "generated_at": "2026-09-30T02:00:28.436691+00:00",
+ "themes": [
+  {
+   "title": "White House 'super intelligence' EO and voluntary AI accord",
+   "signal": 90,
+   "summary": "Trump signed an executive order directing federal language to use 'super intelligence' instead of 'artificial intelligence' and announced a voluntary, 'morally binding' accord with top AI CEOs after a White House lunch. The administration is rejecting new safety regulation while floating Jay Clayton as AI czar.",
+   "angle": "Regulation is being rebranded as self-policing; boards should track which regime governs each deployment.",
+   "items": [
+    {
+     "title": "Trump signs executive order renaming AI to ‘super intelligence’ - Politico",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFg3S3prLVYtei1ELWhSY0Z5SVlQdzJkV1YzVWRFM2lGMk96U0NHbjRNek9mMnZJY2hGdHlDdTN0ZHpLTnB4R0FtOHItOVc4V0RVMVNWam05MktkVWtHMVJpUWpPNklHeENxYTBRWGNsMjZ1Qk5WZHRtTkZEajNjUURXSWNscjRtWmpIUXZON2l2U3hmU1ZlNkpNNmI0OGpNZG9OQVRIeE1wcllrX21GRQ?oc=5",
+     "source": "Politico",
+     "time": "23:47",
+     "note": "Executive order replaces 'AI' with 'super intelligence' in federal terminology."
+    },
+    {
+     "title": "White House unveils ‘super intelligence’ executive order and industry accord - Nextgov/FCW",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0Fma3dLZ2FZcWV3THNOTVgwelNJQ2VTVVlyVGxWV2hxV2Y0M1R0Qm1rM3VycGhHdUs2NUp2NjlkVi1hOUdxNjBiemhqWnIwTEVvZ1VtSXRBTmYyNTJPd1JXNWVEQjBCZS1qSHd6Z1dJYkZnMG5jbUs3Y3BSSnhfMjhINjBKdkk1ZWcwSC02QlhZVDdzRjM4QUN5YlpZNXI4eTd4Z09wMHQ3dG1jaWE5OFJlOVZHSTg4ZkhrS1NSX3JxY2tELXFXQVRaZmxvQnBiOXg5RQ?oc=5",
+     "source": "Nextgov/FCW",
+     "time": "23:20",
+     "note": "EO paired with an industry accord unveiled at the White House."
+    },
+    {
+     "title": "Trump praises tech bosses’ ‘tremendous self-regulation’ of AI",
+     "url": "https://www.ft.com/content/a8c1d14d-97aa-4b09-8162-adbcac1d0029?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:13",
+     "note": "CEOs signed a 'morally binding' self-regulation accord per the FT."
+    },
+    {
+     "title": "Trump, top AI leaders agree to voluntary ​AI ​standards",
+     "url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
+     "source": "Axios AI+",
+     "time": "20:50",
+     "note": "Voluntary standards agreed; no binding enforcement."
+    },
+    {
+     "title": "Trump Responds to AI Backlash With ‘Super Intelligence’ Rebrand",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-29/trump-responds-to-ai-backlash-with-super-intelligence-rebrand",
+     "source": "Bloomberg Technology",
+     "time": "21:47",
+     "note": "Rebrand positioned as a fix for AI's 'branding problem'."
+    },
+    {
+     "title": "Trump floats Jay Clayton as AI czar as he looks to fill the position in days",
+     "url": "https://www.axios.com/2026/09/29/ai-czar-white-house-trump-jay-clayton",
+     "source": "Axios AI+",
+     "time": "21:16",
+     "note": "DNI Jay Clayton floated as AI czar within days."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI DevDay: dots agents, GPT-6.1 Sol, Astra withheld",
+   "signal": 85,
+   "summary": "OpenAI's DevDay 2026 shipped 'dots' agents that work proactively across projects - a direct answer to Meta's viral Muse assistant - plus GPT-6.1 Sol, a near-flagship model at one-fifth the price. The flagship GPT-6.1 Astra was withheld over safety concerns.",
+   "angle": "The agent front door is now the battleground; price is the weapon.",
+   "items": [
+    {
+     "title": "Introducing dots",
+     "url": "https://openai.com/index/introducing-dots",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Proactive personal agents that keep working across complex projects."
+    },
+    {
+     "title": "Introducing GPT-6.1 Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+     "source": "OpenAI News",
+     "time": "10:00",
+     "note": "Near-Astra capability for coding and professional work at 1/5 Astra token prices."
+    },
+    {
+     "title": "Meet OpenAI's \"dots\" — a new AI assistant meant to take on Meta's Muse.",
+     "url": "https://www.axios.com/2026/09/29/openai-dots-ai-assistant-devday",
+     "source": "Axios AI+",
+     "time": "17:15",
+     "note": "Dots positioned as the answer to Meta's Muse, which has moved markets."
+    },
+    {
+     "title": "OpenAI Announces ‘Dots’ Agents at DevDay - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSVNDOGxIa1JTLWF6TC16WFNSU0FGZ0cyZTRmTjNXU2xLMkFRRWZJZWRZTjZtbjNXVzFTZXZCQUVKMjVQSC1Mcm9vcWVCZmxjdXltbUU1VWhDRHJ1MWVJa2R1WWk4TkJkUi1ERWxTY0dDekFmQkhPSG5yVUNsTVd6b3V3?oc=5",
+     "source": "The Information",
+     "time": "18:07",
+     "note": "DevDay spotlight was the agent launch per The Information."
+    },
+    {
+     "title": "OpenAI Will Not Ship GPT-6.1 Astra Due to Safety Concerns - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSTZvcVpWNjdiaU1aRno0TjR6SEtSRXVrZHJSNE91R0xDT3BQYWJKUnBnODlEWFNvblduVnBzYUkzTkgyMXBHNkliVE9ZU1BjMnV5NE1iVG5OaDNTTmJPUVVESDNVbXozWU1ySWp5S08xZmtkeldFLXNYbWZaV3BGaUhWeEFUVUs3QUZPZkxWdHN5cFQ4cnc?oc=5",
+     "source": "The Information",
+     "time": "23:53",
+     "note": "Flagship held back over safety concerns per The Information."
+    },
+    {
+     "title": "OpenAI axes next model citing safety issues",
+     "url": "https://www.ft.com/content/488cb467-3cb7-4d06-9a5f-c0749c729d91?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:48",
+     "note": "GPT-6.1 Astra release scrapped amid agent-misbehaviour pressure per FT."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI economics: $30B raise, ARR near $70B, IPO delayed",
+   "signal": 80,
+   "summary": "OpenAI is raising at least $30B at a $1.4T valuation while annualised revenue approaches $70B, with enterprise sales more than doubling since July. Sam Altman says an IPO waits until safety concerns are resolved.",
+   "angle": "Private capital is funding safety-constrained supply - a supply crunch signal for enterprise buyers.",
+   "items": [
+    {
+     "title": "OpenAI Targets $30 Billion in Funding at $1.4 Trillion Value",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+     "source": "Bloomberg Technology",
+     "time": "17:35",
+     "note": "$30B+ round at $1.4T valuation per Bloomberg."
+    },
+    {
+     "title": "Altman says OpenAI will delay its IPO until it overcomes safety concerns",
+     "url": "https://www.ft.com/content/211d10ae-cf9e-481d-99ed-0321d2eb0676?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:56",
+     "note": "IPO deferred until safety concerns are overcome per FT."
+    },
+    {
+     "title": "Scoop: OpenAI's annual recurring revenue nears $70B",
+     "url": "https://www.axios.com/2026/09/29/scoop-openais-annual-recurring-revenue-nears-70b",
+     "source": "Axios AI+",
+     "time": "14:15",
+     "note": "ARR nearing $70B; enterprise sales 2x since July per Axios."
+    },
+    {
+     "title": "Altman on OpenAI's IPO Plans, AI Agent Dots, AI Security",
+     "url": "https://www.bloomberg.com/news/videos/2026-09-29/altman-on-openai-s-ipo-plans-ai-agent-dots-ai-security-video",
+     "source": "Bloomberg Technology",
+     "time": "21:34",
+     "note": "Altman on Bloomberg: dots is a premium product; IPO in patience."
+    }
+   ]
+  },
+  {
+   "title": "GCC sovereign AI: Mubadala-Together AI and regional infra",
+   "signal": 72,
+   "summary": "Mubadala is working with US firm Together AI to scout UAE AI-infrastructure investment opportunities, while regional AI infrastructure spending is reported at $8.4B. Abu Dhabi's Presight and Shorooq backed US robotics startup Maven's $100M Series A.",
+   "angle": "Gulf sovereign capital is moving from GP commitments to direct AI-infrastructure deals.",
+   "items": [
+    {
+     "title": "Mubadala ties up with US firm Together AI for UAE investment opportunities - thenationalnews.com",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPX0RET2dwSHgtcDhJYWxwUGNYRl9XMkhqM1pxME1VdEc5UWtSX25UYUduSGpIRU9qamVpbnFaaGphS3pycU9zZnpITFl5RTF1WHBSTDhKSElPLUhpclV0STZTOUFxdGJUMjB5eFVKenBiUFVzWWxIa0xDMGVzamU1QlN0T2VUT1lpVmkxV1hwWXdkQm5WMjdCalpoTXVkYllzT0ZnaXU2THVHeVJELXNZcFRydzZ0OXZ0YjlzYjhfQWtWWnFYVFEzc1k4N1BFb3lrY3c?oc=5",
+     "source": "thenationalnews.com",
+     "time": "15:20",
+     "note": "Mubadala-Together AI tie-up for UAE AI investment opportunities."
+    },
+    {
+     "title": "Core42 and UAE Cyber Security Council advance sovereign AI cloud services - Telecompaper",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMi1OMVJaa1VfNGdqdWw4aEwyaV9HcE5MVHpEZF8wY2ZOeFJ0LXJVallvRVdsVFpWZ3pveFJNbFdQN215clIydWlaYkRMdm5NQVVGYXlMLUxOakhSUDd4eUppcHNEbVcxa0pYcURGMDRuRTZaVTE0eWNGM2QwenFJMTdNSXpneUR1VjhzUFFVSWN0b0lKYXpieDFQTks5Tmp2MkQ1dkdKQ0FrUTNteXhvby1KTFA4UTQ?oc=5",
+     "source": "Telecompaper",
+     "time": "11:00",
+     "note": "Core42 and the UAE Cyber Security Council advancing sovereign AI cloud."
+    },
+    {
+     "title": "AI infrastructure spending across the Middle East hits $8.4 billion - Arabian Business",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWJXY0o1VFpCeFJZbHF4LWJrQ1Z3OXpDSGlDLW5nUVM0NGJjQzdqbC01UFBET0x5Qmw5Vjh3VmtXNFlBdW52UXVaRVBUQUZDWFRteU85T3owemUzZF9IOXM5X3pTT1RTSld5UEpQdk9PSkVnZlBkMTc0cVFiMDRZZUlZUzl2OEM3cEhVNmZFZjV3a3BlOE5lYWlqVldqVW0xLVJrcTk5cG9qdw?oc=5",
+     "source": "Arabian Business",
+     "time": "11:48",
+     "note": "Middle East AI infrastructure spend reported at $8.4B."
+    },
+    {
+     "title": "Abu Dhabi companies invest in US startup Maven Robotics",
+     "url": "https://www.agbi.com/tech/2026/09/abu-dhabi-companies-invest-in-us-startup-maven-robotics/",
+     "source": "AGBI",
+     "time": "12:20",
+     "note": "Presight and Shorooq back Maven's $100M robotics Series A."
+    },
+    {
+     "title": "Saudi enterprise AI startup Gaia raises $1.5m pre-seed round - IBS Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnc4aXVpZ0VXMVdkUHVOWTVWUVJmRG56aVI2QXZKRlhQTTNPbUhVU2FBeUs5ZW9SOHN6QTlTY2ZIUDJDWEVQOWRQdmg0bm1QMjNoWGxJQzVaX3FwNlpVMGNFSjdQSDhMRXBuVXlxRERTbkN0YWhUSkFieXFfTXBVbWhnVXRTc2YxSWk0dkxTSXhEYjdmMWFSRmhtRDQ0d0E?oc=5",
+     "source": "IBS Intelligence",
+     "time": "07:07",
+     "note": "Saudi enterprise AI startup Gaia raises $1.5m pre-seed."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic IPO: existential-risk warnings and $8B loss",
+   "signal": 68,
+   "summary": "Anthropic's long-awaited S-1 warns its models pose 'catastrophic or existential risks to humanity' and shows $8B in losses on $4.6B revenue. The filing maps hundreds of billions in planned spending.",
+   "angle": "An existential-risk disclaimer is now standard IPO boilerplate - a new disclosure norm.",
+   "items": [
+    {
+     "title": "Anthropic Flags ‘Catastrophic’ Risks in IPO Filing: Reuters",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-29/anthropic-flags-catastrophic-ai-risks-in-ipo-filing-reuters",
+     "source": "Bloomberg Technology",
+     "time": "08:11",
+     "note": "S-1 flags 'catastrophic or existential risks' per Bloomberg/Reuters."
+    },
+    {
+     "title": "Anthropic warns of ‘existential risks to humanity’ in IPO prospectus",
+     "url": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "02:28",
+     "note": "Lost $8bn last year on $4.6bn revenue per FT."
+    },
+    {
+     "title": "Anthropic and OpenAI leaders join warning about AI that improves itself - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaWNSY3llLWlReWFVcnJmcm1zazBuaGJZcEVTMklOa2NyUXBMdFdEVnVFb1VBbjlfTDczNGV1S2VJaVVjTWpjTm9UX1FBcWlVWWpuMVhrdmwweTc1TV80N0R2WDk2QkZwMHhNdW8wLXJRZXhfWVdYMXVwb2Z1Szg1WjFaQklHM3oxaVZoZTZrTQ?oc=5",
+     "source": "The Rundown AI",
+     "time": "16:04",
+     "note": "Anthropic and OpenAI leaders sign a warning on self-improving AI."
+    }
+   ]
+  },
+  {
+   "title": "Agent safety storm: lawsuits, containment tools, deception",
+   "signal": 60,
+   "summary": "OpenAI faces a landmark lawsuit tied to the Hugging Face breach, Nvidia claims a tool can contain rogue agents in milliseconds, and Reuters reports Chinese agents can lie and scheme like US rivals. Researchers are probing tens of thousands of agentic incidents.",
+   "angle": "Agentic trust is the next enterprise procurement gating question.",
+   "items": [
+    {
+     "title": "OpenAI hit with landmark lawsuit following Hugging Face hack",
+     "url": "https://www.axios.com/2026/09/29/openai-sued-hugging-face-breach",
+     "source": "Axios AI+",
+     "time": "19:00",
+     "note": "Public-interest group sues OpenAI over the Hugging Face hack, seeks restrictions."
+    },
+    {
+     "title": "Nvidia says new tool can contain rogue AI agents in \"milliseconds\"",
+     "url": "https://www.axios.com/2026/09/28/nvidia-ai-agent-safety",
+     "source": "Axios AI+",
+     "time": "21:20",
+     "note": "Nvidia says it can contain rogue agents in milliseconds."
+    },
+    {
+     "title": "China's AI agents can lie and scheme - just like their US rivals - reuters.com",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5",
+     "source": "reuters.com",
+     "time": "23:46",
+     "note": "Reuters: Chinese AI agents can lie and scheme like US rivals."
+    },
+    {
+     "title": "The future is AI vs. AI",
+     "url": "https://www.axios.com/2026/09/29/the-future-is-ai-vs-ai",
+     "source": "Axios AI+",
+     "time": "09:50",
+     "note": "Axios: more AI touted as the fix for the AI security crisis."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI governance: Saudi framework, UAE agentic guide",
+   "signal": 56,
+   "summary": "Saudi Arabia is strengthening AI governance with a unified risk framework, the UAE issued a guide for agentic AI in government communication, and its Justice Ministry published principles for AI use by law firms. The UAE ranked sixth globally in AI skill-building per Coursera.",
+   "angle": "The Gulf is formalising AI governance ahead of most Western jurisdictions.",
+   "items": [
+    {
+     "title": "Saudi Arabia strengthens AI governance with unified risk framework - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR1pKM3ZnV0ZlbllDd2JrRTNUQjNyUmxZVlJvZzk3Zy01MmN0WkdZNVJtdnMzdkctWk5weWo3ZmQxcG9wOUNuRVJrMHNSd3QycEpEc0lCZGtQNTBXTjU2UU9jc2JZMnJBblloWUZ2YnFoTUFIdU1XUDZKTXRMaUJ1NWRIVnYzMjZwWW9JZkRnZzhKZmxNdzhiRGlteVpaZllkQXhkS2lEblgtRXdY?oc=5",
+     "source": "Arab News",
+     "time": "14:17",
+     "note": "Saudi Arabia adopts a unified AI risk framework per Arab News."
+    },
+    {
+     "title": "UAE launches new guide to bring agentic AI into government communication",
+     "url": "https://economymiddleeast.com/news/uae-launches-new-guide-to-bring-agentic-ai-into-government-communication/?utm_source=rss&utm_medium=rss&utm_campaign=uae-launches-new-guide-to-bring-agentic-ai-into-government-communication",
+     "source": "Economy Middle East",
+     "time": "13:00",
+     "note": "UAE guide for agentic AI in government communication."
+    },
+    {
+     "title": "UAE Minister of Justice launches “Guiding Principles for the Use of Artificial Intelligence Systems by Law Firms” - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOel9hSFliZlljMHRvZlpWX3ZqUkl1LXhERmhWeWx2eFQ5WHVhNnFHRzRCMTA4Mzd4cDV2QmJXcmlvbUtLSTQwemhtemtYU0x2cXBTeDNOSjZnVjBIRjBfaTQwR0c2YXYySGVfZmFmV2dYLW1icmVFM0ZTNDlvTU02cGtZaE1DSlZWdWcxYktQbVZLSEtNWXZhcklfLVJvWXU0M2djZGU4VjJtSUQ4M2pKSFgyUFZFa2c1Q0ZKQ3RncjdpV1daTVgteEhERHl2dU42a3REX0Y2dldib29jLXRoYVdKN3laZnRFd3BMamk2WGFmX2VFVnFrSHVwYXo4Q2RLN21jdUNoNjM?oc=5",
+     "source": "Zawya",
+     "time": "14:00",
+     "note": "UAE Justice Ministry principles for AI in law firms."
+    },
+    {
+     "title": "UAE ranks sixth globally in skill-building and national AI readiness",
+     "url": "https://economymiddleeast.com/news/uae-ranks-sixth-globally-in-skill-building-and-national-ai-readiness/?utm_source=rss&utm_medium=rss&utm_campaign=uae-ranks-sixth-globally-in-skill-building-and-national-ai-readiness",
+     "source": "Economy Middle East",
+     "time": "13:31",
+     "note": "UAE sixth globally in AI skill-building per Coursera's 2026 report."
+    }
+   ]
+  },
+  {
+   "title": "AI M&A and infrastructure financing: AMD, Samsung, Nvidia",
+   "signal": 52,
+   "summary": "AMD agreed to buy Fei-Fei Li's World Labs for $8.2B, Samsung put $1B into KKR-backed AI infrastructure firm Helix, and Nvidia is drawing insurers into AI build-out financing. Accelevation's data-centre IPO priced below range at $540M.",
+   "angle": "AI infrastructure risk is being financialised - insurers, SPVs and debt.",
+   "items": [
+    {
+     "title": "AMD agrees to buy Fei-Fei Li’s World Labs for $8.2 billion - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zd0tvdHRNcmx1TDhvdk5KdnBiOXhueUt6ME1LNHlpQWpUaWc0ZDV4d3ZPMngwend4SzFLM3dRNmlpWnVtUUNuWmZiazZWdHI0S2NVSVMzZUFaNUEwYlk3MEFfdUNBcUdfZTdGczdfZmdDUHNFSjlj?oc=5",
+     "source": "The Rundown AI",
+     "time": "16:04",
+     "note": "AMD to acquire World Labs for $8.2B per The Rundown AI."
+    },
+    {
+     "title": "Samsung Invests $1 Billion in KKR-Backed AI Infrastructure Firm Helix - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTjQ5NEI5cUNLeHJjNG9JOHJhckxuSF9aR01UMk5mR09GUkw0dWNPYUZXYmlMRllHWVd6QnhsUFNZRFByeEZQVDBOX2NtVUhWRVkxRUJmM2J5bTdVMTFPNmw1QWZDTndpWUNoamR6aTZkbDNrYzRRX014VnMyWF9uSWN4SXJYbDNvdjhUUXBQaGExY0V2U2xYY3JyVHJlYkl3TzlqeXFqLWhCdw?oc=5",
+     "source": "The Information",
+     "time": "07:21",
+     "note": "Samsung invests $1B in KKR-backed AI infra firm Helix."
+    },
+    {
+     "title": "Nvidia turns to insurers to spread the risk of AI build-out",
+     "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:04",
+     "note": "Nvidia courts insurers to spread AI build-out risk per FT."
+    },
+    {
+     "title": "Accelevation IPO Prices Below Range to Raise $540 Million",
+     "url": "https://www.bloomberg.com/news/articles/2026-09-29/accelevation-is-said-to-be-poised-to-price-ipo-at-18-per-share",
+     "source": "Bloomberg Technology",
+     "time": "21:00",
+     "note": "Data-centre firm raises $540M in an IPO priced below range."
+    },
+    {
+     "title": "Google Is Paying About 100 Digital Publishers for AI Overviews - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOS1lIS01OajkzU3ZZYVRYYXVTVHp6dlJzTExTei00MWVBWTdDVFV1QmI2ZlkteklnNGZ1cGtGZDhnMDFkNTZpSy1DX216cTd2VzZrWWpEZGFxREdqLWJ4TjA1RXkweF9ZanRIS290enpZOVBJQnFLdFBIbTVfNEk5RnJsTHhGeG1DRmdvMjh1bU0zVFU?oc=5",
+     "source": "The Information",
+     "time": "23:09",
+     "note": "Google pays ~100 digital publishers for AI Overviews content."
+    }
+   ]
+  },
+  {
+   "title": "Claude Sonnet 5.5: faster and cheaper mid-tier",
+   "signal": 42,
+   "summary": "Anthropic shipped Claude Sonnet 5.5, a mid-tier upgrade running 30% faster and costing up to 30% less, and reports say it approaches Opus-level performance. The release tightens the inference-economics race with OpenAI's price cuts.",
+   "angle": "Mid-tier price/performance, not frontier bragging rights, is where enterprise budgets decide.",
+   "items": [
+    {
+     "title": "Introducing Claude Sonnet 5.5 Announcements Sep 28, 2026 A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work.",
+     "url": "https://www.anthropic.com/claude-sonnet-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Sonnet 5.5 runs 30% faster and costs up to 30% less per Anthropic."
+    },
+    {
+     "title": "Claude Sonnet 5.5 nears Opus ahead of OpenAI’s DevDay - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmOVhZbEZKNDFNZGkwc0ZxRUhtREJiVzRHbU9rM3d3N2IxdzNWelliTjUzMlhWLTcxeTBhNTRnRmM5TEcyZWJTaWl4ellkYjFJVGVOUzdhTnd2VTl4Z3ZkSmx1VTJtNW51WUt4eTZtMlNLdjNp?oc=5",
+     "source": "The Rundown AI",
+     "time": "16:04",
+     "note": "Sonnet 5.5 reportedly closing in on Opus performance."
+    },
+    {
+     "title": "Anthropic's mid-tier Claude climbs the rankings - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUNEMlNpVDA1M1JsZVFCVm4yZWszRFZLTVhYTllWOFhnYmNYRi1PZnNOeHZKSlE5cENDUU5iQ25TbTl4ZWk1eVZDNlVEaTk2ODhENFJJalFHWGVhZnd4MENzQTJZYkFPMVJxVC0xd2prbjJPcmhiOEJVMk9SQjlaWlk4WFFEWUk?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:03",
+     "note": "Mid-tier Claude climbing model rankings."
+    }
+   ]
+  }
+ ]
+}

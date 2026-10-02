@@ -1,0 +1,280 @@
+{
+ "date": "2026-10-02",
+ "generated_at": "2026-10-02T02:00:30.817318+00:00",
+ "themes": [
+  {
+   "title": "OpenAI's last round: capital vs governance risk",
+   "signal": 78,
+   "summary": "OpenAI's capital structure firms up with a final $20B injection from Nvidia and SoftBank, while the same week brings researcher firings and a reported FTC look into safety practices at OpenAI and Anthropic. The tension: the sector's most valuable balance sheet is paired with rising governance scrutiny. Executives should track how board and regulatory risk is priced into AI supply-chain exposure.",
+   "angle": "Post-deal governance is now the swing factor in who can safely build on OpenAI.",
+   "items": [
+    {
+     "title": "Exclusive: Nvidia, SoftBank Make Final $20 Billion Investment in OpenAI’s Last Round - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclYtOFN3UUhLdHE4Vkh4SlJtSDNWUzRudXVxRmlBOTZBQ1hyekM1Q25NcVRlVnJleUFnc3RWY3RKUVoxLUN0QzF4MHBLTjk2MHJXNFZrYzlWUDJxU1pIM1dJQ1d3YU5ybmVMT2lqLUVpX1ZfNlctOEpQX2FZdWFVeUktS21uRkZzeW9RLWZCbnU5TXFndVZud2JhdUc1VUtka0RGOTNRbzZTckJfQzlPUmtpQ0k3ZjdUZ1E?oc=5",
+     "source": "The Information",
+     "time": "18:15",
+     "note": "Nvidia and SoftBank make a final $20B investment in OpenAI's last round, per The Information exclusive."
+    },
+    {
+     "title": "OpenAI Fires Three Safety Researchers - The Information",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeEVyVTRjYlJhZUdqc1dfWERuS0dOSDRiaTFrRE5wZFlZX1VjbWhWSlA1d0Zha29SaVhPMmkyM3FjZTF1VEN0dTBwaFdOeTVJQ2pRWTlyRTYtdk1MNXJlVTMxUlg0NEdHSWY3ZjluUHprdFhRTzVGajJkcTZmQUJxRDFQSlk?oc=5",
+     "source": "The Information",
+     "time": "19:31",
+     "note": "OpenAI fired three safety researchers; WSJ separately reports firings over alleged info-sharing with an AI safety group."
+    },
+    {
+     "title": "AI safety fears put OpenAI and Anthropic in the FTC's crosshairs",
+     "url": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
+     "source": "Axios AI+",
+     "time": "21:31",
+     "note": "Axios: AI-safety concerns put OpenAI and Anthropic in the FTC's crosshairs."
+    },
+    {
+     "title": "Artificial Intelligence Researcher Resigns from AI Developer Anthropic Amid Safety Concerns for the Future of Development in the Industry - Seton Hall University",
+     "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcmRTRVBOV2tnYzU4WC1ySE9DN2R4U2xScGdrTlgxYnpuT0pJdzJKNVcxYW1zLVVyYVZOTHA5dHJTTm1pMkdFNmpucU4wS2VtM2NDUlBIMmFiZVZhTENDRUwwRkxDcjdPMllod3Nia0ZaMTFhdEEzR1F3YVN6YVZzQXF1bmJ6WnYyRExSUFRhcTBPS0xNU3dDamMzV2xhcjFteEJFQXZrV3ZQRXRRWURjenFvOU9ucHUxbDNCTV80T1hHamE0QUFuX3dzTzVrSG9nUzhxb0ZKRmdjbFZuUVU2M0RBNE9XU0RaVC1PZVdka19WRnk5RlNhRXp0NzRyM0lIMldQdEczWER2WTZCVGh2aUUtQThuWFhhUVE?oc=5",
+     "source": "Seton Hall University",
+     "time": "19:15",
+     "note": "An Anthropic researcher resigns citing safety concerns for the industry's development path."
+    },
+    {
+     "title": "SoftBank Stock Investors See Past Credit Risks to AI Returns",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-01/softbank-investors-look-past-credit-risks-to-gauge-ai-upside",
+     "source": "Bloomberg Technology",
+     "time": "23:30",
+     "note": "SoftBank equity investors look past credit risk toward returns on the group's AI bets."
+    }
+   ]
+  },
+  {
+   "title": "GCC sovereign AI buildout accelerates",
+   "signal": 75,
+   "summary": "The UAE and Saudi Arabia are pushing state-led AI forward on multiple fronts: Azure-scale cyber defence for UAE government, an AI-native outsourcing push in Saudi, and a major Guardian profile of Sheikh Tahnoon's strategy. Kazakhstan ties add a corridor-and-AI dimension. For GCC executives this is the competitive backdrop to every AI procurement decision.",
+   "angle": "Read the Tahnoon profile as the strategy memo behind G42, Core42 and PIF-linked AI ventures.",
+   "items": [
+    {
+     "title": "Fixer, financier, spymaster: how the UAE’s Sheikh Tahnoon is setting his sights on AI dominance - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb1p1S0tfS0FBWDdSN1FrV2owR2doMk45RWc4U0NKSGFjbEJONEtueHh0UEtTRXBhTjUxNzBfQTNzWmwxQWFISTJ2dkhUTExmM096Y1RPSllqRU5qUVc3aTNiMXRXakNSdUZqZEd0WU1BTnZ0R0NxWU9XQzg3TG9XS0hXNEZEWkEwTnFhTG9ROExCVGZ1aWd1V1p6UXZEVTZJenlRbGhjc1JZbllWQ3VRalB4MzczeUZvZ1RPZnNXajBnelNDbE15NFZKU0wxNFpLcS15WFVHMGNleWUxb0plNHl5VEtDUQ?oc=5",
+     "source": "The Guardian",
+     "time": "17:41",
+     "note": "Guardian profile of UAE's national-security chief and his AI-dominance ambitions, spanning finance, intelligence and tech."
+    },
+    {
+     "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
+     "source": "Arab News",
+     "time": "11:59",
+     "note": "Saudi Arabia's first AI-native outsourcing service, developed by PIF-linked Humain with EY MENA."
+    },
+    {
+     "title": "Microsoft, UAE Cyber Council and Core42 deploy AI cyber defence across government - Computer Weekly",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM3AzZVVpN1lWSzVxRGk1UGc0WFQ0bU5MQlo1ZUpxT2Q4amtGbE5VS0lBNlNhSVE3RXhONEhXUGoxX1pZY2swNTVfRk5zYkVvRVMtVzZsYTNOMWJtb0toZFdJRmlackVQdDJ4Umk4dG1Ibkg5dEJtV3JGbE55TUVzcHJRWFpDTUVkX3oxc2I3cnVoampmc0tKSURhY0hmb3ZCbGdJQk5QLThXTWhCM3hRWnUwUXIya0otbF81SThaTEhUa2t5?oc=5",
+     "source": "Computer Weekly",
+     "time": "16:32",
+     "note": "Microsoft, the UAE Cyber Council and Core42 rolling out AI-powered cyber defence across UAE government."
+    },
+    {
+     "title": "UAE ranks sixth globally for AI readiness, with AI security learning up 243% - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWmhKa2dFdGxHbDlwRmFuVGM5ZndCNHd3OXJSYXV3SUc0WTRLQzFjRkctUUh5OERTN1lzN2dCT0VtcURQZ3JCNzJub3hGUThPVDFTZEx5UjgwME52RGcwWlNnOGlLYWNBX1E3cXRDQS0wYzN2Rk90LXZJM2R5Q0xMN1lLVTlydXRXY1BNZjlNVGNjdW5fcms4N1k1RzZnNUpUV09NUGNqM1JMdw?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "09:11",
+     "note": "UAE ranks 6th globally on AI readiness, with AI-security learning up 243% year-on-year."
+    },
+    {
+     "title": "Tokayev, UAE Discuss Middle Corridor, AI Cooperation - Caspian Post",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjdDN1pseFk5Wmlkb2pYalNDLWFGR3U5dkZUUE9WaU9JNzYwOTdqZ1ZXMkhIOGhVanQyWFdzSUVQemFNeVNlb2pHZjVzVmlYbzJYVEdqb3BWU3JlYTI3YXVkc0VES1JvWl9oZDR5SlQwT1hJN29EODlfWUx3WkxTNjZ1THU5a0s5TVpOWUh3?oc=5",
+     "source": "Caspian Post",
+     "time": "20:07",
+     "note": "Kazakh president and UAE delegation discussed Middle Corridor trade and AI cooperation."
+    }
+   ]
+  },
+  {
+   "title": "Google's Gemini 4 Argon: frontier, priced below rivals",
+   "signal": 68,
+   "summary": "Google launched Gemini 4 Argon, described by DeepMind as its next frontier era, with The Information reporting pricing well below competitors. Aggressive frontier pricing changes the inference economics equation for enterprises reviewing model spend.",
+   "angle": "Watch the price signal: frontier capability is no longer premium-priced.",
+   "items": [
+    {
+     "title": "Gemini 4 Argon: our next era of frontier intelligence",
+     "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+     "source": "Google DeepMind Blog",
+     "time": "20:01",
+     "note": "Google's DeepMind unveils Gemini 4 Argon as its next era of frontier intelligence."
+    },
+    {
+     "title": "Google Unveils Gemini 4 Argon, Pricing It Well Below Rivals - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEMtMk5rVF81QzJ0VDBSdVlxbENpV3lvcEYycUxWSWtxTUl4YjZJQ2QtQjZ3SW1TaXlNNGNHYVhlZkZnWmNWMzc4RFJEdW1JSHhWVWVIWEYxcGZCVGF5QlZvRUZ0T1RDX2s3RVd6QURrZXJwc1pxOTdJY2wwMGRfOW8ydTl2TnBlQjZraGZCM0o2cTZn?oc=5",
+     "source": "The Information",
+     "time": "23:03",
+     "note": "The Information: Gemini 4 Argon is priced well below rivals."
+    },
+    {
+     "title": "Google raises AI stakes with Gemini 4 Argon, its most powerful model yet - gulfbusiness.com",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wRWxYUUxFNUNGMXVYQWlwOWVKZ2tlZFBjTVRaZ3pQczFxbnZ0Tkd3SWFPLUZnQlFzS01xQ0Z1T0MtT0V4cUhzNlVpUmJmRlBzZGxqZE9obFVWUEdFTExadjVkbVJBVVBoNFYxd3llSWpGVEVDUmlJNw?oc=5",
+     "source": "gulfbusiness.com",
+     "time": "08:58",
+     "note": "Gulf Business frames Argon as Google's most powerful model, flagging regional relevance."
+    }
+   ]
+  },
+  {
+   "title": "GCC enterprise AI: cameras, courts, courts",
+   "signal": 62,
+   "summary": "UAE AI champion AIQ is expanding internationally with a million-camera oil-and-gas win while piloting oil-patch tools, and legal and government sectors adopt AI assistants across the region. Real deployments rather than announcements mark the Gulf enterprise AI cycle.",
+   "angle": "The GCC is moving from AI pilots to scaled industrial deployments.",
+   "items": [
+    {
+     "title": "UAE AI company AIQ enters India with million-camera deal",
+     "url": "https://www.agbi.com/ai/2026/10/uae-ai-company-aiq-enters-india-with-million-camera-deal/",
+     "source": "AGBI",
+     "time": "10:03",
+     "note": "UAE's AIQ signs a 1-million-camera deployment deal with an unnamed Indian oil-and-gas conglomerate."
+    },
+    {
+     "title": "AI firm AIQ pilots new tools for oil patch - Semafor",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZFNvX0plbzhRSWJqY2dVanF3SV90WHNQNWdPcVBHRWxUUGY3X2lBR3ZJQ2Q3cThTcHM0a1dSMzlZd2JDbW83MGpXOE9kM3hzbHdnOGkwX0FndjZYamU2MFhsQ0dPbXA0RWdoYXgxVnlNUnA1Z0R6WEJFeFlZbFN5M0JrR2oxNlpqeEw2RlRn?oc=5",
+     "source": "Semafor",
+     "time": "12:25",
+     "note": "Semafor: Abu Dhabi's AIQ pilots new AI tools for oil-patch operations."
+    },
+    {
+     "title": "The AI-enabled lawyer: How Lexis+ with Protégé is rewriting legal work - Khaleej Times",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdEM3aU1zb2d2X2ozMXBraDhGV3BwdXM3emc0VHBFNTdkMXlvdmdZSUNTNlVMN0JuS1hlVHY2VVgwdXgzT0hlZHNMal9RRnVIa0tvWDlkaEZjLVg1c3dLcE1kUjlQN0tRdlVrc3FYWkdTV0VPNFlYQXhXd05YRHlrRmxZZXpEbjMzSHhLclZOMjItZF9ld0JrbVh3QWJ0UUJ4dWtDakYwbHpTd9IBqgFBVV95cUxNdEM3aU1zb2d2X2ozMXBraDhGV3BwdXM3emc0VHBFNTdkMXlvdmdZSUNTNlVMN0JuS1hlVHY2VVgwdXgzT0hlZHNMal9RRnVIa0tvWDlkaEZjLVg1c3dLcE1kUjlQN0tRdlVrc3FYWkdTV0VPNFlYQXhXd05YRHlrRmxZZXpEbjMzSHhLclZOMjItZF9ld0JrbVh3QWJ0UUJ4dWtDakYwbHpTdw?oc=5",
+     "source": "Khaleej Times",
+     "time": "14:40",
+     "note": "Khaleej Times: Lexis+ with Protégé positions AI-enabled legal work for Gulf firms."
+    },
+    {
+     "title": "E& UAE and ministry of justice present AI-powered services at 15th UN crime congress - Telecompaper",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZVFQSnU1SEw5NkdmclNmSDBDS05mdVV2WHVsSVRhVk84VE4wdFJQSVZHcFl6c1d3RkhpMExDaW9ISk5qei15djNiOUs3anMzWlpUTGwyRFdNN3FSN1B6NExPckprZUI5dUptT0VFbHo3emdfa095OEJkT2tQQzEzRUdtRFBsbHVDaFlHVU5CMDdVbVRhM2VydnMxUXV5emc5ckZ4MmRJdDBBbEZySEZXSUhFTG5lSzJYay1jM3hJdVhrbl9V?oc=5",
+     "source": "Telecompaper",
+     "time": "12:39",
+     "note": "e& UAE and the justice ministry show AI-powered government services at UN crime congress."
+    },
+    {
+     "title": "IFS Partners With Echelon to Bring Industrial AI to Saudi Enterprises - TechAfrica News",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNODRVWHl2MFRucVRUcEpRNnl3aE9aYjJOUXRtUGdkNlBBbVkwYmtWMmEzX2RvdDlONUNNc1hMRVVaQ3NtWl95RWxVQmdtUVU1ZFVnNmZ0Z1U2ZGlQYVlybGZqYklZS2pNY2dHRG90VnV1RTBHZVpjc3pCRHhLSzNVZEVubHJ5N1h4aGxKTTVHclhUa2FmNHdtRW1lMG1BT1pDclJuRkFjaWNGZzBD?oc=5",
+     "source": "TechAfrica News",
+     "time": "08:40",
+     "note": "IFS partners with Echelon to bring industrial AI to Saudi enterprises."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia-China export-control crackdown escalates",
+   "signal": 58,
+   "summary": "A criminal smuggling charge tied to $300M of Nvidia chips plus disclosed Chinese state-linked Blackwell funding show export controls still leaking. Washington scrutiny of Nvidia's compliance raises supply-chain uncertainty for any enterprise reliant on high-end accelerators.",
+   "angle": "Export enforcement is becoming a headline risk in AI supply planning.",
+   "items": [
+    {
+     "title": "Man Charged by US With Illegally Shipping Nvidia Chips to China",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
+     "source": "Bloomberg Technology",
+     "time": "00:03",
+     "note": "US prosecutors charge a California man over smuggling ~$300M of servers with Nvidia AI chips to China."
+    },
+    {
+     "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal",
+     "source": "Bloomberg Technology",
+     "time": "21:00",
+     "note": "Bloomberg: a Chinese state-backed financing firm funded restricted Nvidia Blackwell chip purchases."
+    },
+    {
+     "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
+     "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
+     "source": "Bloomberg Technology",
+     "time": "21:00",
+     "note": "Bloomberg feature: officials question why Nvidia missed red flags as its chips keep reaching China."
+    }
+   ]
+  },
+  {
+   "title": "AI infrastructure and GPU-backed capital",
+   "signal": 55,
+   "summary": "Japan's $140bn data-centre plan, a $356M GPU-backed loan and SpaceX's AI-cloud pivot show capital formation spreading beyond the US hyperscalers. Inference capacity is becoming a national and corporate balance-sheet question.",
+   "angle": "GPU-backed finance is the new project-finance asset class.",
+   "items": [
+    {
+     "title": "Japan plans $140bn AI data centre push with Dell and Jera",
+     "url": "https://www.ft.com/content/ec55a734-243b-43a2-93ea-8652d6b99309?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "08:05",
+     "note": "FT: Japan plans a $140bn AI data-centre push with Dell and Jera."
+    },
+    {
+     "title": "Sharon AI Announces $356 Million GPU-Backed Loan - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWRtb3VITkQ3T0ZoeU1FRmdGXy1ESXFXZGlMc0pCbmU1LS1CSG82dTBfTGhzMUs2b05UbmpVbmxQQzZaSHpqdlhzc09NNWpaMnBZcl91MlphWVp3TFZaaXJ0U2dIckVCTVFQWHo2M2hyWTVQSGNHM1c5NGxaZmJCdmtYT29mYVdhMXpMb3pBcGxmQQ?oc=5",
+     "source": "The Information",
+     "time": "16:32",
+     "note": "The Information: Sharon AI announces a $356M GPU-backed loan."
+    },
+    {
+     "title": "How SpaceX’s AI Unit Turned Itself Into an AI Cloud Firm - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU3l0d2V0V1RISUVhblFmNmpXNm5DdlBWMmFqVENuWFRyemdyX2IzemZ0U0ZiUk5TNlc1TGhva1V6RkVHR1pXNTFZZFZwbXVwTkFpcWlvWjNpVDlsclpvUlpVRkMtUC1MXzhWZmtLSVdIUnN5d0ZPbmRNdGF3aDhGVC1R?oc=5",
+     "source": "The Information",
+     "time": "13:01",
+     "note": "The Information: how SpaceX's AI unit turned itself into an AI cloud firm."
+    }
+   ]
+  },
+  {
+   "title": "Sovereign AI politics beyond the Gulf",
+   "signal": 40,
+   "summary": "The UK government is hunting a domestic alternative to Palantir under a Buy British agenda, while FT commentary pushes back on AI sovereign wealth funds. The sovereignty wave is spreading but facing ideological opposition.",
+   "angle": "Sovereign AI is now a mainstream policy item from London to Abu Dhabi.",
+   "items": [
+    {
+     "title": "Burnham searches for UK alternative to Palantir",
+     "url": "https://www.ft.com/content/9a6e17fe-55e4-4a6d-8761-8346ec765ba9?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:26",
+     "note": "FT: UK PM's 'Buy British' push seeks a domestic alternative to Palantir for health and defence."
+    },
+    {
+     "title": "An AI sovereign wealth fund isn’t progressive — it’s techno-imperialism",
+     "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+     "source": "FT Technology",
+     "time": "10:53",
+     "note": "FT op-ed: an AI sovereign wealth fund is techno-imperialism, not progress."
+    }
+   ]
+  },
+  {
+   "title": "US AI policy: guardrails, labor, rebranding",
+   "signal": 38,
+   "summary": "State and federal policy activity continues around AI: California guardrails, a worker-protection bill, and an administration-industry push to rebrand AI. For GCC readers, US regulatory direction remains a benchmark for their own rulemaking.",
+   "angle": "The US reframe of AI as 'Super Intelligence' changes the policy conversation, not the technology.",
+   "items": [
+    {
+     "title": "California adds guardrails around artificial intelligence - cbs8.com",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZzJSZmZQTEt5UFVTRzhKYVRpVV9VM1hkaDJxWUd0WkozTW9sUmRHYTNuaXBZaWVZWmdrcDJvWGZ5SzRoR3h2V2s3M1Q1Vm5MenFrbkcyU1plbGItQ3MtdW83Yk5DN2tVZXBFaE5MLUlaZjkyWjZfNkkxRHp1cWxna3lWTk9KTjA0LThDenpWSGJ4MFdqZDUwMUtJNGRaaC1DYzdsLUEyUl9VQ2w2c1ZwQjM5bWdrVXBlVW9SZ25hY2hvZmdYQU1NUXhqWC02bi00UjFoRmY5U1h2M1pYcWRPVA?oc=5",
+     "source": "cbs8.com",
+     "time": "00:59",
+     "note": "California adds AI guardrail rules, per CBS8."
+    },
+    {
+     "title": "Senator introduces bill to protect workers during AI boom - KCTV",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkZIZzEwdk5MNU9yNmZIM0cwYkVzbWlmaG15M2tjcEwzNy1aQzZDaFpBYWJQUjNkNTB1c1hUR1Q2dThFSUg3Z00tTDVqZDJmYWozVjVack5RVUdGRG9uZnlnaWlpUXpsSlo0MllqdmF2OTZYNUV2c3VPbXlUVlowRkJZc3E3YzdvS29oZ0pnX3lIUdIBpgFBVV95cUxOSUJqcE9xVnJfVE92SmpmRzBXajBrMGZWb3ZYel8tZl9YYWNtNEVYNDdyYUVWSmtMbFZLMHE0UW9zWm82ZFhna09FQ2FTODJuOGxhckdHSEpFNUFxWGo1aWtJUm55djUycjFKeG4zQ1k5NUphZ0JBQUIxcVE0ejVfVkFBdXAtQ1VlT2JpVTdBa0gxS1BsaTZZRWFwVXFhV3BObFlxRnBn?oc=5",
+     "source": "KCTV",
+     "time": "23:10",
+     "note": "A US senator introduces a bill to protect workers during the AI boom."
+    },
+    {
+     "title": "Trump and CEOs try to shed AI's toxic branding",
+     "url": "https://www.axios.com/2026/10/01/superintelligence-si-ai-trump",
+     "source": "Axios AI+",
+     "time": "09:35",
+     "note": "Axios: Trump and AI CEOs try to shed AI's toxic branding, rebranding it 'Super Intelligence'."
+    },
+    {
+     "title": "Small business owners beginning to adopt artificial intelligence, Fed study says - The Arkansas Democrat-Gazette",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2owU0JfOVhkWXNLWXNoOHBMY1BFVzVpQlJBbW9HejJBU0NmX3BtNGdvemtLVnNrbXdrcVpRckI3Ni11cnB5Q3J2WXdsUFJUcXY3NlF0TW8wV1NUTkV6VVJzbFMtN0NBaVAzWW5FVDlqUTA0RmF2dFFUN3lPZ19xOHlQcVZmckxYcm9GZWRabDdrbDg?oc=5",
+     "source": "The Arkansas Democrat-Gazette",
+     "time": "21:37",
+     "note": "Fed study: small-business owners are beginning to adopt AI."
+    }
+   ]
+  }
+ ]
+}

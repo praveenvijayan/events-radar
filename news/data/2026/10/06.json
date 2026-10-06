@@ -1,0 +1,316 @@
+{
+ "date": "2026-10-06",
+ "generated_at": "2026-10-06T02:00:08.741334+00:00",
+ "themes": [
+  {
+   "title": "OpenAI courts Abu Dhabi's MGX for a record $30B round",
+   "signal": 85,
+   "summary": "OpenAI is in talks with UAE funds, including Abu Dhabi-based MGX, plus BlackRock, to anchor a roughly $30 billion financing round for the ChatGPT maker. The move puts Gulf sovereign capital at the center of the largest AI private raise to date. OpenAI also pushed its monetization agenda with a new ChatGPT ad format.",
+   "angle": "Gulf capital is no longer a bystander to frontier AI — it is an anchor investor.",
+   "items": [
+    {
+     "title": "OpenAI in $30 Billion Round Talks With UAE Funds, BlackRock",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-05/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round",
+     "source": "Bloomberg Technology",
+     "time": "20:46",
+     "note": "MGX among UAE funds courted to anchor ChatGPT maker's $30B raise (per Bloomberg)"
+    },
+    {
+     "title": "OpenAI is in talks with Abu Dhabi's MGX and BlackRock for a $30B round",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ycWNvdzZ0Q1VySkM4LVNaN2U4dEtXNFVnbC1zNkRLSFJPVEdvZ3F3b2ZZQjhzNnNzckRVQXcwdWNjTVI3OTJmM3pEQ00wUjh5VUVUUUpJdGpzOHktdzhGSUI0TjlvQ3poU19FdA?oc=5",
+     "source": "The Next Web",
+     "time": "21:53",
+     "note": "Corroborates the MGX-led round; frames Abu Dhabi as anchor (per The Next Web)"
+    },
+    {
+     "title": "Building advertising for the way people use AI",
+     "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+     "source": "OpenAI News",
+     "time": "10:00",
+     "note": "ChatGPT gains a visual ad format plus attribution, measurement and brand-suitability tools (per OpenAI News)"
+    }
+   ]
+  },
+  {
+   "title": "Banks fund record AI chip deals as debt piles up",
+   "signal": 80,
+   "summary": "Wall Street is syndicating a record $60 billion chip financing package for Broadcom and Anthropic, testing lender appetite as concerns mount over AI's debt load. Separately, Bloomberg reports banks are chasing risky chip loans inside Asia's $8.2 trillion AI buildout. Data-center operator DayOne also filed for a US IPO to tap investor demand.",
+   "angle": "AI capex has become a credit event — watch lender appetite as a leading indicator, not the equity rally.",
+   "items": [
+    {
+     "title": "Wall Street banks launch record $60bn chip deal for Broadcom and Anthropic",
+     "url": "https://www.ft.com/content/5b9c8ce3-d07c-46f9-8cea-cbc4e7f8ccca?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:58",
+     "note": "Record Broadcom/Anthropic chip package now in syndication as AI debt worries grow (per FT)"
+    },
+    {
+     "title": "Banks Chase Risky Chip Loans in Asia's $8.2 Trillion AI Buildout",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-06/banks-chase-risky-chip-loans-in-asia-s-8-2-trillion-ai-buildout",
+     "source": "Bloomberg Technology",
+     "time": "00:00",
+     "note": "Asia's $8.2T AI buildout is drawing the next wave of debt financing (per Bloomberg)"
+    },
+    {
+     "title": "Singapore's DayOne Files for US IPO Joining Data Center Rush",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-05/singapore-s-dayone-files-for-us-ipo-joining-ai-data-center-rush",
+     "source": "Bloomberg Technology",
+     "time": "20:35",
+     "note": "Singapore data-center operator files to tap investor demand for AI infrastructure (per Bloomberg)"
+    },
+    {
+     "title": "Tiffany McGhee Says Earnings Must Show AI Spending Is Paying Off",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-05/tiffany-mcghee-earnings-must-show-ai-spend-paying-off-video",
+     "source": "Bloomberg Technology",
+     "time": "21:48",
+     "note": "Investors will demand proof of AI monetization in the upcoming earnings season (per Bloomberg)"
+    }
+   ]
+  },
+  {
+   "title": "Reflection AI's open Beam takes aim at China's open models",
+   "signal": 78,
+   "summary": "Reflection AI released its first open-source model, Beam, claiming parity with leading Chinese open models as the US presses its case in the open-weight race against Beijing. Reports tie Nvidia to an $800 million bet behind the startup. The release follows calls for the US to answer Chinese open-model momentum.",
+   "angle": "The open-weight race is now the real frontline of US-China AI competition.",
+   "items": [
+    {
+     "title": "Reflection AI Announces First Open Source Model, Beam",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGlucWtBcFg2Sk1mN0ctbVlQM1FUdDBLeHVJZ1FXQnktMmxwTlBBTllRclRnRmVYNlZ4ZXo3YUZWVmJsQjU0YnFEX1FvYXVXNG1XTEp1TXVXTmcyRjE3YWU5aWNxWVJBcExFUnJORkxsSzBDU0NxUm56bEx4Z0YzZnJHUVI2QjBEcUhGNTl3ckpsNlUyaG1Vcg?oc=5",
+     "source": "The Information",
+     "time": "21:22",
+     "note": "Startup's first open release, Beam (per The Information)"
+    },
+    {
+     "title": "Reflection AI boosts US ambition to compete with Chinese 'open' models",
+     "url": "https://www.ft.com/content/353be303-3271-43f0-aefb-69b6ed7a0a6f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "19:00",
+     "note": "Claims Beam on par with leading Chinese open models; battle with Beijing intensifies (per FT)"
+    },
+    {
+     "title": "Nvidia's $800 Million Bet on Reflection's Open Model Set to Shake Up the AI Competitive Landscape",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52Y1M2ZDFoUDFkVF94N0lsYktyNkYwMjlhWEFqaGRmX0lLYzUyckwtTTJJVWU1d2R4SjhGM3ktTUFhZnhZTW5jV2JMLUZTdjFpWlRpVlhYOEFleXA3MkhlQzVrQzNzMTlONlBfSXdkUnlTVnFKTXc?oc=5",
+     "source": "finance.biggo.com",
+     "time": "12:25",
+     "note": "Reports Nvidia's ~$800M financial backing of Reflection's open play (per finance.biggo)"
+    }
+   ]
+  },
+  {
+   "title": "Washington turns up heat on AI labs",
+   "signal": 75,
+   "summary": "A GOP senator warned Anthropic's CEO against 'alarmist' and 'panic-inducing' AI messaging, the latest pressure from Trump allies. AI whistleblowers joined Google, Meta and OpenAI at a New York City hearing, while Stuart Russell argued alignment with human goals may be impossible. RAND also published a loss-of-control study.",
+   "angle": "AI safety discourse is now a partisan fault line — boards should expect regulatory whiplash.",
+   "items": [
+    {
+     "title": "GOP senator warns Anthropic of \"alarmist\" approach to AI",
+     "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
+     "source": "Axios AI+",
+     "time": "18:00",
+     "note": "Sen. Moreno (R-Ohio) urges Amodei against 'alarmist' AI commentary (per Axios)"
+    },
+    {
+     "title": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHJydEo0VjNfR1l0eWVTUlFTd2Zka0gxcWoyOUV3N0ZRVU9JOWVxaDI5Um91RU4tWW5ldk9EWjMzdGw4NzEzbzdiMVp5NW9Ud1dQT21YT2hfVVBfZElhVG9uWm9pUnJEN3d5MWNnZWNmMGdlSnZJS1dsTE5VcGJVbjVad01fMFdtOGdTM1Jmc3JneUnSAZgBQVVfeXFMTWJlb3RSWUFHMlRSaDNNMEhFNGJnaEdncGtRbWNmUzlld3B6Ym1tZng3SmM0WG1Jal9TX29qOU9tYXpxaVBNYV92WXNTLWxQeWt5MmJUaWZJamxOV1FpNjQ0VzAzUGQ0dTlULUppZlQ3YjFnZTk4ajQyX01Way1LVnJmdTRfVjgtby16Y19KTmp4Uzk1WEhNSUM?oc=5",
+     "source": "ABC7 Eyewitness News",
+     "time": "20:59",
+     "note": "Whistleblowers testify alongside major labs at a New York hearing (per ABC7)"
+    },
+    {
+     "title": "Aligning AI With Human Goals Might Be Impossible, Says AI Prof. Stuart Russell",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQczk0MkdkZ3Q2NGI1eDVuSktBa0FJMURNT1pxb3ptdXZ1ZHRtOGdqZWxNRDBjY24tbHJyYV9IVjlnWDByQmptb04zcHVJLWZYYjRFV3B0cjFsRGhpS3JLVFRWYVdib1R1UVFiQV83bFNQRUpESVM2dDVmalhCcGR3M2NBMWRnaXJOVHZWdElBeGxwYXJGSkk0TmhOVW83NHRkd1R2NnY4OEZRMlUy?oc=5",
+     "source": "The Information",
+     "time": "21:53",
+     "note": "Prof. Stuart Russell says alignment may be fundamentally unsolvable (per The Information)"
+    },
+    {
+     "title": "AI expert Gary Marcus warns 'reckless' technology could lead to deaths as he calls for more regulation",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVU9sV3ZyMHZpajNZZEdJXy04SWdqLWdvd1BXLW81NVZNajF6VXlBaDBpSnZFM3BPUTNwS01WcmZ2QmpXXzZ2ckg2bTlBSHdrMzNJOUdIeElJX0pXMnhWQ29tMDRZeWFhQ2RaZmNBaFNGVWFpYzhyUEZLOTJzY0hHSmd6MUpqT2V3TEZvSXBFRjBnYWNWcmZsNjBEaVMyeVhicHpxWlZ5d3hxRm5kQXNfRzZEa2zSAboBQVVfeXFMTmZBTkJqMU9YV084V05Ed05GMXFjY1lWa3BDNF83dUJzbFpxR1VjWU94dkRSb2dYRkU2anRaeWdTdDJka0lGZ1dVUW9RSFFTWmpKY2VNY1NMRFRLOEwySVg3aVBVdnljd05mT3dvSzVzTzlsLUV5bXZ4ZXNKT1lBMDc5ZlhiRGdSMmtyemt2OUNfLTA2MU4tc3NnNUhlVXBobVVXcDNfR09Rb0hNbnBKNzRKY28zOUFib2d3?oc=5",
+     "source": "Fox Business",
+     "time": "22:48",
+     "note": "Marcus urges more regulation, warns 'reckless' AI could lead to deaths (per Fox Business)"
+    },
+    {
+     "title": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90RXM2UDdrT3dvbE5oUl9pcGJETU5wWjR4ZkVaV25LVGpQdXc5T2VVbGc3T1luaWNXVnpySl9vXzlYeGUtem1neS1KS2ZMdW5QZ3VpNnlWYVJBUXhBSFkzVUVFa0x2TXRN?oc=5",
+     "source": "RAND.org",
+     "time": "13:17",
+     "note": "RAND examines AI loss-of-control across five scenarios (per RAND.org)"
+    }
+   ]
+  },
+  {
+   "title": "GCC races ahead on enterprise AI adoption",
+   "signal": 72,
+   "summary": "Analysis ranks the UAE among the world leaders in AI agent adoption. The region's vendors are scaling: Presight convened leaders ahead of AI Everything Abu Dhabi, G42's Core42 launched a partner program, Lenovo paired with Saudi's Saal.ai for enterprise AI, and HUMAIN tapped EY for Saudi Arabia's first AI-native BPO.",
+   "angle": "GCC is moving from AI ambition to procurement — that is where global vendors should be competing.",
+   "items": [
+    {
+     "title": "UAE among global leaders in AI agent adoption, analysis shows",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLTNCQ0tnV0N6RVV0b3EwQ2ZJLXhQMzdfQnNOTTJPVV80SC10MVNjN0RLVlFOTHZWci0wUmNVQnNXaHRVQ0NTOGJTMGVVNHhJUGNheUdweExvdUhmRGFSVG9BQ2ozUkdBbkg1Z1JPQktOZW81MEhyQmM3TzI2RF9tWFA0X3NqZ1dicHZXV0E2YTJYTXpKdGVNZEZaR2h2UE41UFlENW52YXBERVZQNGNSOW5iRnd5TVZRZ2Fiek1udw?oc=5",
+     "source": "thenationalnews.com",
+     "time": "19:02",
+     "note": "New analysis ranks UAE among top adopters of AI agents (per The National)"
+    },
+    {
+     "title": "Presight convenes AI, technology, investment and government leaders ahead of AI Everything",
+     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR1lJeDVfUkhvbG0wSnRpN2VoV053QVBONmdXNlFHUS1xanRHTGVxTS0xMFQ4aTdWOEMwT1hpTEZuS3NRbXdZblk3a2U4UFppc09UQ3pia1F2Y2ROalRqbnYxYXl4YzJqaXdZZ2syeC1ZbzJHQ181cW5WVklVRm9meS1Kekg5dFFMT2xjTlVUV1pYN2lkMHE3YVA1VW9SLU5MYXFUQkthdTZUby1JVWdLY2F5Q2pwYTZGMlk0ZjBmMm1kWS1sUGQ4LUVVZzZLWTJRTW1leDVybmpvRVBkMkFfTjBVR0I0bk1JSXc?oc=5",
+     "source": "Zawya",
+     "time": "21:00",
+     "note": "G42's Presight gathers AI, tech and government leaders ahead of AI Everything Abu Dhabi (per Zawya)"
+    },
+    {
+     "title": "Core42 Launches Partner Program to Expand Cloud and AI Solutions Across UAE",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObEhuTUgxak9xNks2Sy03M0F5OHRmSC1ROFI1a0cyUjRDQWRzS2JFMHoxSWFQYWdpZ1VUZUUtOEpMdFV5QmdoTEcyMlpVTnQ0dDZCYmh0bWlubUdmVVNJelB2aWU0S1BHNm0wQzk2ekxWUU93aEd4ZU0tVWtQWFd0UUlmQzQ3ckY4M0dFaA?oc=5",
+     "source": "TechAfrica News",
+     "time": "16:40",
+     "note": "G42's Core42 opens partner ecosystem for cloud and AI across UAE (per TechAfrica News)"
+    },
+    {
+     "title": "Lenovo and Saal.ai collaborate to support enterprise AI adoption across Saudi Arabia and the region",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYUt6YTFOT2QyWG4teVJPRENVazVNSG9rV3F4SGRiMGN2Zmc1V2hhcm1hSF9GMGUybXJrRFZYT29nZTVpQXpZUVFJWVBkdWRGZm1XMk9DaE8yekNoZnBFM3dUcDV0RGU1LVRBYWtndGI2N2hsVXB0a29aMlVYanNmRXJ6QUcyUVFUaHV3X3JJTWVCT2h3ZmhpR1ZfVFVIS0dOdDNESFhTSFdKOHJkOFF3T3daZ1Z6d2NDWTRlNy1LdXJINGZyTlZRQXZVTHdvSS1WMEduYmdJOWc3aXJDOW1LeHppZGMxZVpUekhSOUl1WFJKRGs?oc=5",
+     "source": "Zawya",
+     "time": "09:31",
+     "note": "Lenovo teams with Saudi LLM provider Saal.ai for enterprise AI across the region (per Zawya)"
+    },
+    {
+     "title": "HUMAIN taps EY to build Saudi Arabia's first AI-native BPO",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmS1diUzhITVNETGh5djhiOUZVV29YWWVqRm44Z0pRLVQyTHp1QnI5ekUtejFBLWVFeDZweEdId25YM2VobVVTZWM4M1ptUnRSQW5TYWNDU1pNWk1YNElBbXVqdjBpQ1ZMRnpXWXFmbw?oc=5",
+     "source": "Outsource Accelerator",
+     "time": "10:00",
+     "note": "Saudi firm enlists EY to build the kingdom's first AI-native BPO (per Outsource Accelerator)"
+    }
+   ]
+  },
+  {
+   "title": "Inference economics: cheaper models, deflating tokens",
+   "signal": 68,
+   "summary": "FT examined AI token price deflation and why it matters, while the head of the Alan Turing Institute urged the UK to embrace cheaper models. Anthropic positioned Sonnet 5.5 as up to 30% cheaper for most work, and Natixis CIB published research on the changing economics of AI.",
+   "angle": "Inference deflation is the quiet story that decides who captures AI value — and it favors GCC buyers.",
+   "items": [
+    {
+     "title": "What's really going on with AI token price deflation?",
+     "url": "https://www.ft.com/content/96184ef4-05be-467c-9d9c-745e21dad31a?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "05:00",
+     "note": "FT unpacks why token prices keep falling and what drives it (per FT)"
+    },
+    {
+     "title": "UK urged to embrace cheaper AI models",
+     "url": "https://www.ft.com/content/5008b743-8af5-460f-a950-54aa80989f23?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "Alan Turing Institute head calls for wider debate on cheaper model rollout (per FT)"
+    },
+    {
+     "title": "Introducing Claude Sonnet 5.5",
+     "url": "https://www.anthropic.com/claude-sonnet-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic: Sonnet 5.5 runs 30% faster, costs up to 30% less for most work (per Anthropic)"
+    },
+    {
+     "title": "The changing economics of artificial intelligence",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZFVILWl0am1ZLU5La2ticjdVb2RaN3hHUmYzTWJtcldCQlNMNjlJbG1qc2I4M3lsSkFPUVdYaWhUTTRuY3dFZ0hBQmc0a0x5QldNXzBweFhGZktvZ1dfSlpYUC1nQlRYX1lUS0w0OVVqSG93SGw5UlJ3MTR0Slkyb1o4dHlpTkRJRnBzcWpzeUM?oc=5",
+     "source": "Natixis Corporate & Investment Banking - Natixis CIB",
+     "time": "16:19",
+     "note": "Bank research on how inference costs reshape AI economics (per Natixis CIB)"
+    }
+   ]
+  },
+  {
+   "title": "Microsoft and Meta steer staff off Anthropic's Claude",
+   "signal": 62,
+   "summary": "Microsoft and Meta are pushing employees to reduce reliance on Anthropic's Claude in favor of in-house models, a structural shift among the biggest enterprise AI buyers. Anthropic is meanwhile investing $100 million to train 10,000 engineers via its Claude Frontier Academy to close the enterprise talent gap.",
+   "angle": "Cloud giants are quietly de-risking their dependence on third-party frontier models — watch your own vendor stack.",
+   "items": [
+    {
+     "title": "Meta and Microsoft Push to Kick Their Claude Habits",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaEpVcFVhSDFxejVlaUt2WWdBeFIxU0Z4bmVqVFVPZHJTVDc1VzQ3SjA2a1JzTTViLUlwTjRZSWFXLTZFWGZGZ09wM1JVUnJ3NnlIaTBKdXRTQ3JScURTMUw0UVQ2Uzl6aUw1dnJ4ZHBpWGYtX1AwOVhxMmQ4dGNKYlBjTjJaSFlYVm54S3JCb3Z0QQ?oc=5",
+     "source": "The Information",
+     "time": "18:14",
+     "note": "Both giants steering staff toward in-house models (per The Information)"
+    },
+    {
+     "title": "Microsoft and Meta Steer Staff From Anthropic Claude to In-House AI",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRG5VX3ZDVEZPNVFaYzBXaEh4N2hDWmdLRF9vNkVPRXl4NUZCaXVQNmFyRGZlVkFEVXQ4TGdEVmczcFZndGRTc3F0ZVhaMDZZa2JEeDE4S1EtOTAxZzdqWlNHXzF1SngzOGFURDkwVnVLQ2ViVXlQdmp2VVo2Q0dnWkxvRl9oN216eEJSV3Vva0l1cUItb0p1TUcxcUd5a0hDX255ZVU5c2ZBNWtVamk2SkpZMGswOWhnYUE?oc=5",
+     "source": "PYMNTS.com",
+     "time": "22:07",
+     "note": "Corroborates the shift away from Claude internally (per PYMNTS)"
+    },
+    {
+     "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+     "url": "https://www.anthropic.com/news/claude-frontier-academy",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Claude Frontier Academy: $100M to train 10,000 engineers on enterprise AI (per Anthropic News)"
+    }
+   ]
+  },
+  {
+   "title": "GCC policy: AI governance gap and US defense ties",
+   "signal": 58,
+   "summary": "Computer Weekly flags an AI governance gap as the GCC's biggest cyber-security challenge, even as ADGM sets out a regulatory reform agenda through 2027. In parallel, the US and UAE established the first bilateral military AI task force in the Middle East and a UAE delegation strengthened technology cooperation with Washington.",
+   "angle": "GCC regulators are building AI guardrails and US alliances in parallel — a rare dual-track policy position.",
+   "items": [
+    {
+     "title": "AI governance gap emerges as GCC's biggest cyber security challenge",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMEQ1ZHhmMFJaeVFncXRTNHdiN3FJTS1fek9WT3dOaC1CLXlJRkRSMTNNdnk0VHF1bWxJaFY0ZmJBVTNod2dBanhIbnpvUTdnQ0JpX0pPRUUtRDVkMGtpbWtBMFQ3eEYxdGVFN3I2ZXRVLXdCNEVuVDBod2NCcENiOExzM29tQlRvTkVoYVlxcnl1SUVsSDlwcXlaNnQwOTFqRHdfLVFMVGdfRHNOak9sY0lB?oc=5",
+     "source": "Computer Weekly",
+     "time": "21:15",
+     "note": "AI governance gap named the GCC's biggest cyber-security challenge (per Computer Weekly)"
+    },
+    {
+     "title": "ADGM regulator sets out reform agenda through 2027",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeEI1emwzNUR2Tm05Q29rdVpRaE1rT1hvWTUtcWxyRjNHT0swTG55bGM0bXlzZ1VBWkZoMlBlUjNZY3hPdGJEZHFUVVM3NkxiZ3g0TW5fMHdGNzZkd0VwQlRsSUNSaUFmaVMwN0xyaHpCQ0oxeVhRNzhkbUlvS3prSzJEZktTd2d1RzFVbFdwQWxGUkJ0V0NESA?oc=5",
+     "source": "Pinsent Masons",
+     "time": "21:36",
+     "note": "Abu Dhabi's ADGM regulator lays out reform roadmap through 2027 (per Pinsent Masons)"
+    },
+    {
+     "title": "United States , UAE Establish First Bilateral Military Artificial Intelligence Task Force in the Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3NVZWVV9kZ2g2NEk0ODNoeUl1bmFZVmVwZnY2XzJwdThwcXQ1NmJLX1JZM1JUNk91VFNneWExZlI3ZWkxaFl2WjIxSmQxN1ZNRXc?oc=5",
+     "source": "Yemen Online",
+     "time": "17:13",
+     "note": "First US-UAE bilateral military AI task force in the Middle East (per Yemen Online)"
+    },
+    {
+     "title": "UAE delegation strengthens technology cooperation with United States",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWjFGeDA3QnVRTFBYYlc1NFQybWhfejZCUjNTR3lWUHNwdXVPcDhqWGxrNkN4Y01fSXd4X2s0TlhueFItM3puZGNHX1RCQ2JxQ0ZaMmQ2bFpicC1CWGp0N0ZpRm8yRkFiQ0ZrbFFMNmdBQnRjTm1DN254RllsS1R1aklYbnFLQ0YzQmpidlF1Y2xYelpjRWc3NXNmUFp5bWdJMGp1dHc3aU9MckxNSHc?oc=5",
+     "source": "GulfToday",
+     "time": "19:51",
+     "note": "UAE delegation deepens technology cooperation with the US (per GulfToday)"
+    }
+   ]
+  },
+  {
+   "title": "Watermarking goes mainstream — from text to biology",
+   "signal": 50,
+   "summary": "OpenAI detailed how text watermarking will work under EU provenance rules, giving researchers first access. Google DeepMind showed AI-designed proteins can be watermarked and still work in lab tests, while Italy's Giorgia Meloni moved to trademark her voice against AI deepfakes.",
+   "angle": "Provenance is becoming a product feature, not just a policy debate — and now it covers biology and voice.",
+   "items": [
+    {
+     "title": "Our approach to EU text provenance rules",
+     "url": "https://openai.com/index/eu-text-provenance",
+     "source": "OpenAI News",
+     "time": "15:00",
+     "note": "OpenAI details EU text-watermarking approach; researcher access first (per OpenAI News)"
+    },
+    {
+     "title": "Google DeepMind Gives AI-Designed Proteins a Watermark",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFJMcllTSlI4SmRobE9YYjlOTnExWG5EVER3ZkRTUGJaQlJBVDk3dG14Y2NDSjhtRVM5MjVtdktGUFoxWFN1TVhSdWJLVXcycU5uWGZYalZTaFEzVUNDc2I1UzFjUVBEVHlKejJoRWtTejBRZDI5YlNtNmFLRFBoaVQxU0JzSDdsUkoxNnFzLU1QS01MNkUxMw?oc=5",
+     "source": "SingularityHub",
+     "time": "20:54",
+     "note": "Watermarked AI-designed proteins still work in lab tests (per SingularityHub)"
+    },
+    {
+     "title": "Giorgia Meloni seeks to trademark her voice to counter AI deepfakes",
+     "url": "https://www.ft.com/content/f30f83da-96d0-45bf-8fb6-36550d2b9f7d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "15:31",
+     "note": "Meloni first major politician to seek voice trademark against deepfakes (per FT)"
+    }
+   ]
+  }
+ ]
+}

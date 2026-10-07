@@ -1,0 +1,352 @@
+{
+ "date": "2026-10-07",
+ "generated_at": "2026-10-07T02:00:10.313717+00:00",
+ "themes": [
+  {
+   "title": "AI Everything Abu Dhabi: the Gulf's AI showpiece opens",
+   "signal": 78,
+   "summary": "Abu Dhabi's AI Everything summit opened with more than 400 AI companies, 20 unicorns and 200 investors managing $100 billion, focused on moving AI from pilots to large-scale deployment. The UAE is using the event to press its workforce and state-capability agenda, reporting 80,000 government workers trained as AI super users and a state AI council reviewing progress.",
+   "angle": "The GCC's flagship argument that governments, not just labs, can drive AI adoption at scale.",
+   "items": [
+    {
+     "title": "Ai Everything Abu Dhabi opens with 400+ companies, 20+ unicorns and 200 investors managing $100 billion",
+     "url": "https://economymiddleeast.com/news/ai-everything-abu-dhabi-opens-with-400-companies-20-unicorns-and-200-investors-managing-100-billion/?utm_source=rss&utm_medium=rss&utm_campaign=ai-everything-abu-dhabi-opens-with-400-companies-20-unicorns-and-200-investors-managing-100-billion",
+     "source": "Economy Middle East",
+     "time": "15:38",
+     "note": "Summit opens with 400+ companies, 20 unicorns and 200 investors managing $100B."
+    },
+    {
+     "title": "UAE trains 80,000 government workers as AI ‘super users’ as Ai Everything Abu Dhabi opens - CNBC Africa",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlJhTUpmVzZVVDhNVkZNdktoajhTdzFORXh2a0tHMmNiTk9LWjNrV2ZxT01QZVF6azYzQVNTY3VCcXpQUFRwN1dDTnpjUUhGeE1iM0kwLXprVzV2b2IwWGFZMlI0S2FQVnBhckZGcUFzUmFZV09WNHJpNmQzNXdSaHJzOTBZQWxxUlQ0OVVYM3ZucHRfa0NOMmJudXhZdElUcHJHUVA0M21Jc0MtaWdkNDl4RTZuQXJkY25j?oc=5",
+     "source": "CNBC Africa",
+     "time": "20:35",
+     "note": "80,000 government workers trained as AI 'super users'."
+    },
+    {
+     "title": "Abu Dhabi's Artificial Intelligence and Advanced Technology Council meets to review AI progress - The National",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ3pGTXEyc2REOVVPemctaU8wU05lMVJvOWxOUjdqWk1SV2dGOVNKdnlkcUlESXF3SlJaN0tFb3d2Sk1sVTVXNTctRmhRZE1hODcxbzBCWF9RMlNyYk5ZWFNNVm9NNGFWQkpheU5fNUsxVjBmbE40QVo0bUlPSnkzZFdHbk9DVk5mR05YR25kWGRuTDdOTUdNcUxMQjktYjhJdmI5MnVhT2pXaGNYT3dQQjc4aHNfcC1HQkxidmk1dFJzd3lOeXdZS3BiWVFoZjl0Sl94aXN5dEdUX0drOTA5cQ?oc=5",
+     "source": "The National",
+     "time": "18:20",
+     "note": "Abu Dhabi's AI council met to review national AI progress."
+    },
+    {
+     "title": "AI regulation takes focus at Abu Dhabi summit - CNN",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFdyTWpNOEJ0RjZwTHJkcktfTGFXX29xTG1JMnZyMlVRMUNfOFYtVnZiVTZsbjZMWUdsWFR5bTlud0Q4Q1JRbS03SHU3LWNtdzlvVUlQbzBpMlRyTDJWNFRKZW1KN3FNSzBWODZGM2xoVTNsOF8wWjNkYzBKdENTM29Sa0lVTGtLSHZLWVRJZmlQdHM5NTJla1UxdGs2WjBzWnc?oc=5",
+     "source": "CNN",
+     "time": "15:26",
+     "note": "CNN reports regulation is a focus of the summit agenda."
+    }
+   ]
+  },
+  {
+   "title": "Open-weight comeback: Reflection Beam and Mistral vs China",
+   "signal": 72,
+   "summary": "Reflection AI released its first open-source model, Beam, joining Mistral in a push Axios frames as a Western open-weight comeback against China's recent lead. The models give businesses and governments alternatives to the closed ecosystems of the largest US labs.",
+   "angle": "Procurement is becoming a real strategic choice: open weights are now credible third options.",
+   "items": [
+    {
+     "title": "\"I don't want an oligopoly\": New open-weight AI models mount a comeback against China",
+     "url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+     "source": "Axios AI+",
+     "time": "13:05",
+     "note": "Axios: new Western open-weight models from Reflection and Mistral narrow China's lead."
+    },
+    {
+     "title": "Reflection AI Announces First Open Source Model, Beam - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGlucWtBcFg2Sk1mN0ctbVlQM1FUdDBLeHVJZ1FXQnktMmxwTlBBTllRclRnRmVYNlZ4ZXo3YUZWVmJsQjU0YnFEX1FvYXVXNG1XTEp1TXVXTmcyRjE3YWU5aWNxWVJBcExFUnJORkxsSzBDU0NxUm56bEx4Z0YzZnJHUVI2QjBEcUhGNTl3ckpsNlUyaG1Vcg?oc=5",
+     "source": "The Information",
+     "time": "21:22",
+     "note": "Reflection's first open model is named Beam."
+    },
+    {
+     "title": "The 'DeepSeek of the West' finally has a model - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWRnVDlMUnV0aTNHR01oWG8tajFJN2Zmd1JkSkNUWjRIUXVLTVFPUFdKZzhQWklfcy15NXRkdVFXUG5fNHZqZ0hoWXFiNTd3QXRYMFRNOTVMOGp6VUtaQVVRSDM3Vk9tR3VqYXZielhOYkhVQ2R3VWZ6czZEd01ISGgwRnEyQQ?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:04",
+     "note": "Newsletter dubs Reflection the 'DeepSeek of the West'."
+    }
+   ]
+  },
+  {
+   "title": "SpaceX eyes $40B Nvidia chip war chest",
+   "signal": 68,
+   "summary": "SpaceX is in talks to raise $40 billion in debt, in financing led by Apollo, to buy Nvidia chips — the latest sign of vast spending on AI infrastructure. Executives tie compute and energy as the two binding constraints of the AI boom.",
+   "angle": "AI capex just moved onto the credit markets; watch for leverage to become the system-level risk.",
+   "items": [
+    {
+     "title": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo",
+     "url": "https://www.ft.com/content/d3f5928d-f38c-4666-8f7a-8737f9c45f51?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:28",
+     "note": "FT: debt deal led by Apollo, a blockbuster sign of AI infrastructure spending."
+    },
+    {
+     "title": "Musk’s SpaceX in Talks to Borrow $40 Billion to Buy Nvidia Chips",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-06/spacex-seeking-to-raise-40-billion-to-buy-nvidia-chips-ft-says",
+     "source": "Bloomberg Technology",
+     "time": "22:57",
+     "note": "Bloomberg: talks with banks and investors for $40B of debt to buy Nvidia chips."
+    },
+    {
+     "title": "Apollo’s Zelter Says Compute, Energy Will Be AI Bottlenecks",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-06/apollo-s-zelter-says-compute-energy-will-be-ai-bottlenecks",
+     "source": "Bloomberg Technology",
+     "time": "22:05",
+     "note": "Apollo president: compute and energy remain AI bottlenecks."
+    },
+    {
+     "title": "There is only one trade",
+     "url": "https://www.ft.com/content/6d06a6b2-ea2f-4384-959d-682ce78a1693?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:00",
+     "note": "FT column: has every market become a bet on the AI boom?"
+    },
+    {
+     "title": "How AI Hardware Suppliers Are Becoming Billionaires: Big Take Asia",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-06/how-ai-hardware-suppliers-are-becoming-billionaires-big-take-asia",
+     "source": "Bloomberg Technology",
+     "time": "21:37",
+     "note": "Bloomberg: the AI infrastructure boom is minting unglamorous billionaires."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI: math results plus an enterprise agent push",
+   "signal": 62,
+   "summary": "OpenAI published new results on open math problems from an internal frontier model and shared Lean proof formalizations on GitHub; The Information reports over 700 papers with AI-made solutions. The lab also showcased longer-running agent workflows with enterprise partners Atlassian, Ironclad and Jump Trading.",
+   "angle": "Science credibility plus enterprise agents: OpenAI is selling both frontier and deployment.",
+   "items": [
+    {
+     "title": "Sharing AI progress in mathematics",
+     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+     "source": "OpenAI News",
+     "time": "12:00",
+     "note": "OpenAI publishes math results and Lean proof formalizations on GitHub."
+    },
+    {
+     "title": "OpenAI Publishes Over 700 New Math Papers with AI-Made Solutions - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUtPcW5tUlUwSG1VdGVjVWhTd0FyUklrUHBvcW1HVU0tUFMxQkpTRHltb0s1SHJNcDZleW0weG1sX2VRaU5sRkdmTUNmQi1DZWg5VHVUWm4wVElMWEJZTi1TSTdSenMwT0Y1QVk3QmVBZkRuQi1xQ2hKZ3FIM1dMcWtCeGRuek5UNkRzOEV3dm9ZLXFVYmtBMG5rTQ?oc=5",
+     "source": "The Information",
+     "time": "00:35",
+     "note": "The Information: 700+ new math papers with AI-made solutions."
+    },
+    {
+     "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+     "url": "https://openai.com/index/atlassian-partnership",
+     "source": "OpenAI News",
+     "time": "16:00",
+     "note": "OpenAI+Atlassian: connecting frontier models with enterprise knowledge."
+    },
+    {
+     "title": "Advancing computer use with Ironclad",
+     "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+     "source": "OpenAI News",
+     "time": "10:00",
+     "note": "OpenAI+Ironclad: agents trained on complex contracting workflows."
+    },
+    {
+     "title": "How Jump Trading is scaling quant research with ChatGPT",
+     "url": "https://openai.com/index/jump-trading",
+     "source": "OpenAI News",
+     "time": "12:00",
+     "note": "Jump Trading scales quant research with longer-running ChatGPT workflows."
+    }
+   ]
+  },
+  {
+   "title": "AI-enabled cyber risk: South Korea probes AI hacks",
+   "signal": 58,
+   "summary": "South Korea is investigating whether AI was used in hacking its banks, with President Lee Jae Myung warning of a 'completely new kind of crisis'. Axios separately reports AI tools are flooding into underground cybercrime markets, making hacking capabilities cheaper to buy.",
+   "angle": "The first major state-level probe of AI-in-the-attack is a preview of board-level cyber risk.",
+   "items": [
+    {
+     "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakFtbFQyazJjZVY3S21qb193RWduTk1LZ3RZTlFoeEJ2b0tnSVVBclNQeW9EYjVKZHEzTGdPSVJ5eVdjOGxiXzJCVHJkUm5fXzNJODJaRGdpaFFqZ0RTRXRDTlVkMGtlVy1Rcjl1R1FHN3h1SEh0SUxjMHpqeUh2SWJFa2w?oc=5",
+     "source": "The New York Times",
+     "time": "08:51",
+     "note": "NYT: probe into possible AI use in bank hacks."
+    },
+    {
+     "title": "AI models used in bank cyber attacks, warns South Korea’s president",
+     "url": "https://www.ft.com/content/fb32e9f8-4bf7-44ad-983d-1a03f50f66f5?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "06:19",
+     "note": "FT: president warns of a 'completely new kind of crisis'."
+    },
+    {
+     "title": "AI tools flood into underground cybercrime markets",
+     "url": "https://www.axios.com/2026/10/06/ai-cybercrime-hacker-tools-marketplace",
+     "source": "Axios AI+",
+     "time": "17:51",
+     "note": "Axios: AI tools are flooding underground cybercrime marketplaces."
+    }
+   ]
+  },
+  {
+   "title": "Big Tech cuts Claude; ChatGPT text watermarking",
+   "signal": 56,
+   "summary": "Microsoft and Meta are steering staff from Anthropic's Claude to in-house AI models, while the market watches whether Microsoft pushes customers to cut Claude too. OpenAI is also preparing to watermark ChatGPT text, per The Neuron and TLDR.",
+   "angle": "Model alliances are fraying at the seams; provenance tech is coming to consumer AI.",
+   "items": [
+    {
+     "title": "Can Microsoft Help Customers Cut Back on Claude? - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ1VuM1ZWeFRxN0NybV9BWUtaNU5FekpSbVUyeS1fQVJvNXRfdzRtcWZ5T2ZHN1ktNFM0SHl1N09qQTNLMG9tNGFoM2pSd3FOMEtYbkxGNUlBN0xKUmlJaFFjVHJCOTV0MjJlZ000a3RYTUI5cUdkelNQSDlxZlVWMTlUTjJiWFJPWlI4YmZaeXBEN0ctZzhpbU15bS01Q1U?oc=5",
+     "source": "The Information",
+     "time": "17:33",
+     "note": "The Information: Microsoft may help customers cut back on Claude."
+    },
+    {
+     "title": "Microsoft and Meta Steer Staff From Anthropic Claude to In-House AI - PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRG5VX3ZDVEZPNVFaYzBXaEh4N2hDWmdLRF9vNkVPRXl4NUZCaXVQNmFyRGZlVkFEVXQ4TGdEVmczcFZndGRTc3F0ZVhaMDZZa2JEeDE4S1EtOTAxZzdqWlNHXzF1SngzOGFURDkwVnVLQ2ViVXlQdmp2VVo2Q0dnWkxvRl9oN216eEJSV3Vva0l1cUItb0p1TUcxcUd5a0hDX255ZVU5c2ZBNWtVamk2SkpZMGswOWhnYUE?oc=5",
+     "source": "PYMNTS.com",
+     "time": "22:00",
+     "note": "PYMNTS: staff steered from Claude to in-house models."
+    },
+    {
+     "title": "16 hours ago 😸 OpenAI will watermark ChatGPT text PLUS: Meta and Microsoft cut Claude. Altman on AI harms",
+     "url": "https://www.theneurondaily.com/p/openai-will-watermark-chatgpt-text",
+     "source": "The Neuron",
+     "time": "",
+     "note": "The Neuron: OpenAI will watermark ChatGPT text."
+    },
+    {
+     "title": "Instinct group chats 💬, Reflection’s 501B model 🧠, OpenAI text watermarks 🏷️",
+     "url": "https://tldr.tech/ai/2026-10-06",
+     "source": "TLDR AI",
+     "time": "00:00",
+     "note": "TLDR: OpenAI text watermarking in the day's briefing."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI capital: Korea-Saudi ties, National Vault, Inception42",
+   "signal": 54,
+   "summary": "Korea and Saudi Arabia are widening cooperation beyond energy into AI, data centres and aerospace. The UAE advanced its National Vault cyber-resilience plans with Dell, CPX and the Cyber Security Council, while ADGM's Inception42 launched an AI product aimed at executive decision-making.",
+   "angle": "Gulf AI is moving from grand pledges to deal-making and deployed state capability.",
+   "items": [
+    {
+     "title": "Korea and Saudi Arabia Expand AI, Data Centre and Aerospace Cooperation - Konsulteer",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWEJlWDlhRUVkeVFZbjhCUjJGZUFUMFNtWHg1YmduUkpRSjBVckIxcTJTY3JpS2xPZDB5Z1Q1TnE3d1kzZ055NnpuNFVKSXJhbVU2ejQ1ZTlkWGUyd2NNQWdpcVprXzgtSHJNTkhUdGEyN0RUVnFVX28zZlNmNlNvLVRzZ0lIRXk2SGFJTnh1MEZkclpFYUZ3SzdHaDFOOGxqZDN4d3Q0dkI?oc=5",
+     "source": "Konsulteer",
+     "time": "11:44",
+     "note": "Korean-Saudi cooperation extended to AI, data centre and aerospace."
+    },
+    {
+     "title": "Korea, Saudi Arabia to Widen Cooperation Beyond Energy Into AI - Seoul Economic Daily",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNGdrMjEtTWNGMHdpNl9zcjhPVDJ3enlfZWw5NWo4cUg4dUJUTFFHVy1sQ2RUaHM3RXYxSnl3azBmY1lKem1ubllqVTU5LXJTaWFQNVNkNXVObm9pVUVkaWxONjd1cW85TEpnU1hBd3Qzc1h5cnZRRE5rcHZmMUxNZ1g4RmN5RWhub2R4MkJ0U05MNUNtSnNQVXl1SmRsN0cyeXc?oc=5",
+     "source": "Seoul Economic Daily",
+     "time": "03:07",
+     "note": "Seoul Economic Daily: cooperation widening into AI."
+    },
+    {
+     "title": "Ai Everything 2026: UAE advances National Vault, plans cyber resilience center with Dell, CPX and SCC",
+     "url": "https://economymiddleeast.com/news/ai-everything-2026-uae-advances-national-vault-plans-cyber-resilience-center-with-dell-cpx-and-scc/?utm_source=rss&utm_medium=rss&utm_campaign=ai-everything-2026-uae-advances-national-vault-plans-cyber-resilience-center-with-dell-cpx-and-scc",
+     "source": "Economy Middle East",
+     "time": "13:40",
+     "note": "UAE advances National Vault; cyber-resilience centre with Dell, CPX, SCC."
+    },
+    {
+     "title": "Inception42 launches ‘Insight’ to bring AI into executive decision making - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb3pCMU1YU3E0YnhrMmtrQk1pcFBTeEhoVFpiM1MtQzFRamZzSENhSHJDZ28yZktiZTZEVEIwaVRmQkFjZWZlbGtKTTJ1S2g3VEZLMkhFVHZKeWR1UnYxOGNGbllJUEJwM2FDTGtDT08zb0l4SUk0T21rVXFBODFtUWlfTmFmejlWNEgyMmZEWG56WWRBTjN1Y0JtX2dGLUhPSkxJUU1TYzJOSklRajdzZ241bnBVdDNTU3ppRnJ1blVNdm00bGozTkVvZnRVdw?oc=5",
+     "source": "Zawya",
+     "time": "10:36",
+     "note": "G42/ADGM unit launches AI for executive decision-making."
+    }
+   ]
+  },
+  {
+   "title": "Washington's Super Intelligence machine",
+   "signal": 50,
+   "summary": "President Trump's new 'Super Intelligence' task force is working to reconcile divided cabinet factions into a coherent AI policy. The Justice Department has told staff to use the term 'super intelligence' under the executive order, and regulators and watchers debate what it means.",
+   "angle": "Language is policy: renaming AI changes how the federal bureaucracy and markets frame risk.",
+   "items": [
+    {
+     "title": "Inside Trump's new AI playbook",
+     "url": "https://www.axios.com/2026/10/06/trump-ai-strategy-task-force",
+     "source": "Axios AI+",
+     "time": "09:00",
+     "note": "Axios: task force must reconcile divided cabinet factions on AI policy."
+    },
+    {
+     "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5",
+     "source": "Reuters",
+     "time": "20:13",
+     "note": "Reuters: DOJ staff told to call AI 'super intelligence'."
+    },
+    {
+     "title": "Experts hope new AI czar’s leadership can move the needle on regulation - Nextgov/FCW",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaWs4b2ZUTHlROHp3eXU3U01CQTByZnJKYm1rMENpMFhiVjBJemE5dHNOb3VkTEZUcU8wMnludTkyUU1pSllFTTZkbXZaU25ZeEpWMzJyUFhnZWpiY1NldXg2czZVTkhZM1BjcW5MWGpDMWFta1pWWW9XNjNzeGdxQnRvVjc3SFF2RS1pa2ZudldQSHc4cVpEYXQtSXF0dTQ2bS1SVEF5SVhLaFhnVG44aXB6UTRpSDZiaXA0cDZxLTAwTHh4bGIzVXJ4NkxvQ1JpTXBJcGZJZ1FVM01NekJpNk5Hak8?oc=5",
+     "source": "Nextgov/FCW",
+     "time": "21:57",
+     "note": "Nextgov: watchers hope the AI czar can move regulation."
+    },
+    {
+     "title": "Trump makes it clear his power is becoming entwined with AI - The Guardian",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWJVc1I1ZnRhQnVpS1Bpbk5mc3pNeDM3Z3JGd3JzRDFNT0Etc3E0NVRnbVpDT3c5V0VXOVJIVkFkeVdnaFZyb2d3Y0R1Vk5xLUYwY2FGR2RGMGJrMFBOR0NGWmJYWWE1RGt5WFRQQmxER2s1bi0xaGFLM2FzSWR5Ug?oc=5",
+     "source": "The Guardian",
+     "time": "13:23",
+     "note": "Guardian: Trump's power is becoming entwined with AI."
+    }
+   ]
+  },
+  {
+   "title": "Banks bet big on AI: JPMorgan leads the index",
+   "signal": 45,
+   "summary": "JPMorgan topped the global AI banking index for the fifth straight year, widening its lead as industry-wide AI deployment accelerates; a TD survey finds nearly 7 in 10 Americans would let AI complete certain financial tasks. Anthropic separately highlighted Barclays scaling Claude in operations.",
+   "angle": "AI is now a measured competitive differentiator in banking, not an experiment.",
+   "items": [
+    {
+     "title": "JPMorgan Tops Global AI Banking Index With Jobs Seen to Grow",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-06/jpmorgan-tops-global-ai-banking-index-for-fifth-straight-year",
+     "source": "Bloomberg Technology",
+     "time": "10:16",
+     "note": "Bloomberg: fifth straight year at the top, lead widening."
+    },
+    {
+     "title": "Nearly 7 in 10 Americans Would Let AI Complete Certain Financial Tasks, TD Survey Finds - TD Stories",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUjFsak5qNEdOZTZBVVRqZUNabjRtd3VmYk11MVF5dlFfWnZaaFVPekZrVnNIcmJzOFpNamU2NElCNjJzTU93Qk5fUS1Fd2FNSGdteTI3YkF5Y2VKS2dpTjlUREw5eTZkNFhIdldWSkh6cjIxRDBDRGlvTUpQWUpoS3pjWm1tYkFPWjh6d3NVNzVodTE4b0ZlbzU0SzJabThDZ2d0cFJZcGRyNnNqbC1lMWpMdGdORWo0anpHQTFuYjg?oc=5",
+     "source": "TD Stories",
+     "time": "12:41",
+     "note": "TD survey: ~70% of Americans would let AI handle some financial tasks."
+    },
+    {
+     "title": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+     "url": "https://www.anthropic.com/news/barclays-scales-claude",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic case study: Barclays scales Claude across operations."
+    }
+   ]
+  },
+  {
+   "title": "Frontier releases: EmbeddingGemma 2 goes open",
+   "signal": 44,
+   "summary": "Google DeepMind released EmbeddingGemma 2, an open 740M-parameter multimodal embedding model built on Gemma 4 and aimed at on-device search, per blog.google and MarkTechPost. Anthropic also expanded its Cyber Verification Program.",
+   "angle": "Small open models keep shifting the inference-cost curve, including for on-device use.",
+   "items": [
+    {
+     "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model - blog.google",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZnFld2xRdDVNUloweENSSVlzYXVZQ1ZUM2F3RXFFdl8yOHhudlZiUnkxdEJBcEtaWnJYcFh3UnI5QkFnbWRpVldxa1RjYTQzNVFhUzZHaE1OZllLWUoyVjZvLWhudjlZdTEzdkJWZW5TUTBHZGhkMS1KemlhbjkzaWVtN1BxQ2RHcGJn?oc=5",
+     "source": "blog.google",
+     "time": "16:22",
+     "note": "Google blog: open EmbeddingGemma 2 built on Gemma 4."
+    },
+    {
+     "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4 - MarkTechPost",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQjUxck5mdDhqckFOU0ZLSWxfLWVqaEI0R08tWndCVTA5aHRjdnBQZkZnUVFybS1Dc0dnUW9MWE5fUzdsblhNZDM1bHpSeWU4ZW1KUEVTZkJSNTIwOThXVFdBZTVVSmJxMlc4RHNBY0VZRlBuSE1HWmZuSjVucnpXQml0ZXJ0em85NVB3aUFpZnE2N3NxTGJqdEdIT3JsQ3pyMG5PMV9zNENaSDR2dFRIM0JRTkl2TFQ3NGhYNEVhYlJVMEs1bHhMZ2VLT2gxUGlyeGtWTtIB1AFBVV95cUxPQjUxck5mdDhqckFOU0ZLSWxfLWVqaEI0R08tWndCVTA5aHRjdnBQZkZnUVFybS1Dc0dnUW9MWE5fUzdsblhNZDM1bHpSeWU4ZW1KUEVTZkJSNTIwOThXVFdBZTVVSmJxMlc4RHNBY0VZRlBuSE1HWmZuSjVucnpXQml0ZXJ0em85NVB3aUFpZnE2N3NxTGJqdEdIT3JsQ3pyMG5PMV9zNENaSDR2dFRIM0JRTkl2TFQ3NGhYNEVhYlJVMEs1bHhMZ2VLT2gxUGlyeGtWTg?oc=5",
+     "source": "MarkTechPost",
+     "time": "18:36",
+     "note": "MarkTechPost: 740M multimodal embedding model."
+    },
+    {
+     "title": "Oct 6, 2026 Announcements Expanding the Cyber Verification Program",
+     "url": "https://www.anthropic.com/news/cyber-verification-program",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic expands Cyber Verification Program."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T10:14:56+00:00",
+  "lead": "The strongest decision-relevant development is the FSB’s move from consultation to finalised sound practices for responsible AI adoption in finance. Its chair says the practices are being delivered to the G20, and safe AI adoption remains on the FSB’s 2027 agenda; the letter does not reproduce the final text. For bank AI governance, this is a prompt to map existing controls against the forthcoming text, not evidence of a new implementation deadline. It is a quiet day for independently verified enterprise-AI developments.",
+  "items": [
+    {
+      "title": "FSB Chair sets out FSB work on AI and stablecoins",
+      "url": "https://www.fsb.org/2026/10/fsb-chair-sets-out-fsb-work-on-ai-and-stablecoins",
+      "also": [],
+      "source": "Financial Stability Board",
+      "tier": 1,
+      "published": "2026-10-12",
+      "track": "regulation",
+      "decision": "regulation",
+      "signal": 92,
+      "summary": "In a letter ahead of the 15 October G20 finance ministers and central bank governors meeting, FSB Chair Andrew Bailey says the FSB has finalised sound practices for responsible AI adoption in finance after public consultation. The letter says safe AI adoption will remain on the FSB’s 2027 agenda, but does not include the final practices themselves.",
+      "so_what": "Map your current AI governance controls to the final FSB text when available; treat this letter as a supervisory signal, not a new compliance deadline.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Global stablecoin arrangements: Cross-border vulnerabilities and financial stability monitoring",
+      "url": "https://www.fsb.org/2026/10/global-stablecoin-arrangements-cross-border-vulnerabilities-and-financial-stability-monitoring",
+      "also": [],
+      "source": "Financial Stability Board",
+      "tier": 1,
+      "published": "2026-10-12",
+      "track": "regulation",
+      "decision": "regulation",
+      "signal": 68,
+      "summary": "The note analyses the structure of global stablecoin arrangements and how vulnerabilities could propagate. It reviews metrics that could support monitoring and the benefits and limits of currently available data.",
+      "so_what": "For financial institutions with digital-asset exposure, review whether cross-border stablecoin dependencies and monitoring data are visible in existing risk inventories.",
+      "verify": false,
+      "off_list": null
+    }
+  ],
+  "watch": [
+    {
+      "title": "FIS launches agentic AI suite for the office of the CFO",
+      "url": "https://www.finextra.com/newsarticle/48568/fis-launches-agentic-ai-suite-for-the-office-of-the-cfo",
+      "source": "Finextra",
+      "note": "Early product signal from editorial reporting; pricing, general availability, and a deployed customer outcome are not established in the article. Verify against FIS primary product details.",
+      "verify": true
+    }
+  ],
+  "post_seed": null,
+  "sources": {
+    "ok": 85,
+    "total": 85,
+    "failed": []
+  },
+  "candidates_seen": 55
+}

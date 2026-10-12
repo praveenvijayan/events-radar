@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>Architect Brief — enterprise AI, read for decisions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400&family=Geist+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --canvas:#0a0a0a; --canvas-soft:#1a1c20;
+    --ink:#fff; --body:#dadbdf; --mute:#7d8187;
+    --hairline:#212327; --hairline-soft:rgba(255,255,255,.14);
+    --accent:#a0c3ec; --accent-soft:#c4b5fd; --warn:#ffc285;
+    --sans:"Inter",system-ui,sans-serif;
+    --mono:"Geist Mono",ui-monospace,Menlo,monospace;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;font-weight:400}
+  body{background:var(--canvas);color:var(--body);font-family:var(--sans);
+    font-size:16px;line-height:1.55;padding-bottom:8rem;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  ::selection{background:var(--accent);color:var(--canvas)}
+  .wrap{max-width:860px;margin:0 auto;padding:0 clamp(1rem,4vw,1.5rem)}
+  .eyebrow{font-family:var(--mono);font-size:.72rem;letter-spacing:.12em;
+    text-transform:uppercase;color:var(--mute)}
+  .eyebrow a{text-decoration:none}
+  .eyebrow a:hover{color:var(--ink)}
+
+  header{padding:clamp(2.5rem,7vw,3.5rem) 0 0}
+  h1{font-size:clamp(2.4rem,7vw,4rem);line-height:1;letter-spacing:-.03em;
+    color:var(--ink);margin:.55rem 0 .4rem}
+  h1 .dim{color:var(--mute)}
+  .sub{color:var(--mute);max-width:52ch}
+
+  .daybar{position:sticky;top:0;z-index:5;background:rgba(10,10,10,.9);backdrop-filter:blur(8px);
+    display:flex;align-items:center;gap:.5rem;flex-wrap:wrap;padding:.85rem 0;margin-top:1.6rem;
+    border-bottom:1px solid var(--hairline)}
+  .pill{font-size:.875rem;padding:.26rem .9rem;border-radius:9999px;border:1px solid var(--hairline-soft);
+    background:transparent;color:var(--ink);cursor:pointer;transition:border-color .15s,background .15s,color .15s}
+  .pill:hover{border-color:var(--ink)}
+  .pill:disabled{opacity:.3;cursor:default}
+  .pill.on{background:var(--ink);border-color:var(--ink);color:var(--canvas)}
+  select{font-family:var(--mono);font-size:.72rem;letter-spacing:.06em;background:var(--canvas-soft);color:var(--ink);
+    border:1px solid var(--hairline);border-radius:8px;padding:.4rem .6rem;outline:none}
+  .daymeta{margin-left:auto;font-family:var(--mono);font-size:.68rem;letter-spacing:.1em;text-transform:uppercase;color:var(--mute);white-space:nowrap}
+
+  .lead{padding:1.6rem 0 1.2rem;border-bottom:1px solid var(--hairline)}
+  .lead p{font-size:clamp(1.05rem,2.2vw,1.2rem);color:var(--ink);line-height:1.5;max-width:64ch}
+
+  .tracks{display:flex;gap:.4rem;flex-wrap:wrap;padding:1rem 0 .2rem}
+  .tracks .pill{font-size:.78rem;padding:.2rem .7rem}
+  .tracks .n{color:var(--mute);margin-left:.35rem;font-family:var(--mono);font-size:.68rem}
+  .tracks .pill.on .n{color:var(--canvas)}
+
+  .item{padding:1.4rem 0;border-bottom:1px solid var(--hairline)}
+  .item .t{font-size:clamp(1.05rem,2.4vw,1.25rem);letter-spacing:-.01em;color:var(--ink);line-height:1.3}
+  .item .t a{text-decoration:none;border-bottom:1px solid var(--hairline-soft)}
+  .item .t a:hover{border-color:var(--accent)}
+  .meta{display:flex;gap:.6rem;flex-wrap:wrap;align-items:center;margin:.45rem 0 .7rem;
+    font-family:var(--mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
+  .tag{border:1px solid var(--hairline-soft);border-radius:4px;padding:.08rem .4rem}
+  .tag.t1{border-color:var(--accent);color:var(--accent)}
+  .tag.verify{border-color:var(--warn);color:var(--warn)}
+  .tag.off{border-color:var(--accent-soft);color:var(--accent-soft)}
+  .sig b{color:var(--ink)}
+  .item .s{color:var(--body);max-width:68ch}
+  .item .so{margin-top:.55rem;color:var(--ink);max-width:68ch;padding-left:.9rem;border-left:2px solid var(--accent)}
+  .item .also{margin-top:.4rem;font-size:.82rem;color:var(--mute)}
+  .item .also a{text-decoration:none;border-bottom:1px solid var(--hairline-soft)}
+
+  h2{font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;color:var(--mute);font-family:var(--mono);margin:2.2rem 0 .6rem}
+  .watch .w{padding:.5rem 0;border-bottom:1px solid var(--hairline);font-size:.95rem}
+  .watch .w a{text-decoration:none;color:var(--ink);border-bottom:1px solid var(--hairline-soft)}
+  .watch .w .m{color:var(--mute);font-size:.82rem;margin-left:.4rem}
+  .seed{margin-top:.6rem;padding:1rem 1.1rem;border:1px dashed var(--hairline-soft);border-radius:10px}
+  .seed .k{font-family:var(--mono);font-size:.66rem;letter-spacing:.1em;text-transform:uppercase;color:var(--mute)}
+  .seed .v{color:var(--body);margin-bottom:.5rem}
+  .seed .v:last-child{margin-bottom:0}
+  .foot{margin-top:2rem;font-family:var(--mono);font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
+  .copy{font-family:var(--mono);font-size:.65rem;letter-spacing:.1em;text-transform:uppercase;padding:.22rem .7rem}
+  .status{color:var(--mute);padding:2rem 0}
+  .hidden{display:none}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow"><a href="../">Events Radar</a> · <a href="../news/">News Radar</a> · Architect Brief</div>
+    <h1>Architect Brief<span class="dim">.</span></h1>
+    <p class="sub">What the labs, platforms, regulators and the serious press published, read for the decisions an enterprise AI architect has to make. Allowlisted sources only.</p>
+  </header>
+
+  <div class="daybar">
+    <button class="pill" id="prev">‹ older</button>
+    <button class="pill" id="next">newer ›</button>
+    <select id="daysel"></select>
+    <button class="pill copy" id="copyday">Copy MD</button>
+    <span class="daymeta" id="daymeta"></span>
+  </div>
+
+  <section class="lead" id="lead"></section>
+  <nav class="tracks" id="tracks"></nav>
+  <main id="feed"><div class="status">Loading…</div></main>
+  <section class="watch" id="watch"></section>
+  <section id="seed"></section>
+  <p class="foot" id="foot"></p>
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+let manifest=null, idx=0, day=null, track="all";
+const TRACKS={models:"Models & platforms",security:"Integration & security",operations:"Evaluation & operations",decisions:"Decisions & value",regulation:"Regulation & GCC"};
+
+function dayPath(date){ const[y,m,d]=date.split("-"); return `data/${y}/${m}/${d}.json`; }
+function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
+function fmtDate(iso){const d=new Date(iso+"T00:00:00");
+  return d.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long",year:"numeric"});}
+function host(u){try{return new URL(u).hostname.replace(/^www\./,"")}catch(e){return ""}}
+function when(iso){if(!iso)return "";const d=new Date(iso);return isNaN(d)?"":d.toLocaleString("en-GB",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});}
+
+async function loadManifest(){
+  const r=await fetch("data/manifest.json?t="+Date.now());
+  manifest=await r.json();
+  manifest.days.sort((a,b)=>b.date.localeCompare(a.date));
+  $("daysel").innerHTML=manifest.days.map((d,i)=>`<option value="${i}">${d.date} · ${d.items} items</option>`).join("");
+  const q=new URLSearchParams(location.search).get("d");
+  const j=q?manifest.days.findIndex(d=>d.date===q):0;
+  await show(j<0?0:j);
+}
+
+async function show(i){
+  idx=Math.max(0,Math.min(i,manifest.days.length-1));
+  $("daysel").value=idx;
+  $("prev").disabled=idx>=manifest.days.length-1;
+  $("next").disabled=idx<=0;
+  const d=manifest.days[idx];
+  $("feed").innerHTML='<div class="status">Loading '+esc(d.date)+'…</div>';
+  try{
+    const r=await fetch(dayPath(d.date)+"?t="+Date.now());
+    if(!r.ok) throw new Error(r.status);
+    day=await r.json(); track="all"; render();
+    history.replaceState(null,"","?d="+d.date);
+  }catch(e){
+    $("feed").innerHTML='<div class="status">Could not load '+esc(d.date)+' ('+esc(e.message)+').</div>';
+  }
+}
+
+function items(){const all=(day.items||[]).slice().sort((a,b)=>(b.signal||0)-(a.signal||0));
+  return track==="all"?all:all.filter(x=>x.track===track);}
+
+function render(){
+  $("daymeta").textContent=fmtDate(day.date).toUpperCase();
+  $("lead").innerHTML=day.lead?`<div class="eyebrow">Lead</div><p>${esc(day.lead)}</p>`:"";
+  const counts={};(day.items||[]).forEach(x=>counts[x.track]=(counts[x.track]||0)+1);
+  $("tracks").innerHTML=[`<button class="pill ${track==="all"?"on":""}" data-t="all">All<span class="n">${(day.items||[]).length}</span></button>`]
+    .concat(Object.keys(TRACKS).filter(k=>counts[k]).map(k=>
+      `<button class="pill ${track===k?"on":""}" data-t="${k}">${TRACKS[k]}<span class="n">${counts[k]}</span></button>`)).join("");
+  $("tracks").querySelectorAll(".pill").forEach(b=>b.addEventListener("click",()=>{track=b.dataset.t;render();}));
+
+  const list=items();
+  $("feed").innerHTML=list.length?list.map(it=>`
+    <article class="item">
+      <div class="t">${it.url?`<a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`:esc(it.title)}</div>
+      <div class="meta">
+        <span>${esc(it.source||host(it.url))}</span>
+        ${it.tier?`<span class="tag ${it.tier===1?"t1":""}">${it.tier===1?"primary":"tier "+it.tier}</span>`:""}
+        ${it.decision?`<span class="tag">${esc(it.decision)}</span>`:""}
+        ${it.published?`<span>${esc(when(it.published))}</span>`:""}
+        <span class="sig">signal <b>${it.signal??"–"}</b></span>
+        ${it.verify?`<span class="tag verify">verify</span>`:""}
+        ${it.off_list?`<span class="tag off" title="${esc(it.off_list)}">off-list</span>`:""}
+      </div>
+      <p class="s">${esc(it.summary)}</p>
+      ${it.so_what?`<p class="so">${esc(it.so_what)}</p>`:""}
+      ${(it.also||[]).length?`<div class="also">also: ${it.also.map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join(" · ")}</div>`:""}
+    </article>`).join("")
+    :'<div class="status">Quiet day — nothing met the bar.</div>';
+
+  const w=day.watch||[];
+  $("watch").innerHTML=w.length?`<h2>Watch</h2>`+w.map(x=>`
+    <div class="w">${x.url?`<a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>`:esc(x.title)}
+      <span class="m">${esc(x.source||host(x.url))}${x.note?" — "+esc(x.note):""}</span></div>`).join(""):"";
+
+  const s=day.post_seed;
+  $("seed").innerHTML=s?`<h2>Post seed (draft)</h2><div class="seed">
+      <div class="k">title</div><div class="v">${esc(s.title)}</div>
+      <div class="k">pillar</div><div class="v">${esc(s.pillar)}</div>
+      <div class="k">why now</div><div class="v">${esc(s.why_now)}</div>
+      <div class="k">evidence needed</div><div class="v">${esc(s.evidence_needed)}</div></div>`:"";
+
+  const src=day.sources||{};
+  $("foot").textContent=[`${(day.items||[]).length} items`,`${w.length} watch`,
+    src.total?`${src.ok}/${src.total} sources`:null,
+    day.candidates_seen?`${day.candidates_seen} candidates`:null,
+    (src.failed||[]).length?`failed: ${src.failed.join(", ")}`:null].filter(Boolean).join(" · ");
+}
+
+function dayMd(){
+  let md=`# Architect Brief — ${day.date}\n\n${day.lead||""}\n\n`;
+  for(const it of items()) md+=`## ${it.title}\n${it.source||""} · ${it.decision||""} · signal ${it.signal??""}${it.verify?" · verify":""}\n${it.url||""}\n\n${it.summary||""}\n\n> ${it.so_what||""}\n\n`;
+  if((day.watch||[]).length){md+=`## Watch\n`;for(const x of day.watch) md+=`- ${x.title} — ${x.source||""} ${x.url||""}${x.note?`\n  ${x.note}`:""}\n`;}
+  if(day.post_seed){const s=day.post_seed;md+=`\n## Post seed (draft)\n**${s.title}** — ${s.pillar}\n${s.why_now}\nEvidence needed: ${s.evidence_needed}\n`;}
+  return md;
+}
+$("copyday").addEventListener("click",()=>{if(!day)return;navigator.clipboard.writeText(dayMd()).then(()=>{
+  $("copyday").textContent="Copied";setTimeout(()=>$("copyday").textContent="Copy MD",1200);});});
+$("prev").addEventListener("click",()=>show(idx+1));
+$("next").addEventListener("click",()=>show(idx-1));
+$("daysel").addEventListener("change",e=>show(+e.target.value));
+loadManifest().catch(e=>{$("feed").innerHTML='<div class="status">No manifest yet — first publish pending.</div>'});
+</script>
+</body>
+</html>

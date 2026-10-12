@@ -1,131 +1,222 @@
 {
- "date": "2026-10-12",
- "generated_at": "2026-10-12T10:26:00+00:00",
- "lead": "The control regime around production AI is tightening from three directions at once. The FSB has finalised its sound practices for responsible AI adoption and its chair has named AI among the risks to global financial stability in a letter to G20 ministers; UK ministers are drawing up compulsory safety reporting for frontier AI, including mandatory disclosure when agents behave maliciously; and Satya Nadella argues every model should be assumed compromised and contained, with an authorised person able to stop it mid-task. The common thread for regulated deployments: pause authority, incident disclosure and tamper-proof evidence are moving from good practice to expected practice. Closer to home, Mashreq's IBM pilot puts a Dubai bank into production agentic engineering with data residency explicitly in scope.",
- "items": [
-  {
-   "title": "FSB Chair sets out FSB work on AI and stablecoins",
-   "url": "https://www.fsb.org/2026/10/fsb-chair-sets-out-fsb-work-on-ai-and-stablecoins",
-   "also": [],
-   "source": "Financial Stability Board",
-   "tier": 1,
-   "published": "2026-10-12",
-   "track": "regulation",
-   "decision": "regulation",
-   "signal": 86,
-   "summary": "The FSB Chair's letter to G20 finance ministers and central bank governors, ahead of their 15 October meeting, names AI among the risks to global financial stability and transmits the FSB's finalised sound practices for responsible adoption of AI, incorporating feedback from the public consultation. The FSB states that keeping AI adoption safe across the financial system will remain a feature of its agenda next year.",
-   "so_what": "Finalised FSB sound practices are the baseline national supervisors, including in the UAE, will build on, so they belong in the reference list for your next model-risk or AI-governance framework update.",
-   "verify": false,
-   "off_list": null
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T12:34:35+00:00",
+  "lead": "Revised 12 October edition: the UK government’s announcement says incident and near-miss reporting is being considered under the Cyber Security and Resilience Bill, not that a mandatory regime is in force. I re-scored the day’s candidate set to retain decision-relevant work on AI governance, inference economics and end-to-end value, alongside the FSB and Mashreq developments already in today’s issue. The strongest operating principle is to measure AI by process outcomes and bound any agent’s authority before deployment. 12 full items; 3 watch.",
+  "items": [
+    {
+      "title": "Britain steps up national defences against growing AI risks",
+      "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+      "also": [],
+      "source": "UK AI Security Institute",
+      "tier": 1,
+      "published": "2026-10-12",
+      "track": "regulation",
+      "decision": "regulation",
+      "signal": 95,
+      "summary": "The UK government says stronger protections for serious AI incidents and near misses may be considered through the Cyber Security and Resilience Bill regime. It also reports that two government pilots identified and addressed more than 1,000 potential vulnerabilities; incident reporting is under consideration, not an enacted duty.",
+      "so_what": "Build incident and near-miss logging into AI operations, but do not treat the announcement as a current mandatory reporting obligation.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "FSB Chair sets out FSB work on AI and stablecoins",
+      "url": "https://www.fsb.org/2026/10/fsb-chair-sets-out-fsb-work-on-ai-and-stablecoins",
+      "also": [],
+      "source": "Financial Stability Board",
+      "tier": 1,
+      "published": "2026-10-12",
+      "track": "regulation",
+      "decision": "regulation",
+      "signal": 91,
+      "summary": "The FSB says it has finalised sound practices for responsible AI adoption in finance, incorporating public consultation feedback, and is submitting them among reports for the G20. Its chair names AI among financial-stability risks and says safe adoption remains on the FSB’s 2027 agenda; the letter does not reproduce the practices.",
+      "so_what": "Map current AI governance to the final practices when available; the letter is a supervisory signal, not an implementation deadline.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Mashreq Pilots IBM Bob to Advance Agentic AI for Integration Engineering",
+      "url": "https://mea.newsroom.ibm.com/mashreq-pilots-ibm-bob-to-advance-agentic-ai-for-integration-engineering",
+      "also": [
+        "https://www.arabianbusiness.com/finance/banking/uae-bank-partners-with-ibm-on-major-agentic-ai-pilot"
+      ],
+      "source": "IBM Newsroom (MEA)",
+      "tier": 1,
+      "published": "2026-10-12",
+      "track": "decisions",
+      "decision": "integration",
+      "signal": 91,
+      "summary": "IBM says Mashreq is piloting IBM Bob across integration design, development, code review and troubleshooting; it reports early tasks that took two to three hours were completed within minutes. IBM reports up to a 60–70% reduction in design and troubleshooting time and about 4,000 agent requests per month through a secure gateway; these are vendor-reported pilot figures.",
+      "so_what": "Treat this as a regional pilot reference and validate the time-saved denominator, data permissions and human review before using it in a business case.",
+      "verify": true,
+      "off_list": "Primary IBM announcement; the allowlisted Arabian Business report was bot-blocked (403)."
+    },
+    {
+      "title": "Why AI’s easiest wins are misleading CEOs",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
+      "also": [],
+      "source": "McKinsey Insights",
+      "tier": 2,
+      "published": "2026-10-07",
+      "track": "decisions",
+      "decision": "cost",
+      "signal": 87,
+      "summary": "McKinsey reports that 89% of organizations used AI in at least one business function, versus 88% a year earlier; 6% met its definition of high performers and 37% reported some positive EBIT effect. In July research on early-stage adopters, 32% of workflow redesigners reported enterprise value versus 6% of those who did not (5.3× as likely), an association rather than causal proof.",
+      "so_what": "Base AI business cases on end-to-end time, quality, risk and unit economics with one accountable process owner, not employee time saved alone.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Scaling AI inference",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference",
+      "also": [],
+      "source": "McKinsey Insights",
+      "tier": 2,
+      "published": "2026-10-05",
+      "track": "models",
+      "decision": "cost",
+      "signal": 84,
+      "summary": "McKinsey’s 5 October analysis, based on interviews with AI architects from semiconductor companies and hyperscalers, expects inference to account for about 60% of AI demand by 2030 versus about 40% for training. It argues enterprises should compare cost per useful outcome and place workloads across cloud, enterprise, edge or device according to latency, economics and data control; this is a forecast, not a firm-level cost benchmark.",
+      "so_what": "Include workload shape, latency and data-control constraints in cost and placement decisions rather than comparing token rates or hardware benchmarks alone.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "AI is changing work. Now it has to change the organization",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization",
+      "also": [],
+      "source": "McKinsey Insights",
+      "tier": 2,
+      "published": "2026-10-05",
+      "track": "decisions",
+      "decision": "integration",
+      "signal": 83,
+      "summary": "McKinsey’s 5 October article reports that 80% of respondents say AI improved individual productivity, while 37% report positive EBIT impact and 6% qualify as AI high performers. Its survey of more than 700 executives and senior leaders finds reinvention leaders more likely to organize cross-functional teams around end-to-end outcomes, with evaluation, monitoring, permissions and lifecycle management designed in.",
+      "so_what": "Give an accountable senior owner cross-functional authority and build control ownership into workflow redesign before agent pilots go live.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "The bank’s digital twin: The future of nonfinancial risk management",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management",
+      "also": [],
+      "source": "McKinsey Insights",
+      "tier": 2,
+      "published": "2026-10-02",
+      "track": "operations",
+      "decision": "risk",
+      "signal": 82,
+      "summary": "In a 2026 CRO Flash Survey of 23 leading institutions, all reported a formal response to systemic LLM and agentic-AI risks; 73% combine immediate containment with longer-term transformation, while 14% report advanced controls such as red teaming or model testing. McKinsey proposes a live digital twin connecting bank processes, vendors and controls to support continuous monitoring, scenario analysis and incident read-across.",
+      "so_what": "Start with critical dependencies and one testable risk process; require explicit authority and human escalation before an agent can block disbursements or alter controls.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
+      "also": [],
+      "source": "McKinsey Insights",
+      "tier": 2,
+      "published": "2026-10-02",
+      "track": "decisions",
+      "decision": "integration",
+      "signal": 77,
+      "summary": "In an October 2 panel, Guidewire, Bessemer Venture Partners and SAP leaders say insurers still need cloud-native, open cores and APIs for agent access to structured and unstructured data. They argue AI can reduce migration, data-mapping and test-generation effort, while core records and governed API/orchestration boundaries remain important for auditability.",
+      "so_what": "Choose the boundary between systems of record and agent orchestration deliberately; don’t treat agent layers as a reason to defer core modernization.",
+      "verify": true,
+      "off_list": null
+    },
+    {
+      "title": "The next phase of government AI economics",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/the-next-phase-of-government-ai-economics",
+      "also": [],
+      "source": "McKinsey Insights",
+      "tier": 2,
+      "published": "2026-09-29",
+      "track": "decisions",
+      "decision": "cost",
+      "signal": 75,
+      "summary": "A McKinsey survey of 120 enterprises, including 75 at sufficient AI maturity for cross-industry analysis, found 93% had exceeded their planned AI budget. The September 29 article recommends consolidated spend telemetry and consumption accountability as public agencies move from subsidized pilots to production run-rates.",
+      "so_what": "Treat AI usage as a managed spend category with forecastable run-rates, ownership and stop limits rather than relying on nominal pilot prices.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs",
+      "url": "https://www.infoq.com/news/2026/10/context-language-models",
+      "also": [
+        "https://arxiv.org/html/2609.37725v1"
+      ],
+      "source": "InfoQ — AI, ML & Data Engineering",
+      "tier": 2,
+      "published": "2026-10-11",
+      "track": "operations",
+      "decision": "cost",
+      "signal": 71,
+      "summary": "An October 11 InfoQ report covers a September 29 arXiv preprint by researchers at the University of Washington, MIT and Meta that lets a model edit its context file directly. The authors report 11.4% higher accuracy with 21.5% fewer FLOPs on BrowseComp-Plus and 5% higher scores with 59% fewer FLOPs on 12-hour EdgeBench; these are benchmark results from a preprint.",
+      "so_what": "Treat mutable context as part of cost and quality design; require permissioning, provenance and rollback before using it with regulated data.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Your AI governance model is already obsolete",
+      "url": "https://www.cio.com/article/4233151/your-ai-governance-model-is-already-obsolete.html",
+      "also": [],
+      "source": "CIO.com",
+      "tier": 2,
+      "published": "2026-10-12",
+      "track": "security",
+      "decision": "security",
+      "signal": 70,
+      "summary": "A 12 October CIO opinion argues that employees are already using provisioned AI tools to create production code, automated workflows and agents without central visibility into what has been built. The contributor says governance should offer a safe path where teams work rather than relying only on slow approval channels; the piece supplies no empirical adoption rate.",
+      "so_what": "Inventory AI-built apps and agent workflows, then provide a governed route for experimentation while retaining approvals for high-risk actions.",
+      "verify": true,
+      "off_list": null
+    },
+    {
+      "title": "TestSuiteBench: Coding Agents Struggle to Generate Strong Test Suites from Specifications",
+      "url": "https://arxiv.org/abs/2610.13065",
+      "also": [],
+      "source": "arXiv cs.SE",
+      "tier": 3,
+      "published": "2026-10-09T06:26:02+00:00",
+      "track": "operations",
+      "decision": "evaluation",
+      "signal": 69,
+      "summary": "Submitted on 9 October, TestSuiteBench evaluates coding agents on specifications for 165 open-source applications, each with an average of 74 mutants. The authors report mutation scores below 60% even though 88% of generated tests pass on the reference implementations; implementations generated for the same specifications pass 82% of reference tests.",
+      "so_what": "Keep independent test generation and mutation-based evaluation separate from the agent that wrote the code; passing reference tests alone does not establish adequate coverage.",
+      "verify": false,
+      "off_list": null
+    }
+  ],
+  "watch": [
+    {
+      "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
+      "url": "https://arxiv.org/abs/2610.12813",
+      "source": "arXiv cs.AI",
+      "note": "The 8 October preprint proposes symbolic guardrail rules, a deterministic verifier and evidence-gated activation; it is a research design, not deployment evidence.",
+      "signal": 63
+    },
+    {
+      "title": "CTML: A Comprehensive Framework for Continuous Testing in Machine Learning Operations",
+      "url": "https://arxiv.org/abs/2610.12515",
+      "source": "arXiv cs.SE",
+      "note": "The 7 October preprint proposes testing across data quality, drift, model quality and pipeline validation, with one predictive-maintenance case study; independent validation is still needed.",
+      "signal": 60
+    },
+    {
+      "title": "The great AI pricing reset is coming. Are you ready?",
+      "url": "https://www.cio.com/article/4233157/the-great-ai-pricing-reset-is-coming-are-you-ready.html",
+      "source": "CIO.com",
+      "note": "Opinion argues that memory and flash costs behind long-context workloads may pressure token-only budgets; it does not document vendor price changes or buyer-level pricing data.",
+      "verify": true,
+      "signal": 59
+    }
+  ],
+  "post_seed": null,
+  "sources": {
+    "ok": 85,
+    "total": 85,
+    "failed": []
   },
-  {
-   "title": "Mashreq Pilots IBM Bob to Advance Agentic AI for Integration Engineering",
-   "url": "https://mea.newsroom.ibm.com/mashreq-pilots-ibm-bob-to-advance-agentic-ai-for-integration-engineering",
-   "also": [],
-   "source": "IBM Newsroom (MEA)",
-   "tier": 1,
-   "published": "2026-10-12",
-   "track": "decisions",
-   "decision": "integration",
-   "signal": 84,
-   "summary": "Mashreq, Dubai, is piloting IBM Bob for integration engineering and reports up to a 60-70% reduction in integration design and troubleshooting time (vendor-reported pilot results) on a platform averaging 650 transactions per second; IBM Context Forge, based on the Model Context Protocol, routes about 4,000 AI-agent requests per month to its digital banking, payments and enterprise systems through a secure gateway. The bank is also exploring on-premises deployment of IBM Bob for mission-critical use cases that need locally hosted models for data residency and regulatory reasons.",
-   "so_what": "A UAE peer is moving agentic AI into core engineering with residency-aware deployment options, which makes this a concrete regional reference point for your integration roadmap and data-residency discussions.",
-   "verify": true,
-   "off_list": "Primary IBM announcement; the allowlisted Arabian Business report was bot-blocked (403)"
-  },
-  {
-   "title": "UK ministers explore compulsory AI safety reporting",
-   "url": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3",
-   "also": [],
-   "source": "Financial Times — Technology",
-   "tier": 2,
-   "published": "2026-10-12",
-   "track": "regulation",
-   "decision": "regulation",
-   "signal": 78,
-   "summary": "The UK government is drawing up plans for compulsory safety reporting and monitoring of frontier AI, including mandatory reporting of incidents in which AI agents behave maliciously, and is considering legislation that would force developers to give the UK AI Security Institute pre-release access to their latest models, per the FT's own reporting citing people familiar with the matter. AI minister Kanishka Narayan is due to say on Monday that the government is ready to legislate and that nothing should be off the table.",
-   "so_what": "A UK compulsory-reporting regime would set a template other jurisdictions are likely to copy, and the pre-release-access politics directly affect which model versions reach regulated deployments, and when.",
-   "verify": true,
-   "off_list": null
-  },
-  {
-   "title": "Satya Nadella says we should assume all AI models are 'compromised'",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-   "also": [],
-   "source": "The Verge — AI",
-   "tier": 3,
-   "published": "2026-10-11T02:10:00+04:00",
-   "track": "security",
-   "decision": "security",
-   "signal": 72,
-   "summary": "In a lengthy post on X, Microsoft's CEO set out a containment-first position: assume a model is compromised and contain it from the start, with an emergency brake letting an authorised person pause or shut down a model mid-task, tamper-proof human-readable evidence, timely incident disclosure, independent audits, and standardised containment technologies for more advanced models. The primary source is the X post itself; this summary rests on The Verge's account of it.",
-   "so_what": "If Microsoft turns this posture into Azure AI defaults, containment, pause authority and evidence trails become the de facto baseline your regulated deployments will be measured against.",
-   "verify": true,
-   "off_list": null
-  },
-  {
-   "title": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs",
-   "url": "https://www.infoq.com/news/2026/10/context-language-models",
-   "also": [],
-   "source": "InfoQ — AI, ML & Data Engineering",
-   "tier": 2,
-   "published": "2026-10-11",
-   "track": "operations",
-   "decision": "cost",
-   "signal": 66,
-   "summary": "Researchers from Meta, MIT and the University of Washington propose Context Language Models (CLMs), in which the model manages and edits its own context, treated as a file it can update without restrictions, instead of relying on predefined summarisation, compaction and retrieval mechanisms; they report substantial gains in performance and computational efficiency, as characterised by InfoQ (the underlying paper was not opened).",
-   "so_what": "Self-managed context is a candidate replacement for the compaction and offloading plumbing in long-running agents, worth tracking as context handling becomes a dominant share of cost per task.",
-   "verify": true,
-   "off_list": null
-  },
-  {
-   "title": "TestSuiteBench: Coding Agents Struggle to Generate Strong Test Suites from Specifications",
-   "url": "https://arxiv.org/abs/2610.13065",
-   "also": [],
-   "source": "arXiv cs.SE",
-   "tier": 3,
-   "published": "2026-10-09T06:26:02+00:00",
-   "track": "operations",
-   "decision": "evaluation",
-   "signal": 65,
-   "summary": "Across 165 open-source applications, each with a structured specification, reference implementation, reference test suite and on average 74 mutants, frontier coding agents achieve mutation scores below 60% even though their suites are largely valid and 88% of their generated tests pass on the reference implementation; implementations generated for the same specifications pass 82% of the reference tests. The authors' conclusion: agents can build software they cannot verify.",
-   "so_what": "Where agents write code in your pipeline, independent test generation and review stay mandatory controls, because agent-authored tests demonstrably miss requirement-level defects.",
-   "verify": false,
-   "off_list": null
-  }
- ],
- "watch": [
-  {
-   "title": "VEPA: Verified Evolving Formal Policy for Lifelong LLM Agent Guardrails",
-   "url": "https://arxiv.org/abs/2610.12813",
-   "source": "arXiv cs.AI",
-   "note": "Formal symbolic guardrail policies with a deterministic verifier and evidence-gated rule activation, giving inspectable allow/refuse decisions before irreversible agent actions; preprint, not a product."
-  },
-  {
-   "title": "Co-Modifying Application Code and Deployment Infrastructure: A Causal Study of AI Agent Pull Requests",
-   "url": "https://arxiv.org/abs/2610.12849",
-   "source": "arXiv cs.SE",
-   "note": "Of 26,999 PRs, only about 4.5% of agent PRs touch both application code and deployment infrastructure, and those take 3.24x longer to merge (median penalty +13.13 hours); agents largely avoid CI/CD and manifests."
-  },
-  {
-   "title": "The great AI pricing reset is coming. Are you ready?",
-   "url": "https://www.cio.com/article/4233157/the-great-ai-pricing-reset-is-coming-are-you-ready.html",
-   "source": "CIO.com",
-   "note": "Opinion citing an HBR analysis: vendors absorbing inference and memory costs begin passing them through as DRAM and flash prices rise, pressuring token budgets; single secondary source."
-  },
-  {
-   "title": "Your AI governance model is already obsolete",
-   "url": "https://www.cio.com/article/4233151/your-ai-governance-model-is-already-obsolete.html",
-   "source": "CIO.com",
-   "note": "Shadow-AI argument: teams ship agents around slow formal channels, so governance has to operate where the work actually happens; opinion, no data."
-  }
- ],
- "post_seed": {
-  "title": "Assume compromised: designing containment into your agent stack",
-  "pillar": "integration-security",
-  "why_now": "Three separate pushes on the same day — Nadella's containment call, UK compulsory-reporting plans and finalised FSB AI sound practices — converge on pause authority, incident disclosure and evidence trails.",
-  "evidence_needed": "Nadella's primary post text; the delivered UK speech and any draft statutory language; the FSB final sound-practices document; at least one GA vendor feature (Azure AI or Anthropic) implementing pause/stop and tamper-proof audit trails, to anchor the piece."
- },
- "sources": { "ok": 85, "total": 85, "failed": [] },
- "candidates_seen": 55
+  "candidates_seen": 61
 }

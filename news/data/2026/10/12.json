@@ -1,0 +1,229 @@
+{
+ "date": "2026-10-12",
+ "generated_at": "2026-10-12T02:00:07.878504+00:00",
+ "themes": [
+  {
+   "title": "The repricing of AI capital: mega-funds meet margin discipline",
+   "signal": 90,
+   "summary": "Markets are repricing the risk of AI buildout financing. DBS' CEO says investors are demanding more discipline, Bloomberg reports the AI boom is now a major force in corporate credit with rising concentration, and finance chiefs are tightening budgets as costs climb - even as SoftBank's Masayoshi Son seeks a fresh $100 billion after putting $65 billion into OpenAI.",
+   "angle": "Capital, not technology, is becoming the binding constraint on the AI buildout.",
+   "items": [
+    {
+     "title": "DBS CEO Tan Says Market Is Repricing Risks on AI Financing",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-12/dbs-ceo-tan-says-market-is-repricing-risks-on-ai-financing",
+     "source": "Bloomberg Technology",
+     "time": "01:07",
+     "note": "DBS CEO Tan Su Shan says the market is repricing AI-risk, which could bring financing discipline"
+    },
+    {
+     "title": "Is AI Crowding Everyone Else Out of the Bond Market?",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-11/is-ai-crowding-everyone-else-out-of-the-bond-market-video",
+     "source": "Bloomberg Technology",
+     "time": "14:03",
+     "note": "Hyperscalers, data centers and chip firms are borrowing hundreds of billions, turning AI into a major force in corporate credit"
+    },
+    {
+     "title": "Finance executives tighten budgets as AI costs surge",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvYURFX1VFU19zc0RMSVdGNmlSNDd5MXdBUU5UZFBaM2NJckh0aFVldkVMWUFoTlpybnREaXdKM1BSVng5Y2RyOVp1ZjhtS1doT3huWUtXNTA5anNfYy1TTWNJOHB6aV9xR0lRVExYZWw1a0k?oc=5",
+     "source": "Crypto Briefing",
+     "time": "20:44",
+     "note": "CFOs are tightening budgets as AI costs surge"
+    },
+    {
+     "title": "The Attractive Economics Behind Anthropic Data Center Sprint",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFVGNUhWOWkwOWdjbkwycUxUUFQ4NU5tSTBVU2Y2ZW9tYnFzWkJ5b1U1cmpnSDhSdDlYUHBNZlZmMHNCeS1aZzNBZkYzUXJyeHB0TmFXeUt0X0E5dnNmUl8wZjZzdG5hMjdYM0VkZ016OUNrMUxzTjc5T1VuRDYxUUUxWkN1V0d0eDNmcGdfUDcySE45ZDRnR1k3bzduTHM3cEVKUWJFcERzdXRmLWI3ejhvbEVWNVow?oc=5",
+     "source": "The Information",
+     "time": "15:01",
+     "note": "The Information breaks down why Anthropic's data-center sprint makes economic sense"
+    },
+    {
+     "title": "After investing $65 billion in Sam Altman's OpenAl, Japan's richest man Masayoshi Son is seeking $100 bil",
+     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOalVINHBVVHpfOXBkaW5lUkMtclBYaUpuTkViajdoME8tVGg4WWwxOGhqZGVMXzNaZnh2R1VQVVNka05wV3RXYmszYVhOM0NKekRfeXBIdHNfOWNkc0RmbGdXMF81c2p2NU1IbGM1TjdHb2pIekpIZXlfMzQzenJIYVpNa3JfWlJfTUEyR1p4VW5obTZFLWRpSW5qZE1zNHNnWG8tc0wwZXRpODljUFB6T09NNmNvX3J3MjdZVFVNQzN4M2hINFAwMkN0UkswTXJSZmhuajJNTi0zdS1DNmtPYV9oUWJVZUxieGtreUlSMVFrYW1yTU9UZF9ld3N6TnJTVnBZd1haZ0pvanNvT3M3TXk1alEyaDNuTXpXdlVMLWhZUUJVVWlkVFJvV0pUWWVFSWF3b0lxbjXSAb4CQVVfeXFMTXZtZ2hRN0syajhvSnNEOWZZZFYzaXdpMVZ1dEphY3FCSlVQb3RNWFpiX051QThUZ2NOLWMya2VDWGtUc3ZFTlUxVVhlaFZuS2I4YzBKVUJOaUlxWC1YcmpZaExhVlBZcHhVMTI2NUU5ekZGM1hrSVhSQ0h3TGhNcFQtak1raUVPOFNYYmRvVWtRM3F1Rk1uX3dPQ3hSVG9ITVZldGxPY0VremJyVUdYTWFsaEtVV2FDSjlrdnZwTWVUQXNMZnlpT29EQTVsVW9qejhwbnNVS05rLWRfSkhYV3hlUkhtTzg2OFJiZEhYRXZjWWlmNk5ERzNjbXZjbGs3Tk5MN1VMMVNNZU5NeVFKRG5SVWxVbS1iQTJNRDNLRElvZ1BiUl9TSzFvSzk4SHpGRjZ0WG5CcVc2NGVydGF3?oc=5",
+     "source": "The Times of India",
+     "time": "12:50",
+     "note": "Son seeks $100 billion for a new AI fund after investing $65 billion in OpenAI; a late-stage boom signal"
+    }
+   ]
+  },
+  {
+   "title": "World Bank: UAE and Jordan carry the Middle East's biggest AI job risk",
+   "signal": 85,
+   "summary": "A World Bank assessment ranks the UAE and Jordan as the Middle East's most AI-exposed labour markets by share of jobs at risk. The finding cuts against the region's self-image of AI leadership and puts workforce transition on the board agenda, alongside Emiratisation and GCC talent strategy.",
+   "angle": "AI leadership claims meet workforce reality - the Gulf's exposure cuts both ways.",
+   "items": [
+    {
+     "title": "UAE, Jordan face largest share of jobs at risk from AI in Middle East, says World Bank | Khaleej Times - newspaper",
+     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRkp3V0JhOUFjYzV1N1hQN3hiZGhaenhiR2g1aU13UGR2UEdoRFFhTThTQ21OcUFxYV9PY3d6TTZCTXFfS241MTZpQ0lMQ3BTSXJ4V2VMUG8ydkR6Y08xdmxqa2pRZk8wMG00cnd0Z1NzMFdPYmxuZUNmRnRuaUU1MUdvc1dyZjR2czNNd1dOa2RPekVxTHFiYy13ZVlINmFaZUdLUjBXZEFoTDJvUzc0NkJaWnM2TlhDRV9rNWFpTXhjbHN1aVdCcWRJYTRHN3VPQjV5eU1mOA?oc=5",
+     "source": "Magzter",
+     "time": "00:11",
+     "note": "World Bank ranks UAE and Jordan highest in the Middle East for share of jobs at risk from AI (Khaleej Times)"
+    },
+    {
+     "title": "The UAE is becoming a test bed for medical AI. But the real test begins after the pilot",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdkEwcExxZzQzVXkxWHRTY3JHdFZIcm9uaGFmVlR2ZGhwWEVPajhITndkVTRyYVppX3ZTLTRnZmplN0IzZGFRWHlScUoySWd0d2kzTXc0dVlCeVRaUkFQQmR6TUMzYm8zSzk5Y1diZHpSQm44Um5JbzFYSmk2RExxcFZRQVRfQ0pXN3JaWG5GMEZZVFdEVmpadnlWdXlGb2dTeXNFU202eVhsbDdUcjhVaWFjWDVRbzBPOWZrZl9EMmJ6Zw?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "13:32",
+     "note": "UAE runs many medical-AI pilots; Fast Company ME argues the real test is what happens after the pilot"
+    },
+    {
+     "title": "Driverless Glydways electric pods launched on Dubai's Bluewaters Island",
+     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSWNTdHBkY0lqdHQ4cm5XR191VU9rMWJ6SXdmcTY2QjE0R01ZT1haQUJ5SVpWVnZQbE5VdnR5NjluUHNhdV9VRjVhdEdVZ3FvMkQza3F5WGdEMmh0cFZBVm5ZRmdaSTU3ODNGN2VHZE5sb1NYWHhPTEVOODNQUHBYUG1vTVVqVi15U1JiMWROZ3BhcDlfUzdheXZVQ25xMlNYOWxVcXdoTXdOdDhOZEFBT0hmNlhsRFJtZHZjNW9WU0hKeDFDOFYwRk1naFN1d0RQY0luVzBFVHhTeTg?oc=5",
+     "source": "The National",
+     "time": "12:40",
+     "note": "Driverless Glydways pods began operating on Dubai's Bluewaters Island"
+    },
+    {
+     "title": "Lucid Stock Is Crashing Hard And Leaves Retail Wondering If Saudi PIF Buyout Is A Good Exit Strategy",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOFVtbHM3UkFpVUJwdGQ0MG9DcTZiR2RxaVgwRklwVDRkQ1ZyWEV5bkg3UXlZSWE2XzJiYXdPeEhQa1pqbDZDX1hpV1JoejhrTy01bnlBcTVlYlY4Z3JES2Q5SnJOSE03WXR4T3BnQTFFODBWSU5ISE5XYlltTW42elV5eEFlR1o2T1F0OHdNeS1CeDRkc0FocWZjSjlhUHByZ3JYWlRJUTI1R0xlR0E?oc=5",
+     "source": "Stocktwits",
+     "time": "23:34",
+     "note": "Retail investors question whether a Saudi PIF buyout is a good exit as Lucid stock craters"
+    }
+   ]
+  },
+  {
+   "title": "GCC AI diplomacy: a UAE-US axis firms up while China beckons",
+   "signal": 82,
+   "summary": "The UAE and US held talks to deepen cooperation on AI, quantum and space, while 16 Emirati AI experts are set to tour China's AI ecosystem. Abu Dhabi's transition continues to be framed as a sovereign strategy, and Dubai Police have set AI-powered operations targets to 2033 as the UAE claims a top global AI-integration ranking.",
+   "angle": "The region is hedging its AI partnerships across both superpowers - an executive-grade geopolitical signal.",
+   "items": [
+    {
+     "title": "The UAE and US hold talks to deepen closer ties on AI, quantum and space",
+     "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQaHg0TlRESEY5ZllDUmxiY0xoNzJNMkdYQWlCc3NYMU9kLTNMVjVSOUhYRWZCUlA0aHdxYUJXQ3paWjNmVFR4YmhpdWd3ZUpReWhhWHUyQkYtTFRPZkZ6dDhtaTByZ05Td3dKNDgzYndld3c1Q2tKMldQRGhXOVhlNDNfRmpPTVRoeUZ5SkM5NXY1YzZVa0VadDc1RjlyOWVsbjNPQV9jUmtfcUY5ZzNtMUN2M2s5UHFaeUhlN0dJTmlfdEM5Wmx5MFdKT0owNjJDNmQzVW40dUdpd2t2OF9KbHEzX2FGUGxDX2g3b1haUlROX2sxQ0hZR3FhN2ZoQndwTFVKSU1TVG5tN18x?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "17:32",
+     "note": "UAE-US talks aim to deepen ties on AI, quantum and space"
+    },
+    {
+     "title": "16 Emirati AI experts to explore China’s AI ecosystem",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcU01clJOQnVhUGZiTGpwRDNubTY4RlBpM1dyUTI2RW1wNnBSaG9seGNIbW9ER0ptN3dhdTY0cTZuOGh2Qnp3ak16eUpmZXJGUnFRTzAxMnk1OUN4QzA3MktELVVBMkpuVDRZeV9UZk1RRW5nVXliWFJZWlE5RmxCMGV1ZTlaSTRnZUlWY2ZpUjVoQjNoUGx6RUJDeU5LUUtCR3BjcGlTVnpweERZbzJUY01PLUVYUQ?oc=5",
+     "source": "Zawya",
+     "time": "13:19",
+     "note": "A 16-strong Emirati expert delegation will explore China's AI ecosystem (Zawya)"
+    },
+    {
+     "title": "Abu Dhabi’s AI transition",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84TF9QVWJrelVxblVKVlJ0b2hZdmdSMUhBS0JlXzhHektWM2dzem1rMVZsRWpwVEJGVlZoZG45VGRtdzBSckRCQXBoalByTksyWnAyY3pCRkJRd1pUQkZsQmxBMA?oc=5",
+     "source": "Tomorrow's Affairs",
+     "time": "07:45",
+     "note": "Analysis of Abu Dhabi's national AI transition (Tomorrow's Affairs)"
+    },
+    {
+     "title": "UAE ranked top worldwide in AI integration across key sectors",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3BFbjRxY3BHVFo0SDlPZTB6aXFUSHBaWEt6Qi1wMjk1REZCMUFrUWZRV1NreTQtdG1pb2RaRExqUThES0JodnJtTGJ4X09uYjFHNHFQYmVwenpocGtiRkJMQ2pZUFUxcHNuYVFEbUtDYkZEdmdNa1V4bV8ycEh5bk5UckpZbE1tak5TRHk3Q1g5MS05d3dEWllCVW1kbUV4Q3J1ZXhPc2w?oc=5",
+     "source": "ARN News Centre",
+     "time": "09:27",
+     "note": "UAE claims the top global ranking for AI integration across key sectors (ARN)"
+    },
+    {
+     "title": "Dubai Police sets four priorities to boost emergency response and AI-powered operations by 2033",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcHhvTW9Db2dFUVZrbHVUdHB6ZFExdW5aT1hZZS1sNXVvdGV5ZDFjZzhPbFlNdy01Mk52Yzh2UW9hQVRKY3o1UXotT3pSLUZuNzFNRzAtOXAyc2kxaVk1LWJqMnZPQmlmSzBveWZtSzh2OGNsQzJoWUFxTnM0R1c4b3F6VWwtem5mME1VaEVVT080eFpCYzQ2LTlXem01NDZ6Zmx4cF9BUXJkWXVCZDF2aEk0VGNFbkJxTW9tRmwwWEQ3c1dvUzBiR3FiN3M?oc=5",
+     "source": "Emirates 24|7",
+     "time": "09:50",
+     "note": "Dubai Police set four priorities for AI-powered emergency response operations by 2033"
+    }
+   ]
+  },
+  {
+   "title": "Consolidation: value migrates from models to distribution and compute",
+   "signal": 75,
+   "summary": "Amazon is in talks to acquire Decart - the WSJ-reported deal could be worth around $7 billion, one of the biggest AI acquisitions in discussion. As capabilities commoditize, Microsoft's Jacob Andreou warns of a product gap, and an 'AI paradox' argues cheaper tokens make compute itself more valuable.",
+   "angle": "Hyperscalers are buying the AI stack rather than building it - and compute, not models, captures the value.",
+   "items": [
+    {
+     "title": "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-11/amazon-is-in-talks-to-buy-ai-startup-decart-wsj-reports",
+     "source": "Bloomberg Technology",
+     "time": "20:46",
+     "note": "Amazon in talks to buy Decart at roughly $7 billion, per WSJ reported by Bloomberg"
+    },
+    {
+     "title": "The AI Paradox: Why Cheaper Tokens Could Make Computing Power More Valuable",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqd2Nab01kOFVxZzdxUC01eXpwNDIwaEl6d01TQUV2eVRTQ2tzLV9sQ1V4U044dV9WMTVFcWtmTHhpbnVJYy0tOS1NZVI4WFhqWlRTc25Ub041am80SEwxYkRXQ1M1aTF3cWRLY1hNT0cxUXhzbmVQQWlTd0FmRmc?oc=5",
+     "source": "semivision",
+     "time": "01:28",
+     "note": "Argues cheaper tokens could make computing power more valuable, not less (semivision)"
+    },
+    {
+     "title": "Microsoft's Jacob Andreou on AI's product gap",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNzRSOEl6SGhxS2xROWdqRWU5MHdnTGU2bWFMZ2JBMTV1SVo3OWNsbjJaMTJObTBnVWMxbDc1dmswZ2MzMjg0WWIxT0QzR2NIZDZUYXNoQUtEVXdSU0JHWmtOQ0Z2SEdJYTJ4S0ZXS3ZwcUNxT0Z6OGVHYi1QaXd3RGNJN3hnZk0?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:04",
+     "note": "Microsoft's Jacob Andreou on the gap between AI capability and shipped products (The Rundown AI)"
+    }
+   ]
+  },
+  {
+   "title": "Frontier chatter: singularity claims, small models, voice and medicine",
+   "signal": 55,
+   "summary": "Altman declares 'singularity has arrived'; Anthropic ships its cheapest, fastest small model; DeepMind says native audio models will replace cascading voice agents; and its AMIE medical system was tested on 98 patients with physician oversight. High-speed product cadence, uneven evidence.",
+   "angle": "Hype claims and shipped products are diverging - verify before you budget.",
+   "items": [
+    {
+     "title": "OpenAI CEO Sam Altman claims AI singularity has arrived: 'Awesome for the world'",
+     "url": "https://news.google.com/rss/articles/CBMiwwlBVV95cUxQdkRnYmUwVWN0cFctckx5bFhYOUp2aDhnSmxKYU5sX1RDcmFIRkVRUzJNUDk1azJkd3VEbS1VOEROZzhSNUpnUm9LWkxwOXY2SEVSNWpZSG5LY1VxSi1BMTFWS3lKS0lYRER1X3ZrTy1ITmFkUHpPZUpEenczSHJESmptWU1BTTZ5Nmw1Wnh1WF8zcW5VN0NscmtSa1h0Y2RGZWI3LTdQdUI5QWljSnFTSzJxUGlkSnhQU0pNVkltMmhJLWY3bUhEOHU0UGs3Szh1bnB4QzBUMGpFSHhDcnlDc2V2eXkzQUZVSnktT19rQU9nX2dZbktfRHRkZ2U3bVF0TEltaFp4U2VNMjFMUnJ1RTFCc09oZ1JlS3hSdEFWRk8zdlVFNzVNSm5Wbld5cldWNWFKM2ZWcjhoY0o5dmJIcG83X1hRVzBwSE8tTWI2TEo4b1FTRUg3SklFOG9jOFZHWTZXSXJuTWpnSWdiUzNzVWJ6QUp1eHExMHlsQjdESzB2UGl4MnkzTzlIZzdsTmZlOTdoMUNFay1FYjlmWTNFZkh1REVpRlppLU1FU21tZjNVQVdLZEJYWEcyQ0tjN3NicDVMQTZ5LWJjNUs0Y0lBUUdROFFsd2R0M2hpSXcyeE9PUlFCQ0ZVeWp1dTVnblVxSjQxMnNPV3RqVFFETmRROHNfNFdmTWhDOXBHdEVyX0phVjAxT0JzMUtRZzlPSndHZEtya1VURDZZaWd5RHp0YmRNeVhFMFIxWnFlLThkU2ZKQ3VIWjh0dExUQnIzVU9VZG9oMUl0WGxHYkhSbERCTzlqX0lVUTF6N1dJbFFpQkFYYnI0TGxqaFZLWXh6YnF2UmR1OGdnelJpeWtLb0hvM0lQZ0p0eTJhWGljbEVQVlhSLUJTQUg2MUNDTzlrNmdvM2pwMnh5dmxaWU52bEtneGlRSEkwRUkteFU0dGhIQk1ubUFqTjNxV1luVTdtZmRRV3BQVWVfZmpySGFlUGY4VjMyamFvMGQtbERkSElJNE1yNjB5Q3EtNmFxZUptVENhUXhUT0tPd1dSTXFBMHVoakxHSnZVSW8tV1BYbm5pdWtfUVZlb21oZGFZZFlTNk0tUWg2STlmVThZN3BtbkNaQlB4LXVvRmdaVHJ6dGpyMEZkWmtVV2g1QjZaNFVUZ2Ryei1taXlIUXhPNnhvREpOcnhfTXk5WFhEbTc5bmFKYldOcDhtNi1vTzF3US1CMGRxUEhteHY3T093X2hoS29ubk1tU0Q3bzZSdDVrNkJPcEZta0JiZFJxRnI2LU1hTDRhUnZuX0ZUTFJ4VHpQYjZzYWRWaEFBdmFIYl8zMnNSVEl6VndlZmNKc3o0V1VDNGc3SHlrY2Zpa19VTm9YaENXckZObFMzUTgtWXQ5bHF0MnRUOXdWQkVrVUlPZFZDcmJFc0JLQzhOMGl5aFBNUGplY2ptM0ZwQjNVNkRXUGtveUZTMlZrUlZlVmFKd3V3ZkZvWUh1eTBWTU5ZOFFLZTV2a3U0TFpRZEU5ZEZXYk1BY0tSaC1qZEJzczhUSVB6NGwzRmhLaXNpU0xmLWM3c0xMcHJOLXBFY1VVdm5hVWVjcFRNWVZuMVdnbEV5SVplUW02d2hn?oc=5",
+     "source": "6abc Philadelphia",
+     "time": "20:27",
+     "note": "OpenAI's Sam Altman claims AI singularity has arrived and is 'awesome for the world' (6abc)"
+    },
+    {
+     "title": "Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic ships Claude Haiku 5.5 - its cheapest, fastest small model for high-volume cost-sensitive work; The Neuron cites price cuts up to 90%"
+    },
+    {
+     "title": "Google DeepMind's Thor Schaeff: Native Audio Models Will Replace Cascading Voice Agents",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xWDJwT2s0MDlOQmtnMENDb3g1OUVFLTg0UURvQnFwMXJfX1drWFY0bHNySzhfVVhhdnhsb2hibEtVTjJFSjFJQ3RubUNOT2ZtZXEyaS0xLVYzZUU?oc=5",
+     "source": "BigGo Finance",
+     "time": "17:08",
+     "note": "DeepMind's Thor Schaeff: native audio models will replace cascading voice agents (BigGo Finance)"
+    },
+    {
+     "title": "8 hours ago 😺 Google tested AMIE with 98 patients PLUS: Physicians monitored every AMIE chat and could step in.",
+     "url": "https://www.theneurondaily.com/p/google-tested-amie-with-98-patients",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Google tested AMIE with 98 patients; physicians monitored every chat and could intervene (The Neuron)"
+    }
+   ]
+  },
+  {
+   "title": "The physical layer: mobility, hardware and the talent war",
+   "signal": 48,
+   "summary": "Xpeng says its driver-assist systems can adapt to European roads with small data; Apple supplier Luxshare faces a US patent probe over data-center power tech; Apple's smart-home line launches this week; and DeepMind is advertising high-paying research roles that require no degree. Hardware supply chains and skills pull in opposite directions.",
+   "angle": "Physical-layer economics and the no-degree talent pivot are both board-level signals.",
+   "items": [
+    {
+     "title": "Xpeng Says It Can Quickly Adapt Car Autopilot Systems for Europe",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-11/xpeng-says-it-can-quickly-adapt-car-autopilot-systems-for-europe",
+     "source": "Bloomberg Technology",
+     "time": "14:31",
+     "note": "Xpeng claims its ADAS can adapt to European roads with relatively small amounts of data"
+    },
+    {
+     "title": "Apple Supplier Luxshare Expects No Material Impact From US Probe",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-11/apple-supplier-luxshare-expects-no-material-impact-from-us-probe",
+     "source": "Bloomberg Technology",
+     "time": "02:38",
+     "note": "Apple supplier Luxshare faces a US patent investigation over data-center power technologies (Bloomberg)"
+    },
+    {
+     "title": "Apple Smart Home Launch Oct. 13 Plans; HomeView Has Mid-November Release",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-10-11/apple-smart-home-launch-oct-13-plans-homeview-has-mid-november-release",
+     "source": "Bloomberg Technology",
+     "time": "14:00",
+     "note": "Apple's smart home launch lands Oct 13, HomeView due mid-November (Bloomberg)"
+    },
+    {
+     "title": "Google DeepMind is offering dream job for techies paying almost Rs 11 crore: ‘No degree required…’",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTmxtVWQyR2VQWFROSEhBTFRsSTNITk5tZ240YXpuQ2ZDOXM4N0ZKVFVmdVpZeFN1RGtLYkxfQjRoejJkeWxCaURlTVBjaG4yaEJqbUo0T0FBcVhndzJaUmFIU0V5T2ZGRmZHS2tqR2xVUk5WWWx5ZFBRVnhlbTVMUEI3VkV0cGJLYUZXWE5JZDFKRk5tYkU5bks5NDZGUWMtSXJMaldEQWw5YkM0MHgzWGJpY0FnbFR0czZteElNTERabmhFWWhEZlFTc1ZJZU95bUxuR1JEMFpjZHBicDY2Qnc3eXFwR2lPUXFicmhSVGtxU2gzSHdRR3Bn0gH_AUFVX3lxTE1jLXZsQWZvYmVLak1rQk10VE90amhQQXhTT1hONjkxbEpOZm1lRUpIX0tkUjZXYjd0WVdmZEZXdWlOOWV1cWY3QW43UHF2SFZkUXdhMmtKeF9EYnZzZ1dpTUNLd2xQSTNEOUQxb0htaFVqaXZVWnl6d0dWNlkyc1IyMmhQREF6bXg1VnY4aC1vTS0za21lUVF3ZGd3eC1ZdmpFS2RTRVl2WUxEM1JQQmNiZm9WMFU2cXFLVUpwSGJrci1nLTMyRXNObWI4ejBvQlZrcGxaUWJwMUlxbzN6THZqSUxGQmZPN2FMYUpoaG5PR0xhNmZ1YmxCdTBFaVVmNA?oc=5",
+     "source": "The Economic Times",
+     "time": "19:26",
+     "note": "DeepMind advertises ~$150k-class research roles with no degree required (The Economic Times)"
+    }
+   ]
+  }
+ ]
+}

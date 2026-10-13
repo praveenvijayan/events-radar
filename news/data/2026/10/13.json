@@ -1,0 +1,315 @@
+{
+ "date": "2026-10-13",
+ "generated_at": "2026-10-13T02:00:12.879613+00:00",
+ "themes": [
+  {
+   "title": "Dubai's agentic-AI sprint",
+   "signal": 70,
+   "summary": "The UAE is pushing agentic AI from pilots into production: Sheikh Hamdan reviewed the TACTICA platform for vital sectors, eleven Dubai companies pledged to integrate autonomous agents into their operations, and Dubai launched a global push to turn AI agents into real-world products. Optro set up a UAE hub for agentic-AI governance and Sharjah opened an AI industrial accelerator billed for the 'super-intelligence era'.",
+   "angle": "GCC's policy-coherent agentic bet is a story the global AI press barely covers.",
+   "items": [
+    {
+     "title": "UAE advances agentic AI for vital sectors as Sheikh Hamdan reviews TACTICA platform",
+     "url": "https://economymiddleeast.com/news/uae-advances-agentic-ai-for-vital-sectors-as-sheikh-hamdan-reviews-tactica-platform/?utm_source=rss&utm_medium=rss&utm_campaign=uae-advances-agentic-ai-for-vital-sectors-as-sheikh-hamdan-reviews-tactica-platform",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "Sheikh Hamdan reviewed TACTICA, the UAE's agentic-AI push for vital sectors."
+    },
+    {
+     "title": "11 Dubai-based companies pledge to integrate Agentic AI into their operations",
+     "url": "https://economymiddleeast.com/news/11-dubai-based-companies-pledge-to-integrate-agentic-ai-into-their-operations/?utm_source=rss&utm_medium=rss&utm_campaign=11-dubai-based-companies-pledge-to-integrate-agentic-ai-into-their-operations",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "Eleven Dubai-based firms pledged to integrate agentic AI into their operations."
+    },
+    {
+     "title": "Dubai launches global push to turn AI agents into real-world products - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkRLeEdINExtUEUtWHRMLXpnZHF3WHVMUmhIUFZwbi1DQktndFBGR253a3FybmZXcXZXTktHTEh6S2NEMWI0SENCeDl3eUw1d05nV1BOOUdZMEUxR0JjblZibVdzalFOZURwcUVLMkJYU1V0aWlyaDZtZUlBTnhrYUhRdUxfc2E5UUFodHltUlM4OTBQME8tWmJ3UFZSc2FZVWow?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "",
+     "note": "Dubai launched a global push to move AI agents from labs into real products."
+    },
+    {
+     "title": "Optro establishes UAE hub to support agentic AI governance - TahawulTech.com",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVDNjendFX1hHX093QU1TZi10UmNDUVJ1X3Q5VnlPSFJ3WHd3SnNRM0FFN0VWSWRsRC02eEplQ1E5Qmk2Z3YzSVBfc010X19LUXRiNW9xck9EQ2FTdFNRck1HS2QxX3F4MHY3Qnk1UXRGb0wtOVBWbGUwM0hNbGFWcEJsU1ZldnlIcHBXalk2T1VzOUxmeFBxcTdVZ2RQSVk?oc=5",
+     "source": "TahawulTech.com",
+     "time": "",
+     "note": "Optro opened a UAE hub for agentic-AI governance."
+    },
+    {
+     "title": "Sharjah Innovation Park Launches Advanced AI Industrial Accelerator for the Super Intelligence Era - Press Release Hub",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRm1lSnBiWkFyb00tLVVJbS1wM29qNnlKWkhDWF9KVXY3VERsOXFHQVFNTWNaeXQ0c0NESlVrRGpZQnBudEQ5RVFvTm5Sa3MyTS1kSENFMVpycmlOVUNLdEkxOW9YVm4xVlp6OG9EclBZSzFBdlFZc1c5aUNvaEVlbEFQR2pHQkw2ejlQdGNmMXM5NHZMdzk2N1FYRUxOc1FZQUh5VWpPdHk4ZWJsLVk0TUJDczIwZUlJbElVUFpVNnBUclVNV0xPNFM5NW90bkdQY3JVaDJvX2pCZ2tDU0tNTTJRNVg?oc=5",
+     "source": "Press Release Hub",
+     "time": "",
+     "note": "Sharjah Innovation Park launched an AI industrial accelerator for the 'super-intelligence era'."
+    }
+   ]
+  },
+  {
+   "title": "AI's money loop: hyperscaler capex vs 2008 echoes",
+   "signal": 65,
+   "summary": "Capital keeps pouring into AI at scale: Tencent started a $5B bond sale to fund AI spend, SoftBank's reported $100B fund push hints at a late-stage boom, and Bloomberg's Big Take draws parallels between AI's giant money loop and 2008. The FT flags hyperscalers' huge lurking leverage while CFOs tighten budgets as AI costs surge; Microsoft's homegrown chip and Azure reorg show the stack being taken in-house, and Applied Materials says AI lets it double sales without doubling headcount.",
+   "angle": "'How much of the AI capex loop is real demand vs leverage?' is the board question for 2027.",
+   "items": [
+    {
+     "title": "Tencent Kicks Off $5 Billion Bond Sale to Finance AI Spending",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-13/tencent-kicks-off-5-billion-bond-sale-to-finance-ai-spending",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Tencent kicked off a $5 billion bond sale to finance AI spending."
+    },
+    {
+     "title": "Big Take: AI’s Giant Money Loop Has Echoes of 2008",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-12/big-take-ai-s-giant-money-loop-has-echoes-of-2008",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Bloomberg's Big Take draws 2008 echoes in AI's capital loop."
+    },
+    {
+     "title": "The huge lurking leverage of AI hyperscalers",
+     "url": "https://www.ft.com/content/17a207f4-1563-48af-91e3-14bac89ab4b8?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "The FT examines the huge lurking leverage of AI hyperscalers."
+    },
+    {
+     "title": "SoftBank’s $100 billion AI fund push hints at a late-stage boom - Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83dXBNUy1XUUF3R2gwMHBDcFRqYkRXZVZaR2Z6ZnFicE1YRmRPakhpTkNobXhuUEowendmRlk4YjJaOVB5T2dKWkRLYWY1SnJPRUpyOVpQanpqeFVXSEU5N29XYl84TDUza3FuTVpB?oc=5",
+     "source": "Crypto Briefing",
+     "time": "",
+     "note": "SoftBank's $100B AI fund push hints at a late-stage boom (per Crypto Briefing)."
+    },
+    {
+     "title": "Finance executives tighten budgets as AI costs surge - Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvYURFX1VFU19zc0RMSVdGNmlSNDd5MXdBUU5UZFBaM2NJckh0aFVldkVMWUFoTlpybnREaXdKM1BSVng5Y2RyOVp1ZjhtS1doT3huWUtXNTA5anNfYy1TTWNJOHB6aV9xR0lRVExYZWw1a0k?oc=5",
+     "source": "Crypto Briefing",
+     "time": "",
+     "note": "Finance executives tighten budgets as AI costs surge (per Crypto Briefing)."
+    },
+    {
+     "title": "Applied Materials Will Double Sales, Not Headcount, Thanks to AI",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-12/applied-materials-will-double-sales-not-headcount-thanks-to-ai",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Applied Materials expects to double sales, not headcount, thanks to AI."
+    },
+    {
+     "title": "Microsoft Debuts New Homegrown AI Chip, Plans to Deploy Multiple Gigawatts Next Year - The Information",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMUI4bDBvSm92elpjbk5xbUxDUTdjbkN2NGJwenl4dExsRjBqQ0lRdEhadFFidDlMclJ5amN6b3VJWm04VzAxc3pIREQxeWZjRTdKZ0JXbVotc0Rzd0VZYUxQNDVDblZDSW9pQmhWN2lNU1B3RlE1cGRuOFFMOUNCZDV4bUhTQTJjQWZfdjBUUFUyb1FaUDV0OGJ2NV82NTFlQ254V3NfbklJU3UzdTkzSDZnUTR5UGRnZ3N4OXVB?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Microsoft debuted a homegrown AI chip; plans multiple gigawatts of deployment next year."
+    },
+    {
+     "title": "Exclusive: Microsoft Reorganizes Azure Cloud Unit Amid AI Overhaul - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdUZKSldVNWVFaHdIQzhEZG1qaDMtSzl0QWpNdC1hN3ljNXktNnZsd0NGeWRvQjhXZE5ZaXA3UG9JMnY5eWxTM0k0d25wa2NteWJCb0ZGTi12R2FTZGxkZ1BLY0VWMlhWQnZSQ3M4YjdsTDNpUVFNcFRaTExzdm5mOWlkbjZoUVg5X2R1V1ZDLWZCZUkteFBHd2l1TThZcTY4dVVjTGMwM3lDQQ?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Exclusive: Microsoft reorganized its Azure cloud unit amid a sweeping AI overhaul."
+    }
+   ]
+  },
+  {
+   "title": "Meta claims the AI frontier with Muse Wonder",
+   "signal": 55,
+   "summary": "Meta unveiled Muse Wonder, a new model family aimed at OpenAI and Anthropic, and Zuckerberg declared Meta has reached the AI 'frontier'. Markets reacted, with Meta shares rallying, while The Information asks whether users will care as the frontier gets crowded.",
+   "angle": "'Frontier' is becoming a marketing word; distribution and price decide who wins.",
+   "items": [
+    {
+     "title": "Zuckerberg says Meta has reached AI ‘frontier’",
+     "url": "https://www.ft.com/content/fca23e77-be57-4d7e-ae61-74ff299e25cb?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "Zuckerberg says Meta has reached the AI frontier."
+    },
+    {
+     "title": "Meta Unveils New AI Models to Challenge OpenAI and Anthropic - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTMxRFB4MmxmdUJyaGtVV0RqZG9IUVVnOGtnd3ItUURwNDVMNTFZcFVkUzNlMUxlTDFIaE9lZjRfV3BqLVNObFFwRkRYdmFhOUotQXdUSFZpQktMRVlEVXNnNTRtSkdoTGdmekVVcHZ6aVFhdzJzUl85SDUxLVhLQ1pQOGp2V3dIY0FRVmxfUjlacEN2LUdwWGd3?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Meta unveiled new AI models to challenge OpenAI and Anthropic."
+    },
+    {
+     "title": "Meta Releases New AI Model Called Muse Wonder",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-12/meta-releases-new-ai-model-called-muse-wonder-video",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Meta released its new Muse Wonder AI model."
+    },
+    {
+     "title": "Meta Reaches AI’s Crowded Frontier—Will Users Care? - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ1piUExneTNTYmN1XzBHMVVDeEQtSmFQdll2dWNUeDR3QW9Wcmg1TFdFR0lVb2Q3Z2l3OFN4X18yU0RfdFNOOER3d0tnbmd1eE9DNEphdkhxa2pEd1c5RFNIVWg2Q0RCck92SGtMNEh1ZEFlZEMwX3k5VEJldC1Yb2N4LXNTOVhPOHh5RF80VVV6cHdZM0g4b0ZqWTB6T0l5Z0hkQWdFSmU?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Meta reaches AI's crowded frontier - will users care?"
+    },
+    {
+     "title": "Meta Rallies as New Muse Wonder Model Heats up AI Race | Closing Bell",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-12/meta-unveils-muse-wonder-ai-closing-bell-video",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Meta rallied as Muse Wonder heated up the AI race."
+    }
+   ]
+  },
+  {
+   "title": "The Gulf is the new US-China AI battleground",
+   "signal": 50,
+   "summary": "Asia Times argues the US and China are now racing for the Gulf's AI future, and the UAE is walking the talk by sending 16 AI experts to study China's national AI ecosystem. Mubadala circling an Italian telecoms deal underscores how Gulf capital is buying into global AI-adjacent infrastructure.",
+   "angle": "GCC sovereigns are not picking a side - they are buying both.",
+   "items": [
+    {
+     "title": "US-China race is on for the Gulf’s AI future - Asia Times",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56LWVueGFySUJhOWV4T3F0YUdnSDNIOGkxalk2Z3N4N3U0Y2ZfNTh6MzZPOHVrTzhmT0xYYzNVdjFoQ3NoNEU4WUlNdXBvUzJfVTFVMlowUDFuN0dqWjVWTzBZWHZRYzBKcDlMN0thN0lKRkNRa0p4OVpkd19xREU?oc=5",
+     "source": "Asia Times",
+     "time": "",
+     "note": "US-China race is on for the Gulf's AI future."
+    },
+    {
+     "title": "UAE sends 16 AI experts to China to study national AI ecosystem - hrme.economictimes.indiatimes.com",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVUhha3BlaVZLUzlYbHg0R1QyTW13T2tQdm9MVnR4T2Q5eW45M2Z1X25JZDBJTmNqSUNsQnQ3S19LcDEwZGFfdF9OVjdNMkVRUW0tRVZSUWFIRmJaTjA2LXF6WXZZNC1WT1FJcGZDRUNBRVlVcFFGMThXdWN5dEZucXJhb1Q0cE40aFJRT1g4N1RpSUw4MGFEbTZEX2g4TUU2b1FmV2RXY0N2S0FtRVl6VHN4Mmh0NUNtMkFqNlZVVUNBYTd2YlRBbGg2LUo4UdIBzgFBVV95cUxQVUhha3BlaVZLUzlYbHg0R1QyTW13T2tQdm9MVnR4T2Q5eW45M2Z1X25JZDBJTmNqSUNsQnQ3S19LcDEwZGFfdF9OVjdNMkVRUW0tRVZSUWFIRmJaTjA2LXF6WXZZNC1WT1FJcGZDRUNBRVlVcFFGMThXdWN5dEZucXJhb1Q0cE40aFJRT1g4N1RpSUw4MGFEbTZEX2g4TUU2b1FmV2RXY0N2S0FtRVl6VHN4Mmh0NUNtMkFqNlZVVUNBYTd2YlRBbGg2LUo4UQ?oc=5",
+     "source": "hrme.economictimes.indiatimes.com",
+     "time": "",
+     "note": "UAE sent 16 AI experts to study China's national AI ecosystem."
+    },
+    {
+     "title": "Mubadala emerges as potential investor in Italian telecoms deal",
+     "url": "https://www.agbi.com/telecoms/2026/10/mubadala-emerges-as-potential-investor-in-italian-telecoms-deal/",
+     "source": "AGBI",
+     "time": "",
+     "note": "Mubadala emerges as a potential investor in an Italian telecoms deal."
+    }
+   ]
+  },
+  {
+   "title": "Developers drift from leading-edge models",
+   "signal": 45,
+   "summary": "The Information reports leading-edge models are losing their allure with developers, while Anthropic ships Claude Haiku 5.5 as its fastest, cheapest small model and TLDR AI tracks Gemini 4 Carbon, Nvidia weighing an acquihire of Reflection, and the decision-model race. Cost and task fit are beating raw frontier capability.",
+   "angle": "The small, fast, task-specific wave is the real enterprise story behind the model wars.",
+   "items": [
+    {
+     "title": "Leading-Edge AI Models Are Losing Their Allure With Developers - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTJCUEVQQ1pMM25jejd2TWVDRmR0SnN5aVYwcXBrZk1HMFZacXB5ZnZQcVhfTVJyY1l6XzJ1UEJhSU9vRE8xWXF4R25VUW1WcFNhSWFXUnV5Z1g5NWlCVFdQTTIzS0tLa1ZvYl80U3VxQlc0SWJkVVlKTXI2cy1kbEZMTFpGRzl0ck41Qk1aZXU?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Leading-edge models are losing their allure with developers."
+    },
+    {
+     "title": "Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Claude Haiku 5.5: fastest, cheapest, most capable small model yet; up to 90% cheaper per The Neuron."
+    },
+    {
+     "title": "Gemini 4 Carbon 🧠, Nvidia weighs Reflection acquihire 💰, decision model race 🤖",
+     "url": "https://tldr.tech/ai/2026-10-12",
+     "source": "TLDR AI",
+     "time": "",
+     "note": "Digest tracking Gemini 4 Carbon, Nvidia's possible Reflection acquihire, and the decision-model race."
+    }
+   ]
+  },
+  {
+   "title": "Washington pulls AI oversight into the White House",
+   "signal": 45,
+   "summary": "The White House ordered AI incident reporting, and The Information reports US AI testing-agency officials are being moved to the White House, centralizing oversight in the executive office. In London, a UK minister argues AI regulation should mimic Industrial Revolution-era laws.",
+   "angle": "AI oversight is becoming a command function of the executive - compliance teams take note.",
+   "items": [
+    {
+     "title": "15 hours ago 😸 White House orders AI incident reporting PLUS: Tesla's FSD rename and an AI film's XPRIZE win",
+     "url": "https://www.theneurondaily.com/p/white-house-orders-ai-incident-reporting-f220",
+     "source": "The Neuron",
+     "time": "",
+     "note": "White House orders AI incident reporting."
+    },
+    {
+     "title": "Trump administration plans to move AI testing agency officials to White House: The Information - The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQXBFOU9TMzMxcDdrT0NaSXE1RnRmUkx3M1dtWnM1RjMteVJzWncySzNUdU1McUpxUVRoVmNKVFF1aTFvSTl4S0hnSWpLNGx3VTNvbkRsYnFTNW9oMVBXWG9ZdTcyOUxBQzZ2NEI2NW1YNm5XcW5ZNmQtY2pTU2VNZFhWQmJqVnhvV1lOdHRYd2RaeElpTUJLM3FHWjdORjJsdzRveUk4dzhfVlpqRkRIYnNSU2NQVEdpQ0dkQ21mNG5ROUtHLW5rM2wwWldOR1RsalRrZjZPZEJvdlViakVjVW5wcTNuOTBZUlMxRmJZSEdlVEZQRzVSUE5zVHY0UkFFNXl6Q01DTdIBjAJBVV95cUxQemZFZk1UVWg5NmxBVkk2T2V5d0JrQUV0ZFloNkwzVWZ2aXJMN1VXbGN4bGV2VHlmdV9XYURkaF9IemI1Q05iUFR1bTRFY2pZX0xjNUtYMDg3c3psTkQ2MjdseHlyOHhpaVZPSkdiWGVkNnhtTnRxcnhmS3BTZnUzeUV0V3NNMEVmaXBEcGhYVi14VjFmSUkxMDR0cUNHUFZSZ0F5eDFDVjZScXpNQjY1SHdqbkJqd3BlcXhQazlnRElESFkwUEZVZUpQQ1BqWDJHeTNBN2lIZElSSDFtSWFtSmVIYnptSV9PWGE3V3dQYjZqM1RqQkE0NFMyalFiY29lNWZhaHhqbFBKVDU2?oc=5",
+     "source": "The Economic Times",
+     "time": "",
+     "note": "The Information reports AI testing-agency officials moving to the White House."
+    },
+    {
+     "title": "AI regulation must mimic Industrial Revolution laws, UK minister says",
+     "url": "https://www.ft.com/content/ba28b7cd-293e-4eee-a073-ad81aaefced3?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "UK minister: AI regulation must mimic Industrial Revolution laws."
+    }
+   ]
+  },
+  {
+   "title": "Gulf digital economy widens its moat",
+   "signal": 35,
+   "summary": "Abu Dhabi's Dh250B (about US$68B) energy investment push is increasingly framed by AI demand, Oman's global financial centre starts full operations next year, ADGM granted digital-asset manager 3iQ in-principle approval, and UAE net wealth hit $3.6 trillion in 2025 on a path near $6 trillion by 2030.",
+   "angle": "AI is becoming the load-bearing story in GCC infrastructure and financial-centre pitch decks.",
+   "items": [
+    {
+     "title": "AI demand spurs Abu Dhabi’s Dh250B energy investment | Khaleej Times - newspaper - Magzter",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZlBGV1ZRc0FmajEwc3hvbE95Q2d3aGg5OHJVYlJWNjBrSDY1LUd4N0RONDVXSjVMQjZYN1hjaFRvUzM2bzdzejNCc0RHSkVCMWdHWEpjd3EzOUFOaldIci1SbnhibXVfZ2pIWVZRX2wwMWN0NnVKcDZDQXNQM2taU1VCVnZRMHNJTm1GaVJsQVBIRFFVU0s1ZFBLXzFVenQ4VTBGclpOZWI4UjA?oc=5",
+     "source": "Magzter",
+     "time": "",
+     "note": "AI demand is spurring Abu Dhabi's Dh250B (about US$68B) energy investment."
+    },
+    {
+     "title": "Oman global financial centre to begin full operations next year",
+     "url": "https://www.agbi.com/finance/2026/10/oman-global-financial-centre-to-begin-full-operations-next-year/",
+     "source": "AGBI",
+     "time": "",
+     "note": "Oman's global financial centre begins full operations next year."
+    },
+    {
+     "title": "Digital asset manager 3iQ’s UAE unit gets ADGM approval for licence - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1FoZlB4UFdPMHJ0QTk4TWtuNkUzcGJDUGltV19EUTFNWEk4SmcxNVNFbGFOdmFTbWYwSkNIODduOV9oVVlrMHFpU2hyN3RzSk9pbzZYZnpOR1NiNUJETkdwSE9SVVZ3RlhWSWU4RlBUczh4QzNIQ2hmcndSMlRyN2oxd0VMczlQb1N6TWRjdE5rTzBjTHVaSW1RbmRrMFBmZWN4bWdQZWVranlw?oc=5",
+     "source": "Zawya",
+     "time": "",
+     "note": "3iQ's UAE unit gets ADGM in-principle approval for a licence."
+    },
+    {
+     "title": "UAE net wealth hits $3.6 trillion in 2025, to approach $6 trillion by 2030",
+     "url": "https://economymiddleeast.com/news/uae-net-wealth-hits-3-6-trillion-in-2025-to-approach-6-trillion-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=uae-net-wealth-hits-3-6-trillion-in-2025-to-approach-6-trillion-by-2030",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "UAE net wealth hit $3.6T in 2025, approaching $6T by 2030."
+    }
+   ]
+  },
+  {
+   "title": "War risk cools the GCC economy",
+   "signal": 25,
+   "summary": "A Houthi attack on Riyadh's airport spread flight disruptions and weighed on business activity, slowing the UAE economy, while Saudi ministers insist Riyadh is safe. For GCC executives this is the macro backdrop against which AI investments will be judged this quarter.",
+   "angle": "The geopolitical risk premium is back in the Gulf's investment calculus.",
+   "items": [
+    {
+     "title": "Houthis attack Riyadh airport",
+     "url": "https://www.ft.com/content/1d85912b-7a70-4ba1-87df-3b683adee91e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "Houthis attacked Riyadh's airport."
+    },
+    {
+     "title": "UAE economy slows as war hits business activity",
+     "url": "https://www.agbi.com/economy/2026/10/uae-economy-slows-as-war-hits-business-activity/",
+     "source": "AGBI",
+     "time": "",
+     "note": "UAE economy slows as war hits business activity."
+    },
+    {
+     "title": "Flight disruptions spread following Riyadh airport attack",
+     "url": "https://www.agbi.com/aviation/2026/10/flight-disruptions-spread-following-riyadh-airport-attack/",
+     "source": "AGBI",
+     "time": "",
+     "note": "Flight disruptions spread after the Riyadh airport attack."
+    },
+    {
+     "title": "Saudi minister says Riyadh is safe, despite deadly airport attacks",
+     "url": "https://www.agbi.com/oil-and-gas/2026/10/saudi-minister-says-riyadh-is-safe-despite-deadly-airport-attacks/",
+     "source": "AGBI",
+     "time": "",
+     "note": "Saudi minister says Riyadh is safe despite deadly airport attacks."
+    }
+   ]
+  }
+ ]
+}

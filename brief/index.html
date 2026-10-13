@@ -111,7 +111,7 @@
 <script>
 const $=id=>document.getElementById(id);
 let manifest=null, idx=0, day=null, track="all";
-const TRACKS={models:"Models & platforms",security:"Integration & security",operations:"Evaluation & operations",decisions:"Decisions & value",regulation:"Regulation & GCC"};
+const TRACKS={models:"Models & platforms",security:"Integration & security",operations:"Evaluation & operations",decisions:"Decisions & value",regulation:"Regulation & GCC",patterns:"Patterns & tooling"};
 
 function dayPath(date){ const[y,m,d]=date.split("-"); return `data/${y}/${m}/${d}.json`; }
 function esc(s){return String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}

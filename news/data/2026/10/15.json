@@ -1,0 +1,286 @@
+{
+ "date": "2026-10-15",
+ "generated_at": "2026-10-15T02:05:39+00:00",
+ "themes": [
+  {
+   "title": "Anthropic posts $16.8B Q3 revenue ahead of IPO",
+   "signal": 92,
+   "summary": "Anthropic told prospective investors its third-quarter revenue hit $16.8 billion, up nearly 50% quarter over quarter, as it pushes toward a public listing. The FT notes growth landed below some expectations as AI-related trade fears rattle markets.",
+   "angle": "The clearest public read yet on frontier-lab economics before an IPO — benchmark for capacity-vs-demand math.",
+   "items": [
+    {
+     "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+     "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:59",
+     "note": "Q3 revenue $16.8bn, +~50% QoQ; FT flags growth below some expectations amid AI trade fears"
+    },
+    {
+     "title": "Anthropic Revenue Hits $16.8 Billion in Quarter Before IPO",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo",
+     "source": "Bloomberg Technology",
+     "time": "22:22",
+     "note": "Bloomberg corroborates $16.8B Q3 figure ahead of planned IPO"
+    },
+    {
+     "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+     "url": "https://www.anthropic.com/news/singapore-office-opening",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic expands into Asia-Pacific; MOU with Government of Singapore"
+    },
+    {
+     "title": "Anthropic Strikes Licensing, Acqui-Hire Deal With AI Security Startup - The Information",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXc0NG5tdXZ1S0E5OV9CTHhSRzhfVVVrLThaUDJvaExBR1F1VldDWmhud1BPVDJmT1NYSVh0UE9iUXctbDRQbzBRUGFnSEplR3gxSnlMMmlEMFhLNzVObWZWM1l0V1RNZm9EY3dVd2lwN202bmttS25qUFZ6azFSYUg3VEFnN1dXU0JGTjlFaXphVGVsaXRGLXU4bEMyZGFYU2hVVXFCUQ?oc=5",
+     "source": "The Information",
+     "time": "07:24",
+     "note": "Licensing + acqui-hire with an AI security startup adds enterprise security capability"
+    }
+   ]
+  },
+  {
+   "title": "GCC goes agent-operated: G42-Microsoft, Abu Dhabi AI govt",
+   "signal": 88,
+   "summary": "Microsoft UAE and G42's Inception pitched 'human-led, agent-operated' businesses at SIF 2026, and Abu Dhabi said it is investing $3.5 billion to automate government services with AI. Saudi cybersecurity spend also hit $4.35 billion, up 10.7%, with government share at $1.36 billion.",
+   "angle": "The region is moving from pilots to agent-operated public services — a playbook for C-suite adoption stories.",
+   "items": [
+    {
+     "title": "Microsoft UAE and G42’s Inception explore the rise of ‘human-led, agent-operated’ businesses at SIF 2026 - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNm1RQWwxd3ZMNllxOUdJQ2VadE9oVDMyOWxoaXdud0lJNW04eW81a1BmWWRaTlBaTC0yX1FPLWtQaElNUkIzVVctTXR5TDVsUmZTYTJZWHZjbW1MMmViVTF3Tk0tQVBidmo5dGllU1FXTDRGenlXOFhwM1RvaW5SOTR4RlhKTFBKTzI5dVB3YzN4T0tjV01paGx3eXpqYzBwemFNaVpueWgxNXNIeHItNkNqS3NUeWlWWl84cTMwYUhtMlhpUUxnRVBXa25PeloxUDhJYW84bjRTdWVvYllsWnNKXy12R29yYVRLbTJaY1NtemluMWFMMTBn?oc=5",
+     "source": "Zawya",
+     "time": "14:19",
+     "note": "Microsoft UAE + G42 Inception: 'human-led, agent-operated' businesses at SIF 2026"
+    },
+    {
+     "title": "Abu Dhabi Invests $3.5 Billion in AI-Powered Government to Automate Public Services - Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNemM2UFdYWThyOXFXUXU5LWJxekVRLUlCc1lpQXVOR3J1MkMxTmFpMmc1Q1djRjhzamNCTkVFbnozZU5rdGtJbHhvTjJ1NjdKUFlmaUh0ZXhkYjVaWVlzVFdmdmFTTVFFQmxqUklqR3FuTm1Ob0FCcXJwWGZMUVNhVTM4S3RFXzNFYjZNNlJibjFMcG83UEc3VHp6VFZ0bERuSFBv?oc=5",
+     "source": "Fortune",
+     "time": "09:53",
+     "note": "Abu Dhabi: $3.5B AI-powered government push to automate public services"
+    },
+    {
+     "title": "Saudi Arabia’s cybersecurity market grows 10.7 percent to $4.35 billion as government spending hits $1.36 billion",
+     "url": "https://economymiddleeast.com/news/saudi-arabias-cybersecurity-market-grows-10-7-percent-to-4-35-billion-as-government-spending-hits-1-36-billion/?utm_source=rss&utm_medium=rss&utm_campaign=saudi-arabias-cybersecurity-market-grows-10-7-percent-to-4-35-billion-as-government-spending-hits-1-36-billion",
+     "source": "Economy Middle East",
+     "time": "13:02",
+     "note": "Saudi cyber market $4.35B (+10.7%); govt spend $1.36B per Economy Middle East"
+    },
+    {
+     "title": "DIFC Courts launch NFT-based blockchain credentials for court documents, enabling global verification in seconds",
+     "url": "https://economymiddleeast.com/news/difc-courts-launch-nft-based-blockchain-credentials-for-court-documents-enabling-global-verification-in-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=difc-courts-launch-nft-based-blockchain-credentials-for-court-documents-enabling-global-verification-in-seconds",
+     "source": "Economy Middle East",
+     "time": "14:14",
+     "note": "DIFC Courts issue NFT-based blockchain credentials verifiable globally in seconds"
+    },
+    {
+     "title": "MWC26 Doha brings AI, 5G and global tech leaders to Qatar as MENA mobile economy is projected to reach $470 billion",
+     "url": "https://economymiddleeast.com/news/mwc26-doha-brings-ai-5g-and-global-tech-leaders-to-qatar-as-mena-mobile-economy-is-projected-to-reach-470-billion/?utm_source=rss&utm_medium=rss&utm_campaign=mwc26-doha-brings-ai-5g-and-global-tech-leaders-to-qatar-as-mena-mobile-economy-is-projected-to-reach-470-billion",
+     "source": "Economy Middle East",
+     "time": "13:23",
+     "note": "MWC26 Doha: AI + 5G focus; MENA mobile economy projected at $470B"
+    },
+    {
+     "title": "Cycls launches specialized AI agents for the Saudi market - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeUhtR1RCd2JVdDNhZ3h5RUFmUm1ya0E3OGEweTB3YUZCMWF2dGp6Y1ZzcHZLX2t3NTNiaFhCZzhsODRwUG95SkZwWVdnb1BOUVVmeXpMZFU4YTFfcHIzNHBQUEFFN255TjluaGU2VG45OWV1SEdaSGU1YXJWcXdtUVNjQVZLNC05NEY5Sy1BdWFhZ1dGaUdhaUZoWE9NcEVSNnk0ZERxMnVTUnVINWtYT0ttQkpQQ2M5ZDE4?oc=5",
+     "source": "Zawya",
+     "time": "07:43",
+     "note": "Cycls launches specialised AI agents aimed at the Saudi market"
+    },
+    {
+     "title": "UAE's Ministry of Higher Education and Scientific Research and SAP Support Academic Workforce Readiness for AI Applications - SAP News Center",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa0hpb251Z0tYQ0JiaUtzY2d6V25TRjJIWkplR2FQa0tGdHBRb2hWU29MLV96eVBVYWJzUEx2Mk5yVUI0Ul9vam9QMFh1QlFtcmFvMC1RdXBZRXZpc3pKcURDSjBhd3R5enY0N0pFaWtfRVNaRW5PQVdYaWNIc2RwT1dIVnhjeWdqR040bDc1a3k3Y2xyTFUzR2lIc1p1UzItTmFUdHFYNVFNV3dNeUVEdjREcW92QkNxVklyS0gtelFqVmg3SDRXTWN0N0l1Y1Z3VGpIVFBua1BHaHowY0EzRzR5eUFsWVhoSG9SVw?oc=5",
+     "source": "SAP News Center",
+     "time": "13:48",
+     "note": "UAE MoE + SAP partner on AI workforce readiness"
+    }
+   ]
+  },
+  {
+   "title": "OpenAI espionage case: Saudi engineer, Apple counterclaims",
+   "signal": 86,
+   "summary": "Court filings unsealed in the OpenAI bugging case show the accused Saudi engineer, Abdulrahman Alfozan, his wife and a third family member had booked a one-way flight to Saudi Arabia for October 12 before his arrest. OpenAI separately accuses the same employee of funnelling secret device information to Apple, and pledges not to use any Apple trade secrets it says were taken.",
+   "angle": "Insider-threat economics: what a $14 listening device allegedly did to a $300B+ company's trust posture. GCC angle: suspect flew to Saudi Arabia.",
+   "items": [
+    {
+     "title": "OpenAI employee accused of bugging office booked one-way ticket to Saudi Arabia",
+     "url": "https://www.ft.com/content/4d22d333-e51c-4302-991e-444a17fac420?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:19",
+     "note": "FT: Alfozan + family booked one-way ticket to Saudi Arabia for Oct 12 before arrest, per new filings"
+    },
+    {
+     "title": "OpenAI Engineer Allegedly Hid Toilet Paper-Wrapped Mic in Conference Room - WSJ",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVlAtM0gxcXhQZndzdWNLb0IwZXZ2dVYwenVYbHlBSFBBd1dvc3JjZGdHQk43dnZLM2VicUNEMnZLYXczYWJLM3dHa1lIMlFlLWRINy13eFo4N3UwMmRHaFpkRmM3T2xqVDhuVUd6ZTNnVWJJZTlIQ1dmQUJkT1A1cEo0WWlhTGh1VnFVZU52Zkk?oc=5",
+     "source": "WSJ",
+     "time": "15:44",
+     "note": "WSJ: engineer allegedly hid toilet-paper-wrapped mic in conference room; device cost ~$14 per Tom's Hardware"
+    },
+    {
+     "title": "What Allegations of Spying at OpenAI Mean for the A.I. Industry - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4ekVqUEtoemNqT3hQa3VRMXNWSDJXZjdhTDV1Ynd4QXpCUW5xNElTS3U4TUlmODREeUFzYy1QLTFOeWdPUlRNbzIxMDdjc2RGSkRZUm9QM0lhaDFUSGtTNUZRbnFwUWJKTkJ2SlV2X29CWFU1UzY4b0ZnN19BNjg?oc=5",
+     "source": "The New York Times",
+     "time": "12:39",
+     "note": "NYT analyses what the OpenAI spying allegations mean for the AI industry"
+    },
+    {
+     "title": "OpenAI claims employee sent secret device information to Apple",
+     "url": "https://www.ft.com/content/18b65495-9e2a-45d6-be85-7641442ab61a?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:08",
+     "note": "OpenAI claims employee sent secret device information to Apple ahead of Ive-built AI device launch"
+    },
+    {
+     "title": "OpenAI Vows Not to Use Trade Secrets Allegedly Taken From Apple",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
+     "source": "Bloomberg Technology",
+     "time": "10:30",
+     "note": "OpenAI vows not to use trade secrets allegedly taken from Apple"
+    },
+    {
+     "title": "AI tools are aiding would-be spies",
+     "url": "https://www.axios.com/2026/10/14/ai-tools-are-aiding-would-be-spies",
+     "source": "Axios AI+",
+     "time": "19:30",
+     "note": "Axios: AI tools now help employees exploit access to spy on employers — an industry-wide insider risk"
+    }
+   ]
+  },
+  {
+   "title": "AI capex meets credit markets: CoreWeave plunge, chip slide",
+   "signal": 80,
+   "summary": "US chip stocks slid as hot inflation and AI-credit fears hit markets, with investors rushing into Treasuries. CoreWeave shares plunged while its CEO called the market 'irrational', and the company is courting 'unlimited' insurance money to keep funding its AI build-out.",
+   "angle": "The AI balance-sheet story: when infrastructure debt meets rate markets, capex plans get repriced — not cancelled.",
+   "items": [
+    {
+     "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
+     "url": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:36",
+     "note": "FT: chip stocks slide; inflation + AI debt fears; investors rush to Treasuries"
+    },
+    {
+     "title": "CoreWeave Shares Plunge as CEO Expresses Confidence",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-15/coreweave-shares-plunge-as-ceo-expresses-confidence-video",
+     "source": "Bloomberg Technology",
+     "time": "00:38",
+     "note": "Bloomberg: CoreWeave shares plunge; CEO Mike Intrator calls market action 'irrational', defends model"
+    },
+    {
+     "title": "CoreWeave targets ‘unlimited’ insurance money to fund AI build-out",
+     "url": "https://www.ft.com/content/4ffa1853-0e2c-424f-b941-88c6bcac5765?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "09:58",
+     "note": "FT: CoreWeave targets 'unlimited' insurance money to fund AI build-out"
+    },
+    {
+     "title": "CreditSights Head of Strategy on Bond Market Volatility",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-14/creditsights-head-of-strategy-on-bond-market-volatility-video",
+     "source": "Bloomberg Technology",
+     "time": "22:14",
+     "note": "CreditSights: AI-infrastructure debt straining bond-market absorption as issuance surges"
+    },
+    {
+     "title": "Morgan Stanley CEO Expects Another Decade of Major AI Investment - The Information",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1pJTlFVZFhSWUFUSl9rdGZmRHFEOHRKRmVBNlpSQnRFWDRoNnlqbmNmVFQxajdBclhZaDZueFJhSWtNZnZMejlUSThWYVZMT0NKWTgwU3RMYTItT1ZpcFNfT05jOUFyNG9zU1V1X3dSRnpoMEl6cUx0d1Jpc2JEUGdZd05DQkY0UjBZcjI3bndra251VE90ODBIcWNpb1RybkJOVA?oc=5",
+     "source": "The Information",
+     "time": "21:17",
+     "note": "Morgan Stanley CEO expects another decade of major AI investment, per The Information"
+    }
+   ]
+  },
+  {
+   "title": "Agent hacking is an 'early warning shot' — Hassabis",
+   "signal": 74,
+   "summary": "Google DeepMind boss Demis Hassabis warns AI-agent hacking could soon become 'major incidents', calling recent cases early warning shots. Meanwhile Nvidia's Jensen Huang says he would halt chip supply to a customer building unsafe AI software, and Anthropic's Dario Amodei has floated an industrywide slowdown.",
+   "angle": "Security is now the binding constraint on agentic autonomy — boards should price it into rollouts.",
+   "items": [
+    {
+     "title": "Google DeepMind chief Demis Hassabis warns future AI agent hacking may soon turn ‘major incidents’ - The Times of India",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQanJSZERTZkFpVnJ2Wm4wdFlfZG44enZJbVZiUTFJYklLN1ZLcGg0NzBwZWtqcTZNdl9PM2tVREthcGtmWUhUSTJFbmdTMHZ4cDQ0dHdadlZrb1RZcHBuYVdiOXVmRThtVUpFcHNVTHJldXUxNlRnZFZUVHBHYkh4ZUQ4QkM5SEVaWjJ6bnctX3ZySHRIZFgwUkpnaGRLMC15bzItZFRnVGx3QzRnemZhRjZLOW1nNDRCR2Fjbzh4R0M1dUVxbzhYQjR1eXVjaElnTy13el8tRU11MHVybkZ3Z0pFYWwyOE1rSmU5RkhhYjVSMWR6akpZaE41TjAyNW1vM3hLODhLbnNnTmvSAZACQVVfeXFMTzR0dFlSMzEzdUtkSFVzcDJPSHVxb0VZWVlXM1Z5dldEWEo4dUROczJNaDRLbkVpN1RJbEpMajhTNGJISFZYM08tcDBUTmxPYjdTNmhnQ1htMVpEbkt6LXJZMUhra2pPTzl2MjVKSDBmdUFZdTkyN1Q2ZVRLOXdnY0dmOGI0OGRpd2g5RVl1Z2Y3Rm5JNnNCbVBOY2EwZVo5U1BDaXZTekR2SThXUXJBYlhlbGxKb2ItY25HeVpSRFNjejJnbEl1QVZTcF9LTGxsU2c5X2I4bTlwQVBwU2FLRWNlXzY0T1oyQ1B6ZngzamdjNWR5WHpHaEI2RXpYc1AycHpUWHQ1ZElrVkR5aGhpcWc?oc=5",
+     "source": "The Times of India",
+     "time": "16:56",
+     "note": "Hassabis: AI agent hacking may soon turn into 'major incidents'; recent hacks are early warning shots"
+    },
+    {
+     "title": "AI safety warning: Hassabis urges stronger defenses - Cybernews",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbnp2SE5mbnJvRTYtRW1qVmtTQmFwWS1jSHQzR2tNU3poVE56Q1dyNHJhcnVKSGFNSzczMHh1TTU1eVZmZllROFRMeEZZem9jMTdzcmhzaml0TF9reWZYNWotTERvcXNqWFNweDJ6ZC1RSGZQa0k5RzEtYXZXVzE3YlN5U3Z3LVE?oc=5",
+     "source": "Cybernews",
+     "time": "11:49",
+     "note": "Cybernews: Hassabis urges stronger defensive AI"
+    },
+    {
+     "title": "Nvidia, Anthropic Weigh In On AI Safeguards",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-14/nvidia-anthropic-weigh-in-on-ai-safeguards-video",
+     "source": "Bloomberg Technology",
+     "time": "21:33",
+     "note": "Nvidia's Huang: would halt chip supply to customers building unsafe AI; Amodei floats industry slowdown"
+    },
+    {
+     "title": "SentinelOne cuts malware analysis from weeks to hours",
+     "url": "https://openai.com/index/sentinelone",
+     "source": "OpenAI News",
+     "time": "12:00",
+     "note": "OpenAI Daybreak + SentinelOne: malware analysis cut from weeks to hours — agentic security in production"
+    }
+   ]
+  },
+  {
+   "title": "Google opens frontier models to European researchers",
+   "signal": 70,
+   "summary": "Google DeepMind and Google Cloud will give European researchers access to frontier AI models and advanced compute, opening science models to around 200 researchers. OpenAI separately publishes analysis arguing the EU's next chapter in AI is agentic.",
+   "angle": "Compute access is becoming a diplomatic lever — EU researchers get frontier access while Europe debates agentic adoption.",
+   "items": [
+    {
+     "title": "Google DeepMind, Google Cloud to allow European researchers access to frontier models - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3Npakc0UFloQXV1TGtRSDRIVDdreGhyV296RFRNb1BOVFAtSFhIc3FGTE1NQWVvSlJSYXNpV3BGODZNS2NtX1J4UnZ6bDc0RjdhOEtSUFNTQlA5TnM0ZjJnQ1VEWmhKTWIxVDl3Rk13OVhoeXRtSVpRZGhaekNnMHJhY2c4bE04bXQ5aThmc1BPVTdZa2tzMlp6QUlFOWQ0anBwd2h4V19ub1U1NUJCUEVNbXFOcWZ4TmRCbG1Odm5ZdVk?oc=5",
+     "source": "Reuters",
+     "time": "06:01",
+     "note": "Reuters: Google DeepMind + Google Cloud to allow European researchers access to frontier models"
+    },
+    {
+     "title": "Google DeepMind opens its science AI models to 200 European researchers - The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1RfcEtLNXg4SUZ4cHpsZ05PWEhuNC1DNWNCdDFZaWhkREN6N1hGTjRRNjVRWWFGNkZiTmFxMHNzSnlOZTR2Y1JEY3pEV2d6U1lOMEtSRlRMelg2elZCbm13WXdIbElsNWV2NHdxMGNlYWdoSXlFVXREa1lvazZmSFdqNTNkbXM?oc=5",
+     "source": "The Next Web",
+     "time": "09:40",
+     "note": "DeepMind opens science AI models to ~200 European researchers; blog.google confirms"
+    },
+    {
+     "title": "The EU’s next chapter in AI is agentic",
+     "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "OpenAI analysis: agentic AI adoption growing across EU enterprises and SMBs"
+    }
+   ]
+  },
+  {
+   "title": "AI shakeout: Character.ai bankruptcy, Bending Spoons",
+   "signal": 62,
+   "summary": "Character.ai filed for bankruptcy citing litigation and costs, the first major AI consumer-lab casualty. Berkshire Hathaway added $330 million to its stake in Bending Spoons, the tech conglomerate that owns AOL and Vimeo.",
+   "angle": "Differentiation in AI is brutal — consumer labs fold while Berkshire doubles down on portfolio tech.",
+   "items": [
+    {
+     "title": "Character.ai Files For Bankruptcy, Citing Costs and Litigation - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUDhibEo5ZjhfSmZMc0NCZmxybVZrdmhrNWwtVE5RU0JQaDhlbW9namN4NG5CVUhMekllTmJSd1E1cXJ5NFIyYVNZTE12N3h0SnV0R0RGczRrR0tIZjdfcDJxSmx2Z083bmhaQmEtV2pfN0F6cHhmbFVwM3JmUGtWdzE3YW10NzNqNmx0NVRCTHFYQS1lSEJyX21n?oc=5",
+     "source": "The Information",
+     "time": "21:04",
+     "note": "Character.ai files for bankruptcy, citing costs and litigation, per The Information"
+    },
+    {
+     "title": "Berkshire Hathaway adds $330mn to stake in tech group Bending Spoons",
+     "url": "https://www.ft.com/content/3f821be4-f137-4cc9-b0b0-b2014f2607c2?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:08",
+     "note": "Berkshire adds $330mn to Bending Spoons stake; shares jumped >40% on the news before paring gains"
+    },
+    {
+     "title": "Floqer’s AI agents research sales prospects so teams don’t have to - TechCrunch",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMW82T015bnVvejNOcnJud25INXM4TVlYVVg0ZGRfUExOV29mTGtWdUJ6clNPSGJmLXc2Y3VvcXhaY2NMcUZTRGMyRnJrWUJPUXlNN3h3UXBBT0FYTVJWb2l0T0cyX3FzaDhITWdtVnd4dXVkaFlILWlPX0xnZnk0OVhLTDJOYVQ5LW9qck1SOUNveWlMazdSSS1B?oc=5",
+     "source": "TechCrunch",
+     "time": "15:00",
+     "note": "Floqer's AI agents research sales prospects autonomously — agentic sales enablement arrives"
+    }
+   ]
+  }
+ ]
+}

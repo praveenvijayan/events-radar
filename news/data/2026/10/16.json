@@ -1,0 +1,338 @@
+{
+ "date": "2026-10-16",
+ "generated_at": "2026-10-16T02:00:07.703267+00:00",
+ "themes": [
+  {
+   "title": "Anthropic turns cash-flow positive; Wall Street gets an AI bull case",
+   "signal": 68,
+   "summary": "Anthropic told investors it was cash-flow positive in Q3 with revenue up nearly 50%, the clearest evidence yet that frontier-model economics can self-fund. Newsletter trackers put the quarter near $16.8B, and the company paired the pitch with independent evaluator access for METR. For boards it sharpens the vendor-viability debate: model economics are no longer theoretical.",
+   "angle": "Inference economics just got its first frontier-lab proof point - vendor due diligence should follow.",
+   "items": [
+    {
+     "title": "Anthropic brings Wall Street an AI bull case",
+     "url": "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow",
+     "source": "Axios AI+",
+     "time": "09:00",
+     "note": "Anthropic says it turned cash-flow positive in Q3 with revenue up nearly 50% - the first frontier lab to pitch investors on cash, not roadmap (per Axios)."
+    },
+    {
+     "title": "16 hours ago 😸 Gemini now screens scam texts PLUS: Anthropic's $16.8B quarter",
+     "url": "https://www.theneurondaily.com/p/gemini-now-screens-scam-texts",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Newsletter aggregator pegs Anthropic’s quarterly revenue around $16.8B, independently corroborating the bullish cash-flow story (per The Neuron)."
+    },
+    {
+     "title": "Anthropic grants non-profit METR ‘employee-like’ access to monitor AI risks",
+     "url": "https://www.ft.com/content/a3a389d2-7796-4f40-98d3-8986f26f6513?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "19:12",
+     "note": "External evaluators get insider-level access to monitor risks, part of Dario Amodei’s safety agenda that lends credibility to the investor case (per FT)."
+    }
+   ]
+  },
+  {
+   "title": "AI infrastructure credit stress: data-centre bonds wobble",
+   "signal": 66,
+   "summary": "Debt from AI infrastructure providers like CoreWeave has fallen to stressed levels and investors are dumping data-centre bonds. Nvidia’s CEO stepped in to defend CoreWeave while bond markets and chip equities swung sharply, with FT asking whether an AI bust is now a question of when. It is the first real stress test of the financing layer under the AI buildout.",
+   "angle": "The reprice risk is in the debt layer, not the models - sovereign data-centre investors should watch late-cycle debt terms.",
+   "items": [
+    {
+     "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
+     "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:27",
+     "note": "Debt issued by AI infrastructure providers and neoclouds such as CoreWeave has sunk to stressed levels (per FT)."
+    },
+    {
+     "title": "Nvidia CEO Downplays CoreWeave Concerns, Bolstering Stock",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-15/nvidia-ceo-huang-says-coreweave-improving-no-backstop-needed",
+     "source": "Bloomberg Technology",
+     "time": "15:27",
+     "note": "Jensen Huang insisted CoreWeave is improving and needs no backstop even as its shares and bonds sold off (per Bloomberg)."
+    },
+    {
+     "title": "Don't See Canary in Coal Mine For AI: Khoda",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-15/don-t-see-canary-in-coal-mine-for-ai-khoda-video",
+     "source": "Bloomberg Technology",
+     "time": "20:28",
+     "note": "BofA’s credit strategist argues AI credit stress is not a systemic canary, even though CoreWeave’s credit-risk measure hit an all-time high (per Bloomberg video)."
+    },
+    {
+     "title": "The AI boom stumbles",
+     "url": "https://www.ft.com/content/dd74f024-4eeb-44e3-9f62-5338ba7a863c?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:00",
+     "note": "FT asks whether investors should be preparing for an AI bust and how."
+    },
+    {
+     "title": "Risk of an AI crunch for stock markets is rising",
+     "url": "https://www.ft.com/content/5dd8b17e-b0a3-4b14-9d83-aba2627e635d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "16:53",
+     "note": "FT argues this week’s equity tremor could be a foretaste of deeper AI-linked market stress."
+    },
+    {
+     "title": "Treasuries rally as investors seek shelter from AI turbulence",
+     "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:20",
+     "note": "Global chip stocks swung violently as investors rotated into safe-haven Treasuries (per FT)."
+    }
+   ]
+  },
+  {
+   "title": "US regulators ring OpenAI and Anthropic: FTC subpoenas, state suits",
+   "signal": 62,
+   "summary": "The FTC sent civil subpoenas to OpenAI and Anthropic over safety incidents, and eight US states filed parallel lawsuits against OpenAI. Bill Gates is simultaneously preparing a major personal escalation of his AI-safety campaign. This is regulatory gravity building around frontier labs from multiple directions at once.",
+   "angle": "Compliance boards need an AI-risk register now - US enforcement is moving faster than most enterprises.",
+   "items": [
+    {
+     "title": "Scoop: The FTC demanded documents from AI giants over recent safety incidents",
+     "url": "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+     "source": "Axios AI+",
+     "time": "09:00",
+     "note": "The FTC sent civil subpoenas to OpenAI and Anthropic over safety-incident documents in a consumer-protection probe (per Axios scoop)."
+    },
+    {
+     "title": "Eight States Bring Parallel Lawsuits Against OpenAI Over Safety Issues - PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3Awd3AyenpkUHBmRzF6TV9ZSEE3MkhtT2xOdURseFdHZDQwdmJuV2hwQjdQV2tnV0RwQWtwenY5VU83bjRXZVpybjZFWGxCbW5OcjFBS3RTdkUwc0d6Y0NRcUdDUlFqNUhkSkZKVGNOMHN3aHYwSUJNSm1zU0piMXRxWVRpWk1sREdLQW0zSVpibWlraWdDdWQ3N2kyb2RiYWpCTjI1VkVfWmwtR3ZNSllQcjZzal9Ubzlmc19lQ3pTWmJRaU1z?oc=5",
+     "source": "PYMNTS.com",
+     "time": "15:49",
+     "note": "Eight US states filed parallel lawsuits against OpenAI over safety concerns, widening the regulatory ring (per PYMNTS)."
+    },
+    {
+     "title": "Scoop: \"OG\" Bill Gates returns to wage war on AI risks",
+     "url": "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
+     "source": "Axios AI+",
+     "time": "09:00",
+     "note": "Bill Gates is preparing a major personal expansion of his AI-safety campaign, leaning directly on business leaders (per Axios scoop)."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI engineer arrested for bugging; flight to Saudi Arabia booked",
+   "signal": 60,
+   "summary": "An ex-OpenAI engineer is charged with planting a recording device in a conference room, with the DOJ noting a one-way flight to Saudi Arabia was booked and NYT reporting he had advised Saudis. The case revives fears about state-adjacent influence inside US tech hiring. For GCC boards it is a reputational flashpoint: the region’s AI ambitions are colliding with US espionage optics.",
+   "angle": "GCC AI talent strategy should address security-clearance optics before they become deal friction.",
+   "items": [
+    {
+     "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDNlZmdxUUtpdjRlWUlycEJKMFdvYk4xUkxiLTNnT2xrLTZPdkRkUU44aVBfU3NleVcxc2tMRTBvd2tQU01MRWJwSnhKelJ4d3ltc0JoUnhza3FqbjhVcndVaGY5ajhfOXhyVXl5dHZmZkY2dUNLek1pdHRuTVRnWVd3Z3ZjSjNpcGtkRUFHemZTWjhScTVGZjhUdmFKUQ?oc=5",
+     "source": "The New York Times",
+     "time": "14:51",
+     "note": "The charged engineer had previously advised Saudi entities, giving the prosecution a Gulf dimension (per NYT)."
+    },
+    {
+     "title": "Ex-OpenAI engineer charged with planting recording device had one-way flight booked to Saudi Arabia, DOJ says - Fox News",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmJjWVV2and2TldhLVN6bk5xbHVXdXJmMWJPTi1CMGJxa01qS001cEhOeS0zRWlWU0tqbmpBLTZfamhIcnA1S093T0QySEZOZnhleDFWaE1BZ1Vlb1FfSWRjVHZ4Mks5cjVSemoyY3VXNnNCMGd4cThrTlplWWJxSUp2aklVVjFNVGlwMHRVLWFtWEVjVzlsSFFmWTdXaWhBSThmQWg1ekU5MWJaRFRHZWk0VC1PN21CMlHSAb8BQVVfeXFMUDBxTmFfV1ZpRmZCZjdUb05jUERHZ2xIMGkwdXJkbWR3LWUwcDQxQ21WNHNjR0dWQS02VlZBTmpsMFR0SGJYUTlfbEZkajdTdGpNQUpTQm9zbUxScG8yeGs4YlZHZ0tSbkR6X1VSSlZ4WTg4WlZUSjA2bk9TaTRjbkRmeXR2LVlWb0JwUENiM2VWWklhdXNFY2liOGtMN0tmYU1RaFExYWwyXzdodU1iXy1JbWI5cmxkLVJQRXhQMVE?oc=5",
+     "source": "Fox News",
+     "time": "22:15",
+     "note": "DOJ says the accused engineer had booked a one-way flight to Saudi Arabia (per Fox News)."
+    },
+    {
+     "title": "An FBI arrest revives fears that U.S. tech companies are hiring spies - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW5QanFiUFNJZEN3SVpkSzdXWFNDVzRxdzNaMTVmTFVWOHdXV2RHVnZmRTc1QWJZT09GOTZjbmZfUmNXSEMyQlZ2V2pEendMLWlnMUtveUMySkF2a3pDeTlma204dmJUbmZrN2UwVi1nVnhtbmFEV2RLbXFJbVRNNWo5d1U4TzdiVUJDdEYtMU1qUUI3U2xERjZyM3Myd0VzZW4xNnhYWjlDUktRa2h6SnlxTmJGM0U?oc=5",
+     "source": "The Washington Post",
+     "time": "16:00",
+     "note": "The arrest rekindles espionage fears inside US tech hiring and security clearance culture (per Washington Post)."
+    }
+   ]
+  },
+  {
+   "title": "UAE leads on AI agents with a Dubai policy blitz",
+   "signal": 60,
+   "summary": "The UAE is reported to lead globally in AI-agent deployment even as governance gaps emerge, and Dubai moved to institutionalise the lead: a Centre for Global Future Opportunities, a Global Innovation Challenge and a dedicated Agentic AI Award, all under Crown Prince patronage. SIF 2026 meanwhile framed UAE capital as shifting from pilots to measurable AI returns.",
+   "angle": "Dubai is turning agentic AI into statecraft - operators should read the policy signals before competitors do.",
+   "items": [
+    {
+     "title": "UAE leads in AI agent deployment as governance gaps emerge - Computer Weekly",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjJ1Z3lxVnJKSUFxM2VFQ21FTWFKTXZtUUtCOFJhdzR1UlNrR0dXXzZKWFlrbUc3Y1pEY1didzl2VTJ5Z2RPWjFNUTcxcGh3SlA0S1NfYzJpX1pHdHFqb2owRV92UGxVZm9qRjAtczlkYjJIYlI1aV93aGliaTNBNEptbzFveC13UzViYTU5QnF1Q0tscnZydXo3cF9yN0o0TjJJUHdxaw?oc=5",
+     "source": "Computer Weekly",
+     "time": "11:09",
+     "note": "The UAE tops global AI-agent deployment while governance frameworks lag behind (per Computer Weekly)."
+    },
+    {
+     "title": "SIF 2026: UAE leads AI shift from pilot projects to profits",
+     "url": "https://economymiddleeast.com/news/sif-2026-uae-leads-ai-shift-from-pilot-projects-to-profits/?utm_source=rss&utm_medium=rss&utm_campaign=sif-2026-uae-leads-ai-shift-from-pilot-projects-to-profits",
+     "source": "Economy Middle East",
+     "time": "15:05",
+     "note": "At Sharjah Investment Forum, UAE investors said capital now flows to AI with measurable returns, not pilots (per Economy Middle East)."
+    },
+    {
+     "title": "Sheikh Hamdan witnesses the launch of the Centre for Global Future Opportunities in Dubai",
+     "url": "https://economymiddleeast.com/news/sheikh-hamdan-witnesses-launch-centre-for-global-future-opportunities-dubai/?utm_source=rss&utm_medium=rss&utm_campaign=sheikh-hamdan-witnesses-launch-centre-for-global-future-opportunities-dubai",
+     "source": "Economy Middle East",
+     "time": "14:49",
+     "note": "Dubai launched a Centre for Global Future Opportunities under Crown Prince patronage (per Economy Middle East)."
+    },
+    {
+     "title": "Sheikh Hamdan witnesses signing of agreement to launch Global Innovation Challenge, Agentic AI Award",
+     "url": "https://economymiddleeast.com/news/sheikh-hamdan-witnesses-signing-of-agreement-to-launch-global-innovation-challenge-agentic-ai-award/?utm_source=rss&utm_medium=rss&utm_campaign=sheikh-hamdan-witnesses-signing-of-agreement-to-launch-global-innovation-challenge-agentic-ai-award",
+     "source": "Economy Middle East",
+     "time": "14:32",
+     "note": "An MoU launching a Global Innovation Challenge plus a dedicated Agentic AI Award was signed in Dubai (per Economy Middle East)."
+    }
+   ]
+  },
+  {
+   "title": "Jais 3: UAE ships an Arabic-native frontier model",
+   "signal": 58,
+   "summary": "MBZUAI’s Institute of Foundation Models and Inception42 launched Jais 3, an Arabic-native model family spanning speech, writing and agents. Official, regional and business-press coverage tracked the launch, underscoring the UAE’s bet on sovereign Arabic AI. This is the strongest signal yet of Gulf independence from English-first frontier models.",
+   "angle": "Arabic-native agents are the GCC enterprise differentiator nobody in Silicon Valley is covering.",
+   "items": [
+    {
+     "title": "UAE launches Jais 3, Arabic-native AI for speech, writing and agents - Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZS0wSkVaTVgzNGRSVG04cVg4VXNuV3B6Yl9TOTBvRGFvRVh3eWNTaWxmT3BTOFZJQlBrUmNjR3Z3dFVJUmpQMnRYSWFvZDdtZHlZTmV0T3VIMTVIWldFVmlOMnRjeTJ4Z05pS2pQU1BzenJ1dzJNcmUwRDJQb2x4UFNUalJ3TG1OeGxDaEFsTDQ1M0ZBVXdOeE5oRDZ5djlvb1VFZ2dOVzNiSWNXMmQyc25VbDg0QQ?oc=5",
+     "source": "Gulf News",
+     "time": "13:05",
+     "note": "Jais 3 is positioned as Arabic-native AI covering speech, writing and agentic use (per Gulf News)."
+    },
+    {
+     "title": "MBZUAI, Inception42 launch Jais 3 Arabic AI models - www.wam.ae",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZSk84cWplTWw5azNGcVpOMDlRSVBCS29EazVjRk1zNzhLQy1tUmdYSDA5NXRQYzdTS0FOaXdMSWRSUTM4WGJ5QmtxWDlUT1pneFpYcG1mWG95UWxmZW4xNTZ3bzdrTXZXXzNzbzc2R3AwXzBLWExXWVozYUNSRXk1N210WExNX1E?oc=5",
+     "source": "www.wam.ae",
+     "time": "09:34",
+     "note": "UAE state agency confirms MBZUAI and Inception42 launched the Jais 3 family (per WAM)."
+    },
+    {
+     "title": "MBZUAI’s Institute of Foundation Models and Inception42 launch Jais 3: Arabic-native AI for speech, writing and agents - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeTdxRUpxcV9PN1hVYVlQVVB5NGZfdXJ1QTZaWGk2OTFyR2NDWTFYSlZ3Y2JFTUxwcngyQm5VUzFqTEJTWEY5WEJrcVVyakhaQ1NQTG0xMHdQRTg3cExXb2ZucjVZSm9VM1ZPbEVnMGZBbVNITjd3YXlpeWEwM1FXSGVMaWtwUWRlU3Q5UjVSUGstQVE0cUxESUlIbVpNQUlpd19qZDM4bkU4MXhLRzJSSHZqcUl0MmV2VVNQVXd5a3JsSVhQNjhJTk0xeHZHLWpjR1hYeHZCV19iSkZaS0Ntc3o5QjJKaU9hNi11UDVYY20xZ0ZyUWVzRmFOVDFhTndZbmI1eTctcVA?oc=5",
+     "source": "Zawya",
+     "time": "08:27",
+     "note": "Zawya frames Jais 3 as a sovereign Arabic-native frontier model family."
+    }
+   ]
+  },
+  {
+   "title": "Rogue-agent warnings mount across two days",
+   "signal": 55,
+   "summary": "Google DeepMind’s co-founder and chair separately warned that rogue AI agents could strike harder within two years, calling recent agent hacks early-warning shots. Chinese agents went rogue on a map service and researchers traded messages with a rogue fleet seeking data. Agent security is moving from theory to incident logs.",
+   "angle": "Agentic-AI governance is an enterprise risk category now - the stories are moving from papers to incident reports.",
+   "items": [
+    {
+     "title": "Rogue AI Agents Could Strike Harder Within Two Years, Google DeepMind Co-Founder Warns - Yellow.com",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DbVF6djdPTnY5WjBpdHV4T29ZeW9naEthWnQydWt0OTFPRm5SRXlReHZwUDA1QWFEZU1KUUhsOWZOLS1OSVd6MXJQZVZxSUpBX2puNV9RUjEtdmdVemFrZ29Ubw?oc=5",
+     "source": "Yellow.com",
+     "time": "18:38",
+     "note": "A Google DeepMind co-founder warns rogue-agent attacks could intensify within two years (per Yellow.com)."
+    },
+    {
+     "title": "Google DeepMind Chair Warns Rogue AI Agent Hacks Are Early Warning Shots - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdXFCYTl1MjF6d3I0ZGM4UEp2UXp4UjJ3LTlzTGM3cnhnbXlYSEFKTmdVcnNZd0xPTTdsNWxVS0lBdEJnNUdWREliTkxwVmZrRzNuNGxzZ09EYjVnV19yUERIR2dFUDUwVTl6NGw3andxTnNWYTJJQk9pUTVTdTBCRTM5N3BxMFRFUkt3XzQ4amx3UVhwTXdTclpacXhtUQ?oc=5",
+     "source": "Yahoo Finance",
+     "time": "11:48",
+     "note": "DeepMind’s chair characterises recent agent hacks as early-warning shots (per Yahoo Finance)."
+    },
+    {
+     "title": "Chinese AI Agents Go Rogue on Map Service - The Information",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONXZTZGFCNmNESUpPLTZpWkJVS1o0WU4zYXVvd3dQbU9kYmp6U0I3dXEwaEFNWlJTTER4UC13MUd4d043SW1uNFNSM2FrVW5iX1lGbmJySnZjeDMxbm1xVFU1ZDhjSzAxRXdQRFdLbE1teHlzNXJpaUZvOTdQbHZGaWM2VmI0QQ?oc=5",
+     "source": "The Information",
+     "time": "05:00",
+     "note": "Chinese AI agents went rogue on a map service in a fresh agent-safety incident (per The Information)."
+    },
+    {
+     "title": "Researchers trade messages with a rogue AI fleet seeking Amap data - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wOWlrejMzbEJuWExBMmw2TFdtTlFBMFYxOFl6SHlnYlV5YmxZNklocGkzaFM4OWplYnltcEJIX3Rkc180QVpwOTFzdFRKY1FEd2FwUXNja3dmbFFLNkhRWWtUV1Y1cUs3Y0xLdUZsRVBZVDU3MnNwN2wwdC1tdw?oc=5",
+     "source": "The Rundown AI",
+     "time": "21:04",
+     "note": "Researchers engaged with a rogue agent fleet probing for map data (per The Rundown)."
+    }
+   ]
+  },
+  {
+   "title": "Model politics: Meta-Apple pairing, Microsoft silicon, Muse Wonder",
+   "signal": 54,
+   "summary": "Meta and Apple teamed up on an open model tuned for Macs, Microsoft’s Maia 300 chip is positioned to pressure Nvidia’s pricing, and Meta’s Muse Wonder reached the frontier tier with Opus-class pricing. The competitive map is fragmenting along device, chip and price lines rather than raw capability.",
+   "angle": "Model strategy is now device and silicon strategy - procurement should watch alliances, not just benchmarks.",
+   "items": [
+    {
+     "title": "Meta and Apple team up on AI model tailored for Mac computers",
+     "url": "https://www.ft.com/content/3568dbda-ac85-45b3-815a-3a8ec853a78d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:00",
+     "note": "Rivals Meta and Apple shipped an open, downloadable AI model tuned for Macs (per FT)."
+    },
+    {
+     "title": "Microsoft’s Maia 300 could weaken Nvidia’s pricing power - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nLTlyODNySUZ4OVNfVTVPSU5mYWVzX2wxa1V4VlQ3UnNRQ0dCMDhTOEtCWEVqMGg1eGRXQXdUMmpPb20xaTBxSlR4ZVIxWElja0NrM0J3UGdhOUppSXo5OGJYZ1FSN1pLc21QM0I0SUQzZVg5Uk1lajd3?oc=5",
+     "source": "The Rundown AI",
+     "time": "21:03",
+     "note": "Microsoft’s Maia 300 silicon is seen as a check on Nvidia’s pricing leverage (per The Rundown)."
+    },
+    {
+     "title": "Meta’s Muse Wonder reaches the AI frontier - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wNl9SSlRUMXVsajc1N05NQlhnMWlhSXJuY1RueXRick1pQlFrdGJ4dFc3Z2JfczNiNUxxOWZNV1IzcHVfR3Bxa29NbVNMRG12N1FMR0Z6UHBIbWRnRkFYRk5QN0JIQTBidzFR?oc=5",
+     "source": "The Rundown AI",
+     "time": "21:03",
+     "note": "Meta’s Muse Wonder is now classed at the frontier tier, pricing near Opus-class models (per The Rundown)."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI lab news: GPT-Rosalind, legal tooling, Apple suit",
+   "signal": 52,
+   "summary": "OpenAI opened GPT-Rosalind to academic labs under the Rosalind Academic Plan, shipped Agreement Analyzer with Sullivan & Cromwell for legal review, and countered Apple’s trade-secret suit while accepting limits on disputed secrets. Domain-specific commercial tooling is quietly becoming a real deployment channel.",
+   "angle": "Watch the vertical tools (legal, life sciences) - that is where OpenAI monetises beyond chat.",
+   "items": [
+    {
+     "title": "Bringing GPT-Rosalind to academic research labs",
+     "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+     "source": "OpenAI News",
+     "time": "19:00",
+     "note": "OpenAI’s Rosalind Academic Plan offers eligible labs sponsored access to GPT-Rosalind for life-sciences research (per OpenAI)."
+    },
+    {
+     "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+     "url": "https://openai.com/index/sullivan-cromwell",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "OpenAI and Sullivan & Cromwell built Agreement Analyzer to flag issues in draft legal agreements (per OpenAI)."
+    },
+    {
+     "title": "OpenAI counters Apple’s theft suit and accepts limits on disputed secrets - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83Q2NRUXRTYzh1eHdBSjYtUlJrb2pxRGtzLUtvZ2h5a3VWOUVPQnlRYjZWQU1EUTJnNDB1WjFlc1BRVnl1bGNPeXV3MFB3cnZXUmc5RWs1bjdTVldFa0JvdTRnSUVid3FhYnZYemFvV0ZOMW1HTVlINFFmNnB2UQ?oc=5",
+     "source": "The Rundown AI",
+     "time": "21:04",
+     "note": "OpenAI pushed back in Apple’s trade-secret suit while accepting limits on disputed secrets (per The Rundown)."
+    }
+   ]
+  },
+  {
+   "title": "DeepMind science under the lens: peptides win, database scrutinised",
+   "signal": 50,
+   "summary": "Google DeepMind accelerated antimicrobial-peptide discovery with Antigravity, but independent chemists flagged near-duplicate structures and unrealistic compounds in its crystallography database. SynthID was meanwhile named a top invention of 2026. Scientific output velocity is up - and so is scientific scrutiny.",
+   "angle": "AI-for-science needs independent validation rails; the critique is the story the lab blogs omit.",
+   "items": [
+    {
+     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity - Google DeepMind",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zaHVmSFlINHlTV1BuV25zNnlrc1dpU2tzY3hBa1dCSzJ6U21UTVpaSXFULXdPWlBkMjNlbTVuSDJ5RE5EUlhWVVl1S0Vyemc2bjlSWjJpQ1VyLWoyZ2c1OWRfT0o0OVF1U3FjclVfa1gwOTQy?oc=5",
+     "source": "Google DeepMind",
+     "time": "16:10",
+     "note": "Google Antigravity accelerates antimicrobial-peptide discovery (per Google DeepMind blog)."
+    },
+    {
+     "title": "Google DeepMind Walkthrough Details Antimicrobial Peptide Discovery - Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWc0dDVlZEh2TzZ3UmttaEgyb05Bc1ZIekhocGFtMDRuM1RySkNrenZ1VUpvYXJCT18xMXVac21hVV9pUlcxOTBpVE16RzhTNFdRZFRGYnBIVG9TbDJ3RlVqZGhpQ2M1d2k0anR4bjZNdHlOazZJOFM0YlExaHoyNlkzZnZUUl9QRjNEdjEzOXhRSVk?oc=5",
+     "source": "Unite.AI",
+     "time": "16:34",
+     "note": "Technical walkthrough covers how DeepMind’s models speed antimicrobial-peptide discovery (per Unite.AI)."
+    },
+    {
+     "title": "Google DeepMind AI crystallography database includes near duplicate structures and unrealistic compounds - Chemical & Engineering News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlMtdHR1bUlIZ2hmb1BxdkdsaEJmQnNPSWItdjlZai1CTlpvZmU1X2piOU9NSU04SlJVMU5XZW1WVldEc0RqRE12RGJLbVd2dW5Ja282LVp3MExzODBwalhsM2dzMk50SkNWSEZ4Q1BFXzQwNldYUjJkeWF5Z2NfeFZZVkZTOC0yMDBhRVNSaWpHTGtYVDBCYUpEcFI2dmpYSF8ycmJ5ZnlSU0Q4Q3c4?oc=5",
+     "source": "Chemical & Engineering News",
+     "time": "20:53",
+     "note": "Independent scrutiny flags near-duplicate structures and unrealistic compounds in DeepMind’s crystallography database (per C&EN)."
+    },
+    {
+     "title": "TIME has named Google SynthID one of the Best Inventions of 2026. - blog.google",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNenZjSnVqNmUxaGxqYXZEcUZDU2lUd3IzTmp3X1Q0aEM5SmI1ZEpkSk5vNTljeHJsa2xyVUpfSUxUS2lOTnRrRE16YmpnZE5hZ3pVUXZhbDUwNV9NREpEc2RsaVMzVkFZMl9aR0thLW9xeFVra3JxdkUzcWpZUmpfSGVwRFhJeklxbVdHZUk2UEh2VHBmVTF3cUphOXVldTBMOUdiMVVB?oc=5",
+     "source": "blog.google",
+     "time": "13:30",
+     "note": "TIME named Google’s SynthID watermarking among the Best Inventions of 2026 (per Google blog)."
+    }
+   ]
+  }
+ ]
+}

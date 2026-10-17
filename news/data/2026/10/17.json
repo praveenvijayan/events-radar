@@ -1,0 +1,316 @@
+{
+ "date": "2026-10-17",
+ "generated_at": "2026-10-17T02:00:06.176670+00:00",
+ "themes": [
+  {
+   "title": "China moves to control AI tech exports",
+   "signal": 80,
+   "summary": "Beijing has published draft rules to restrict exports of AI technologies, including chips, on national-security grounds, a direct escalation of tech-supply geopolitics. For Gulf buyers of compute and AI systems, the controls sharpen questions about supply-chain resilience and dual-use sourcing.",
+   "angle": "The export-control map is being redrawn; GCC capability procurement needs a China-proof sourcing strategy.",
+   "items": [
+    {
+     "title": "China unveils draft export controls on AI technologies and chips",
+     "url": "https://www.ft.com/content/e0a1295c-4492-4fdd-aaf5-55678a9ef9bf?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "12:51",
+     "note": "Draft rules unveiled; expanded restrictions target transfer of the most advanced tech overseas, per FT."
+    },
+    {
+     "title": "China says it will curb tech exports, including AI, citing national security risks - PBS",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV1VUdmQwc0xPcG5KT3AxZFJ2dVJTVXNFc3RYc2lUTlA2R2xGeGJ3TjVqRGlpYUt2WUhNNEZDSDZkX1dJYm1INV9TaTI3eVlMM0RIaHh4V1g4U2FLdGJWOGJNRjFia1Q1amNoWUwzamlLWGFDVVhPNlZzbjRoU29YN3V1X2wyM2E5clBsTnp2MGJkSDNjOTFSVWVBd3MtZUZ1Sk1Yb1JGOGhZUlVoQmR3azVzZzU2Z9IBuwFBVV95cUxOSGI4Vm0wMmNIV3ZNY1NqNkRsaG1kTkd1bm1aZ3ZwZkFERU9YQ29Id3Bnc3FOU2NFNHVPbWwxclR4ZlFYY0hYLVNuMW1KbVRnNGdNTXpQODVReFdOaXZMV3E5cGx3ME9Ha25CZ3V3OXF1Zl9KSFhjWldWcHBwbjJDdGFudGJXVTdwY3dEa0JpYU96VEJqdG5hdW5pVmVvaEcxcFZXUTZoSVlpTWFtMTFlOE1YbUtVYVlBZTdV?oc=5",
+     "source": "PBS",
+     "time": "22:00",
+     "note": "US public-broadcaster report frames the curbs as a national-security move, per PBS (via GN)."
+    },
+    {
+     "title": "China Proposes Export Controls on AI Technology - The Information",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTERwQmxDazJhcFFiaGNMSVFiUnVVeTNBNnhpdlBjZlVXVUNrNmZYcndIWmZJbk9OV1Btd3p6N2UyTDBLR2JBb3p2S0FqZUpHclozaE9ja3NuTUdqcnJDN1pmbmp5RUlNS2FoN1ZjMHQ3Ml9NVzh3UUlMdUd0b3BrMWVLZFoxRWtPUXZkVmFR?oc=5",
+     "source": "The Information",
+     "time": "11:51",
+     "note": "Business-press item confirms the proposal, per The Information (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "Jais 3: Gulf frontier Arabic AI arrives",
+   "signal": 80,
+   "summary": "MBZUAI and Inception42 (G42's AI arm) launched Jais 3, a family of six Arabic AI models spanning up to 375 billion parameters, including speech-recognition and agent-focused models. It is a signal that Gulf institutions now ship frontier-scale, Arabic-first AI rather than import it.",
+   "angle": "The Gulf's model-sovereignty story, Arabic-first and 375B params, is the regional angle global newsletters miss.",
+   "items": [
+    {
+     "title": "MBZUAI and Inception42 Introduce Jais 3 and Arabic Speech Recognition Model - HPCwire",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamxoblB5QWFZeS1JSUxHSWExMkRZeVJoMGhwWGFnR3BRRmI4ejVvLV9OR0RpQ0dyTUJhSjlIU3Jmd1JqeVBQeHM2RUIzWWxveXBFX191Z3pVM1ZfdG8zZThzU1lTazVsQUItbThDYjRTTHgyenNDZ1h3am1FTmttaEFsLVNvSWNxR3hqejQ4RzVqYnhfTFRzX1lYU2tTM2Q0R2Q2SUFTWjlmemYzWWZjNEdqWm9nd0dBaUE?oc=5",
+     "source": "HPCwire",
+     "time": "21:45",
+     "note": "Pair introduces Jais 3 plus an Arabic speech-recognition model, per HPCwire (via GN)."
+    },
+    {
+     "title": "MBZUAI and Inception42 Launch Jais 3 Arabic AI Models for Speech and Agents - ITP.net",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0d3T0huZGZGMXQ1Sy1FUTdHc0JWY1c5R2JReTNDUGcwcFJ2TVhyOWdQQ1JfbXBlRUJlNnFXbEppdXpfcmt0QjZzNVppeERJaEJVYi1FT1NjYXI2Ul8yVmhFWTNoZ1A4Q0JVWldhSTNCdHZVRUUzUDVDVktHRFBIZEdtZ05SY2xzUVB5bWhHWEJPZ1VFUW9RUk1OWHpMQ3kyb0p1SzZ0Tk9WMnFuYlE?oc=5",
+     "source": "ITP.net",
+     "time": "07:49",
+     "note": "Regional tech press frames launch around speech and agent models, per ITP.net (via GN)."
+    },
+    {
+     "title": "Jais 3 Launches: 6 Arabic AI Models Span 375B Params [2026] - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BazFDcTZBQTljempFWVZtSmJIbTFMTEdXaE9UV2VjNWVoTlp6R3VWVTFoQ0JSNDdQSUp5NHpFT0NzdVg0bVRzZUZwajBSZV83V0NiVU1hM3dHdE5WclZYMnhwZk8yeG11OG1QaWU0RQ?oc=5",
+     "source": "shattered.io",
+     "time": "10:34",
+     "note": "Six Arabic AI models span 375B parameters, per shattered.io (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "AI capex hits a debt-market wall",
+   "signal": 78,
+   "summary": "Big Tech stocks posted their biggest weekly drop since 'liberation day' while banks publicly question whether AI's debt pile can pay off; CoreWeave's wipeout and Australia's data-centre IPO debacle (Firmus, AirTrunk) add to the anxiety. The AI buildout is now being priced by lenders, not just enthusiasts.",
+   "angle": "The story is no longer model capability; it is the cost of capital for AI infrastructure.",
+   "items": [
+    {
+     "title": "Banks are pulling back as AI's massive debt pile disconnects from economic reality",
+     "url": "https://www.axios.com/2026/10/16/wall-street-limit-ai-spending-debt",
+     "source": "Axios AI+",
+     "time": "09:00",
+     "note": "Financiers say AI infrastructure spend may not pay off for everyone; cost-revenue gap widening, per Axios."
+    },
+    {
+     "title": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
+     "url": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:42",
+     "note": "AI-trade jitters halt a months-long Treasury selloff as investors move to government debt, per FT."
+    },
+    {
+     "title": "CoreWeave Stock Wipeout Exposes Divide Between AI Fear and Greed",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-16/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed",
+     "source": "Bloomberg Technology",
+     "time": "08:56",
+     "note": "Investors split between bond-yield fears and compute-demand optimism, per Bloomberg."
+    },
+    {
+     "title": "The data centre IPO debacle that sparked a market meltdown",
+     "url": "https://www.ft.com/content/537c9a68-7b6f-41a7-80ff-acac5c52e80d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:54",
+     "note": "Australian groups Firmus and AirTrunk add to concerns about the AI borrowing frenzy, per FT."
+    },
+    {
+     "title": "EM Stocks, FX Gain on Bets Fed Will Hold Rates This Month",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-16/emerging-market-stocks-gain-as-fed-s-warsh-backs-ai-optimism",
+     "source": "Bloomberg Technology",
+     "time": "05:16",
+     "note": "Gulf-relevant: emerging-market currencies and stocks gain as the AI selloff abates in Asia, per Bloomberg."
+    }
+   ]
+  },
+  {
+   "title": "Abu Dhabi exports its AI-native government stack",
+   "signal": 74,
+   "summary": "Abu Dhabi's Department of Government Enablement formed TAMM Global, a company set up to license the emirate's AI-native government-services platform to other governments worldwide. It turns a domestic digital-government win into an export product, a template for GCC AI nation-building.",
+   "angle": "Abu Dhabi is packaging governance as a software export; watch which governments buy TAMM.",
+   "items": [
+    {
+     "title": "Abu Dhabi’s DGE forms TAMM Global company to expand platform’s global reach",
+     "url": "https://economymiddleeast.com/news/abu-dhabis-dge-forms-tamm-global-company-to-expand-platforms-global-reach/?utm_source=rss&utm_medium=rss&utm_campaign=abu-dhabis-dge-forms-tamm-global-company-to-expand-platforms-global-reach",
+     "source": "Economy Middle East",
+     "time": "12:57",
+     "note": "DGE announces Abu Dhabi Digital Services Company TAMM Global under Crown Prince directives, per Economy Middle East."
+    },
+    {
+     "title": "Abu Dhabi Launches TAMM Global to Bring Its AI-Native Government Platform to the World - Press Release Hub",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTHRsa2x3S0d5LUlGSm5VX21NeE5vdWZjQ2VXRnJWMDZaZVhhSkV0b2ZGaW5aYkU1SlROSWpsUlVfM21VelZDXy1Qa3dOclV5S2tXWk5RcVgyVURqN080QWQzdjhUSVZUcDAySkktb1FvVE5NRlgzZi16THgwQmo4SC16V0dHOGtzci1MN2NyWlN2b2dKdWU5QVY5VTBjeVJrQU9aVVpUSm01M2NVcUhCOTd3ODhZMFZHdS1Eb3ZPSzQ5RTZRNGNHRWJuZ093cEFZZWJOOA?oc=5",
+     "source": "Press Release Hub",
+     "time": "14:03",
+     "note": "Launch framed as bringing the AI-native government platform to the world, per Press Release Hub (via GN)."
+    },
+    {
+     "title": "Abu Dhabi forms company to license app to other governments - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUzkxaUhqcTN2NG9QV0JhVWlYSFZqLUdoUk5aWUE1XzY4U2RINFdQbWoxVFpNZXNLOEczTTd2OVRhQXkzS2hZclhSZVdnWElmMzJUUy1yeU9jOVlfX0FUY0xtelBZN3VVcEJhNjZsaWNvVUJlMkdPZnhDVmQzYnlMaG5JaUVvWEhDUU9TSExlTEt6T0dBMW1fNDZWUQ?oc=5",
+     "source": "Yahoo Finance",
+     "time": "21:21",
+     "note": "Financial-press view: company will license the app to other governments, per Yahoo Finance (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "Enterprise agents hit guardrails; model race heats up",
+   "signal": 66,
+   "summary": "Citi became the latest US bank to bar AI agents from accessing accounts, citing deposit-shift fears, at the same time OpenAI's Stack Overflow for Agents plugin tripled signups and Microsoft's Maia 300 chip threatens Nvidia pricing power. Deployment is scaling while trust and economics are being renegotiated.",
+   "angle": "Agentic AI's enterprise bottleneck is governance and unit economics, not raw capability.",
+   "items": [
+    {
+     "title": "Citi becomes latest US bank to restrict AI agents from accessing accounts",
+     "url": "https://www.ft.com/content/f49c8e39-f07f-4177-9948-aabe55e5ed91?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:58",
+     "note": "Lenders fear chatbots could shift billions in deposits to higher-yielding accounts, per FT."
+    },
+    {
+     "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+     "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Plugin built with Codex drove up to 10x growth in agent creation, per OpenAI."
+    },
+    {
+     "title": "Microsoft’s Maia 300 could weaken Nvidia’s pricing power - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nLTlyODNySUZ4OVNfVTVPSU5mYWVzX2wxa1V4VlQ3UnNRQ0dCMDhTOEtCWEVqMGg1eGRXQXdUMmpPb20xaTBxSlR4ZVIxWElja0NrM0J3UGdhOUppSXo5OGJYZ1FSN1pLc21QM0I0SUQzZVg5Uk1lajd3?oc=5",
+     "source": "The Rundown AI",
+     "time": "21:03",
+     "note": "Microsoft's custom silicon is positioned as an Nvidia alternative, per The Rundown AI (via GN)."
+    },
+    {
+     "title": "Muse Spark Open ✨, Microsoft’s 3T param model 🧠, d1-ultra 💡",
+     "url": "https://tldr.tech/ai/2026-10-16",
+     "source": "TLDR AI",
+     "time": "00:00",
+     "note": "Roundup: Muse Spark open-sourced, Microsoft's 3T-param model, and d1-ultra out, per TLDR AI."
+    }
+   ]
+  },
+  {
+   "title": "Regulators circle AI: bills, banks, cyber drills",
+   "signal": 62,
+   "summary": "Anthropic handed US lawmakers its own draft AI-safety bill, G7 finance ministers agreed to simulated AI attacks on banks, and the IMF's Georgieva warned AI risks could outweigh opportunities without safeguards. Saudi Arabia's SDAIA separately consulted on sweeping PDPL implementing-regulation amendments.",
+   "angle": "AI rulemaking is now vendor-drafted and bank-tested; boards should track the direction of travel, not wait for final text.",
+   "items": [
+    {
+     "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-16/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says",
+     "source": "Bloomberg Technology",
+     "time": "22:25",
+     "note": "Anthropic presented its own plan for regulating AI safety and security, per Bloomberg."
+    },
+    {
+     "title": "G7 economies plan simulated AI attacks on banks as cyber fears rise",
+     "url": "https://www.ft.com/content/ce1b9236-1e53-47f1-b1f9-443a9f430b0d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "07:36",
+     "note": "Finance ministers agree tabletop drills against future cyber attacks, per FT."
+    },
+    {
+     "title": "IMF chief warns AI risks could outweigh opportunities without safeguards",
+     "url": "https://economymiddleeast.com/news/imf-chief-warns-ai-risks-could-outweigh-opportunities-without-safeguards/?utm_source=rss&utm_medium=rss&utm_campaign=imf-chief-warns-ai-risks-could-outweigh-opportunities-without-safeguards",
+     "source": "Economy Middle East",
+     "time": "10:01",
+     "note": "Georgieva calls for industry self-regulation plus guardrails and ethics, per Economy Middle East."
+    },
+    {
+     "title": "Shareholders should have a say on making AI safe",
+     "url": "https://www.ft.com/content/8540ec79-705b-4ee0-b7d3-ce041d757ecd",
+     "source": "FT Technology",
+     "time": "11:05",
+     "note": "FT op-ed argues the SEC's rescinded voting rule lands at the wrong time."
+    },
+    {
+     "title": "SDAIA Consults on Extensive Amendments to the Saudi PDPL Implementing Regulation - Reed Smith LLP",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRDBXYVExN1paZGFkTmRha29fNjUybEJsTktteDliMWF1a1BXOGZlSU9fQ0lYVjdhMjJhRTEtX2xWTjRTVkNzaDlrUVhhSGdnSkVuaUhHalN4c0QyV1drM1F2TlhRY1duT1ZXUnpzd1VvajJ3cDBndHJUMmpiQ251X3BTWmlubGI1N04ya2JsNFRUZkJjczJ6c1hxWEpGX0RSSjhvb254a2g3VkR5RWVQSDJNalFIbXVoUGw1aUZIOHVnVFZpS0lrOGhDZkVkdDdKNEVzajVvLU5lcEZBMmc?oc=5",
+     "source": "Reed Smith LLP",
+     "time": "13:44",
+     "note": "Saudi regulator consults on changes to PDPL implementing regulation, per Reed Smith (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "AI's power problem: data centres, geothermal, nuclear",
+   "signal": 60,
+   "summary": "Anthropic signed its first Canadian data-centre lease, a C$10bn+ ($7.1bn) Nova Scotia project, as geothermal wins rare bipartisan US support and DeepMind hires a nuclear expert. Even Saudi grid expansion is being framed around AI demand. Energy is the real AI constraint.",
+   "angle": "Follow the megawatts: AI winners will be decided by power access and grid upgrades.",
+   "items": [
+    {
+     "title": "Anthropic Signs First Data-Center Deal in Canada With EverWind",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-16/everwind-to-build-nova-scotia-data-center-lease-to-ai-developer",
+     "source": "Bloomberg Technology",
+     "time": "14:00",
+     "note": "Lease worth more than C$10 billion ($7.1 billion) in Nova Scotia, per Bloomberg."
+    },
+    {
+     "title": "Geothermal finds rare political sweet spot amid AI boom",
+     "url": "https://www.axios.com/2026/10/16/geothermal-rare-political-sweet-spot-ai-boom",
+     "source": "Axios AI+",
+     "time": "09:15",
+     "note": "Bipartisan appeal plus surging AI electricity demand fuels investment, per Axios."
+    },
+    {
+     "title": "Google's DeepMind hiring for nuclear expert - Data Center Dynamics",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3JYcUZKbk1ZZWxyM1NXQUVxcHA2ZzBFS0g5VmZKYkRrRkI0eWYxbjFhbDlPNDZSalBIdlBiR2wyaFZhcUtxVHpOeFllX2xBV2VQQ3BsRkZ6eDJEekM4U1RKV2Nuc3FoVkhXYk5YREF4dHJEcnJGR3d0NEtrVTNhM1ZQTURUWmNzMXdhYnVZWQ?oc=5",
+     "source": "Data Center Dynamics",
+     "time": "17:10",
+     "note": "Recruiting signals power-side strategy at the lab, per Data Center Dynamics (via GN)."
+    },
+    {
+     "title": "Saudi Grid Expansion and AI: Power, Connections and Delivery - vision2030.ai",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWUNKcVg5MVh3ejh0MU5FQ2tHRnUwRm5qTkJSUmdCeUxjUFRTaElsMlBVMl83N0w5a0czWWNkWG9sOUdUcEpqQlc3Z3JCd0hzdnY4U2djUVVubFFLekxsTWxrTl9ucnNZZDBrcnJhVVhFbTlLa2lmdFNLSENTZmF6MmQ1aWtQbWVDVXc?oc=5",
+     "source": "vision2030.ai",
+     "time": "15:28",
+     "note": "Saudi grid buildout tied to AI-driven power, connectivity and delivery, per vision2030.ai (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "Gulf AI prize: $1tn by 2030, readiness gap",
+   "signal": 58,
+   "summary": "The World Economic Forum estimates AI could unlock $1 trillion across the Middle East by 2030 while the UAE ranks sixth globally for AI readiness and Dell finds 94% of UAE leaders plan AI PCs. The opportunity is real but enterprises still weigh readiness against security and economic pressures.",
+   "angle": "The $1tn Gulf AI prize is headline-ready; the readiness gap is the investment story under it.",
+   "items": [
+    {
+     "title": "AI could unlock $1tn across Middle East by 2030: World Economic Forum - Arabian Business",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOODRXcVUtNzZPcjRWTGNySS1MYnZrQmlnT2ZjRkFFWHpKLTBOMGZpd2cwU1VqTzh5MTJEWUFYX2FubGdTQUREekEwWWZNQ0Fjb2hQZDdITFZEQnc2VFRfNERvNERISXdRSHFrTkozM0o1YXlKYWp5OGhUdGpxRHF5bHhwVWtUS00?oc=5",
+     "source": "Arabian Business",
+     "time": "20:53",
+     "note": "WEF-backed estimate: $1tn opportunity by 2030, per Arabian Business (via GN)."
+    },
+    {
+     "title": "UAE ranks sixth globally for AI readiness, with AI security learning up 243% - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWmhKa2dFdGxHbDlwRmFuVGM5ZndCNHd3OXJSYXV3SUc0WTRLQzFjRkctUUh5OERTN1lzN2dCT0VtcURQZ3JCNzJub3hGUThPVDFTZEx5UjgwME52RGcwWlNnOGlLYWNBX1E3cXRDQS0wYzN2Rk90LXZJM2R5Q0xMN1lLVTlydXRXY1BNZjlNVGNjdW5fcms4N1k1RzZnNUpUV09NUGNqM1JMdw?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "20:18",
+     "note": "AI-security learning up 243%; UAE sixth in readiness ranking, per Fast Company Middle East (via GN)."
+    },
+    {
+     "title": "Dell Study: 94% of UAE Leaders Plan AI PCs as Security Becomes Baseline - PCMag Middle East",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0lGb255WjRvUy05UjljMGdjSE1VMnJ5dEJxOUJER19jX2xERGlnbDd6NTM4end6MXM0VXFLVWt1N2wyUml1ZnVFTktmSXItcEc4WHY5U3lOS3UybDZaRlNSd1BBNUpSMXRwZDFiTWV5NUxwUTV4cHJMTTRpWGNEQjRGZG9MVEpPbW5JdzZYRmhzWEppaEhxQ1Y1SGswUGJzNkhLbw?oc=5",
+     "source": "PCMag Middle East",
+     "time": "04:57",
+     "note": "Security is becoming a baseline for UAE device plans, per PCMag Middle East (via GN)."
+    },
+    {
+     "title": "UAE businesses weigh AI readiness amid economic and security pressures - MSSP Alert",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDE3b1JVelZCeHgxeVg2eU15VkY4LXZTdUJmeHZTQmUzcXc3ckR3dXNlV25NZkpfLW8tcElwcnFQcEFZa0p5YTh2dC00RkxRX0NpNlBITmVGdlJTWHhsUlpXTnk5dkJGVUlHQjVycVdVdWNOVU5MRFRCS2lmb043NG0wdGhKSWxjblpfdXMwQ1pvblMtekZUdUNQaG10VkozNTVNVDdqbWRVWXVMb1NDVWhDRTU?oc=5",
+     "source": "MSSP Alert",
+     "time": "12:32",
+     "note": "Enterprises balance AI adoption against economic and security pressures, per MSSP Alert (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI espionage case puts Gulf in AI-security spotlight",
+   "signal": 55,
+   "summary": "A Saudi national and ex-OpenAI engineer was charged over an alleged bugging device planted in an OpenAI executive meeting room and reportedly booked a flight to Saudi Arabia. The US Director of National Intelligence says the case shows threats to American AI leadership, landing directly on Gulf-linked security narratives.",
+   "angle": "The Gulf's AI boom now intersects US espionage litigation; expect scrutiny of cross-border AI talent and travel.",
+   "items": [
+    {
+     "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2aURfdGotR0JvZTg1YzFqNTAwd0tzdDYxZ2d3UmJfaVhCaFJ6dGYzOG5feDFobnJlQzdYSVJWQ1g2YUh5TmxnOUh0UnlYMGlOWnNtUi1ReEVTbHE1eTBMbGh1TUVRNm5pVzhHamdpWjItY2ROR0tZ0gF8QVVfeXFMTVBocE1ZYl9QUFZZQ0ZCb3dZOFFoRzRZQ2dMOE9SQXMxYlFDaXRaWjhKZFRYTVZXNHJ6MElxd3U5S0NtTjBIVDU4UFYzZDc4bkVqVzZ2Z29IYnZDd2dMdDJJamlkVjlfTm10dW5meUs4QTY0NnhkWDNKekN0Nw?oc=5",
+     "source": "CNBC",
+     "time": "13:55",
+     "note": "DNI Clayton links the OpenAI case to US AI-leadership risk, per CNBC (via GN)."
+    },
+    {
+     "title": "Ex-OpenAI engineer charged with spy device booked Saudi Arabia flight - Fox News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaW9fcHVkaDBsZmRhWU9OMU9seUpwMElxWDNrTWNRdi13LWJ6Snd3M2lMc2MxZnV2YXFDaF93Vm9zcDJfNzN5UzdSZVRZZGN1VzB2RGt3SmROUDZvdVdnblc2NmlaMVNmaHZVOFBwQkFhcng1cU9panc3cGQ2N3I4QUNRWXJIUFphakFhZ241ZXdCOXVFRTFISkk0TE9HV2VF?oc=5",
+     "source": "Fox News",
+     "time": "18:18",
+     "note": "The charged engineer reportedly booked a Saudi Arabia flight, per Fox News (via GN)."
+    },
+    {
+     "title": "OpenAI engineer charged over alleged bugging of executive meeting room - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTVIcVFkYWJmX2tXancwR0dLcGo1bkRsaW8zQzlmbnRORlVxMnRpaEtUVkFNdG1ETTR3UTJOT05wYVA1Y3dxQUwzNWZpZjJjY082cjNXRklTOXlUX053QkFyUzBSSkphTm1EMThXSlNLcnhiUUFvYTZIM2sxYzktUnRlV2FrcTVNSkg4Rkl3?oc=5",
+     "source": "The Rundown AI",
+     "time": "21:03",
+     "note": "Charges over bugging of an executive meeting room, per The Rundown AI (via GN)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "date": "2026-10-18",
+ "generated_at": "2026-10-18T02:00:26.326914+00:00",
+ "themes": [
+  {
+   "title": "AI trade rout: markets reprice the capex supercycle",
+   "signal": 82,
+   "summary": "Big Tech logged its biggest weekly drop since 'Liberation Day' as investors fled to Treasuries, while Asia's picks-and-shovels chip supply chain faces financing-cost pressure that could throttle the boom. The AI trade is now being priced by debt markets, not just model roadmaps, with CoreWeave's leverage and unequal semi losses adding to the anxiety.",
+   "angle": "The binding constraint on AI is no longer compute supply but the cost of capital behind it.",
+   "items": [
+    {
+     "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-18/ai-trade-reversal-pierces-asia-s-star-picks-and-shovels-stocks",
+     "source": "Bloomberg Technology",
+     "time": "00:00",
+     "note": "Mounting financing costs could choke the spending that powered Asia's stock rally, per Bloomberg."
+    },
+    {
+     "title": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
+     "url": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:42",
+     "note": "FT: AI-trade jitters halted a months-long Treasury selloff as investors moved to government debt."
+    },
+    {
+     "title": "The dress rehearsal for an AI reckoning",
+     "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "04:00",
+     "note": "FT: current ructions preview what a true bubble burst would do to financial markets."
+    },
+    {
+     "title": "CoreWeave's Debt Is Now a Coin Flip, a16z's Ben Horowitz Says - BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1mSWJvd2lTQUVIMV9sNmxiSlNWQU05bVNMWERyam12Ti1adlF4Z2MybVZXZXZhMm1qNC1EQVRMbXoxZ1VYWHlPVkx5S2I1Zldzd093YVBoMVFna0E?oc=5",
+     "source": "BigGo Finance",
+     "time": "04:08",
+     "note": "a16z's Ben Horowitz calls CoreWeave's debt a coin flip, per BigGo Finance (via GN)."
+    },
+    {
+     "title": "AI Selloff Tests Investor Confidence",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-17/ai-selloff-tests-investor-confidence-video",
+     "source": "Bloomberg Technology",
+     "time": "13:05",
+     "note": "Bloomberg: Ritholtz says AI stays transformational but winner-picking is the hard part."
+    },
+    {
+     "title": "Chart of the Week: The chip stock split",
+     "url": "https://www.ft.com/content/c5ed09fe-dc65-4f05-8c12-8f74f5dc7ccd?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "09:30",
+     "note": "FT: losses across semiconductor stocks have been sharply unequal."
+    }
+   ]
+  },
+  {
+   "title": "AI oversight tightens: central banks, safety bills, espionage",
+   "signal": 74,
+   "summary": "Bank of England governor Andrew Bailey told the G30 central banks 'have got to address' AI agent concerns, flagging rapid AI development as a major financial-stability issue. The warning lands alongside Anthropic's own safety-bill push and the spying case against an OpenAI engineer, putting AI governance squarely in the executive risk portfolio.",
+   "angle": "Agentic AI has moved from a productivity story to a stability-and-security story; boards should treat it as such.",
+   "items": [
+    {
+     "title": "BoE’s Bailey tells G30 they ‘have got to address’ AI agent concerns",
+     "url": "https://www.ft.com/content/3185b4cd-ab35-4efc-9d75-dcecc1631625?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "10:31",
+     "note": "BoE governor warns rapid AI development is a major issue for financial stability, per FT."
+    },
+    {
+     "title": "Anthropic’s AI Safety Bill Has an Alarming Threshold for Government Action - Mother Jones",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNk85UDhheTRLWlR3YUtHQ2FjUnU2dVg5Q3dIa1Y4b1p5bS1XajV1REJSMWotUUN4XzZLZGNIajBmRm45M0p5aTdBb0p3R082SHJFNVVXcFRKXzZBZGJsRURfWXhBNmRNdEJYYnJsaGVGM3ZNSXV5UE1NSkZTS0hSU2FsSS1nUVBnSGtBdGk2Sm11S0xqUkZNT3dRTDNTNVpwel9lS0pycU9jZHkxZUFRb1FCemdJdDdKUkhr?oc=5",
+     "source": "Mother Jones",
+     "time": "19:21",
+     "note": "Mother Jones (via GN) critiques the intervention threshold in Anthropic's AI safety bill."
+    },
+    {
+     "title": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee",
+     "source": "Bloomberg Technology",
+     "time": "03:55",
+     "note": "Bloomberg: engineer denies the Saudi ticket signalled intent to flee US justice."
+    }
+   ]
+  },
+  {
+   "title": "GCC deploys at speed: policing to 2040, Jais 3, deepfake defence",
+   "signal": 72,
+   "summary": "Dubai Police unveiled ten AI opportunities shaping policing to 2040, from robot patrols to AI-led investigations, while MBZUAI and Inception42 shipped Jais 3 with Arabic speech recognition and Saudi's SDAIA launched a public deepfake-awareness campaign. The Gulf keeps buying and operating AI at scale, setting a state-adoption template.",
+   "angle": "The Gulf's AI story is deployment speed and government adoption, the angle global briefs miss.",
+   "items": [
+    {
+     "title": "Dubai Police reveal 10 AI opportunities: robot patrols, AI investigations and more - Arabian Business",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWWVTWDhvWXVZLV9ia2k5bVVDd0tscV9KV0xiSlpOUVN0dFg3MVE0ZDRWaDlPSFdUcVNISE1NZndSM0lYbEJFbjR6UW9qWHFLbE9xNXE2TW1EUDBCTml4bnkwUFV0dUFUcWIyY2JWYTZsR1JRQklyZ2p4VVc0cTNXblZHX29GeW9EbjdpbzRCQVJocllJX1B4MU1GYjdnalI0Vkg0QTBPTlVvVTlUSXM5b21NLTVuR2VfUHpn?oc=5",
+     "source": "Arabian Business",
+     "time": "18:13",
+     "note": "Robot patrols and AI investigations headline the 2040 policing plan, per Arabian Business (via GN); corroborated by Emirates 24|7."
+    },
+    {
+     "title": "MBZUAI and Inception42 Introduce Jais 3 and Arabic Speech Recognition Model - HPCwire",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamxoblB5QWFZeS1JSUxHSWExMkRZeVJoMGhwWGFnR3BRRmI4ejVvLV9OR0RpQ0dyTUJhSjlIU3Jmd1JqeVBQeHM2RUIzWWxveXBFX191Z3pVM1ZfdG8zZThzU1lTazVsQUItbThDYjRTTHgyenNDZ1h3am1FTmttaEFsLVNvSWNxR3hqejQ4RzVqYnhfTFRzX1lYU2tTM2Q0R2Q2SUFTWjlmemYzWWZjNEdqWm9nd0dBaUE?oc=5",
+     "source": "HPCwire",
+     "time": "21:50",
+     "note": "MBZUAI and Inception42 introduced Jais 3 plus an Arabic speech-recognition model, per HPCwire (via GN)."
+    },
+    {
+     "title": "SDAIA and CST Launch 'It's AI' Campaign to Raise Awareness of Fake Clips and Deepfake Risks - アラブニュース",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMGh5Qlh6UFZaUGtGeUR2VEhNMVFDb25wekQ4bVVfQlF3Y1FMVkxORDhJTm1QRWFHYnd6VHZWU1NlRzNsVHFNOVJKWENyOFJlNTEzNmQwaUZhYWVJT05oYlpoZDR3Skx6UnZiZ2Jrd3JhVkYwdE1EQzVXRFJpZUxLemp1VGVzNldhRDZmazFPbmhLMktuNlU1akxfek92X1VhRFVtOG9Dd3pqdVJTTnJORDN3alRTSTBxNXBZWURBQ3ZoZVdDOGhmUFRfczZ5eTJNa0E?oc=5",
+     "source": "アラブニュース",
+     "time": "02:48",
+     "note": "Saudi SDAIA and CST launched a campaign on fake-clip and deepfake risks, per Arab News (via GN)."
+    },
+    {
+     "title": "Department of Health – Abu Dhabi leads delegation visit to China to strengthen collaboration in healthcare innovation - مكتب أبوظبي الإعلامي",
+     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRTEwZ3B0aE9FSVpVMmFWY1dGcGdwbktXdzdPUlhTTXdmQ0FKQnc0ZXk1cXg3SUZDVFhYQ3Rvdk5CWjkxZF9UN2dITURkRWFTQkhhcjlUQk1uczBCNG1iVmpVUTN4NzJIblhwdEsycVYxQ2tMNDd0TnNqUXV0aWhkUWFiUlBFY25kUUFyTEt0VlVBMFA0WW45VHhYVk5NcEtxbDV1dk1adElYbFJ1anlwTzA2VE1YRmZkQjBZOWM4RUluS0M1cU56cGFKaHNNR1BvanNOWXVjYk9JbEpIM1A5ZnpZUVlOLXo4cEtvWEF0Vjk?oc=5",
+     "source": "مكتب أبوظبي الإعلامي",
+     "time": "16:06",
+     "note": "Abu Dhabi's health department opened China paths on AI, precision medicine and next-gen therapies, per Abu Dhabi Media Office (via GN)."
+    },
+    {
+     "title": "DIFC Courts in Dubai Turn to Avalanche So Court Orders Can Be Verified Worldwide - eGamers.io",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVV9JTGcyeUZPbTJmTjBBV1dvcVkzZXlfUlRMQjRMQVJ3eDNsQ3dSZTdtdzVLdEw4eUJmN2Q3cUstRmFuSE5ZQUdNNUtwdnVlZFNyMDlOZkRKSEtpMFlNRWJpeE5aTG5Ib2Q2V0VDcEdra1NYZ2pDTUFXMV9yMGh1aGhnaGQwdE42Vmxra05nOFl4bDBLUDZOMWRKT1VkSXdSOXc?oc=5",
+     "source": "eGamers.io",
+     "time": "09:28",
+     "note": "DIFC courts use Avalanche so court orders can be verified worldwide, per eGamers (via GN)."
+    },
+    {
+     "title": "How slipper-clad Houthis hit Saudi Arabia with Claude AI and China's missile parts - India Today",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNlRZdVlaejBGcUQ1TndvQ3lZeWpIWU1lMWJJTE94SHpONHBTc1laUzFWT0hERnNsNS1rdkQtU3c4UENjZnRfaWRlaEhoc20tTmktRUNJLTR3cjdoZjVHcWdfc3EzSW9jNGRUbjZVaTlDM1F4SHZ6X1FHeUMtZklHS0JWVjU5MVBMbWFDajRmNTdLTmc4QTB3ZFdnQnp2Q0dwTkR4VGVveWVIV1F1YXpndmxVRWlHV1k2c2I5TFhLbmZtUGRnTGN0NGdjcFN0OTZTdHdUS3lOMEJDeHRHc2w2Vl9mZ2Vtci1NbndZX3VINlk0R1o1WjFodmI1NFjSAYICQVVfeXFMT0pRa0kyZmtHd1BDTWVIWW5pbDNHM2JseVQySVdRWFBxalA0T3JlRkc0NEhBRXY2WUxKVzBVR3pOR2xHZnpqaWhTNUsyVUM5ZzlNcDk4VDZLQUItSGZGLUpHTElPY2xqUjBrVE04TFJ4bzZCZjhuck9mTkF6X3k0clZjbE4wVUFTcDZfcVZJazRmcmZSdW5VR1hTRUxPVXE4MFVpYlRhNzBtTG9JRFlBcTNsOTRpbUx2aWZybnBCNjRURGJSMFRTcW56RVZpTE96QVozXzN5R2FaRlJHcHJtbXhMdHV4SGk4QUpjUTZWbGpMX3NJR2NfTVZ6Q1VNX0dMbnl3?oc=5",
+     "source": "India Today",
+     "time": "02:30",
+     "note": "Regional security: Houthi attacks on Saudi now reportedly mix Claude AI and Chinese missile parts, per India Today (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "DeepSeek, Anchor and Brin: the inference-cost race",
+   "signal": 70,
+   "summary": "DeepSeek shipped an updated model it says is faster and leaner, intensifying the price war against OpenAI, Anthropic and domestic rivals, while new agent-infrastructure plays like Anchor's Action Index claim 100x token-cost cuts for computer-use agents. Unit economics, not benchmarks, now decide which stacks deploy at scale.",
+   "angle": "Watch cost-per-outcome, not leaderboard position: the cheapest scaled deployment wins enterprise spend.",
+   "items": [
+    {
+     "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+     "source": "Bloomberg Technology",
+     "time": "13:47",
+     "note": "Bloomberg: faster, leaner update ramps up the Chinese challenge to US labs and local rivals."
+    },
+    {
+     "title": "Anchor Launches Action Index, Cutting Computer-Use Agent Token Costs by 100X - HPCwire",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOFViNk8zYU95YWdwV3FydUpKRWE0TXZsMGhOZkVNQk1vaE9sRzlhdmVVTG1VSnN6WmI0ZDJzVlJac0QyM1hQTmdRNmp2Yl9iQzE1UWNGRzlMT0RwSUljamJDNy1lUlk3SGRTNnBTd3hhWFVld3lvLVRCN3dRZUZHY3A2a2lHTnRMMk5uYjdHNlQxLWg4WlM4VXpxMEhUMHZIazEtT0lqRS1tQjlNT09zUS1GblNpMl9weXc?oc=5",
+     "source": "HPCwire",
+     "time": "21:50",
+     "note": "HPCwire (via GN): agent token-cost cut claimed at 100x for computer-use workloads."
+    },
+    {
+     "title": "Sergey Brin says Google’s AI now helps build its next models - The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa0VHZHFlZkYySzV6a2FqWUI5YTh3UlZzVUhBNHJFN0M2NUFjWlRXdHB2YlJ5NC1RYjhYcVdVdzhlSjV4NHdmenc1bExtMWg3MnN2a0V3VUQ1dkdPOW44VEdyTjRWYkx1b0plbnZlZFBkR2JHOWo1MnlOWmtFb1ZZRHRmYzIyNHJfTXpBQ0o5NXo?oc=5",
+     "source": "The Next Web",
+     "time": "19:16",
+     "note": "Brin says Google's AI now helps build its own next models, per The Next Web (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "AI capex meets the debt market: double-digit-yield compute",
+   "signal": 66,
+   "summary": "Anthropic offered Blackstone double-digit yields in its latest chip financing, a sign that high borrowing costs complicate the lab's investment-grade ambitions, while SoftBank steps up robotics-and-AI acquisitions and Fincantieri funnels $100M into shipyard AI. Capital is available, but the price of it is rising fast.",
+   "angle": "Double-digit-yield compute debt is a leading indicator of margin compression across the AI stack.",
+   "items": [
+    {
+     "title": "Anthropic offers Blackstone double-digit yield in latest chip financing",
+     "url": "https://www.ft.com/content/cb4034e1-475f-40b9-a5f9-256e91aacb89?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:47",
+     "note": "FT: high borrowing costs complicate the AI lab's goal of reaching investment-grade status."
+    },
+    {
+     "title": "SoftBank in talks to buy US security group Allied Universal",
+     "url": "https://www.ft.com/content/e44a17f9-5be0-4a78-89fb-41c4578838ca?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "02:07",
+     "note": "FT: Masayoshi Son accelerates bets on robotics and AI."
+    },
+    {
+     "title": "Fincantieri to invest $100 million in robotics, artificial intelligence at shipyards - MasonCountyPress.com",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNktPdHlET2hsYXREeDlKVWJheUhKRHcwd1N3V3N1XzJwdWFwbWg0YVU5MWFYQjRGRTJyMjF4ckZSVE5JTGhfYlQ3TEJVVGVnaEdOa0l6YzNMRGM4d1J4dE1vMEhpc3lMcl9HUVZ0eDBicXVZN0xPNWY0bEtBOUNUR2d5T3JaTzlkWnlSSmxEcHBYX2pGZllYY3Jmb08xTkxNQ3V5Y3BMeDgtYUd6Ql8ybms3V2FXLUpwMkJHSi15T0VpblRxY3c?oc=5",
+     "source": "MasonCountyPress.com",
+     "time": "18:03",
+     "note": "$100M into robotics and AI at shipyards, per MasonCountyPress (via GN)."
+    }
+   ]
+  },
+  {
+   "title": "McKinsey's exec playbook: value over adoption",
+   "signal": 58,
+   "summary": "McKinsey published a run of executive-grade AI pieces this week: an AI operating system view for CEOs, the judgment bottleneck between AI-speed analysis and human-speed decisions, the real cost of moving pilots to production, and a value curve for applying AI to existing work. The throughline: measure value, not adoption.",
+   "angle": "The consulting consensus is hardening around value capture; boards should too.",
+   "items": [
+    {
+     "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
+     "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "",
+     "note": "McKinsey: analysis runs on AI time while judgment stays on human time; three moves to close the gap."
+    },
+    {
+     "title": "The AI value curve: The economics of applying AI to existing work",
+     "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "",
+     "note": "McKinsey: most firms measure adoption instead of value; the curve shows where automation pays most."
+    },
+    {
+     "title": "What does AI really cost?",
+     "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-does-ai-really-cost",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "",
+     "note": "McKinsey: moving an AI tool from pilot to production can nearly quadruple its cost."
+    },
+    {
+     "title": "The AI operating system: A new way for CEOs to run the enterprise",
+     "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-operating-system-a-new-way-for-ceos-to-run-the-enterprise",
+     "source": "McKinsey Digital / QuantumBlack",
+     "time": "",
+     "note": "McKinsey: an AI OS can be the enterprise 'second brain' only if management itself evolves."
+    }
+   ]
+  }
+ ]
+}

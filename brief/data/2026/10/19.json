@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T03:44:11+00:00",
+  "lead": "Quiet day: the clearest production signal is a safer default for LiteLLM’s stdio MCP connections, alongside signed container images. AWS’s Well-Architected Agent is a concrete cloud-operations pattern, but it remains in preview and requires an AWS Support plan at Business+ tier or higher. For your own agent and cloud designs, test the permission boundary and review the proposed changes before allowing remediation; the available material does not support a broader claim about enterprise outcomes.",
+  "items": [
+    {
+      "title": "v1.106.0",
+      "url": "https://github.com/BerriAI/litellm/releases/tag/v1.106.0",
+      "also": [],
+      "source": "LiteLLM releases",
+      "tier": 1,
+      "published": "2026-10-18T05:53:32+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 93,
+      "summary": "LiteLLM v1.106.0 disables stdio MCP servers by default, a security-related behaviour change that may affect deployments relying on local MCP subprocesses. The release also says all LiteLLM Docker images are signed with cosign; pricing and service-region information are not stated.",
+      "so_what": "Trial the upgrade in a staging gateway and explicitly inventory any stdio MCP dependency before rollout; verify image signatures using the pinned commit key rather than relying only on a tag.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "AWS Introduces Preview of Well-Architected Agent",
+      "url": "https://www.infoq.com/news/2026/10/aws-well-architected-agent",
+      "also": [
+        "https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/"
+      ],
+      "source": "InfoQ — Architecture & Design",
+      "tier": 2,
+      "published": "2026-10-18T14:29:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 82,
+      "summary": "AWS announced the Well-Architected Agent public preview on 1 October 2026; it analyses AWS infrastructure, utilisation, topology and declared goals to produce prioritised recommendations and implementation steps, including IaC changes and CLI commands. AWS documentation says access requires a Support plan at Business+ tier or higher, and the agent uses customer-managed IAM roles to read scoped resources; region availability and pricing are not stated in the announcement.",
+      "so_what": "Use it as a reference for goal-aligned cloud review, but trial only in a deliberately scoped account and review every proposed IaC or CLI remediation before execution; confirm support-plan and regional eligibility first.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
+      "also": [],
+      "source": "Simon Willison",
+      "tier": 2,
+      "published": "2026-10-18T23:16:16+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 73,
+      "summary": "llm-echo 0.5 is a debug plugin that substitutes a model which simply repeats the supplied prompt, allowing the caller to inspect what was passed without making an LLM call. This release updates simulated usage counts to include tool calls, system prompts and reasoning tokens; cost, regional availability and a model-quality claim are not stated.",
+      "so_what": "Trial it as a deterministic smoke-test fixture for prompt and tool wiring, not as a quality evaluator; compare its usage accounting with your production provider before using it for cost estimates.",
+      "verify": false,
+      "off_list": null
+    }
+  ],
+  "watch": [
+    {
+      "title": "llm-tools-datasette 0.1.1",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-tools-datasette",
+      "source": "Simon Willison",
+      "note": "A plugin compatibility fix after an httpx dependency change; no new capability or security boundary is described, so it is a maintenance watch rather than a full item."
+    }
+  ],
+  "post_seed": null,
+  "sources": {
+    "ok": 148,
+    "total": 149,
+    "failed": [
+      "European Banking Authority: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  },
+  "candidates_seen": 21
+}

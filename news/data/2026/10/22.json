@@ -1,0 +1,350 @@
+{
+ "date": "2026-10-22",
+ "generated_at": "2026-10-22T02:00:07.893339+00:00",
+ "themes": [
+  {
+   "title": "AI-found PHP flaws trigger global patch race",
+   "signal": 65,
+   "summary": "Researchers using OpenAI and Google models uncovered two critical vulnerabilities (CVE-2026-109618 and CVE-2026-109619) in PHP, the language behind a majority of the world's websites. Officials say the bugs are already being broadly exploited, forcing platforms from Amazon to Google Cloud into an urgent coordinated patch effort.",
+   "angle": "First mass-market proof that AI can find internet-scale flaws faster than humans can patch them",
+   "items": [
+    {
+     "title": "AI uncovers massive flaw in web's foundational code",
+     "url": "https://www.axios.com/2026/10/21/php-openai-ai-bug-hunting-cyberattacks",
+     "source": "Axios AI+",
+     "time": "21:26",
+     "note": ""
+    },
+    {
+     "title": "Amazon warns new cyber flaws detected using AI are being ‘broadly exploited’",
+     "url": "https://www.ft.com/content/245778d9-597b-492d-b5b6-a2967c77e853?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:20",
+     "note": ""
+    },
+    {
+     "title": "Responding to core PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619 - Google Cloud",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMXE1MTlaZ3ZHc0RqN0E3MnBqM2xDeGJLOEU5MDVodnE4RGsxeWNBZGtwdzluS3UwQ0JEU1BWa1d1dXk4SkJvOGR0alZSODV2bjNTTGQzTnllZkNGWUZXQUdYa1dtNE1IUnF1aXVfZE5pTnJXbVRyZlVQRzJ4T1hGUXYteWd4YXZrMXZTZmRxX2ZWWktLd1BEalpmNGM2YWdXYXQ1d2hxVUV0TFJET0wtTTlSTFZTUWJJM0tyUXdycmZJOEVQOVE?oc=5",
+     "source": "Google Cloud",
+     "time": "14:29",
+     "note": ""
+    },
+    {
+     "title": "AI Finds Flaw in Popular Web Hosting Software, Sparking Global Race to Patch - The Information",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFFyUFFOa0pxd19EVGpnMWRubUh2VGg3NUdRZjBKUnR4VmNrYXdodW0wSGg2WTVrUjh6NWtxdnlrMWtUS2N4aUozUUdXVHk1VHRTRWtTdGZOd0ctZ1A0TTB2bXRtVW9qUDNRMjVrUkZlYlNRalI2dW9iRGRHR3NZWDJ0TkI3ZElpZ1JzT2haZEItQXFoS0xDZG16YTZaMVFVeU4wRE1VcDFDSDl6Qmh3?oc=5",
+     "source": "The Information",
+     "time": "14:51",
+     "note": ""
+    },
+    {
+     "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+     "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+     "source": "OpenAI News",
+     "time": "07:00",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Gulf AI infrastructure and adoption build-out",
+   "signal": 60,
+   "summary": "Saudi Arabia's compute build-out advanced as HUMAIN, DataVolt and Nebius signed a framework for 50MW of AI data-centre capacity at NEOM's Oxagon. The UAE pushed adoption on multiple fronts: an AI-powered tourist VAT refund platform, AI services in ADGM courts, a global push to turn AI agents into products, and CNTXT AI's $60M raise. Saudi also climbed global AI-skills rankings as workers upskill.",
+   "angle": "GCC is moving from AI ambition to contracted megawatts and deployed services",
+   "items": [
+    {
+     "title": "HUMAIN and DataVolt advance AI infrastructure framework with Nebius for planned giga campus in NEOM’s Oxagon - NEOM",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUEVyVmo5R056RXBuY1ZPbWpibjhlVnNMN1MzUldSWGtTRWE4V0p5N0VaWlNNaVNxcDRVOUh1N1haRmpfYUVjeTBYXzVPUWo3TXpRdFNQOVRRbVR4Y3o4cndpMGs4S2FEM0FVVDFnUkFmVUlsbnhfWC01NldzVWlLTUNxbndoeWhGYkI5ZWFQZ3FNbUl0ZUdEbWRwdS0?oc=5",
+     "source": "NEOM",
+     "time": "14:59",
+     "note": ""
+    },
+    {
+     "title": "Saudi Arabia climbs AI skills rankings as workers race to build new capabilities - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR25Fcm0wdjZ0ZVppWUdZbGNPaVBzSU5mS1VLQlJ0UFZPNFZGbzZZOFVwbGtrUXV1Nzd4NGJqaHFJRjJHa3VwQllCbnJFVE9iYzl0S3RSSFZzV0FqSmJGRnEzMEhlclNPUUI4MV9rdTR1NkM4VS15SFA2ekFFOTQ0X051UUpqMDZFRGVOMHJsQ3FxcEI4SVRSSS1iS2ktd1VLQTRYWEEzR2w1d3NJQWQzaHJkQm1lczIxTjdCMnpFaG8zMlBH?oc=5",
+     "source": "Arab News",
+     "time": "13:32",
+     "note": ""
+    },
+    {
+     "title": "UAE’s FTA launches world’s first-of-its-kind AI-powered digital platform for tourist tax refunds",
+     "url": "https://economymiddleeast.com/news/uae-fta-launches-ai-powered-digital-platform-tourist-tax-refunds/?utm_source=rss&utm_medium=rss&utm_campaign=uae-fta-launches-ai-powered-digital-platform-tourist-tax-refunds",
+     "source": "Economy Middle East",
+     "time": "10:13",
+     "note": ""
+    },
+    {
+     "title": "ADGM Courts to launch AI-powered services by year-end - Khaleej Times",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFpMZTZuZmh4bFY3Z0JRbGh1dGtidXcxUWwxSl9wMW1RV0xxbUdEcm5nQWRwZVRXVEt1SWVmdFRtMGs0a053NmprdmtpV3pVS2pWVUZIS3N3XzNyS2dsb1lQRmRFT0tnNnZwanBqMWtlZktZdkNvSjB4SDNsakxGWEh2MFNZdURFeVlSOWRiTUdHMlFDSGJMUjRWVUl1QdIBngFBVV95cUxOVFpMZTZuZmh4bFY3Z0JRbGh1dGtidXcxUWwxSl9wMW1RV0xxbUdEcm5nQWRwZVRXVEt1SWVmdFRtMGs0a053NmprdmtpV3pVS2pWVUZIS3N3XzNyS2dsb1lQRmRFT0tnNnZwanBqMWtlZktZdkNvSjB4SDNsakxGWEh2MFNZdURFeVlSOWRiTUdHMlFDSGJMUjRWVUl1QQ?oc=5",
+     "source": "Khaleej Times",
+     "time": "15:52",
+     "note": ""
+    },
+    {
+     "title": "Dubai launches global push to turn AI agents into real-world products - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkRLeEdINExtUEUtWHRMLXpnZHF3WHVMUmhIUFZwbi1DQktndFBGR253a3FybmZXcXZXTktHTEh6S2NEMWI0SENCeDl3eUw1d05nV1BOOUdZMEUxR0JjblZibVdzalFOZURwcUVLMkJYU1V0aWlyaDZtZUlBTnhrYUhRdUxfc2E5UUFodHltUlM4OTBQME8tWmJ3UFZSc2FZVWow?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "17:33",
+     "note": ""
+    },
+    {
+     "title": "CNTXT AI Raises $60 Million and Expands into Silicon Valley with $300 Million in Committed Revenue - entARABI",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR0lnVFhGQlN6dVlWV3E0MkZnMnJHQ1RMNmVLYi1kTXpmRjdkVG5mTHlDR3J0ejNocXMwR0tzWmFYQUJmLVZLWjBiaHBvdFVGRTVOSWNEYThieWdzbndQb25PTHVWbF9kMDlfR1dlNWt6SXFzSEU2TnNrMVZRd2xwYTZyTF9ySTAzWkpCckFVY0Rham5KM0dEUjAySUhZZ3NHYl9Bb1dfR2c4aTZUV3pPSkdnVVdicXpDZnlVdXJvbFpLREpoeWExZw?oc=5",
+     "source": "entARABI",
+     "time": "10:52",
+     "note": ""
+    },
+    {
+     "title": "Next week’s Dubai AI Festival 2026 to accelerate collaboration between governments, investors and innovators shaping the future of AI - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQWlJ0Vlc5bmtRbWVVSUJUZEZVbUZTak0xc2lzbkEyY1EzTExBcHN3QU9vWFI0R3FVS3ZXQmM4aUdvYi0zNFhTZE1pQUdxRVduYjJ6ak01QjF4MEZYRml2eGRrRnZjZ2tHdDRKMHltV19KOFl3NXdVY0RfZGFXUkpPNm9KQW9RTEVHckhzLWZKWGtRZHRad2tHZE9BWG9NWXVmMF9nZFYzWjY2UlZwUS1fYlUyeXBXMEdPbzZyanZrbEJfYUc2ZmhxOHhoa01QbkROQ3V5Z1NtWHNrWXhZLUQzVjRiVVloem5XaFc4cFRIcnNRTU44eWRoMVZNZFlSWTZpaldfY25EdXhxVkdZZ3NQQU5mU3lCNUFQbG9YczZOLWNsRFE?oc=5",
+     "source": "Zawya",
+     "time": "09:43",
+     "note": ""
+    },
+    {
+     "title": "From national AI ambition to enterprise value: Strengthening the UAE’s competitive edge - Consultancy-me.com",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY19RZXEwRFFiN25xTEwtSE5fS1R6N3dEYVZFNjdENnpzelZ4UXFmTUV3MUx1eEppYzJ2Wjg5MlhDZF9jYkFtajI2MndoSHQ4aUFfS052QXJaTmhmSnJhUHFieVluSTZoUnozQW5ONlpxMEZuYnhycFluUVAweG1Jb3pveEVyWWl5UkoxUjljdlNFbFYwSkQwNnpGdTNXX2F3eU9PMXU2YVd1SDhwS3p3YWRDQ1hWbTR4aFoxQmhfcFNwWE9mc2VkckVEVdIBywFBVV95cUxPY19RZXEwRFFiN25xTEwtSE5fS1R6N3dEYVZFNjdENnpzelZ4UXFmTUV3MUx1eEppYzJ2Wjg5MlhDZF9jYkFtajI2MndoSHQ4aUFfS052QXJaTmhmSnJhUHFieVluSTZoUnozQW5ONlpxMEZuYnhycFluUVAweG1Jb3pveEVyWWl5UkoxUjljdlNFbFYwSkQwNnpGdTNXX2F3eU9PMXU2YVd1SDhwS3p3YWRDQ1hWbTR4aFoxQmhfcFNwWE9mc2VkckVEVQ?oc=5",
+     "source": "Consultancy-me.com",
+     "time": "10:08",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI becomes a weapon in the cyber arms race",
+   "signal": 55,
+   "summary": "Microsoft warns of Chinese state-linked attacks powered by AI agents, while separate reporting shows hackers using Claude and Grok to automate bank attacks. New research finds frontier models can now blueprint attacks on power and water systems, yet the models defenders rely on sometimes refuse to help investigate.",
+   "angle": "Offensive agentic AI is now a board-level threat; defensive tooling must keep pace",
+   "items": [
+    {
+     "title": "Microsoft Warns of Chinese State-Linked Cyberattacks Powered by AI Agent - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRUxxWV9qVGlNR1BIcm1obUxtakoxb2dpTkl5R0FJU1VvakNmYU14MG43bVZMS1Rxa0l4RXNnbTlFMWxadUloOXNBVl9Mczk3UTZXSjlxdjZEVXN0UDhzMkp1UFAzSmZ6X1JuYzdGbzRWM3kyX21mRG5FMHBjcVEySGQ3ZFk3a2k0UmpQRG5fVzF1NWRtdG5BeTl4NVVLTzdYX0pGekdEWHdEcVU?oc=5",
+     "source": "The Information",
+     "time": "00:41",
+     "note": ""
+    },
+    {
+     "title": "Hackers Used Claude and Grok to Automate Attacks on Banks - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0NBbGFsUGJZNTRmZ1h0R1M4bVp6SUF5ZkpnSGxyR3E0WmROOWxaS2lzaDlMekNxNWRxOGRPcldSMjE0THNfQV9rNW9qUVloMXlBYlY2OEt3OWVvZWI4ZzhWTVRHQ2xGbS1vSnlqZnYyXzY0TWFJZ3I5eExMQ1FfUmRqZDdnUFpEdmZqczhVbkhBb3lsRkJDWg?oc=5",
+     "source": "The Information",
+     "time": "13:00",
+     "note": ""
+    },
+    {
+     "title": "AI is getting better at hacking power and water systems, new research shows",
+     "url": "https://www.axios.com/2026/10/21/ai-hacking-cybersecurity-water-power-grid",
+     "source": "Axios AI+",
+     "time": "12:00",
+     "note": ""
+    },
+    {
+     "title": "When AI models refuse to fight hackers",
+     "url": "https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers",
+     "source": "Axios AI+",
+     "time": "01:00",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Meta lifts AI capex and invents a war-chest share class",
+   "signal": 55,
+   "summary": "Meta raised its 2026 capital-expenditure outlook to $135-145 billion and created a new class of non-voting stock to fund AI spending without diluting founder control, including a deal to keep Zuckerberg in California in the face of a wealth-tax proposal.",
+   "angle": "AI super-spend is now being financed with novel equity engineering",
+   "items": [
+    {
+     "title": "Meta Touts AI Progress While Escalating Its Bet on the Market",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering",
+     "source": "Bloomberg Technology",
+     "time": "20:07",
+     "note": ""
+    },
+    {
+     "title": "Meta Boosts Bet on AI With Spending Outlook, New Stock Class",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-21/meta-boosts-ai-bet-with-capex-outlook-new-stock-class-video",
+     "source": "Bloomberg Technology",
+     "time": "21:47",
+     "note": ""
+    },
+    {
+     "title": "Meta agrees deal to keep Zuckerberg in California despite wealth tax proposal",
+     "url": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:58",
+     "note": ""
+    },
+    {
+     "title": "Meta Creates New Share Class to Pave Way for AI-Related Fundraising - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWFBVmpuUTVYT0Z0NTlGSTAtU091QVpkQ2p3RHpoeUtoZGxZMFpmZ3p5LTRiak5TWmhrTjJEbjhFMHZCbUtpcHl5OWp6S1MxV0RYdElrc2w5b3pDTFROUkROeEZoUGpRVUtjZ2NWTmhfYWtVbFphU1ZXOXM5cXJQcUZ2dnU5bDNkOVgxd1ZnZ2lMUW5tSUZDUHo3UlVhQmRJdl9N?oc=5",
+     "source": "The Information",
+     "time": "20:34",
+     "note": ""
+    },
+    {
+     "title": "Meta Plans to Issue New Non-Voting Stock for Capital Raising",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-21/meta-plans-to-issue-new-non-voting-stock-semafor-reports",
+     "source": "Bloomberg Technology",
+     "time": "19:56",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "OpenAI's enterprise distribution push goes multi-cloud",
+   "signal": 55,
+   "summary": "OpenAI is bringing its frontier models and Codex coding tools to Google Cloud's Model Garden, making it available on all three major US clouds. It also published enterprise deployments at AT&T legal and Cloudflare, and expanded ChatGPT Ads to 26 new countries with over 100,000 advertisers.",
+   "angle": "Model labs now compete on distribution and enterprise workflows, not just benchmarks",
+   "items": [
+    {
+     "title": "OpenAI models are coming to Google Cloud",
+     "url": "https://openai.com/index/openai-models-google-cloud",
+     "source": "OpenAI News",
+     "time": "12:00",
+     "note": ""
+    },
+    {
+     "title": "OpenAI brings its frontier models to rival Google Cloud",
+     "url": "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models",
+     "source": "Axios AI+",
+     "time": "12:00",
+     "note": ""
+    },
+    {
+     "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+     "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+     "source": "OpenAI News",
+     "time": "13:00",
+     "note": ""
+    },
+    {
+     "title": "How AT&T is rethinking in-house legal work with OpenAI",
+     "url": "https://openai.com/index/att-legal",
+     "source": "OpenAI News",
+     "time": "17:00",
+     "note": ""
+    },
+    {
+     "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+     "url": "https://openai.com/index/cloudflare-cyber",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "UAE-Singapore CEPA deepens AI and energy ties",
+   "signal": 50,
+   "summary": "Singapore's Prime Minister visited Abu Dhabi as the two countries launched CEPA negotiations and explored cooperation on AI, advanced technology and energy. A high-level business dialogue in Abu Dhabi set out joint workstreams under the UAE-Singapore Comprehensive Partnership.",
+   "angle": "The UAE is wiring up a Singaporean bridge for AI, capital and talent",
+   "items": [
+    {
+     "title": "UAE and Singapore explore AI, energy and advanced technology partnerships",
+     "url": "https://economymiddleeast.com/news/uae-and-singapore-explore-ai-energy-and-advanced-technology-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=uae-and-singapore-explore-ai-energy-and-advanced-technology-partnerships",
+     "source": "Economy Middle East",
+     "time": "11:16",
+     "note": ""
+    },
+    {
+     "title": "UAE President, Singapore Prime Minister discuss expanding bilateral cooperation in key sectors, launch CEPA negotiations",
+     "url": "https://economymiddleeast.com/news/uae-president-singapore-prime-minister-discuss-expanding-bilateral-cooperation-in-key-sectors-launch-cepa-negotiations/?utm_source=rss&utm_medium=rss&utm_campaign=uae-president-singapore-prime-minister-discuss-expanding-bilateral-cooperation-in-key-sectors-launch-cepa-negotiations",
+     "source": "Economy Middle East",
+     "time": "12:36",
+     "note": ""
+    },
+    {
+     "title": "High-level dialogue in Abu Dhabi attended by Prime Minister of Singapore explores cooperation in AI, advanced technology, and energy - مكتب أبوظبي الإعلامي",
+     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdzRNZV9Pamo5NHlPUjdxVjIyUWlycnZHTGNveTNZbG1OVXhob0hNWG1ic003UFlYTWNVLXJyNmJoRkc1UlM2VFVPaFlkcWVyWTM2Mm5rdmdaanhuMVNjejBkUkh3SEw3S1dyZVdVdU1jT3Y1Mm5sNEZOdEl2SUdqbVJpejhYLWxEYUIzTGRWdkIxNnp0YldFZTk1MGk0a1BvVDdFNENJUmNXWUYxRHM2c053OVlneGRoaGRsNzRIZmtGNjMtUVdGcThRRmRqNkQtRGYzV0NQZzFuNzhrOGtBaFo3MGJZUFZ2RnNJNU04TlIxSldJdVhKNHhtUDVKRm9aOHFuRmV1RlZjUQ?oc=5",
+     "source": "مكتب أبوظبي الإعلامي",
+     "time": "19:09",
+     "note": ""
+    },
+    {
+     "title": "UAE President receives Prime Minister of Singapore on official visit",
+     "url": "https://economymiddleeast.com/news/uae-president-receives-prime-minister-of-singapore-on-official-visit/?utm_source=rss&utm_medium=rss&utm_campaign=uae-president-receives-prime-minister-of-singapore-on-official-visit",
+     "source": "Economy Middle East",
+     "time": "08:45",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Anthropic ships the Claude 5.5 generation",
+   "signal": 40,
+   "summary": "Anthropic introduced Claude Opus 5.5, Sonnet 5.5 and Haiku 5.5: Opus 5.5 leads in agentic coding and costs 40% less to run than Opus 5, Sonnet runs 30% faster at up to 30% lower cost, and Haiku targets high-volume agentic work. Anthropic also opened a Singapore office and signed an MOU with its government.",
+   "angle": "The cost-per-agent curve keeps bending; smaller models are the enterprise workhorses",
+   "items": [
+    {
+     "title": "Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+     "url": "https://www.anthropic.com/claude-sonnet-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+     "url": "https://www.anthropic.com/news/singapore-office-opening",
+     "source": "Anthropic News",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Project Deal: our Claude-run marketplace experiment",
+     "url": "https://www.anthropic.com/features/project-deal",
+     "source": "Anthropic News",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Musk's Tesla-SpaceX merger talk",
+   "signal": 40,
+   "summary": "Elon Musk is exploring merging Tesla and SpaceX in what the FT frames as a $3.6tn bet, as Tesla reports flat revenue and pivots from electric vehicles to AI. Analysts debate shareholder dilution and regulatory hurdles, with Space Ventures investor Steve Westly predicting the combination.",
+   "angle": "The biggest corporate roll-up of the AI era is being floated in plain sight",
+   "items": [
+    {
+     "title": "Rockets, robots and risk: Musk’s $3.6tn gamble to merge Tesla and SpaceX",
+     "url": "https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "13:38",
+     "note": ""
+    },
+    {
+     "title": "What Elon Musk stands to gain from a Tesla-SpaceX merger",
+     "url": "https://www.ft.com/content/7f8e97b4-bd2e-4414-858a-bc746cb515f6?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:25",
+     "note": ""
+    },
+    {
+     "title": "Musk sets lower sales target for Tesla as it explores SpaceX merger",
+     "url": "https://www.ft.com/content/16bdf332-2a75-4e57-81ea-a37caf50ec0f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:30",
+     "note": ""
+    },
+    {
+     "title": "SpaceX and Tesla Will Combine, Steve Westly Predicts",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-21/spacex-and-tesla-will-combine-steve-westly-predicts-video",
+     "source": "Bloomberg Technology",
+     "time": "21:10",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

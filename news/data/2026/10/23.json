@@ -1,0 +1,288 @@
+{
+ "date": "2026-10-23",
+ "generated_at": "2026-10-23T02:00:07.575220+00:00",
+ "themes": [
+  {
+   "title": "OpenAI nears $1.25T round, UAE investors lead",
+   "signal": 88,
+   "summary": "OpenAI is finalising a roughly $30 billion funding round at a $1.25 trillion valuation, with UAE backers reported leading the syndicate. The price was trimmed from an earlier $1.4 trillion ask even as demand for frontier compute keeps climbing, marking one of the largest private-market AI financings to date.",
+   "angle": "The UAE-led round makes Gulf capital an anchor of frontier-lab equity, not just compute buyer.",
+   "items": [
+    {
+     "title": "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yWm1VRnpOb00tR0ZfUDVmaVh2S1dyNVhia0J4OWJ5anpxRUUtbjhHX19IbHZDUEdlVEc4OEE3aHQxNGw0ajhwR0ZDTFdPcC01YzZ6My1HVW84bzFzRHpnNGdkNnRCSnVrYTZMcnBGMjZVd0tIVUI5cWkxQdIBgAFBVV95cUxPeVdKRHhVdHUwa3ZfVkMxQm1od1YycVNSZURFaU1yeS1jUGhUNVF6MTh1aDdObmNuUks4d2k3empTZFNGUnFmZjYzNWR2VTJNbnlhNzI0dmpZZ0ctR3NwT05yTGdqRU5yaGFzX0FWVFpNY1BnbmVMaldMU3NZXzh1OA?oc=5",
+     "source": "CNBC",
+     "time": "20:15",
+     "note": "CNBC: UAE investors reported leading the round."
+    },
+    {
+     "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+     "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:50",
+     "note": "FT: $1.4tn floated earlier this month, then trimmed."
+    },
+    {
+     "title": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-22/openai-shifts-value-to-1-25-trillion-as-funding-talks-finalize",
+     "source": "Bloomberg Technology",
+     "time": "23:31",
+     "note": "Bloomberg: talks in final stages with ~$30B sought."
+    }
+   ]
+  },
+  {
+   "title": "Saudi AI compute: HUMAIN-NVIDIA 84MW wave",
+   "signal": 84,
+   "summary": "Saudi Arabia's compute ambitions widened sharply: HUMAIN expanded its NVIDIA partnership with an 84MW AI computing deployment plan, and Nebius signed on as the first customer for the HUMAIN-DataVolt AI giga campus at Neom. Gulf champions are pressing ahead with infrastructure even as public-market AI sentiment wobbles.",
+   "angle": "Sovereign-backed GPU buildouts are decoupling from Western capex cycles.",
+   "items": [
+    {
+     "title": "Saudi Arabia's Humain expands Nvidia deal with 84MW AI computing plan",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQWZUT00zVlM2a3pCMzREckVRNm42YW5sSU1EcmpyTExaU29HeUlyVl8xXzRUS1dQRndteU5ZbG10QmV0cTJjV1NBeGFHYWVxSWxYUlFqSmtpcnNfc1dDOGN0WjJhOTRoWmdKZ2toMm03cmtnRVVvbTVVREdUNWRWbWtYV2xobFN4NUlaSDdhMWtBNDBpd0h0RFliQ2ZsZDAweC1nR2FkTnMtV2R6V2FXY3pVd3ZtMnVLdUozcUcwRlY0a2hXWmpLOGJ3?oc=5",
+     "source": "The National",
+     "time": "11:38",
+     "note": "The National: 84MW AI computing deployment plan."
+    },
+    {
+     "title": "Nebius becomes Humain's first customer for AI giga campus at Neom",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTHlDdnNobFBfMGM5T0JRZkxsS2o0WmNpem1iNDhxa3JoTmtBeTJXcUx1SnpGV1hWamlocnA0RVJHcUFIMmhEYXQyazJRb21yWERSWGhZd2I2OXRwUE80ZnlIcEJBNnI1V3l3c1luSVYwRmE0al9LS0FtejlVdzhIR2c0NEZ4ZWJoVzI5UXptVU11UTlYVzRJOWVmWmhRRnlNVG1QeGpsWXlRLXc?oc=5",
+     "source": "Arab News",
+     "time": "09:42",
+     "note": "Arab News: Nebius is anchor tenant for Neom giga campus."
+    },
+    {
+     "title": "HUMAIN and DataVolt sign framework agreement with Nebius for large-scale campus in Saudi Arabia",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pQmhVX0M2bGhsRVlXUzZ2YmxodlZVWk8yUXM2SHhZaWQ1SEdTNWN6eWRBWlhfY2JxX082bHgzQWtkcElFVUFmMmVBQ1Z0VUs2TTVKTlhkTjlHVGU5MG5iYWF1SlFsZG1NYVM2eUtBVjZWZC1KQWdIakdqUlYwdw?oc=5",
+     "source": "W.Media",
+     "time": "05:21",
+     "note": "W.Media: framework agreement for large-scale campus."
+    },
+    {
+     "title": "Gulf champions and Western firms are staying the course on AI infrastructure",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFhVaEd0R0VQM19IQ0MyUUNOMTBoaDJnZ1hEOEg1LW9xUjNpN2h1Y2MybE1jNUVSZHV3MTZSSGIzekF2ZGttanNqNWxkWTk5RTlJQkZhYllrTnpwb2llcDhKTVRySGp5VTU5eEZDLU5OeUxTU1hZdFFlZmdMeGV4RkkyWDFzYXFLdlprbkdzU0R1ZDFyTzlBRkhVSWlGaC1oRHotWlV4ek5GbjVYOFZRd0ZR?oc=5",
+     "source": "EnterpriseAM",
+     "time": "03:23",
+     "note": "EnterpriseAM: regional and Western players continue buildouts."
+    }
+   ]
+  },
+  {
+   "title": "'Black October': AI-found PHP flaw hits web",
+   "signal": 72,
+   "summary": "Critical vulnerabilities in PHP, the language running millions of sites, were discovered partly with an OpenAI model and have triggered a global emergency-patch effort. Reports describe the hole as reachable in roughly 70% of the web, and AI-driven bug hunting is now a first-order security risk for enterprises.",
+   "angle": "AI's first mass cyber-emergency: boards should treat model-assisted vuln discovery as a top risk input.",
+   "items": [
+    {
+     "title": "Black October: why bugs discovered by OpenAI tech are creating a cyber emergency",
+     "url": "https://www.axios.com/2026/10/22/php-vulnerability-security-update-websites",
+     "source": "Axios AI+",
+     "time": "18:01",
+     "note": "Axios: PHP flaws found partly with an OpenAI model; emergency patching underway."
+    },
+    {
+     "title": "AI finds a security hole in 70% of the web",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3loQnd0S2ZXM3pTRlNRczNwR2lDelNSN0UzOFZwOG1kNjdZa05CUm0zdENHbWx4dkJ5ZHp4VnlYbkh5Q0hJeUVIcF9hQW5IcW5VcDRYWWx3cUdwdFdzYkQzeVdzMEpkMTFnbGZjQVo1M1U4SnJmOTRqX0Rfb3VaTG1R?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:03",
+     "note": "The Rundown AI: reach described at ~70% of the web."
+    },
+    {
+     "title": "Half Moon Bay City Council Hears Draft AI Policy; Next Day City Website Shut Down After Worldwide PHP Attack",
+     "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV2daU3hQLTZUckJtUjhWS2NvVkFJbHhGc09IZlIyQmt2WkVXZmRWV1g1WkhjUW5KOE9xalI5eWVOdUJQdnR5eGh2SzljTl96UDJheFRvUlNkR2NOTFVRUjZ6LW9zb19kYVNXUm8yQmgxQ0pQWGhIbHNEWmUtV1g3VXhRdFp5c2o4X1F1dm5tVEt1NjNsX3FTUmpIV2V2blVnTGNpQS1YWUotWVdRU1N0SzVQQjlDQzBtS0tnbHlvMmJibVp6c19BNFNSVm4zY2FqWjlRd0ZibXNnMW9IejRoajNRYXNMalk5REN6cldJQjVqVzFrVkVOM3lTUXJHRjd0aGxzdWthWWRWdDg?oc=5",
+     "source": "coastside buzz",
+     "time": "23:47",
+     "note": "coastside buzz: real-world PHP attack impacts illustrated."
+    }
+   ]
+  },
+  {
+   "title": "UAE pushes agentic AI into government",
+   "signal": 72,
+   "summary": "The UAE reports transitioning half its government services to agentic AI, while ADGM courts plan AI-powered judicial services by end-2026 and healthcare is getting an AI-clinician framework. Sovereign AI capacity is also expanding, with Aleria adding 14,000 NVIDIA Rubin GPUs for UAE compute.",
+   "angle": "Agentic AI at state scale: the UAE is becoming the world's most visible live testbed.",
+   "items": [
+    {
+     "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDdFT3R2cFNwMjRvaGxxT1lkRDJzcUM3N21BYjBVY2FMMnhLRTEzNGNNZkpGcFZtS0YxRVJPaGZtNkNMY3NuR3N3UE52bjJXZ0FqWnR0ZHNMdDExX3dQcUNGX0tfeEdUY0dRR3hETF9McG9pQ2tWM2FJREp6ZU93S0JSc3hrcDNIc0ZKNUdhX3VTV3hfVVh4MzRBWk95OEFsU21nYQ?oc=5",
+     "source": "Dark Reading",
+     "time": "05:02",
+     "note": "Dark Reading: half of government services on agentic AI."
+    },
+    {
+     "title": "ADGM Courts Plans AI-Powered Judicial Services Launch by End of 2026",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmJYRGg1WTAwRlRpTVdXTEVyZmdTRHJqMGVnQ1hpWkE0YmlIeVI0bW1UNmxyZ1pPaWZHc214RG5ZT2xueDBhengzQ3NfSTJST2pHdVJaYm1YaVZ5Q0FBSFp0N1ZGZ1ZPR1ZHcjhGcXowaDA1QzF2OG1ra205Rnk0WWR0WWhsRDJJRkNZVlZTMVd0THlxZkVkaGtMc2llNHBsTjlyRVpn?oc=5",
+     "source": "Konsulteer",
+     "time": "10:52",
+     "note": "Konsulteer: AI-powered judicial services targeted by end-2026."
+    },
+    {
+     "title": "UAE introduces framework for AI clinicians in healthcare",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeXlfNkJGNF9TRkx2Y0oyaFM4aWFDVEVjcFduOUhxYzRqVFBaM2o5QWs5TXBDRWNxVzJUTmlmLXJDbldEMDFtRS0xLXVvSzVoNFg3ZHVnOE5rLV9mSmd1OTVXV0w0LVJnbDZiUTFwSEllS3BNckppVVppUjNoMExNajB0YnpZZnR6NmFFdWhR?oc=5",
+     "source": "TV BRICS",
+     "time": "11:13",
+     "note": "TV BRICS: framework for AI clinicians in healthcare."
+    },
+    {
+     "title": "Aleria Expands UAE Sovereign AI Capacity with 14,000 NVIDIA Rubin GPUs",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlQwTm5OYTYzZFhaNl9RSi16SEZHaXY3RVhnbzJ5RzgyTEM3QlVSQjlBa3U1bzVESFRBbXZCZ3FFTk5ZZExCZDVSZlVKVDhmekU4UnoyRjRKdjhBN2RQSEM4U1F5MnFNQmZhNURPUEVGenpVYXVoOGY2OU0wUnd4Qnp0MHBqZHgwdERIamNjQ2lfcFZRQ19zZElNZEV1Vm90Wm1qckliOHlmcm91N1E?oc=5",
+     "source": "AiThority",
+     "time": "14:34",
+     "note": "AiThority: 14,000 NVIDIA Rubin GPUs added for UAE compute."
+    }
+   ]
+  },
+  {
+   "title": "Agentic risk: banks, vulns, accountability",
+   "signal": 68,
+   "summary": "US banks are detecting unvetted third-party AI agents operating inside customer accounts, OpenAI's own evaluators found numerous AI-exploitable vulnerabilities, and commentary is crystallising around a 'know your agent' accountability rule. Agentic software is moving from productivity story to risk-governance issue for senior executives.",
+   "angle": "CIO risk registers need an agent layer: who is acting, and who authorised it?",
+   "items": [
+    {
+     "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
+     "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+     "source": "Axios AI+",
+     "time": "09:00",
+     "note": "Axios: banks detect third-party agents acting in customer accounts."
+    },
+    {
+     "title": "OpenAI Had Numerous Vulnerabilities Its AI Could Exploit, Evaluators Find",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3N3eGZoblgzUWtZWVJBZlhDVjhOMnBHOEJ3Z1JPRE5OdGFKSHNDdnl3NHRrT3lsRWdLTzU2R1l6TVJPVVUyUkE4MWY4c015bXhTT01CUWlVMEtJQ3I1bTAwaEVmcmVHWlZTXzRnanIwdUREVURnQmpGNFdLQmE0X2FwcTVmUDFVczY3Rm5kX3VkY1A1N2ZzQXIxRFYyTk5P?oc=5",
+     "source": "The Information",
+     "time": "15:00",
+     "note": "The Information: evaluators found multiple exploitable weaknesses."
+    },
+    {
+     "title": "'Know Your Agent' will be the new rule of the AI age",
+     "url": "https://www.ft.com/content/5116beca-1b6e-418e-99d7-462339b3b57e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:38",
+     "note": "FT: accountability and control for autonomous software."
+    }
+   ]
+  },
+  {
+   "title": "Meta rekindles AI capex fears, markets wobble",
+   "signal": 65,
+   "summary": "Meta said it will raise 'hundreds of billions of dollars' for AI in coming years, and markets responded violently: Nasdaq fell, Treasuries rallied, and roughly $124 billion was wiped off Meta's value in a day. Memory-chip and storage names dipped on the same demand doubts.",
+   "angle": "Capex conviction is being repriced into ROI discipline — the 'AI P&L' debate hits listed markets.",
+   "items": [
+    {
+     "title": "Nasdaq tumbles while Treasuries soar as Meta rekindles AI spending fears",
+     "url": "https://www.ft.com/content/6e318b81-a771-4842-9754-e265fef2852f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:05",
+     "note": "FT: ~$124bn wiped off Meta's value in a day."
+    },
+    {
+     "title": "Western Digital Falls as AI Worries Overshadow Solid Outlook",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-22/western-digital-gives-solid-outlook-hikes-dividend-on-ai-demand",
+     "source": "Bloomberg Technology",
+     "time": "20:25",
+     "note": "Bloomberg: solid results fail to reassure on AI demand durability."
+    },
+    {
+     "title": "JPMorgan's Mulvihill on AI Concentration Concerns",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-22/jpmorgan-s-mulvihill-on-ai-concentration-concerns-video",
+     "source": "Bloomberg Technology",
+     "time": "21:50",
+     "note": "Bloomberg: lenders more selective as AI financing risk is reassessed."
+    }
+   ]
+  },
+  {
+   "title": "UAE economy: AI upside, FDI record",
+   "signal": 62,
+   "summary": "The IMF sees the UAE economy growing 7.7% in 2027 with AI as a further upside, while MENAP rebounds 6.6% next year. FDI hit a record $48.3 billion and the UAE launched a six-sector investment platform; the World Bank debuted its first digital strategy aiming at 1 billion people by 2030.",
+   "angle": "AI is now an explicit variable in Gulf sovereign growth forecasts.",
+   "items": [
+    {
+     "title": "UAE economy to grow 7.7% in 2027 as IMF says AI could boost growth further",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOFNFME9iVU9PRElJU3NlUTNMRmNtMzdsa3ZvcEtORUNma2k4bGNkaFk0V2RLdE1qcGpFT05LZm5qcVdqRFZDMDc4MXFkVjdsNExBSzhjeWI2X0Y4S193MVRrV1NRRENaVnBwcTFmRTRxdFlrZ01jQWkxWlMta0hTcWxHUzVrSXluTHZtUWNid0tfaEtxendtR0ZlOVRuZWtHc21JRDU4cGlIcDNNUGZZdDMxVGlLNVI2cU8yVnRB?oc=5",
+     "source": "Arabian Business",
+     "time": "18:43",
+     "note": "Arabian Business: IMF 2027 forecast, AI cited as upside."
+    },
+    {
+     "title": "MENAP economy to rebound 6.6 percent in 2027 as energy exports and shipping recover, IMF says",
+     "url": "https://economymiddleeast.com/news/menap-economy-to-rebound-6-6-percent-in-2027-as-energy-exports-and-shipping-recover-imf-says/?utm_source=rss&utm_medium=rss&utm_campaign=menap-economy-to-rebound-6-6-percent-in-2027-as-energy-exports-and-shipping-recover-imf-says",
+     "source": "Economy Middle East",
+     "time": "11:44",
+     "note": "Economy Middle East: IMF MENAP rebound forecast for 2027."
+    },
+    {
+     "title": "UAE launches six-sector investment platform as FDI hits record $48.3 billion",
+     "url": "https://economymiddleeast.com/news/uae-launches-six-sector-investment-platform-as-fdi-hits-record-48-3-billion/?utm_source=rss&utm_medium=rss&utm_campaign=uae-launches-six-sector-investment-platform-as-fdi-hits-record-48-3-billion",
+     "source": "Economy Middle East",
+     "time": "11:20",
+     "note": "Economy Middle East: record FDI and new investment platform."
+    },
+    {
+     "title": "World Bank launches first Digital Strategy targeting 1 billion people by 2030",
+     "url": "https://economymiddleeast.com/news/world-bank-launches-first-digital-strategy-targeting-1-billion-people-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=world-bank-launches-first-digital-strategy-targeting-1-billion-people-by-2030",
+     "source": "Economy Middle East",
+     "time": "12:16",
+     "note": "Economy Middle East: AI and connectivity for job creation."
+    }
+   ]
+  },
+  {
+   "title": "Robinhood licenced for MENA via Dubai DIFC",
+   "signal": 58,
+   "summary": "Robinhood secured DFSA authorisation from Dubai's DIFC to bring its retail investing platform to the Middle East, naming DIFC its MENA headquarters and targeting a 2027 launch. It is a notable vote of confidence in Dubai as the region's fintech and AI gateway.",
+   "angle": "Dubai is winning US fintech scale-ups as the MENA launchpad of choice.",
+   "items": [
+    {
+     "title": "Robinhood secures DFSA authorization to introduce its retail investing platform in the Middle East from DIFC",
+     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSjNLVzJ1MnBISkhrQklNNTgxLWdtdl9lUHpDajNLTnpkbFl2MVhSTW9YTzZKM1NBaERTaGlxUWlkMkdHSHhIMkhZc2VQa3E4VDZDbHZoalk5Yzl5bUkxZFlsZTN1OEVyb0VhSnI1N1B2TXJwaHczSFA4VHpaMUhZZDMyUzRjb01JMnpIcjhfbFR6OFd5RlVXM2RwYS16VC1INjZOdjEyYkZieUlTMjdCaVQ5bkI2V1AzZnBpRmx1aDhNV1h2SExoOVI4WmtjSUxCM3owNjA4aTNtVGh4Y0M5THl4aW5DaTh1S3lEZVF3?oc=5",
+     "source": "FX News Group",
+     "time": "06:28",
+     "note": "FX News Group: DFSA authorisation via DIFC."
+    },
+    {
+     "title": "Robinhood to Launch Retail Investing Platform in Middle East From Dubai",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX2pFS3hPeHZ3VkpIWC1HSG04S21UcWpGSDNGTEdpcVZVN3VtZDl0VEdRdEc2bnlBajRCZnRPd1hRcDlnckplMk1YNmNTYnI5M2lJS2xnVDlmUXgweVQxaWN6TnhYbEVuVm1GZkowYUdjZVhxb2VacEVoRHZHeFFIOUlkLVUwWUN6UnVLOTk2TEU4RUVCeTNWS0k2ZnVTV3BIUXlEc2kzc2JyQ2J6ZlNvTWlUMC1MSXBlTHNPVkk5Zw?oc=5",
+     "source": "Bloomberg.com",
+     "time": "06:00",
+     "note": "Bloomberg.com: launches retail investing platform from Dubai."
+    },
+    {
+     "title": "Robinhood receives Dubai licence to launch retail investing platform",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2xoczVLblpGblBXVzNsYW43NnJOX3htSFVRakpLWmhMTGxvOVhocWR6aFBBMDUyblVoN3JYT2w4M2VKWUQwa0NIRlVZRm03NndoUHJuVnA4TjFiaXVRSGZuSWEzM181emQwcVI1X181LXhlMmYxVVppd1dJbWY5SDhpX1dZVVFjdVZBN2tmZUs2ZG1OanZQZ2E5blIzTndJQVh5UjVHelNwbmFkS0hn?oc=5",
+     "source": "Gulf Business",
+     "time": "09:54",
+     "note": "Gulf Business: Dubai licence secured."
+    }
+   ]
+  },
+  {
+   "title": "US curbs China tech/biotech investment",
+   "signal": 56,
+   "summary": "The US Treasury proposed tighter rules on American investment in sensitive Chinese technologies, explicitly including AI, hypersonics and biotech. The biotech element complicates US drugmakers' growing reliance on Chinese suppliers, while geopolitical hedging continues with Kazakhstan joining both US and Chinese AI initiatives.",
+   "angle": "For GCC allocators, US-China tech fences sharpen the case for a neutral AI hub.",
+   "items": [
+    {
+     "title": "US Treasury proposes tighter rules on investing in sensitive Chinese tech",
+     "url": "https://www.ft.com/content/f57a1f1c-60ce-432d-a901-673ae7d1241e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:13",
+     "note": "FT: curbs would cover AI, hypersonic weapons and biotech."
+    },
+    {
+     "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-22/us-proposes-curbs-on-investment-in-chinese-biotech-firms",
+     "source": "Bloomberg Technology",
+     "time": "22:04",
+     "note": "Bloomberg: would complicate US drugmakers' China reliance."
+    },
+    {
+     "title": "Why Kazakhstan Joined Both the American and Chinese AI Initiatives",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY0tGc0hUS2pVcDNEYTJ4RExGOG1BVW9pNGlqR09UQW5RRFZ3d3NkcmlaOU8tb2tVUy0wNWZ3dUpUS1hUTUhRVS1rTWJLNEptOElrdVZzWWJGUzlxSm5QZmUzaC1hMVJHWXdxa0thaHBqRXR5RWpEaHZ5Q3RVdjZTU0xJbzhEeUJaZUxLaXVwcEJzQVFKM0RSbWV5Ylh0VlpoTjR3UHlvcjdjMTVHMnFmdEhVWjlPTUxGZ1RRSnhpSmYtQzUxME40?oc=5",
+     "source": "Royal United Services Institute (RUSI)",
+     "time": "17:00",
+     "note": "RUSI: smaller powers hedging across both blocs."
+    }
+   ]
+  }
+ ]
+}

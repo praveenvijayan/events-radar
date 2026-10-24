@@ -130,12 +130,6 @@
       "url": "https://github.com/microsoft/agent-framework/releases/tag/dotnet-1.26.0",
       "source": "Microsoft Agent Framework releases",
       "note": "Opened release notes are mainly fixes and maintenance; no material new .NET capability emerged from the inspected changelog."
-    },
-    {
-      "title": "How Vercel Agent accesses production safely",
-      "url": "https://vercel.com/blog/how-vercel-agent-accesses-production-safely",
-      "source": "Vercel Blog",
-      "note": "Candidate is relevant to production access, but not selected for full-item scoring in this curation."
     }
   ],
   "post_seed": null,

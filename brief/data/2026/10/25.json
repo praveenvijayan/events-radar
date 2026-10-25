@@ -6,7 +6,7 @@
     {
       "title": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
       "url": "https://www.infoq.com/news/2026/10/data-agent-kit-ga",
-      "also": [],
+      "also": ["https://cloud.google.com/blog/topics/developers-practitioners/data-agent-kit-is-now-ga-bring-google-data-cloud-to-any-coding-agent/"],
       "source": "InfoQ — AI, ML & Data Engineering",
       "tier": 2,
       "published": "2026-10-24T08:34:00+00:00",
@@ -51,7 +51,7 @@
     {
       "title": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon",
       "url": "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk",
-      "also": [],
+      "also": ["https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/"],
       "source": "InfoQ — AI, ML & Data Engineering",
       "tier": 2,
       "published": "2026-10-24T16:00:00+00:00",

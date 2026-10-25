@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T03:40:17+00:00",
+  "lead": "Quiet day: the strongest decision signal is to separate agent guidance from enforceable authority. Google’s Data Agent Kit pairs skills that tell an agent what to do with IAM policies that can deny tool calls; that distinction is more important than the kit’s free price or broad editor support. Its IAM boundary is limited to Google Cloud MCP servers, and blocked tools remain visible to the agent, so it is not a general-purpose control plane. For your Azure-leaning designs, trial the separation as a pattern and map the enforcement point to the gateway and identity controls you already operate.",
+  "items": [
+    {
+      "title": "Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM",
+      "url": "https://www.infoq.com/news/2026/10/data-agent-kit-ga",
+      "also": [],
+      "source": "InfoQ — AI, ML & Data Engineering",
+      "tier": 2,
+      "published": "2026-10-24T08:34:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 90,
+      "summary": "Google made Data Agent Kit generally available after a summer preview; the free, open-source kit connects coding agents to more than fifteen Google Data Cloud services through MCP and includes 37 Apache 2.0 skills. Its skills provide agent-facing guidance, while IAM deny policies can block tool calls at organisation, folder or project level; those controls cover Google Cloud MCP servers only, and a denied tool remains visible in tools/list.",
+      "so_what": "Trial the separation between advisory skills and enforced IAM against your agent gateway design, and verify that denial, identity propagation and tool visibility behave acceptably across every service boundary.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "also": [],
+      "source": "Drew Breunig",
+      "tier": 2,
+      "published": "2026-10-24T17:08:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 87,
+      "summary": "Drew Breunig’s 24 October talk and transcript organise long-context failure modes as poisoning, distraction, confusion and clash, including conflicting tools or harness instructions. He argues that larger context windows do not remove the need to select, isolate and maintain context, and describes practical failure examples rather than a controlled benchmark.",
+      "so_what": "Benchmark its context isolation and reset practices against your current harness, especially for cross-task memory and conflicting tool instructions; use it as an engineering checklist, not quantified performance evidence.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "v4.70.0",
+      "url": "https://github.com/langfuse/langfuse/releases/tag/v4.70.0",
+      "also": [],
+      "source": "Langfuse releases",
+      "tier": 1,
+      "published": "2026-10-24T12:54:58+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 84,
+      "summary": "Langfuse v4.70.0 adds a batch-evaluation MCP tool and batch action identifiers on evaluation outputs, plus unstable read-only Topics API endpoints. The release also requires secrets again when webhook or PostHog destinations change; pricing and hosting-region availability are not stated.",
+      "so_what": "Trial batch evaluation and the destination-secret change against your existing evaluation and secret-rotation workflow; keep the Topics endpoints out of production integrations while they remain explicitly unstable.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon",
+      "url": "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk",
+      "also": [],
+      "source": "InfoQ — AI, ML & Data Engineering",
+      "tier": 2,
+      "published": "2026-10-24T16:00:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 82,
+      "summary": "InfoQ reports that Google used an 11-hour unattended Gemini 4 Argon run to propose optimisations to its Agent Development Kit, a codebase of more than 200,000 lines across about 800 files with nearly 17,000 unit tests. Two accepted changes reduced long-session in-memory session preparation by about 40% and cold package import time by 21%; four other changes were rejected in developer review, and the accepted changes cut a stated 158-turn run from 65.6 to 56.1 seconds.",
+      "so_what": "Benchmark long-horizon coding agents only with repository-specific instructions, tests and human review; the rejected changes and bounded codebase task are as relevant to your adoption decision as the reported speed gains.",
+      "verify": true,
+      "off_list": null
+    },
+    {
+      "title": "Talking your language: UAE unveils AI tool designed to master Arabic dialects",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/24/talking-your-language-uae-unveils-ai-tool-designed-to-master-arabic-dialects",
+      "also": [],
+      "source": "The National (UAE)",
+      "tier": 2,
+      "published": "2026-10-24T09:57:25+00:00",
+      "track": "models",
+      "decision": "model selection",
+      "signal": 70,
+      "summary": "The National reports that MBZUAI and Abu Dhabi’s Inception42 unveiled Jais 3, combining Arabic language models with Jais Speech for transcription across dialects spoken in 19 Arab countries and code-switching with English or French. The organisations say an audited suite of 24 Arabic benchmarks is being released; the largest Jais 3 model leads open models on agentic tasks and matches the strongest on Arabic understanding, while 7-billion- and 32-billion-parameter versions score highest among similarly sized open models.",
+      "so_what": "Add it to a regional-language evaluation shortlist if Arabic dialect handling matters, but require the benchmark suite, model card, deployment terms and independent task-level results before selecting it for a regulated workflow.",
+      "verify": true,
+      "off_list": null
+    }
+  ],
+  "watch": [
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "source": "The Verge — AI",
+      "note": "The Verge reports a new Pennsylvania disclosure law for significantly AI-modified or generated ads, with subjective thresholds and exceptions; secondary coverage only, so check the enacted text before changing campaign controls."
+    }
+  ],
+  "post_seed": null,
+  "sources": {
+    "ok": 148,
+    "total": 149,
+    "failed": ["Azure Blog: TimeoutError: The read operation timed out"]
+  },
+  "candidates_seen": 19
+}

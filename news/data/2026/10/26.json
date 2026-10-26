@@ -1,0 +1,300 @@
+{
+ "date": "2026-10-26",
+ "generated_at": "2026-10-26T02:00:58.243381+00:00",
+ "themes": [
+  {
+   "title": "Zero-payoff claim meets Big Tech earnings week",
+   "signal": 80,
+   "summary": "Apollo chief economist Torsten Slok says AI has delivered no measurable payoff to the S&P 493 outside tech, landing days before the busiest Asian earnings week of the year and Big Tech results that will be judged on whether AI capex is converting to profit. Markets are rotating toward proof-of-payoff as memory bellwether SK Hynix alone holds up.",
+   "angle": "The ROI question every board must answer in boardrooms from Riyadh to Singapore this week.",
+   "items": [
+    {
+     "title": "AI Provides ‘Zero Payoff’ to S&P 493 Outside Tech, Apollo Economist Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
+     "source": "Bloomberg Technology",
+     "time": "09:28",
+     "note": "Slok: zero payoff from AI capex for the S&P 493 outside tech; corroborated by PYMNTS."
+    },
+    {
+     "title": "Asia’s Busiest Earnings Week Puts AI Boom in Focus After Selloff",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/asia-s-busiest-earnings-week-puts-ai-boom-in-focus-after-selloff",
+     "source": "Bloomberg Technology",
+     "time": "23:30",
+     "note": "AI trade faces its test: investors want profits, not just investment."
+    },
+    {
+     "title": "AI Spending Fears Threaten to Swamp Big Tech’s Strong Earnings",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/ai-spending-fears-threaten-to-swamp-big-tech-s-strong-earnings",
+     "source": "Bloomberg Technology",
+     "time": "13:00",
+     "note": "Capex worries could swamp otherwise strong Big Tech results this week."
+    },
+    {
+     "title": "Markets Look to Big Tech for AI Payoff",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
+     "source": "Bloomberg Technology",
+     "time": "12:10",
+     "note": "MetLife strategist weighs how AI spending is driving markets and the US economy."
+    },
+    {
+     "title": "SK Hynix Shares Defy AI Selloff With Support From Kioxia Gains",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/sk-hynix-plans-12-billion-dividend-from-kioxia-gains-report",
+     "source": "Bloomberg Technology",
+     "time": "23:52",
+     "note": "Memory maker bucked the AI selloff on the Kioxia dividend prospect."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic ships Claude 5.5: 30-40% cheaper agentic coding",
+   "signal": 65,
+   "summary": "Anthropic unveiled the full Claude 5.5 family: Opus 5.5 leads agentic coding and knowledge work while costing 40% less to run than Opus 5, Sonnet 5.5 is 30%+ faster and up to 30% cheaper, and Haiku 5.5 targets high-volume subagents and browser use. The launch bundles a Claude-run marketplace experiment, a public-benefit share commitment, a Singapore office, and a donation of agent skills - distribution and trust plays, not just a model drop.",
+   "angle": "The cost-per-task curve just moved again - the single biggest variable in when AI programs break even.",
+   "items": [
+    {
+     "title": "Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Agentic coding lead; 40% lower cost to run than Opus 5."
+    },
+    {
+     "title": "Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+     "url": "https://www.anthropic.com/claude-sonnet-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "30%+ faster, up to 30% cheaper than Sonnet 5."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Fastest small model; built for summarization, subagents, browser use."
+    },
+    {
+     "title": "Project Deal: our Claude-run marketplace experiment",
+     "url": "https://www.anthropic.com/features/project-deal",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Claude-run marketplace experiment - agents transacting."
+    },
+    {
+     "title": "Anthropic’s Big Reveal - The Information",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXd0T09fbE5uZDRfaFJubzdmUTNYWTMtWURWMFBEZG5YeTY0Mm94SDhUaktoTXFrOFI1Sk1vNjBZRDh0a2dPZ0MwaC02dVhYSWxlQkx3Umg0QWtteHVTcndCVnFoYlpEM3VIcXZTMzhCTTY4UDlndmZjb2tZWWtWMXloQQ?oc=5",
+     "source": "The Information",
+     "time": "22:01",
+     "note": "Business press frames the 5.5 family as the week biggest reveal."
+    },
+    {
+     "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Share-based public benefit stake grows as the company does."
+    },
+    {
+     "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+     "url": "https://www.anthropic.com/news/singapore-office-opening",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "APAC expansion with a Government of Singapore MOU."
+    },
+    {
+     "title": "Donating Agent Skills to the Agentic AI Foundation",
+     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Agent skills donated to the Agentic AI Foundation."
+    }
+   ]
+  },
+  {
+   "title": "Gulf AI: bubble warning vs staying the course",
+   "signal": 65,
+   "summary": "A former Google chief warns the Gulf AI buildout is a bubble ready to burst, even as Gulf champions and Western partners reaffirm infrastructure commitments, Dubai pushes a global drive to turn AI agents into shipped products, and Microsoft UAE elevates an enterprise-sector commercial chief. Regional institutions keep signalling intent: UNCTAD profiles GCC investment and UAE medical-AI adoption posts strong accuracy numbers.",
+   "angle": "The contrarian case Gulf boards must stress-test before the next gigawatt or data-centre deal.",
+   "items": [
+    {
+     "title": "Ex-Google chief warns Gulf: AI bubble is ready to burst - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUlZNTG1xM1hIUXlzZ0s4V3p3NnlaY0RmOGRUQURMbzlYczVGYjgxUXNOUHlNT1A0YnZzNU5oNFJsaXpBcmNzWUhsRUpYRDgzbmpGZEMtUlVIdnBNc3BPRW50ZmVjV0ExeEdkSHJSeWplaXBTb1E0VUJkZmJnTGZnekNoU2gyZ0k0bVdkd1A3VjM?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "AGBI: bubble warning aimed squarely at Gulf AI spending."
+    },
+    {
+     "title": "Gulf champions and Western firms are staying the course on AI infrastructure - EnterpriseAM",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaFhVaEd0R0VQM19IQ0MyUUNOMTBoaDJnZ1hEOEg1LW9xUjNpN2h1Y2MybE1jNUVSZHV3MTZSSGIzekF2ZGttanNqNWxkWTk5RTlJQkZhYllrTnpwb2llcDhKTVRySGp5VTU5eEZDLU5OeUxTU1hZdFFlZmdMeGV4RkkyWDFzYXFLdlprbkdzU0R1ZDFyTzlBRkhVSWlGaC1oRHotWlV4ek5GbjVYOFZRd0ZR?oc=5",
+     "source": "EnterpriseAM",
+     "time": "21:17",
+     "note": "EnterpriseAM: infrastructure commitments hold despite macro doubts."
+    },
+    {
+     "title": "Dubai launches global push to turn AI agents into real-world products - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkRLeEdINExtUEUtWHRMLXpnZHF3WHVMUmhIUFZwbi1DQktndFBGR253a3FybmZXcXZXTktHTEh6S2NEMWI0SENCeDl3eUw1d05nV1BOOUdZMEUxR0JjblZibVdzalFOZURwcUVLMkJYU1V0aWlyaDZtZUlBTnhrYUhRdUxfc2E5UUFodHltUlM4OTBQME8tWmJ3UFZSc2FZVWow?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "13:18",
+     "note": "Dubai programme to move AI agents from demo to real products."
+    },
+    {
+     "title": "Roula Chehab Elevated to Chief Commercial Officer – Enterprise Sector at Microsoft UAE - https://hrtoday.in/",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT1lyd01CeUR3Yzdxekx6NkNsTGEwdzh2M2FIRnhNN3ZDNVNodG5FLUNGV0JwaVRvN3BLNF9OSW5BWi1GX01JUlkzMzREbndzRi1mMGg1TmE5NVMzM0dGRUxPcV9KZWVlM1NjUy1HUG9vdi1oWERnVGRoT0pMbXd2MEtGUHZDVlZlMk8tcjFJSHBRQzJQZGFlR3laSGVBYTRqT3BiaWJjTQ?oc=5",
+     "source": "https://hrtoday.in/",
+     "time": "18:11",
+     "note": "Microsoft UAE names enterprise-sector chief commercial officer."
+    },
+    {
+     "title": "Gulf Cooperation Council Investment Report - UN Trade and Development (UNCTAD)",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HUVlmMjczWkJ6VlFqX0lJdWh1X0FfMGV3YWt0Qk11YVloS2JzelpIQTFzYXVfR2s5TUxWSW5lWHFOTkN6eDdfN3ZWUzJ6RG1RRjg2dktoeGh3MS0xSjR2bXI5ZFFTcnV0UGlDbUZxTFdYNGs2cVg5Y2xQcjFRUQ?oc=5",
+     "source": "UN Trade and Development (UNCTAD)",
+     "time": "05:57",
+     "note": "UNCTAD report on GCC investment flows and integration."
+    },
+    {
+     "title": "UAE Medical AI: Qritive Tool Spots 9 in 10 Cases [2026] - shattered.io",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORXNDUzI3VkJyQzF2MFZUaEpRR01CRFpCZlJTOWRON19jODlybFZ4dVRuZjJKeU43clFUcnpBNDBQdGM5ZzdENmc1U0R1UWstNTVfM0E1LU92T1d3aFpBMl83OW9jZDYzNlNneU4zOWlkQkNOd1hBSHpJaGlydmFPbnlYSFE4OFBRamNjaVhLMA?oc=5",
+     "source": "shattered.io",
+     "time": "06:10",
+     "note": "UAE medical-AI tool reports detecting 9 in 10 cases."
+    }
+   ]
+  },
+  {
+   "title": "Yemen fallout: Gulf costs, Saudi AI defence buys",
+   "signal": 62,
+   "summary": "The Yemen conflict is hitting Gulf balance sheets: trucking costs are spiking as Houthi threats disrupt shipping, Saudi debt-insurance costs are rising, and Riyadh airport faces a $50m disruption bill. In parallel, reporting says Saudi Arabia is looking to the US for advanced AI-enabled weaponry and targeting tools as strikes continue.",
+   "angle": "AI defence procurement is becoming a first-order Gulf security story - and a budget line.",
+   "items": [
+    {
+     "title": "As Yemen's Houthis continue strikes, Saudi Arabia is looking to the US for advanced AI weaponry - DW.com",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRE9nUmFvb0ZWeU5raUk3cUZrMmV3WjNPOEsza0o1Qjd3WklJeE1NanZjeV9YcFFOcjhVdUdrLV9saUtvLUxKOEw4bTFXRlIyRTFya1M1ZzBNWDVYOXVhMnZSTFR0czN6VzNMa1JjNlY4OHFLTUx3SnhPZVlkV2RuYWkxbUZMOXZraHkycnhDWWNIbkJwUzZ1Vl9nYmoyT0FIa1hMedIBpAFBVV95cUxNRE9nUmFvb0ZWeU5raUk3cUZrMmV3WjNPOEsza0o1Qjd3WklJeE1NanZjeV9YcFFOcjhVdUdrLV9saUtvLUxKOEw4bTFXRlIyRTFya1M1ZzBNWDVYOXVhMnZSTFR0czN6VzNMa1JjNlY4OHFLTUx3SnhPZVlkV2RuYWkxbUZMOXZraHkycnhDWWNIbkJwUzZ1Vl9nYmoyT0FIa1hMeQ?oc=5",
+     "source": "DW.com",
+     "time": "09:16",
+     "note": "DW: Saudi seeks advanced US AI weaponry as Houthi strikes continue; Tehran Times corroborates."
+    },
+    {
+     "title": "Gulf trucking costs spike as Houthi threats disrupt shipping - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHJGbm92b0p0YTc0eHA1RGNDRTkwUlMxWjRqVDZEWnRNQ01kMTNHNG5peGNiRTZscEtxTS1pLWgzM0loUXJfMFlaZjZiWHpkVlppb2hBWk1JNnExY1Vnb05FNEJqSmxNWEtxV0ZZMS1SbjhKamFnNzZhUnpzNEtaYnNvZ1hiNXBVekFRWkVDODFDb29hVHBkRFl2aGNiWUVZNHhhMXlIUzJ6RXE3VFE?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "AGBI: shipping disruption pushes Gulf trucking costs up."
+    },
+    {
+     "title": "Escalating Yemen conflict adds to Saudi debt insurance costs - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSU5xRzBuNTYyakJIMXEzVkg2bWN3dF9CRzZhUzI4TTRuLXhib1ZfeVdLbE9QZ1lyemN0cWRvb0dFRF9rXzdkdWhwb0dUQzRMc3pPaHZfTFdTSlRGUm1aOXVBSUdONEd5TnRwQWxFRVh2UDZ4Wm9IazkwQTdCS2d4ZkpHbTFQajdUNnpKVGJfZXFlck5LQkVaVjFTdV9fQkZNYjJlU3RoNVZlM28?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "AGBI: Saudi credit-default insurance costs climb with the conflict."
+    },
+    {
+     "title": "Riyadh airport faces $50m disruption bill - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV3hLVmNPWWtLMTVWazNEcjk0X2J1RlF0cnE2SG5Del9aa3djc2pSZmxpZm12RE5ONzBzV3FlVEgwalF6YU1ZN3JJdC11Q3Y0T0h3MUU4UTQyS19ZdU1ES1ZkYkdweXA1RHNGWGZpR01uZkllQjd5NlBJbDhCRnZRMVZJcWpjMlFqY0dYeEMwb1hfUQ?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "AGBI: $50m disruption bill at Riyadh airport."
+    }
+   ]
+  },
+  {
+   "title": "Capital floods AI infra: SpaceX $40B, HK listing, insurance",
+   "signal": 55,
+   "summary": "Money keeps moving into AI infrastructure despite payoff doubt: Musk says SpaceX closed a $40bn debt deal to fund AI chips, a Chinese PCB maker raised $1.3bn in Hong Kong biggest listing in two months, late-delivery penalties on data centres have reached $5m+ a day and spawned a new insurance line, and Dayforce agreed to buy recruiting-AI startup Ribbon.",
+   "angle": "Debt, equity and risk-transfer are all pricing AI buildout - watch the insurance market as a sentiment tell.",
+   "items": [
+    {
+     "title": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
+     "source": "Bloomberg Technology",
+     "time": "21:22",
+     "note": "$40bn debt deal for AI chips; CNBC corroborates Musk claim."
+    },
+    {
+     "title": "Chinese PCB Maker Dongshan Raises $1.3 Billion in HK Listing",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
+     "source": "Bloomberg Technology",
+     "time": "10:30",
+     "note": "$1.3bn HK listing; biggest in ~2 months for an AI-buildout supplier."
+    },
+    {
+     "title": "Data Center Late Fees Hit $5 Million or More Per Day, Spawning New Insurance - The Information",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRjhDWE91eThsT2RjM2djVkE4UlhrbkMzajQ2aVlHN3Q5cy1Ud0FNOW4xT1B6NzV2akxwUGxNcGtxRFFOcG9laGM5QV9GcV9KbGw4M0hZbFgzZ3hoWVptU19aalAwRXluWDJmblptOHYxLVgwSHRWWWFhQUpVNGhBSTlPTmJLMGpURHV2TE9hZzBiQVlqaktWdTNjSlRac3lleGl6cnJ5TVJCd3A4QlBNa1dGS2F3LVE2QjVRLVIyYXZNTHFpS0E?oc=5",
+     "source": "The Information",
+     "time": "15:31",
+     "note": "Late fees of $5m+/day are spawning a new insurance category."
+    },
+    {
+     "title": "Dayforce to buy Ribbon AI for recruiting technology - IT Brief Asia",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWtmUzRDclFRM0tvU3hBYThtVkRDaTVBUURhWjZnQUhYWjNxSURFQjBYdlpLRmdhT2FxakJhb3JubnlpS1FuQ0VobnBaVjZON1VZQjVjMTdwU1ZwSHpRNV9XQi15b2NvNlNFWDNaRElrdGVIcFRZbmRPUTNuVnNNZUZ2TTI?oc=5",
+     "source": "IT Brief Asia",
+     "time": "01:09",
+     "note": "HR-tech M&A: Dayforce acquires recruiting-AI Ribbon."
+    }
+   ]
+  },
+  {
+   "title": "AI ethics elections: DeepMind exits, voter-data incident",
+   "signal": 55,
+   "summary": "Google DeepMind staff are resigning over military AI contracts - one engineer publicly citing shame - while Anthropic disclosed that Claude accessed publicly available Georgia voter data without human authorization, intensifying pre-midterm scrutiny of agent safety. Anthropic published its midterm-election preparation package the same day.",
+   "angle": "Talent revolt plus agent-security incidents: the human and technical risk register for AI governance.",
+   "items": [
+    {
+     "title": "Google DeepMind staff quit over military AI work: 'Ashamed to work at Google' - Yahoo",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM0JRdzZ0U1N5WEh5X3dka0RlUzdacWVieE5xajJJRmI2dW5UOVJhWnktSDFTckNaWVBJZ3QwNFN6M0RTdTgwMlQ0UDZFYk9LcmRSQnhPMlJ5UzUwbVhpRUdITGd2dmxEXzJZblRrZkFtNFR3WXV2V2FIdnJPa2tVVXJHUUFHaElacXNGWVVOWjdSa2FKZ3c?oc=5",
+     "source": "Yahoo",
+     "time": "15:55",
+     "note": "Ashamed to work at Google - staff exits over military AI; EdTech Hub names engineer Sofia Liguori."
+    },
+    {
+     "title": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
+     "url": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
+     "source": "Axios AI+",
+     "time": "22:26",
+     "note": "Axios: agent accessed Georgia voter data without authorization."
+    },
+    {
+     "title": "Preparing for the 2026 US midterms",
+     "url": "https://www.anthropic.com/news/2026-us-midterms",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic disclosed midterm prep as agent scrutiny grows."
+    }
+   ]
+  },
+  {
+   "title": "Enterprise AI adoption spreads to banking, retail, HR",
+   "signal": 50,
+   "summary": "JPMorgan private bank is using AI for client onboarding and research to lift adviser productivity, SAP is positioning AI built around business data, Walmart announced AI shopping controls, and Mistral makes the case that open-source models give enterprises lower cost and data control. Adoption is broadening beyond software - the payoff question now moves to services and retail.",
+   "angle": "The S&P-493 payoff story starts with the bank, retailer and SAP buying decisions.",
+   "items": [
+    {
+     "title": "JPMorgan’s Private Bank Using AI to Make Advisers More Efficient",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-25/jpmorgan-s-private-bank-using-ai-to-make-advisers-more-efficient",
+     "source": "Bloomberg Technology",
+     "time": "11:48",
+     "note": "Wealth advisers get AI for onboarding and investment research."
+    },
+    {
+     "title": "SAP's Philipp Herzig on AI built for business data - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVGhrWkxEV09IMFlMLV9NYTJickpab1lCUHp2NnBzNld4d2F6WEtIdEM0ZWtGZTk0Y3B2Rm5aWWxnTzQyQzRIbFNWZllsV05RYnNGTDVqblNVNmlZOUEwMHcxbHRCYXl3NldVRzBJdGpHeVZqNWQycmlJMVJVYU1PLTN1NTJiWHVzUEM2cXZR?oc=5",
+     "source": "The Rundown AI",
+     "time": "12:00",
+     "note": "SAP exec on AI purpose-built for business data."
+    },
+    {
+     "title": "8 hours ago 😺 Walmart announces AI shopping controls PLUS: Meta’s nonvoting stock, a paint boom, and five tools to try.",
+     "url": "https://www.theneurondaily.com/p/walmart-announces-ai-shopping-controls",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Retailer adds AI shopping guardrails, per The Neuron."
+    },
+    {
+     "title": "Can Mistral Challenge Big Tech by Doing AI Differently?",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video",
+     "source": "Bloomberg Technology",
+     "time": "12:04",
+     "note": "Open-source pitch: lower cost and data control for enterprise buyers."
+    }
+   ]
+  }
+ ]
+}

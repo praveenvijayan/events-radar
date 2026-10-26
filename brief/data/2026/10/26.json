@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T03:43:22+00:00",
+  "lead": "Quiet day: the strongest operational signal is LiteLLM’s disclosure that a compromised release pipeline distributed credential-stealing malware in a package and container images. The vendor identifies affected versions and exposure windows, while noting that its initial investigation narrative was later found incomplete; treat this as a supply-chain incident to check against your own dependency and image records, not as a complete independent postmortem. On the tooling side, Google has opened TorchTPU and ML Drift to developers, but the latter’s official announcement dates to 8 October rather than this weekend. Trial these portability paths only against workload-specific performance, support and exit criteria; neither announcement removes hardware or runtime trade-offs.",
+  "items": [
+    {
+      "title": "Contained: Oct 21, 2026 LiteLLM release v1.107.0 Compromised",
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026",
+      "also": ["https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber"],
+      "source": "Interconnects",
+      "tier": 2,
+      "published": "2026-10-21",
+      "track": "security",
+      "decision": "security",
+      "signal": 94,
+      "summary": "LiteLLM says its PyPI package litellm==1.107.0 was live from 11:39 to 13:23 UTC on 21 October 2026, and specified Docker tags pointed to compromised images between 11:46 and 14:20 UTC; the vendor describes credential theft and remote-code execution capability. Its 23 October update says parts of the initial account were inaccurate or incomplete, so the confirmed-artifact list and response guidance should be read with that limitation.",
+      "so_what": "Check dependency lockfiles, image digests and deployment windows for the listed artifacts, then rehearse credential rotation and workload isolation for any exposed environment; do not treat the vendor’s initial timeline as an independently validated postmortem.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "TorchTPU is now open source: Run native PyTorch on TPUs",
+      "url": "https://cloud.google.com/blog/topics/ai-infrastructure/torchtpu-is-now-open-source-run-native-pytorch-on-tpus",
+      "also": ["https://www.infoq.com/news/2026/10/google-meta-torchtpu"],
+      "source": "Google Cloud AI",
+      "tier": 2,
+      "published": "2026-10-20",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 87,
+      "summary": "Google announced TorchTPU as open source on 20 October 2026, co-developed with Meta to run PyTorch workloads on Google TPUs with minimal code changes. The vendor describes integrations with serving and training tools including vLLM, SGLang and TorchTitan; commercial terms and regional availability are not stated in the announcement.",
+      "so_what": "Trial the backend on a representative model against your current GPU path, measuring end-to-end cost, throughput and portability before accepting the TPU-specific operating and exit trade-offs.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Google ML Drift Accelerates On-Device AI Inference Across Diverse GPUs",
+      "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+      "also": ["https://www.infoq.com/news/2026/10/google-ml-drift"],
+      "source": "InfoQ — AI, ML & Data Engineering",
+      "tier": 2,
+      "published": "2026-10-08",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 80,
+      "summary": "Google’s official announcement, dated 8 October 2026, releases ML Drift under Apache 2.0 as a cross-platform GPU compute engine for on-device inference, supporting OpenGL ES, OpenCL, Metal and WebGPU. It describes tensor virtualization, custom operations and five-dimensional tensor support, and says the legacy TensorFlow Lite GPU delegate will no longer receive updates; independent comparative performance evidence is not stated in the announcement.",
+      "so_what": "Trial it only if you own edge inference, comparing supported-device coverage, latency and memory against your deployed runtimes and planning migration away from the legacy delegate where applicable.",
+      "verify": false,
+      "off_list": null
+    }
+  ],
+  "watch": [],
+  "post_seed": null,
+  "sources": {
+    "ok": 149,
+    "total": 149,
+    "failed": []
+  },
+  "candidates_seen": 17
+}

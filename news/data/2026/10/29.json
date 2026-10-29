@@ -1,0 +1,394 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-10-29T02:01:00.525420+00:00",
+ "themes": [
+  {
+   "title": "Wall Street grades AI capex: Alphabet -10%, Microsoft rewarded",
+   "signal": 70,
+   "summary": "Alphabet shares fell about 10% after Google admitted its 'AI mode' is cannibalizing traditional search while a $51bn AI outlay deepens cash burn, per the FT. Bloomberg adds that Alphabet's core-business sales missed across the board. In contrast, Microsoft's cloud sales beat estimates with capex held in check, and Oracle told investors its AI bet pays off sooner than expected - the market is now discriminating on AI spend-to-revenue conversion.",
+   "angle": "The AI capex cycle has a P&L referee: boards should grade spending on conversion, not capability.",
+   "items": [
+    {
+     "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
+     "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:27",
+     "note": "FT: Google shares tumbled 10% after a $51bn AI outlay deepened cash burn; Google concedes AI mode has hurt search."
+    },
+    {
+     "title": "Alphabet’s Revenue Miss Reignites Fears Over AI Spending Binge",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/alphabet-reports-disappointing-revenue-income-shares-drop",
+     "source": "Bloomberg Technology",
+     "time": "20:06",
+     "note": "Bloomberg: Alphabet's search and ad sales disappointed in Q3, reigniting fears over hundreds of billions in AI spend."
+    },
+    {
+     "title": "Alphabet Shares Tank on Sales Misses Across Core Businesses",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-28/alphabet-shares-tank-on-sales-misses-across-businesses-video",
+     "source": "Bloomberg Technology",
+     "time": "23:23",
+     "note": "Bloomberg: Alphabet stock sank on sales misses across most core businesses, escalating AI capex concerns."
+    },
+    {
+     "title": "Microsoft’s Surging Cloud Sales Show AI Spending Paying Off",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/microsoft-reports-quarterly-cloud-sales-that-beat-estimates",
+     "source": "Bloomberg Technology",
+     "time": "20:08",
+     "note": "Bloomberg: Microsoft's cloud growth beat estimates with capex kept in check, easing AI-payoff doubts."
+    },
+    {
+     "title": "Microsoft blames data centre delays for lower capital expenditure",
+     "url": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:20",
+     "note": "FT: Microsoft revenue rose 19% to $92.3bn in Q3; it blamed data-centre delays for lower capital expenditure."
+    },
+    {
+     "title": "Oracle rallies after telling investors its AI bet will pay off sooner than expected",
+     "url": "https://www.ft.com/content/fb08df06-da63-4e94-822d-a47b94616871?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "19:34",
+     "note": "FT: Oracle projected $30bn in free cash flow by 2029 and capped extra data-centre raising at $20bn."
+    }
+   ]
+  },
+  {
+   "title": "China's AI labs distill OpenAI's Astra outputs",
+   "signal": 65,
+   "summary": "The Information reports OpenAI's Astra has become the top distillation target for Chinese labs, with Moonshot AI and DeepSeek leaning on its outputs for the models they released this month. Export controls are policing chips and weights, but not the knowledge locked in model outputs. The story reframes the US-China AI contest as a training-data and inference-economics battle rather than a hardware one.",
+   "angle": "Chips are export-controlled; logits are not - the distillation loophole is now the fulcrum of US-China AI policy.",
+   "items": [
+    {
+     "title": "OpenAI’s Astra Model Becomes Top Distillation Target for China’s AI Labs - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1AtYlMxWEZUSDhweUUydXZtVTZPaXRHTkdzREh1aVJycUIwdTZubDlnRmdyUVpycEhoSHVkelZjV0RqV3puWWxKQ3BicU04V2s5V0NYZ0ZXVEhoOVoyWXlKSkRoYUxzTGNTUE0tSVJtV0ZQamVBTG5vdktDZ01qNHVPa0JYMlE5ckp4N2czS01NVTR2S0M1MVphUXBWcWp3T2NwSmhpdnBCUQ?oc=5",
+     "source": "The Information",
+     "time": "01:00",
+     "note": "The Information: OpenAI's Astra is now the leading distillation target across China's AI labs."
+    },
+    {
+     "title": "Moonshot AI And DeepSeek Relied Outputs From OpenAI's Astra When Developing Their Latest Models Released This Month - The Information - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOV0RqV080YU9xOXVzQWxOZ2tVY3B3cF9vNGFpR3hPcjB3TG9Ick1LeGZvblFEN0dpOFZmOFZ3VW1BUjBHS0lwdDl5QzNPV2ZqZUJwOVZJSVlyLURuODhMNFhQc1d6ZEdRUU1yaUp2VTdGX2tfbXcza1kzeENJeFowM1dtODlsV3dlemhjNFNTWXZyTGIxeWtZQ0JQQ2NYdUNITDRXay1IaTAwempBRFZRWmJ3RDVoYU1JSEpPVDBkRXFZZUplMWVSSHZFRlpaX3VEX3Bqb1dhMU1yQ0ZCMHlyWm5EZmJWY1diaDRTczlfQjVQUld5a3pHanZkdWpzVHg2bFlaNWRwTUp1ZVdvWDJlaFB5SmI2dllrZXlORXpLS0QtS2IxWVhveg?oc=5",
+     "source": "TradingView",
+     "time": "01:05",
+     "note": "TradingView, citing The Information: Moonshot AI and DeepSeek relied on Astra outputs for models released this month."
+    },
+    {
+     "title": "OpenAI’s Astra used by Chinese AI firms to train models- The Information - Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUpqb1d5S2QxMGw5SHJISlNnVHN1bkQ3VEtkYS1ldFhuWEZJWGZhX2MyQkJMOERXSTVCTDhDaGZ3ZDNLZUNBejR5RWhKV0wxNml5M1V1RkFYYWRqV2J3QnhJemxXVzY0dGJ2M0ZqSGxYakplcmhnZjg4UWpKb2xXTS05SllrZGhoS2Ria2h0ODFNT2ZnZ3liU2dOTkIxQzhxdEp0emVRX05ENGVnVXJDVi1fRzBHNkZLTHc4N1h2RDhVaXdQYjJWM1lWTGk?oc=5",
+     "source": "Investing.com",
+     "time": "01:53",
+     "note": "Investing.com, citing The Information: Chinese AI firms have been using OpenAI's Astra to train models."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI buildout hits the cost-resilience test",
+   "signal": 60,
+   "summary": "AGBI reports rising data-centre construction costs are pressuring Saudi AI ambitions, while The Arab Weekly frames resilience as the Gulf's new test. Momentum remains: Dubai AI Campus doubled its 2030 target to 1,000 firms after early traction past $270M, and Snowflake plans $300M in Saudi investment through 2030. Global AI leaders are also converging on Dubai as the emirate expands its ambitions.",
+   "angle": "The Gulf is entering phase two of its AI story: from ambition-setting to cost-and-resilience management.",
+   "items": [
+    {
+     "title": "Saudi AI goals hit by rising cost of building data centres - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0RuRE51eFhFVE5vR1NzQ3FYZVBZU2xhMmxmV29UM2dFNV80Y05kM3J0ckRkdnU5Slh0M29Uazl1X1ZqTThGSEVFVWtJRDlLOXlfaWF1dzc5SUtVQlIyM1pqMm55QlRlZnNYZklsQkktd3ZZTE5VeDg3SnFhV2JxcUV5SGQtYXVsTFFxVGM3NU1CY1JSRGR3Q0dBeUhBVXZjVnc?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "AGBI: rising data-centre construction costs are straining Saudi Arabia's AI goals."
+    },
+    {
+     "title": "The Gulf’s AI ambition faces new test: resilience - The Arab Weekly",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uMnpkbjNMSTU0SFpQMmlVNEdoLWZlODNVR1dCeTBLTVo5ZEluc0s5YjZ1RzFQZXNOb2FTOXpxeGNzWjhNb21wMU9XdmR0UmdMMUFpSEZpeU9nbTlDU19maGpuamhScU9POUVhc1BCd1M1M1Q2SVNLVg?oc=5",
+     "source": "The Arab Weekly",
+     "time": "10:59",
+     "note": "The Arab Weekly: the Gulf's AI ambition now faces a resilience test."
+    },
+    {
+     "title": "Dubai AI Campus doubles 2030 goal to 1,000 firms after passing $270M early - Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnR1a0lFLWJYS2NHYUJFUUFZUG5LSHV6OFp4WUtnQTR1aUFCOGpvcURhUVpEbGUxVG52cHkzSS1pREIza19xOTRMNm90OFpMOWR6QVROOGJZVkFjTU95YUpUeGtKVDlCT3g2M0puZWZybXFHLXBiTWFJQVV0bXBTQldPVXo1VWVuT0VSbnFSS3dFa0R1OTQwY1JCVFdMZ21FVnZSeEpUaUhEVW8?oc=5",
+     "source": "Dealroom",
+     "time": "10:50",
+     "note": "Dealroom: Dubai AI Campus doubled its 2030 target to 1,000 firms after passing $270M of traction early."
+    },
+    {
+     "title": "US AI Data Cloud Company Snowflake Plans USD 300M Investment in Saudi Arabia Through 2030 - waya.media",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0ZldW9PZm8zVG42QlRzdGxwaDR2d2lGTG5jQ291bWZuc2U3OXVBYkJoMG1udXdySnVZbnMwWHQ1bjFZY2N6YkgyZkdCRURpRHRTWGtEelpVTzZxbFdWNXpJNndqZmRZZ1AtYzdaVDZHc3FINGxlbm0yRDgxQUJhS3E2c3pTaERyeDFzQjdUb19kM1ZGTmdROElaSlExZmFaLXdUQjhxN2ZGeEZabXc?oc=5",
+     "source": "waya.media",
+     "time": "08:23",
+     "note": "waya.media: Snowflake plans a $300M Saudi Arabia investment through 2030."
+    },
+    {
+     "title": "Global AI leaders gather in Dubai as the emirate expands its ambitions - Fortune",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWFNlQmVhMjJNOHQ1dVFudTdPMHNJZVJWSmRwTkNaLWdZNWZyeGFaWTFJR001Wk9JS3ZXajR6eWVDRENFN1dOTDlyek1jTkJQMTZEVXdjdmJ5VVpQNzJTX1F2QXNkYXpHWm5IbDh5OUhFbzhjOGVWcVZ2MHJUa3VYWUFRcjg3czF2OG1jWWh1eDllU1R2S3BKQlVDLU0wYzhoWFE?oc=5",
+     "source": "Fortune",
+     "time": "11:33",
+     "note": "Fortune: global AI leaders gathered in Dubai as the emirate expands its AI ambitions."
+    },
+    {
+     "title": "AI is forcing a rethink of jobs, skills and leadership, experts warn at Dubai festival - Computer Weekly",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWVNGVnhXQzJYV0xkYU5mYUpzN2tRMnhaWDFEMnY0d0NYdGFqWE1VZlVZNWc2aTZvd3NldEY1ZFR5aENpU05FV1lJR0tKSVlUS1NWRW14QlJsazZrYlVCWEhlMWczdEMzOWdhellzZGpOaXdEM3lPd1pQMkpKcEkySlRlamh4S0NCRXdLUGlPS3h2THd2cFloYTdzem93YWpFbk50azlacGw1ZU1uYXQ1Wl9qdnM5VkV0blhJOFRMMGU0MnRhTGdBb1JR?oc=5",
+     "source": "Computer Weekly",
+     "time": "16:29",
+     "note": "Computer Weekly: experts at a Dubai festival warned AI is forcing a rethink of jobs, skills and leadership."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic ships Claude 5.5 family, files for IPO",
+   "signal": 60,
+   "summary": "Anthropic's newsroom shows a Claude 5.5 generation: Opus 5.5 leads agentic coding and costs about 40% less to run than Opus 5, with Sonnet 5.5 and Haiku 5.5 also upgraded. Separately, the company filed an S-1 with the SEC for a proposed IPO and pledged a portion of its shares to a public-benefit fund whose stake grows with the company. It is the clearest sign yet that frontier labs are moving to public markets amid the capex debate.",
+   "angle": "Cheaper frontier inference plus an IPO prospectus: Anthropic is betting efficiency wins the boardroom.",
+   "items": [
+    {
+     "title": "Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Claude Opus 5.5 leads agentic coding and costs about 40% less to run than Opus 5 on typical workloads."
+    },
+    {
+     "title": "Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+     "url": "https://www.anthropic.com/claude-sonnet-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Claude Sonnet 5.5 runs 30%+ faster and costs up to 30% less than Sonnet 5."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Claude Haiku 5.5 is Anthropic's fastest small model, built for summarization, subagents and browser use."
+    },
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic filed an S-1 with the SEC for a proposed initial public offering."
+    },
+    {
+     "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic committed a portion of its shares to a public-benefit fund whose stake increases as the company grows."
+    }
+   ]
+  },
+  {
+   "title": "DeepMind ships Gemini 4 Carbon, Genie 4 gains audio",
+   "signal": 55,
+   "summary": "Google DeepMind released Gemini 4 Carbon roughly two weeks after Argon, and it took the #1 spot on Artificial Analysis, per The Decoder and Dealroom. The Information confirms it is Google's second major model launch in a month. In parallel, Genie 4 previews real-time world generation with native audio and live steering - a step toward interactive, media-native AI systems rather than text-only assistants.",
+   "angle": "Two flagship launches in a month is model-cadence escalation - and a direct counter-punch to the capex critics.",
+   "items": [
+    {
+     "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board - The Decoder",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXFwNkZYWE1acXNRVzNvVWp0RmN4aXEtYnlBRXZRdTlNdVpOV0Nzc3BPMWxWQVJOZlJfa3ZUYjNQYlE0amlJVFdOMXBIYTZzQ1RoYXo2b2RlcGRaYy0ySVRPNnhvSVF1bFBxUXIxekNtbUc2VVpHZmtwQ1Y4QkM5WHdmUXlRdXR2LWdCaGJrVmFfTS10NmUtcHdJV2ZySlZGNnN0UGN5bnlCLTVPSDA2NU5JY2E0MExXaXc0Yg?oc=5",
+     "source": "The Decoder",
+     "time": "19:21",
+     "note": "The Decoder: Gemini 4 Carbon launched two weeks after Argon with gains across the board."
+    },
+    {
+     "title": "Google DeepMind's Gemini 4 Carbon takes the #1 spot on Artificial Analysis, two weeks after Argon - Dealroom",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNmlkMnp1SXFLeVFaNFIxWThkalVSRHQzTFlJdF8wcmxBUk9ucFhkelYwQmNHUGs3SkR5Snd6NHh0b2ZxS2xCU3p4Vm1mWmpMV0JrV0JvZ29KZDM1NHpZVmVERkl0Y0VhTEozT2E4U0pIOTctZVV6clNDLXJuaWhfNTl4NERVMWZhNjUwZnVza3M1eUhwOHo5UGRObTRPYmdPa2dUZHBMSzhrZEF5elhzSEtPNTZhTTIzaVFyaUhQSzNiWUd4LUVBYg?oc=5",
+     "source": "Dealroom",
+     "time": "19:19",
+     "note": "Dealroom: Gemini 4 Carbon hit #1 on Artificial Analysis two weeks after Argon."
+    },
+    {
+     "title": "Google Launches Gemini 4 Carbon, Its Second Major AI Model in a Month - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0lCeWE1OHJ5VGFaRzhhQS1lWW84VEl5MVc4bXVpbk1iMXhuT2Fnb3lMQzlLYWhobGdCb3B1SnZVWVRHdTRLYVJSWnVlUDNOUDlxbGRhZ0JmNHJtazRIZDNuWXJJLVZmTm9ZU2FnbktZTXMtQTdnMHhaZ0JaZndMZVhPaVlNdDA4LXRmdzMxLWplUzVXQXdZam9GcF9RZXpDTlE?oc=5",
+     "source": "The Information",
+     "time": "17:43",
+     "note": "The Information: Gemini 4 Carbon is Google's second major AI model in a month."
+    },
+    {
+     "title": "Google DeepMind’s Genie 4 world model adds sound and live steering - The Next Web",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hbEIxRXQ4U2U5WXZGdUpMX00zMHduclYxNzIxSlVuQTRTeEN0UUJxNXlwYnJURkdhRWIxS2hDUmJTZjZvMDY0aFdybEI1bVhrbF9kb250OVFsSTV0Wm1pdVB1LXltVHFySGtIVEtaWC0?oc=5",
+     "source": "The Next Web",
+     "time": "16:00",
+     "note": "The Next Web: Genie 4 adds audio and live steering to real-time world generation."
+    }
+   ]
+  },
+  {
+   "title": "The agentic enterprise takes shape",
+   "signal": 55,
+   "summary": "OpenAI expanded its ServiceNow partnership to bring models and agents into enterprise workflows, and published a 'future of the firm' essay on how AI enters the org chart. The FT argues AI agents need middle managers too, and Amazon is hedging against AI shopping agents by adding 250 million outside listings, per The Information. Enterprises are designing around agents - and agents are forcing commerce and workflow redesigns in return.",
+   "angle": "Agentic AI is moving from pilots to org-chart and supply-chain design decisions - the real enterprise story of 2026.",
+   "items": [
+    {
+     "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+     "source": "OpenAI News",
+     "time": "13:15",
+     "note": "OpenAI and ServiceNow expanded their partnership across enterprise workflows, including ChatGPT and Codex."
+    },
+    {
+     "title": "The future of the firm",
+     "url": "https://openai.com/index/the-future-of-the-firm",
+     "source": "OpenAI News",
+     "time": "10:00",
+     "note": "OpenAI essay: how AI might enter the org chart - beneath, beside, and between us."
+    },
+    {
+     "title": "Legora is building the agentic operating system for legal work",
+     "url": "https://openai.com/index/legora",
+     "source": "OpenAI News",
+     "time": "09:30",
+     "note": "OpenAI profile: Legora is building an agentic operating system for legal work using OpenAI models and Codex."
+    },
+    {
+     "title": "AI agents need middle managers too",
+     "url": "https://www.ft.com/content/b25a880c-cd64-49d1-ba5f-7d077eb1adac?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "15:00",
+     "note": "FT: when moving and reconciling information gets cheap, middle-management roles must change - AI agents need oversight."
+    },
+    {
+     "title": "Amazon Hedges Against AI Shopping Agents With 250 Million Outside Listings - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0VSazZWY0todjhoU0gzMTFCelg4VmNTcEMxdEFlSXpZMzhIWXZ4MWJMc2tlaFNMeUR6SndZMW9EWHBzNnZPbDBoandsN2VISlhSR2dnV19yaEJqREpOYWFSWll1cXZ3XzRjYkYzaW95LV9jNUlMV0hENWhsS244NVFXQ1ZjdTNFcGx2MDNjcmRjOV9ER2xEdzVCR2NvZE1yVG9JTUl3NE5vQQ?oc=5",
+     "source": "The Information",
+     "time": "13:00",
+     "note": "The Information: Amazon hedges against AI shopping agents with 250 million outside listings."
+    }
+   ]
+  },
+  {
+   "title": "AI cyber: 'Black October' fizzles, encryption fears rise",
+   "signal": 50,
+   "summary": "Axios reports the cybersecurity world braced for 'Black October' after AI found critical flaws in the web's foundational code - but millions of automated attacks have so far yielded few successes, a Y2K-like anticlimax. The Information says AI-found bugs have still sparked a corporate security spending spree, and the FT warns AI's growing mathematical prowess is forcing a rethink of encryption security once dominated by the quantum threat.",
+   "angle": "The AI cyber scare didn't land - but it already moved budgets, and the encryption clock has started ticking.",
+   "items": [
+    {
+     "title": "Inside \"Black October\": AI's cyber scare delivers a Y2K lesson",
+     "url": "https://www.axios.com/2026/10/28/cybersecurity-black-october-ai-hacks",
+     "source": "Axios AI+",
+     "time": "09:15",
+     "note": "Axios: AI-found flaws in foundational web code prompted a wave of attacks that has so far struggled to land."
+    },
+    {
+     "title": "‘Nobody’s Ready’: AI-Found Bugs Spark a Corporate Security Spending Spree - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWVmY2poSW5tQ25Id0EyOElJT1N1QkotSjA0SnNla2dyNTZWY2xHM3BKUUZsRE9ia1U3SHB1UUZJdmtDVEdEMEo3by1id01pQVBXUWI2Vjk2MGpaRThSM0l4R0pSTWR3V01yNEdMb3l2czduc3o1ZFl5Y21XYV8tdFZ5TnhsX3c0RGFqbVJUY2tBSkhSTHU5QXN4TkF0NjFoUlU5UzM3RjVodmM?oc=5",
+     "source": "The Information",
+     "time": "15:59",
+     "note": "The Information: AI-found bugs sparked a corporate security spending spree; 'nobody's ready'."
+    },
+    {
+     "title": "AI maths advances raise fears over security of global encryption",
+     "url": "https://www.ft.com/content/694dbd7b-7096-47fe-b134-5275a1fb7b87?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "05:00",
+     "note": "FT: AI's growing maths ability raises new fears over the security of global encryption."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI plans to buy Google's AI chips",
+   "signal": 50,
+   "summary": "The Information reports OpenAI - a longtime Nvidia customer - plans to buy Google's AI chips to expand computing capacity, a story picked up by Reuters and others. The move would diversify OpenAI away from Nvidia and validate Google's TPU line as merchant silicon. It is a meaningful signal in the inference-economics and chip-supply wars.",
+   "angle": "OpenAI buying Google silicon reshuffles the compute supply chain - a quiet but structural hedge.",
+   "items": [
+    {
+     "title": "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google’s AI Chips - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHVUUUdOMmpGd3dxdWhJS0t6c3FlVmh1eXg1ckptWEFhX2JGbVByMGozdHZRQks4YUV0dzM2dWI0Tm05cmlXcG53Q09IYXNJYlFab3BjV0NSVnNoR05TQXFLQ2thQlV0OVFWdDJyM2wzOFVCdG13X0hsSHVQNFRTQ2hGNThFeFJjeWhqMlZLTW1RQ1RUNVU4UnBtMU93eEk?oc=5",
+     "source": "The Information",
+     "time": "23:59",
+     "note": "The Information: OpenAI, a longtime Nvidia customer, plans to buy Google's AI chips."
+    },
+    {
+     "title": "OpenAI plans to buy Google's AI chips, The Information reports - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNElvX2Y3Ym5FZFdxRGVFMHpwNTRIc3lQUXRzNFNST0xVY2FjR2xoMmFCaDNMWFhtQnZuSXlSSF9zamY1aUY1a2JIX3hBWUFhQ19hb2w4a0JIQmtKRmJoNjRadWJnWmprNE50V2ZQSFRQWTI5aUhXRzkwMlhRNktVOWJwbjJnUk9EVVpiVEo1UjhwMWpvek9EYWpFNkRMTzA?oc=5",
+     "source": "Reuters",
+     "time": "01:23",
+     "note": "Reuters, citing The Information: OpenAI plans to buy Google's AI chips."
+    },
+    {
+     "title": "OpenAI plans to buy Google AI chips to expand computing capacity - The Information - Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeFZ0aHVnOHYwYUU3dk1kcTBRR0o3Q19HOWx4SW1xMjFWdDRFbjM0a29YRC0xRGZSbDVKYVVpRkI0QUhQYThTdUkxOUI5Q0hrc0hFQmJrR1ZMMkRjbzd1ak1rcVFSd0hzWTZ3bTlrdEM5UHYtU1ZsUFFOYkgtckM4WkgySnZOMjF5Y2FPRi05VHVWbTV1?oc=5",
+     "source": "Yahoo Finance",
+     "time": "02:52",
+     "note": "Yahoo Finance, citing The Information: OpenAI wants Google AI chips to expand computing capacity."
+    }
+   ]
+  },
+  {
+   "title": "AI infrastructure M&A and compute buildout accelerate",
+   "signal": 50,
+   "summary": "Marvell is in advanced talks for a megadeal to buy data-centre optics maker Lumentum, per Bloomberg, and TPG is pursuing a $5bn acquisition of UK data-centre group Ark. FuriosaAI quadrupled its valuation to $2.9bn chasing Nvidia, while Nscale's CEO pushes a $30bn neocloud IPO. Equinix says project barriers boost its pricing power, and Samsung is hiking spending after a chip profit miss on resurgent AI demand - the compute buildout is consolidating and repricing.",
+   "angle": "Compute is consolidating into winners: expect optics, neoclouds and data-centre operators to reprice.",
+   "items": [
+    {
+     "title": "Marvell Is Said to Near Megadeal for Lumentum In AI Push",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/marvell-is-said-to-near-deal-for-lumentum-in-ai-related-megadeal",
+     "source": "Bloomberg Technology",
+     "time": "21:05",
+     "note": "Bloomberg: Marvell is in advanced talks to buy data-centre optics maker Lumentum in an AI-related megadeal."
+    },
+    {
+     "title": "TPG pursues $5bn acquisition of UK data centre group Ark",
+     "url": "https://www.ft.com/content/e2aafede-771a-4fd0-b9fb-67c0bbb828ed?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "05:00",
+     "note": "FT: TPG pursues a $5bn acquisition of UK data-centre group Ark in one of the sector's biggest deals this year."
+    },
+    {
+     "title": "FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
+     "source": "Bloomberg Technology",
+     "time": "23:00",
+     "note": "Bloomberg: South Korean AI-chip startup FuriosaAI quadrupled its valuation to $2.9bn."
+    },
+    {
+     "title": "Nscale’s Unproven CEO Braves AI Turmoil in Bid for $30 Billion Neocloud IPO",
+     "url": "https://www.bloomberg.com/news/features/2026-10-29/nscale-s-unproven-ceo-braves-ai-turmoil-in-bid-for-30-billion-neocloud-ipo",
+     "source": "Bloomberg Technology",
+     "time": "00:00",
+     "note": "Bloomberg feature: Nscale's 32-year-old CEO pushes a $30bn neocloud IPO amid AI turmoil."
+    },
+    {
+     "title": "Equinix Says Data-Project Barriers Could Boost Its Pricing Power",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-28/equinix-says-data-project-barriers-could-boost-its-pricing-power",
+     "source": "Bloomberg Technology",
+     "time": "23:31",
+     "note": "Bloomberg: Equinix says data-centre project barriers will boost existing capacity's pricing power."
+    },
+    {
+     "title": "Samsung Boosts Spending After Chip Profit Misses Estimates",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-29/samsung-chip-profit-misses-estimates-lifted-by-resurgent-ai-hope",
+     "source": "Bloomberg Technology",
+     "time": "01:00",
+     "note": "Bloomberg: Samsung hiked spending after its chip division's profit missed estimates, on relentless AI-infrastructure demand."
+    }
+   ]
+  },
+  {
+   "title": "ADGM issues first regional crypto-mining guidance",
+   "signal": 45,
+   "summary": "Abu Dhabi Global Market published dedicated guidance making crypto mining a licensable commercial activity - the first international financial centre in the region to do so, per Economy Middle East and Gulf Business. The move signals ADGM positioning itself as the compliance-friendly venue for compute-heavy digital-asset and AI infrastructure businesses in the GCC.",
+   "angle": "Licensing crypto miners is ADGM's play to capture compute-heavy digital infrastructure - a regional-first regulatory signal.",
+   "items": [
+    {
+     "title": "ADGM becomes region’s first international financial center to issue dedicated crypto mining guidance",
+     "url": "https://economymiddleeast.com/news/adgm-becomes-regions-first-international-financial-center-to-issue-dedicated-crypto-mining-guidance/?utm_source=rss&utm_medium=rss&utm_campaign=adgm-becomes-regions-first-international-financial-center-to-issue-dedicated-crypto-mining-guidance",
+     "source": "Economy Middle East",
+     "time": "11:28",
+     "note": "Economy Middle East: ADGM becomes the region's first international financial centre with dedicated crypto-mining guidance."
+    },
+    {
+     "title": "Abu Dhabi’s ADGM issues crypto mining licencing guidance - Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXp5Y0x0eG9nbEJnUzRIZTlYSzhWSjR6bV8wQzF4RHlweE1NOFhKRl9EUUdPbEN3UmJkM0s4b051TzhnenBoY0JDWmVwd2FiNm1yOExZNWxnWVFUNzVXT3pDQ1pHbVlFbVJDTkF2eFNqY09RZmY5eWVTMVFZelJPaFJlM2FzNWpSSG9nNkd3?oc=5",
+     "source": "Gulf Business",
+     "time": "18:37",
+     "note": "Gulf Business: Abu Dhabi's ADGM issued crypto-mining licencing guidance."
+    },
+    {
+     "title": "ADGM Classifies Crypto Mining as a Licensable Commercial Activity - TOKENPOST",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TSUR3bklKUVVXSmx4cjdHT1MyLUVTT0dnR3JBOWFwcnIwRnM2OFNnWHctMThKX1F4YVVvdFNHYzIyV2lNTGVNd2hRZWd0RmJJVTB4XzA4M3VXQkE?oc=5",
+     "source": "TOKENPOST",
+     "time": "20:02",
+     "note": "TOKENPOST: ADGM classifies crypto mining as a licensable commercial activity."
+    }
+   ]
+  }
+ ]
+}

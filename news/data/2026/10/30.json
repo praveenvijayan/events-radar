@@ -1,0 +1,309 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-10-30T02:00:55.223762+00:00",
+ "themes": [
+  {
+   "title": "Anthropic's S-1 lands; Nvidia backstops the $45B buildout",
+   "signal": 85,
+   "angle": "IPO week turns the AI boom into a public-market test",
+   "summary": "Anthropic filed its S-1 for a proposed IPO while Nvidia moves to backstop Anthropic's data-centre capacity, including credit support for a $45B cloud project. Markets reacted mixed after a week that also included Microsoft's earnings beat and a softening AI trade. The float is becoming the referendum on AI capex and frontier economics.",
+   "items": [
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic said it filed a registration statement with the SEC for a proposed IPO; no price terms disclosed in the announcement."
+    },
+    {
+     "title": "Two fears will decide the fate of Anthropic’s giant IPO",
+     "url": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "2026-",
+     "note": "FT frames the investor decision as a choice between missing extraordinary AI growth and pricing in risks that include existential ones."
+    },
+    {
+     "title": "Odd Lots: What Wall Street Really Thinks About the AI Trade Now",
+     "url": "https://www.bloomberg.com/news/videos/2026-10-30/odd-lots-what-wall-street-really-thinks-about-the-ai-trade-now",
+     "source": "Bloomberg Technology",
+     "time": "2026-",
+     "note": "Market reaction has been mixed this week; a Barclays strategist talks through the AI trade on Odd Lots."
+    },
+    {
+     "title": "Nvidia Moves to Backstop a Cloud Provider’s $45 Billion Anthropic Project - The Information",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmhuRzVaOG9xaEQ5U1VOcWNNLVN4YUZ0NUpfVnM3Qy1KakJVMWxDbW1heDFWNkxOR2dJbnR5NnJNb1dSb1RaTnUxTkZlQzU3b0l4SGFuR1RMVXY1dmlhTzJTVzd2VmstYWhyX0pyeGEwUTdKM1FtVGZQenBCdE5fSE9zZm8wOGNxUEQ3WmVrSi1ZSlZyX3A3cWRlTkRhMThMSjVEYnhuTGt6RE5janN1NkFUVjgxV3dVVklCcm1JUWlkRVpf?oc=5",
+     "source": "The Information",
+     "time": "2026-",
+     "note": "Nvidia is moving to backstop a cloud provider's $45 billion Anthropic project, per The Information."
+    },
+    {
+     "title": "Nvidia in Talks to Offer Credit Support for Nscale Project",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-in-talks-to-offer-credit-support-for-nscale-project",
+     "source": "Bloomberg Technology",
+     "time": "2026-",
+     "note": "Nvidia is in talks to provide credit guarantees for an Nscale data-centre facility Anthropic plans to use."
+    }
+   ]
+  },
+  {
+   "title": "AI capex meets the earnings test: Alphabet, Intel, Amazon",
+   "signal": 80,
+   "angle": "The market is asking boards to prove AI ROI, not promise it",
+   "summary": "A brutal Big Tech earnings round: Alphabet lost roughly $500bn in value after admitting AI mode is eating traditional search, Intel fell 22% on a weak PC outlook, and Amazon slid on soaring AI capex with slower commerce. The Nasdaq 100 dropped 1.4% as AI-spend concerns overtook enthusiasm.",
+   "items": [
+    {
+     "title": "Alphabet shares tumble in $500bn rout",
+     "url": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "2026-",
+     "note": "Alphabet shares tumbled ~$500bn; it admitted 'AI mode' has hurt traditional search while sales and profit undershot."
+    },
+    {
+     "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
+     "url": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "2026-",
+     "note": "Intel fell 22% after forecasting weaker PC chip sales and falling margins."
+    },
+    {
+     "title": "Amazon shares slide on lower Christmas sales forecast",
+     "url": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "2026-",
+     "note": "Amazon shares slid on a lower Christmas forecast despite a booming cloud unit; capex is running hot."
+    },
+    {
+     "title": "US tech stocks fall after earnings fuel AI spending concerns",
+     "url": "https://www.ft.com/content/1639620b-99e7-47ed-8484-49646816489e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "2026-",
+     "note": "Nasdaq 100 fell 1.4% after Alphabet and Microsoft reported lower-than-expected capex, reigniting the AI-spending debate."
+    }
+   ]
+  },
+  {
+   "title": "Claude 5.5 ships across the stack, 40% cheaper at the top",
+   "signal": 70,
+   "angle": "Inference economics: frontier quality is getting cheaper fast",
+   "summary": "Anthropic released Opus 5.5, Sonnet 5.5 and Haiku 5.5 in one wave. Opus 5.5 leads agentic coding and knowledge work while costing 40% less to run than Opus 5; Sonnet 5.5 is 30%+ faster and up to 30% cheaper. The pricing cuts compress the economics of frontier AI for enterprises.",
+   "items": [
+    {
+     "title": "Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Opus 5.5 leads agentic coding and knowledge work and costs 40% less to run than Opus 5 on typical workloads."
+    },
+    {
+     "title": "Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+     "url": "https://www.anthropic.com/claude-sonnet-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Sonnet 5.5 is a clear upgrade over Sonnet 5: 30%+ faster and up to 30% cheaper for most work."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Haiku 5.5 is Anthropic's fastest small model, built for high-volume summarization, subagents and browser use."
+    },
+    {
+     "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic committed a portion of shares to the Anthropic Public Benefit Fund; that stake grows as the company grows."
+    }
+   ]
+  },
+  {
+   "title": "China's labs turn OpenAI's Astra into a distillation target",
+   "signal": 65,
+   "angle": "The frontier's IP boundary is leaking through OpenAI's own models",
+   "summary": "The Information reports OpenAI's Astra is now the top distillation target for Chinese AI labs, with DeepSeek and Moonshot said to have used GPT-6 Astra to train their latest models. If accurate, it reframes US export controls and the value of frontier secrecy.",
+   "items": [
+    {
+     "title": "OpenAI’s Astra Model Becomes Top Distillation Target for China’s AI Labs - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV1AtYlMxWEZUSDhweUUydXZtVTZPaXRHTkdzREh1aVJycUIwdTZubDlnRmdyUVpycEhoSHVkelZjV0RqV3puWWxKQ3BicU04V2s5V0NYZ0ZXVEhoOVoyWXlKSkRoYUxzTGNTUE0tSVJtV0ZQamVBTG5vdktDZ01qNHVPa0JYMlE5ckp4N2czS01NVTR2S0M1MVphUXBWcWp3T2NwSmhpdnBCUQ?oc=5",
+     "source": "The Information",
+     "time": "2026-",
+     "note": "The Information: Astra has become the top distillation target for China's AI labs."
+    },
+    {
+     "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
+     "source": "Reuters",
+     "time": "2026-",
+     "note": "Reuters (citing The Information): DeepSeek and Moonshot used OpenAI's GPT-6 Astra to train their latest models."
+    },
+    {
+     "title": "OpenAI’s Astra used by Chinese AI firms to train models- The Information - Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdUpqb1d5S2QxMGw5SHJISlNnVHN1bkQ3VEtkYS1ldFhuWEZJWGZhX2MyQkJMOERXSTVCTDhDaGZ3ZDNLZUNBejR5RWhKV0wxNml5M1V1RkFYYWRqV2J3QnhJemxXVzY0dGJ2M0ZqSGxYakplcmhnZjg4UWpKb2xXTS05SllrZGhoS2Ria2h0ODFNT2ZnZ3liU2dOTkIxQzhxdEp0emVRX05ENGVnVXJDVi1fRzBHNkZLTHc4N1h2RDhVaXdQYjJWM1lWTGk?oc=5",
+     "source": "Investing.com",
+     "time": "2026-",
+     "note": "Investing.com relayed the report that Chinese AI firms used Astra for training."
+    }
+   ]
+  },
+  {
+   "title": "GCC: AI strategy approved, data-centre buildout accelerates",
+   "signal": 70,
+   "angle": "Regional governments are operationalizing AI faster than the West",
+   "summary": "The GCC Ministerial Committee for Digital Government approved a joint AI strategy, Oracle is opening more UAE and Saudi data centres on surging demand, and analysts see Middle East data-centre capacity quadrupling by 2030. The UAE is also rolling out proactive, autonomous government services.",
+   "items": [
+    {
+     "title": "GCC Ministerial Committee for Digital Government approves AI Strategy to boost cooperation in digital government",
+     "url": "https://economymiddleeast.com/news/gcc-ministerial-committee-for-digital-government-approves-ai-strategy-to-boost-cooperation-in-digital-government/?utm_source=rss&utm_medium=rss&utm_campaign=gcc-ministerial-committee-for-digital-government-approves-ai-strategy-to-boost-cooperation-in-digital-government",
+     "source": "Economy Middle East",
+     "time": "2026-",
+     "note": "GCC ministerial committee approved an AI strategy to boost cooperation in digital government across member states."
+    },
+    {
+     "title": "Oracle opening more data centres in UAE and Saudi Arabia as AI demand soars - The National",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdlpGcjZEbE5xbUJOYWFpSHdLcHVXU3BhZXdxQXRmWHVITGdkMFR6d2hkcjhac0dvM3c0ZEpfZ1JJcEpyc0lEM2U2bmxyLWJ1M0tPWkxpTnlLNG9ZaEItSjkyS1lMNHhLVHRmLWdyRHRlbUg4UWl5eFczbG9HbU15WVlFTm9heEhtYTVweGZHUGxXT0k1dGxWU2hrWGxPeF9hS01SODcwOXpWNDIyMEQ5emcxMnozbUZUS202OEkzd2loUk1UdmZFY1Zqell1cFdHalpR?oc=5",
+     "source": "The National",
+     "time": "2026-",
+     "note": "Oracle is opening more data centres in the UAE and Saudi Arabia as AI demand soars, per The National."
+    },
+    {
+     "title": "Middle East data centre capacity could quadruple by 2030, but power is key - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc2hhSmpael8tU3l0aGVxencwVTUzREEzT0Vkb24tTFBsMUh2bEJWZk9NaTZPMlQ2d21IWTRaY0JkV2hVWTJXYk56Uks4bUtSREZCWVByc2lKUHhTbVA5c1Jxb3VNM09zR0ZkaVZHeFpOUnlpa2dreUNvelVfNy1uQlE5UXhXSnJhU2pUZlNoRmU3VEx2TzJxaUptTUdlNkE5aWVDdHl3WWhDMWhQTEN5d29lc0VESmFaUE9Talh6RHBubFhLSXY4a3FWb2FQMEZZQVR0cDBmbG9YeGRIb2czaXdXSQ?oc=5",
+     "source": "TradingView",
+     "time": "2026-",
+     "note": "Middle East data-centre capacity could quadruple by 2030, but power availability is the key constraint."
+    },
+    {
+     "title": "UAE harnesses AI to deliver proactive, autonomous government services: Report - Emirates 24|7",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXhJNkJnZi15ck1FakVoU3RReXFLVHlzeEJRTFZJUzEtbllxLTJweDladW1Cd21nMXZuNER3QXZhX0pfTWlYV0IxT0c1cW1tRkwtNzNvREwzWW1jcHF4V25LWXpCNTNYLVlSVURFa2dfUl9ZSnloLTNPdTctYWxCa1ZocDZFbFV1XzFVQS1UNTBycFN1TVVGOHlCWDdIQnlmTlFUa2ZkR251V2FSM0NiekFR0gHMAUFVX3lxTE5iRU00SzNra0dULW5XVzc4UXRxVVJRSnFtLVQ0dktCS0k3aXNseTFVU2pHWng1SE9pV3QwTFdxcXcyRUVFOVd4VklWYjc3R1pRNWd3WkljOXBuSWF4Zm5kM0pqUGRMd2JxRkZtamZDYjk3QzE4RWgzX19BTEhHajdDOS1uZVlRRnFsRzJBREJRQzV0V0pMUmVuamJpSHNJVjFDV3NIUVV2QTllMzBqeWxjN01Hc3dEZk5IX2oyZFd4djl1ZFJEZDhDWDJkYg?oc=5",
+     "source": "Emirates 24|7",
+     "time": "2026-",
+     "note": "Report highlights the UAE's push for proactive, autonomous government services delivered with AI, per Emirates 24|7."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI tightens governance, alignment and detection",
+   "signal": 55,
+   "angle": "Frontier labs are codifying safety into product process",
+   "summary": "OpenAI published an updated Model Spec and detailed how it detects frontier-model misalignment, alongside an enterprise case study in legal diligence. The Information also reports OpenAI and Anthropic disproved a key cryptography theorem, raising questions about what frontier models can now break.",
+   "items": [
+    {
+     "title": "An updated Model Spec for more capable and beneficial AI",
+     "url": "https://openai.com/index/updated-model-spec",
+     "source": "OpenAI News",
+     "time": "2026-",
+     "note": "OpenAI published an updated Model Spec aimed at more capable and beneficial AI."
+    },
+    {
+     "title": "How we detect frontier model misalignment",
+     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+     "source": "OpenAI News",
+     "time": "2026-",
+     "note": "OpenAI explains its approach to detecting misalignment in frontier models."
+    },
+    {
+     "title": "How Ropes & Gray is developing AI for transactional diligence",
+     "url": "https://openai.com/index/ropes-gray-ai-diligence",
+     "source": "OpenAI News",
+     "time": "2026-",
+     "note": "OpenAI case study on how law firm Ropes & Gray is developing AI for transactional diligence."
+    },
+    {
+     "title": "Encryption Under Siege? OpenAI, Anthropic Disprove Key Cryptography Theorem - The Information",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQkJIV0JnX1Fxa0REeGdiUUNyWnFQU2U0NWJWaEZ6VGg0Rnp6QzV6M3VVS3dGMlM3X0VHQzFoMXZsandlYmRPdVBiQUllOHJrNHhWR296ZXlQM1BrOXZfRk9lcEdBc3pFSmc2eVJ0YXdXSmdaUkRMQkNEQ25jcWdxZWgzRVo1X1dUQm9YRTBaSmJ4aG16OUQ0V1lYdVN6WElkQmdlRjl0SGdNb2NTdXFHWE93aFVoLUItendlWg?oc=5",
+     "source": "The Information",
+     "time": "2026-",
+     "note": "The Information reports OpenAI and Anthropic disproved a key cryptography theorem, raising encryption questions."
+    }
+   ]
+  },
+  {
+   "title": "AI capital: $3B chip debt, PE inflows, Thrun's Dulo",
+   "signal": 55,
+   "angle": "Money is chasing AI compute before the economics are proven",
+   "summary": "Indian infrastructure firm AM Intelligence is seeking up to $3B to fund an Nvidia chip order — a marker of the AI debt binge. Private-equity fundraising dynamics are pushing newcomers toward AI, and Sebastian Thrun's AI engineering startup Dulo raised $130M.",
+   "items": [
+    {
+     "title": "Indian AI Firm Seeks $3 Billion Financing for Nvidia Chips Order",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-30/indian-ai-firm-seeks-3-billion-financing-for-nvidia-chips-order",
+     "source": "Bloomberg Technology",
+     "time": "2026-",
+     "note": "AM Intelligence is seeking up to $3 billion to fund a previously announced Nvidia next-gen chip order."
+    },
+    {
+     "title": "Why Private Equity’s Fundraising Divide Is Pushing Newcomers Toward AI - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcDVWR3VNUUFyM29ERnBtZDZnM1I3RWtWNWZmWHZFT1ZTMnJmR3QzTUR6RXE1UndMMWVZX2xFVXNzWnJ3aUtGU1k1YlQtWmx0YmE3bjFuTEpkZlZVZlNnbDN6UXBhWEJHZzRjbHB2UDlXajFMbGthQTIzT2E2bTI5bkU0ekJUTXBDLVJrcGp5dnFSNE1JVHc0ZHFoSmgxQzZFc04zV1BZQ1E1OGVNMGF3c084Y1VlX1lKbkJNalNTaXVqb1ZpMzIxMw?oc=5",
+     "source": "The Information",
+     "time": "2026-",
+     "note": "PE fundraising divide is pushing newcomers toward AI, per The Information."
+    },
+    {
+     "title": "Sebastian Thrun Raises $130 Million for AI Engineering Startup Dulo - The Information",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHd5MzhZVkxISlNta2p1emtVTGtuN3FhS3pVOS1PYmdpOVVhUU10LTRvbVNfbmtKOHUxTE41WTh2U1hfQ0l3aUlRdWR5dDVjTll1MkotQTdnZVBRdVNJWHJOUWJuUWlrVFI1cWNLd1Y3Zmo0V3I5c3RSZW9feUlwaGYxdkpQSDRvRFpEejlyTk9vY2tSQ3NqVkpMVTRsaTZ4b3Ztbg?oc=5",
+     "source": "The Information",
+     "time": "2026-",
+     "note": "Sebastian Thrun's AI engineering startup Dulo raised $130 million, per The Information."
+    }
+   ]
+  },
+  {
+   "title": "Dubai's commercial AI push: sandbox, banking agents, energy",
+   "signal": 50,
+   "angle": "Dubai is moving AI from pilots to deployment infrastructure",
+   "summary": "Dubai Future Foundation launched an AI Sandbox to accelerate commercial deployment, the Dubai AI Festival put banking's agentic AI ambitions to the test, and a report found 62% of energy leaders now rank AI among their top two priorities.",
+   "items": [
+    {
+     "title": "Dubai Future Foundation launches AI Sandbox to accelerate commercial deployment - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2JJekdwckdHNE1GOGw4X1RqdjlSZWV0QzhNVXQxLWxNWUR6SkF0MFJRRlJNNmZ0VFI0blhRZWVpc3BzZmc3WUpqZzJ5NTBGRDI5UGo4VHFxR0g0YzlEcjlfTC1LT3F6MFdYbjJnc2Ftc2tLRUVobS1nU3hVMExfeno1YnhZN3AzUlRhS1Q3TmlBc0JQVFg2a2lualZLYXU5Zl9FNTJxMkJmTXV5ZEkyMA?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "2026-",
+     "note": "Dubai Future Foundation launched an AI Sandbox to accelerate commercial deployment, per Fast Company Middle East."
+    },
+    {
+     "title": "Dubai AI Festival puts banking’s agentic AI ambitions to the test - The Asian Banker",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS21tSVVrZDBCT0pab25URV9NQlZ3VExOQ0w0OE1IOWpncUFXYzZDWmdyYTExa0ZlOVFXUDZFRG5IaWVpUzNyYTc3Y3o0cnF0NDNQekE0YTZTM3pFRDRJb3RsQVBaYjk4RGhhTGFrcFFjNmtrVFhNVEs5U3dTNEd1N3EzSEd5QVVmRTV4V0lHRktkZFkwaWxkR3NLb2RxNVdzVnpLT1VvemkxUGJZWTdUeXkwRGI4NzRL?oc=5",
+     "source": "The Asian Banker",
+     "time": "2026-",
+     "note": "The Dubai AI Festival puts banking's agentic AI ambitions to the test, per The Asian Banker."
+    },
+    {
+     "title": "62 percent of energy leaders now rank AI among their top two priorities, report finds",
+     "url": "https://economymiddleeast.com/news/62-percent-of-energy-leaders-now-rank-ai-among-their-top-two-priorities-report-finds/?utm_source=rss&utm_medium=rss&utm_campaign=62-percent-of-energy-leaders-now-rank-ai-among-their-top-two-priorities-report-finds",
+     "source": "Economy Middle East",
+     "time": "2026-",
+     "note": "62% of energy leaders now rank AI among their top two priorities, per a new report covered by Economy Middle East."
+    }
+   ]
+  },
+  {
+   "title": "AI starts eating search: Alphabet, Reddit, publishers",
+   "signal": 50,
+   "angle": "The search economy is being renegotiated in real time",
+   "summary": "Alphabet admitted 'AI mode' is hurting traditional search, Reddit is forcing a logged-in experience as AI eats search, and publishers are adding invisible ads aimed at AI agents. The economics of the web are being renegotiated agent-first.",
+   "items": [
+    {
+     "title": "Google is eating itself — but it could still eat everyone else too",
+     "url": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "2026-",
+     "note": "FT commentary argues Google is eating itself but could still eat everyone else; AI leadership is winnable and losable at speed."
+    },
+    {
+     "title": "Reddit moves to logged-in experience as AI eats search",
+     "url": "https://www.axios.com/2026/10/29/reddit-logged-in-ai-search-incognito",
+     "source": "Axios AI+",
+     "time": "2026-",
+     "note": "Axios: Reddit is moving to a logged-in experience as AI eats search."
+    },
+    {
+     "title": "Why Publishers Are Adding Invisible Ads for AI Agents - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSDkyRXVJOGUtbVlnS2MxcUhtVElybGFXejJRTjlGSWg2cWlNT2FKNmZUZ2VSSFB2a3NUaUEwQm8wdmpXb3NXUHNhQUp0OVVwUGk4enlfV0t4bE9qY05iZm5ndzVGa3FETEFkalJMb3RsX1pNWjRGRDVianJvRXloUTdJemo2MXl4?oc=5",
+     "source": "The Information",
+     "time": "2026-",
+     "note": "Publishers are adding invisible ads aimed at AI agents, per The Information."
+    }
+   ]
+  }
+ ]
+}

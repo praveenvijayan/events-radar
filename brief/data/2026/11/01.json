@@ -1,0 +1,93 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T03:44:28+00:00",
+  "lead": "The useful pattern today is to let an agent propose and investigate, while keeping consequential decisions and proof of correctness outside the model. Arca describes long-running financial work that hands decisions and money movement to human advisers, and Google’s PageBreak validates vulnerability hypotheses with code-written exploit checks before reporting them. For your regulated-sector designs, compare these boundaries with your own approvals and deterministic controls; both examples are vendor or practitioner accounts, not independent efficacy studies.",
+  "items": [
+    {
+      "title": "Google’s PageBreak Project – Real-World Findings",
+      "url": "https://bughunters.google.com/blog/pagebreak-real-world-findings",
+      "also": ["https://blog.google/security/agentic-hacks-real-proofs-inside-googles-pagebreak-project/", "https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/"],
+      "source": "Google Security Blog",
+      "tier": 1,
+      "published": "2026-09-24",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 94,
+      "summary": "Google says its PageBreak agent pairs model-generated vulnerability hypotheses with specialised validators that execute real payloads against running applications; unverified findings are kept from product teams. Google reports more than 500 XSS vulnerabilities found across first-party web applications since the project entered full operation in January 2026, while noting its validators can miss vulnerability classes and complex cases.",
+      "so_what": "Trial the propose-then-deterministically-validate pattern against your security testing workflow, keeping model hypotheses separate from reportable findings and measuring both false positives and missed cases.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "How We Took Over ChatGPT Accounts",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+      "also": ["https://www.parameter.ai/labs/we-found-a-gap-at-openai"],
+      "source": "Simon Willison",
+      "tier": 2,
+      "published": "2026-10-31T23:15:22+00:00",
+      "track": "security",
+      "decision": "security",
+      "signal": 90,
+      "summary": "Parameter Labs describes a chain in ChatGPT in which an HTML preview could send messages to a MathLive listener, inject unsanitised HTML and create an unsandboxed frame that ran JavaScript in the signed-in page. The researchers say the issue could expose private conversations and permit account actions; OpenAI fixed it on 26 October 2026 and classified the report as P1.",
+      "so_what": "Review sandbox boundaries and message-origin validation anywhere untrusted previews share a page with privileged components, and require evidence that cross-frame messages cannot create trusted execution contexts.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "url": "https://latent.space/p/arca",
+      "also": [],
+      "source": "Latent Space",
+      "tier": 2,
+      "published": "2026-10-31T16:05:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 86,
+      "summary": "Arca’s lead AI engineer says agent tasks can span up to ten days, with persistent memory tracking work, hand-offs and responsible people. He describes an internally benchmarked model-selection harness, deterministic restrictions that reserve trading and money movement for human advisers, and a strict-format boundary between agent-written code and backend data; these are practitioner statements, not independent outcome measurements.",
+      "so_what": "Benchmark the persistent-workflow and human-decision pattern against your current orchestration, and test whether any agent-generated data query is constrained by a typed, validated interface before it reaches sensitive systems.",
+      "verify": true,
+      "off_list": null
+    },
+    {
+      "title": "Kubernetes Confidential Containers Get Fortanix Attestation and Key Management",
+      "url": "https://www.infoq.com/news/2026/10/k8s-confidential-containers",
+      "also": ["https://confidentialcontainers.org/docs/attestation/architecture", "https://learn.microsoft.com/en-us/azure/confidential-computing/concept-skr-attestation"],
+      "source": "InfoQ — Architecture & Design",
+      "tier": 2,
+      "published": "2026-10-31T00:00:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 81,
+      "summary": "The article describes Fortanix connecting Kubernetes Confidential Containers workload attestation to conditional release of encryption keys for models and data in hardware-backed trusted execution environments. It says the integration is available now and can be deployed as a hosted service, on-premises or air-gapped; the article gives no price, and notes that attestation does not establish safe application behaviour or protect against denial of service and hardware side channels.",
+      "so_what": "Benchmark the attestation-to-key-release pattern against Azure Secure Key Release and open-source Trustee for sensitive inference, documenting the guest software and application boundaries that hardware attestation does not cover.",
+      "verify": true,
+      "off_list": null
+    },
+    {
+      "title": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+      "url": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026",
+      "also": [],
+      "source": "InfoQ — Architecture & Design",
+      "tier": 2,
+      "published": "2026-10-31T00:00:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 72,
+      "summary": "InfoQ’s 31 October roundup covers first release candidates published during the week of 19 October, including Spring AI 2.1.0-RC1. The Spring AI candidate adds a SessionService interface in place of the deprecated ChatMemory interface and preserves ordered assistant-message parts for OpenAI and DeepSeek choices; these are release candidates, not general-availability releases, and the roundup states no pricing or hosting-region details.",
+      "so_what": "Trial the session API and ordered-part behaviour in a non-production branch if Spring AI is in your stack, and test migration and provider-specific message handling before adopting the release candidate.",
+      "verify": true,
+      "off_list": null
+    }
+  ],
+  "watch": [
+    {
+      "title": "datasette-llm 0.1a9",
+      "url": "https://simonwillison.net/2026/Oct/31/datasette-llm",
+      "source": "Simon Willison",
+      "note": "The plugin now inherits LLM’s default model, reducing explicit setup for Datasette Agent; a small configuration convenience, so revisit only if evaluating that stack."
+    }
+  ],
+  "post_seed": null,
+  "sources": {"ok": 149, "total": 149, "failed": []},
+  "candidates_seen": 18
+}

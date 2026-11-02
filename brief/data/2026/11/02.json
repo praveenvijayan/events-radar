@@ -28,8 +28,8 @@
       "track": "regulation",
       "decision": "regulation",
       "signal": 78,
-      "summary": "The Information reports that the Trump administration declined to produce key documents about its voluntary AI testing framework, despite an agreement reached in September with the Protect Democracy Project after a FOIA lawsuit. The article cites a letter sent to the nonprofit on Friday; the framework details remain limited in the accessible reporting.",
-      "so_what": "When assessing US model providers, ask what pre-release testing and access arrangements apply to the models you may deploy, while treating this as reporting about a voluntary federal process rather than a new supervisory requirement.",
+      "summary": "The Information briefing dated 1 November says the White House had earlier agreed to a FOIA lawsuit seeking information about its frontier AI model testing regime. The accessible synopsis gives no further detail about the testing protocol.",
+      "so_what": "Ask providers what testing evidence they can disclose and how they govern model releases, but do not treat this report as a new supervisory requirement.",
       "verify": true,
       "off_list": null
     }

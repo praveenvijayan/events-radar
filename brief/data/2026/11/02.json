@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T03:42:54+00:00",
+  "lead": "Quiet day: the clearest decision signal is that enterprise AI needs explicit authority and evidence, not just autonomy. A documented coding-agent prototype makes its permission, session and human-review boundaries visible, while reporting on the US voluntary frontier-model review framework says key operating details remain withheld. For your regulated-sector work, treat the prototype as a trial design and ask model providers how pre-release testing and access controls affect the models you evaluate; neither item is evidence of production readiness or a new supervisory requirement.",
+  "items": [
+    {
+      "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+      "also": ["https://github.com/deepseek-ai/dsh-superagent-prototype"],
+      "source": "Bloomberg Technology",
+      "tier": 2,
+      "published": "2026-11-01T03:48:18+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 84,
+      "summary": "DeepSeek published an open-source research prototype for one GitHub repository that listens to GitHub and optionally Feishu, starts work when an allowed person requests it, and works in its own agent session and directory before replying in the original conversation. The README says it is not production-ready and that some designs discussed in the accompanying article are not implemented; pricing and hosting-region details are not stated.",
+      "so_what": "Trial the event-triggered, isolated-session and human-escalation pattern against your coding-agent controls, but review the prototype code and do not grant it enterprise repository access without your own threat model and tests.",
+      "verify": true,
+      "off_list": null
+    },
+    {
+      "title": "Trump Administration Refuses to Release Information on AI Testing Framework",
+      "url": "https://www.theinformation.com/briefings/trump-administration-refuses-release-information-ai-testing-framework",
+      "also": [],
+      "source": "The Information",
+      "tier": 2,
+      "published": "2026-11-01T23:09:23+00:00",
+      "track": "regulation",
+      "decision": "regulation",
+      "signal": 78,
+      "summary": "The Information reports that the White House declined to release key records about its voluntary frontier-model testing framework after a FOIA lawsuit, citing national-security and commercial exemptions. The disclosed records describe a seven-page framework and a trusted-partner programme for selected organisations to receive pre-release model access; the complete process remains unpublished.",
+      "so_what": "When assessing US model providers, ask what pre-release testing and access arrangements apply to the models you may deploy, while treating this as reporting about a voluntary federal process rather than a new supervisory requirement.",
+      "verify": true,
+      "off_list": null
+    }
+  ],
+  "watch": [],
+  "post_seed": null,
+  "sources": {"ok": 149, "total": 149, "failed": []},
+  "candidates_seen": 18
+}

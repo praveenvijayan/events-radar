@@ -1,0 +1,271 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T02:00:56.054262+00:00",
+ "themes": [
+  {
+   "title": "Anthropic drops Claude 5.5 family, files for IPO",
+   "signal": 90,
+   "summary": "Anthropic shipped a full Claude 5.5 refresh (Opus, Sonnet, Haiku) with meaningful price-performance gains — Opus 5.5 costs 40% less to run than Opus 5 — and filed an S-1 for a proposed IPO, a first for a frontier lab. The move makes agentic coding and knowledge work cheaper at the exact moment DeepSeek is coming after Claude Code.",
+   "angle": "Inference unit economics, not model specs, is the new competitive frontier — and the IPO filing signals the sector's shift to capital-markets discipline.",
+   "items": [
+    {
+     "title": "Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Flagship lands 40% cheaper to run than Opus 5 on typical workloads, per Anthropic."
+    },
+    {
+     "title": "Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work.",
+     "url": "https://www.anthropic.com/claude-sonnet-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Workhorse tier: 30%+ faster and up to 30% cheaper than Sonnet 5, per Anthropic."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Fastest small model, pitched at summarization, subagents and browser use."
+    },
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "First frontier-lab S-1 filing: Anthropic registered for a proposed IPO with the SEC."
+    },
+    {
+     "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "New Public Benefit Fund structure auto-increases its stake as the company grows."
+    },
+    {
+     "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+     "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Claude rollout extended across US federal government levels."
+    },
+    {
+     "title": "Project Deal: our Claude-run marketplace experiment",
+     "url": "https://www.anthropic.com/features/project-deal",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic testing a Claude-run marketplace for agent-mediated transactions."
+    },
+    {
+     "title": "Early progress on accelerating drug development with Claude",
+     "url": "https://www.anthropic.com/research/early-progress-drug-development",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Research note on Claude in pharma R&D workflows."
+    }
+   ]
+  },
+  {
+   "title": "Aramco takes 49% of HUMAIN in $2.6B AI deal",
+   "signal": 88,
+   "summary": "Saudi Aramco acquired 49% of PIF-backed AI firm HUMAIN for $2.6B in cash plus AI assets, with PIF retaining 51%. HUMAIN is targeting 3GW of AI data-center capacity by 2030 — the clearest sign yet that Saudi sovereign capital is consolidating its AI infrastructure play under one national champion.",
+   "angle": "A template for GCC sovereign AI: energy major + sovereign wealth fund + a single national compute champion.",
+   "items": [
+    {
+     "title": "Saudi Aramco Takes 49% Stake In HUMAIN As Saudi AI Firm Targets 3 GW Of Data Center Capacity - Forbes Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb3ZRbTFQajJMMVRDdkwxS0Y5T1hmSFFZamhvZ0gxRUFjcEx6dElzczg3eU1QYkF5NnVRSGprLTA1TDZZQTkyTTQ0ZFVXcTVFb0h6aXJjdUlIZWxPX1FXa18yZ0I0dXZPNlVPYlp4OVhRbUtFUzlPM3I4eWhteG9UYjZVY240Q3dNNmlMRFhCakpzVm1pQ19QN3loaS1aYzZkelUwLVFwa1hiRm9TMzlLS0txUQ?oc=5",
+     "source": "Forbes Middle East",
+     "time": "08:15",
+     "note": "Aramco's entry values HUMAIN's push to 3GW of AI data-center capacity by 2030, per Forbes ME."
+    },
+    {
+     "title": "Saudi Aramco acquires 49% stake in HUMAIN in $2.6bn AI deal with PIF - Arabian Business",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1BKX1NJWlNiU19YZGkyZzVvTlYwZUNpQk9wNVhTbGxEcVlXcUczRGd0dGhLN0h6eFNBN054dlJTTjZPUFZGMUFuVUlmOGdvcWZ1aWZaTmpWOFN1R01CNU9aTXdEZmZuTzFfUGw2MURTZG1CMGNVYzJzdnBKNzduWUpCNHQ1UUthYUxTUVJxaFhESjJHSDZqQ2I0dmRaV0dqcGt6N29YR1N1bktZZ2Zja3p5WEpHZDNmQkE?oc=5",
+     "source": "Arabian Business",
+     "time": "13:55",
+     "note": "Deal structured with PIF, which keeps control of the state-backed AI firm."
+    },
+    {
+     "title": "Aramco acquires 49% stake in Humain in $2.6bn AI deal - Middle East Online",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS1JqamI0aGViYUFRMWFsM2cyZjIwSnhsX045NXFXVmtGeXpjOGE1bXU1a2hFUFhHcXl3dFUtQnAwRWU3UVp6dGJLSUJuY1JWek9VNWE1bm0tUjJjTTJIUmU4aUhRcHg3dGdTajRtUGxDM0k1dkZwS2padHBnRmhJRjR6dFg?oc=5",
+     "source": "Middle East Online",
+     "time": "21:30",
+     "note": "Cash consideration of $2.6bn plus AI assets, per Middle East Online."
+    },
+    {
+     "title": "Aramco Acquires 49% HUMAIN Stake With $2.6B Cash, AI Assets - Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR3oweDhpYl9aS3lreU9GbXJZbDg3cEJtemtzRTJpaDFubG1JYTNnbEhJT3UzZEwtQjVxVndWMjl1Sm1XX1RBckpmaWpQb3FsMTd0UUtaMmJoZUpZbGluVXUwSFJaT1JYdUVMbWp4Uy15WVJ5T2VnbGZubWRwSHBYckhQQ1k?oc=5",
+     "source": "Unite.AI",
+     "time": "22:36",
+     "note": "Unite.AI: $2.6B in cash plus AI assets for the stake."
+    },
+    {
+     "title": "PIF Retains 51% Stake as Aramco Acquires 49% of HUMAIN in USD 2.6B Deal - waya.media",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNERaMDZOUDB3SWhHRFFLaW5TNUpIZ25DMGFnQm5Xai1XaFY1WDVSSm9mUVlXRC1Wc0hzUS16aWY5TVZLOHFmaGdta25ZZ05RelZyR2dfMWh2dW1WaXFpV240QmNqblR1WmhMX0w2djZxdVN6T3hvQXlZcmJZRk5TRFhReG9FX3BBUEtaR0V5dllSdmc?oc=5",
+     "source": "waya.media",
+     "time": "13:59",
+     "note": "waya.media: PIF keeps majority ownership after the sale closes."
+    },
+    {
+     "title": "Saudi Aramco takes 49% stake in state-backed AI company Humain | Daily Sabah - Daily Sabah",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVTduY21QTWRTckloWFloSV9odFg4VlRCc1VVWGlBMFo1R0ZKWFVjVnRKZUszWFRzOEprQnNweEJOWUw3SG82Q2xFX19KMmttX2YzVU5ta3I4NndNUEpNSGxDSFdZUHFQcEIycUlvRzJTQjRYTWxYdXNIa2Z6Vnc3YjRyc184LTdFcjNPX1dYcVRnUHh4eFdDYWx6OHVlcnduVEZDStIBqgFBVV95cUxQNEtyRVZVd3ljWWRtVFF0ZndMSS1IWmFvdEtBeHhYQVRrbElOZGplUXRfT2dGeVAzckJzbXNZTjJtZk1qNHktTmdpQUExUWNUN0Q3MEUwc2VBUDE3eXpRUXRBb3pHeEdEOTFvZTNSMkRIMk1aR3h2R0FuaGRsZE1KUUUtWlFUb1B6MktlYU9uTm16aXp5d1NkYlRMTkk4UExZclY1WmFrQlJrZw?oc=5",
+     "source": "Daily Sabah",
+     "time": "09:49",
+     "note": "Daily Sabah frames HUMAIN as the flagship state AI vehicle."
+    },
+    {
+     "title": "Aramco acquires 49pc stake in Saudi PIF company Humain - TradeArabia",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONm03cmtCbzVubjlFRkkzYjJtUkZfRDV1TWp2TjIzMXBvbVhITDZpYlo3azVobThqQ1RoV1p5WUs0UjU5aEhYTlpqWThhNThZaWlKNk9UYTVSaEs5aGl4WXFHNkdjbFhUS1ZMempfbW9hT2c2MXp4TEY2SmxHbGxGSVJZbzllUDczbldvMUF4WDN2bjhscWdTY2VB?oc=5",
+     "source": "TradeArabia",
+     "time": "11:23",
+     "note": "TradeArabia corroborates the PIF-linked ownership structure."
+    },
+    {
+     "title": "PIF and Aramco Complete $2.6 Billion HUMAIN Deal, Target 3GW of AI Data Center Capacity by 2030 - بوابة التكنولوجيا المالية",
+     "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lWkswel9vYjRMRVFYVmdQaHJyMDJZNWpfRHZuQl8xX3RfMWFsZVc0eXp5QjNVaU9USjFpaC1WM3JfWEUz?oc=5",
+     "source": "بوابة التكنولوجيا المالية",
+     "time": "10:10",
+     "note": "Deal completion tied to a 3GW AI data-center target by 2030."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI capital keeps compounding",
+   "signal": 62,
+   "summary": "Beyond the HUMAIN deal, Gulf AI investment is broadening: Snowflake is committing $300M to Saudi Arabia through 2030, Gulf investors are eyeing Indian AI infrastructure and space tech, and Dubai unveiled an AI-and-medicine campus at Nad Zabeel.",
+   "angle": "GCC AI is moving from announcements to named capital flows and built infrastructure.",
+   "items": [
+    {
+     "title": "Snowflake to Invest $300 Million in Saudi Arabia Through 2030 - CairoScene",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUhueDV4dHVRdnNQRmdtMk9HUVQ2VWJMMjMtTm1XVXF1TEp3VUp0QVhkUWtjd2lZWk5MSlZ3RE1JOXptb1lkQnlYY295WWF2eVgzQ3ZCZGRYc2ZTMjl5UlhRdmRTQU5NRkk3RWZIN2lNX3pZTmVBNThTaUk4R2c2c2FoU2xmSVZzZTVQRFZfZjhzQnhkUE9Z?oc=5",
+     "source": "CairoScene",
+     "time": "11:25",
+     "note": "Snowflake committing $300M to Saudi Arabia through 2030, per CairoScene."
+    },
+    {
+     "title": "Gulf investors eye India’s AI infrastructure and space tech even as broader interest stays subdued - The Economic Times",
+     "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZHJIa0RMemNpcmV6NTZIYlZ3UGdHZlpIVTlYaWxsRzZSRGZEMHZPN0htVHpjVGpweG1qb19hc25hT1owS2F3UTVyM3k5am45OVhLMDFqcVFVZGs5Z3RSSmNRZERjSmdpS3RNTXpORDhwbl9jS0c1TXhYVUpfdTVQaTdDOWtzUi1xRGdKODJsSmpoOFZZX0FGUTRsTmVHYWd2T3Bva2NkSEtXZWRNX05hOVdPZ0xtWVpsdC1kV2Zac0hqWUhFMlVYUFlhQ3pjbndtYVVZXy16dnItRVR1TGxvNndpSk1FMXF4bDJWUkpUcjlBS3dZQnBNX2J4d2xWVkxjeFpMandBN1FCaWduZFHSAZMCQVVfeXFMTS1Za3V2SC1FdEg2amdiUi02TGw0LVk4bFUzYnBYRDFpR185VHJjVlYwclZzR2dwVFpvS21zSV9LV2ZRWWlwYTFSam5wMHg2aVp6Y19yN25sRlBnelVIR0VlYUtoRUJqYlMtTE54dlJ6UVFERVhsejlXN3pRR2tiZnZMTTR5cTFsWThXVGdHc3pDc0RpTGRvZFpWR05YbnVtVDNaNG1yZE1lbXVEa3BiY1VzYndSck9QVHkyUXBZbzZ2ZzR1cmpWRThTY0Y5c0wzeUVvWW1JRkJ2bjhlX2dYSjNsUUFGTjRUMjNXRVd3Y1pFamlObl9kUEcxVHNfeXVoTnI3T0dKN1pGTXQtMVZrNzBfS28?oc=5",
+     "source": "The Economic Times",
+     "time": "18:35",
+     "note": "Gulf capital selectively targeting Indian AI infrastructure and space tech, per Economic Times."
+    },
+    {
+     "title": "Dubai unveils Nad Zabeel campus plan for AI and medicine — The National - UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdkcwVllSOEx2dmc2cllRTnk4d3BmcTluOE9kM3NRdlJLZFp3RnNkeXdEV3M4REJ6c25CTXNkNkdaZnB1V25renI0WVZQd19FU0FLUkNaRTNwczE5UHdTeWdLXzZhczBTZWxIbHItckZOdVZpYnUyVXM1UVZXclRSY2xSQU9sWjhpYWo1SklOcVJaOUtlOTlWRklsLTJnR25oZUQzZ0FyS1loYnc?oc=5",
+     "source": "UA.NEWS",
+     "time": "15:42",
+     "note": "Dubai's Nad Zabeel campus plan pairs AI with medicine, per The National via UA.NEWS."
+    },
+    {
+     "title": "Sheikh Khaled meets global leaders in energy, AI and investment in Abu Dhabi - Gulf Today",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmpaajBlNF9HR3lDcHRDZzVvdE1TcFkxZHNZUzVtclZLc1RPMGVWQUhYb2RpX0ZRQkQ4T0tXTERLLXRYWHAxRWV6cE40T0F6aGdKelFWdERfMGhYUUltT21weFZBd1BMUjdhUl9JcWcxM3RfWWdleC1nVE1qdkN0aFZJclNBal8wLWpmQUFVVlA5eW1INk93bUtOMUc0YWlrQ1N6cUs1M3hkalZtOHVYaHhSQjVfVXROc3VPQw?oc=5",
+     "source": "Gulf Today",
+     "time": "17:30",
+     "note": "Abu Dhabi's Sheikh Khaled in talks with energy, AI and investment leaders, per Gulf Today."
+    }
+   ]
+  },
+  {
+   "title": "The agentic coding arms race",
+   "signal": 60,
+   "summary": "DeepSeek shipped a prototype autonomous coding agent targeting Anthropic's Claude Code, while Anthropic open-sourced its agent skills via a new foundation. Agent-mediated commerce is also taking shape, with publishers experimenting with ads shown only to AI agents.",
+   "angle": "Coding agents are becoming a product market with real unit economics — relevant to every AI-native SDLC decision.",
+   "items": [
+    {
+     "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+     "source": "Bloomberg Technology",
+     "time": "03:48",
+     "note": "DeepSeek released a more autonomous coding agent prototype aimed at Claude Code, per Bloomberg."
+    },
+    {
+     "title": "Donating Agent Skills to the Agentic AI Foundation",
+     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic donating its agent-skill library to an open foundation."
+    },
+    {
+     "title": "7 hours ago 😺 Publishers sell ads only AI agents see PLUS: OpenAI firings, a $1,000 mosquito laser and Gemini’s file editor.",
+     "url": "https://www.theneurondaily.com/p/publishers-sell-ads-only-ai-agents-see",
+     "source": "The Neuron",
+     "time": "",
+     "note": "The Neuron: an emerging market where publishers sell inventory readable only by AI agents."
+    }
+   ]
+  },
+  {
+   "title": "Washington recalibrates on AI",
+   "signal": 50,
+   "summary": "With US midterms over, OpenAI plans a policy blitz to reset relations with the new Congress, while the administration refuses to disclose its AI testing framework and chatbots face fresh scrutiny over election misinformation.",
+   "angle": "Post-election AI policy is repositioning — execs should watch what 'AI compute campuses' does to permitting and power policy.",
+   "items": [
+    {
+     "title": "Behind the Curtain: OpenAI's post-election power play",
+     "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+     "source": "Axios AI+",
+     "time": "13:43",
+     "note": "OpenAI plans a post-midterm policy/PR blitz, including rebranding data centers as 'AI compute campuses', per Axios."
+    },
+    {
+     "title": "Trump Administration Refuses to Release Information on AI Testing Framework - The Information",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb3ZBVEpYT3A5cWRLc2ZBRzlmcnVlRVlVX294X0t6YUNFRVJmWllGYjByTFVITnB2OFducVJGOVo2anVfeTRDSHhiU0lIWmk2eV9fUkVPYjc2QUlXTGJ1YjZlSjhwajVoaXpkX2Q4Zlc2a3VlNzRBNjV5S3JIWGpXWHRFZG9ZNGctbGFJUjJSSXVWN0NWWnR5bEJOSGZROXFUX2JIaEwzOVZ2MzViUFF3?oc=5",
+     "source": "The Information",
+     "time": "23:09",
+     "note": "The Information: White House withholding details of its AI testing framework."
+    },
+    {
+     "title": "Autonomous Mind | Congress scrambles to keep pace with AI - Denver Gazette",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjZiZjYxWXNSN24yaTRSbk5kRTJtSzF0VU0xWnJsU2pxU1k5WnBHR3AxZV80ZUdDcTlPOEJWb2l2d21EelI1eTJTT0xFWEVPaEpJQjdFcThCNmVRdzRqRWd0Qzk1M1NRLXNaRDBweERlTW1LQ3V5a2Ytb19HX09pOFY3VXc3N2JqdUR6bGFIZC1BU2ZyZjllOWxCM0ZLdw?oc=5",
+     "source": "Denver Gazette",
+     "time": "20:22",
+     "note": "Denver Gazette on legislators struggling to keep pace with AI policy."
+    },
+    {
+     "title": "Spewing U.S. election falsehoods, AI chatbots face scrutiny - The Japan Times",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOODFMXzQ1QTZEVG44eWNOOTMtc09rVUZnZzlDSGhGS2JMV2lmcE9zYlpONXd1RTZzQzExQmJIRG5GdVp4LWlTSTE0RF9meUphdjNkc1NxOGFQQU14ckNxc1JkWFVlMHNLRldmZHY4VTFOU1RJWEx5SDVVbDVzRTVLUVF6N3NvbEJ5eUFIUTJ1THVRMXJZSkZ3RQ?oc=5",
+     "source": "The Japan Times",
+     "time": "03:07",
+     "note": "Japan Times: chatbots pushing US election misinformation draw scrutiny."
+    },
+    {
+     "title": "Fact Check Team: Artificial intelligence places millions of American jobs at high risk - wtwcfox",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONE5pdnVFRmhpV3ZqTUh2V3hhbHgxWkdVWnoxRFNWd295dWJNTzFEcllIWUtOazFKdm0teERLbTRUeWhVcFZrMFdtQzhZQlNSVDVsamNrT3NCRVpGMk05eDMzSndMMXpJUWZaUEdIdC05c2tVbHZBSUthOFhuRGdQTEdRWEZUb3FocjZuN0VTWE5BTS1neUtiSTJnMDU1bzBXVVdGVXNfNHpETWhkeHN2bndoRFNFMjVtSjEtVjFFYlhIcWRlZklidEdHR21YdVR6dDg5bndnM0YxZEZxX0RHempDNlJzSkx6NzBXVjFHZy1hSlk?oc=5",
+     "source": "wtwcfox",
+     "time": "18:51",
+     "note": "Fox-affiliated fact-check on AI's exposure of millions of US jobs."
+    }
+   ]
+  },
+  {
+   "title": "Compute economics cools the capex narrative",
+   "signal": 42,
+   "summary": "Kioxia's 15% slide signals memory demand leveling after the AI surge, and Google's energy chief poured cold water on space data centers (up to 100x cost). The hardware narrative is moving from scarcity toward unit economics.",
+   "angle": "Contrarian read: the AI capex supercycle may be turning into a normal supply-demand curve.",
+   "items": [
+    {
+     "title": "Kioxia Shares Sink After Outlook Shows Demand Leveling Off",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-02/kioxia-shares-tumble-after-outlook-suggests-demand-leveling-off",
+     "source": "Bloomberg Technology",
+     "time": "00:26",
+     "note": "Kioxia fell as much as 15% after a cautious outlook flagged AI memory demand leveling off, per Bloomberg."
+    },
+    {
+     "title": "Google Energy Chief: Space Data Centers Cost Up to 100 Times More Than Those on Earth - The Information",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR0xDbXdVMEhFa0ZfT19Oc1ZKNTFwNzRVZGlySXFBOXJxTTNwR0JKYlBWV1U1Qi1NM0RTTU1lTGJBd1FyV0pvc1IycFNTUU9MM2N0QTZGalNiQ3Q2SzhQWi1DcFFqc3AtSzU4LU96MDd6RHNBTFU0WnlzV0xrVzVnNmZpMEF2cEM1amZ5ZGh1NUFCYXQ5RE9QVlh5ekVKd0FxbmhxZFVoR1dYckQ1ZVhxX3hjTm42aU1MMzZ6Rg?oc=5",
+     "source": "The Information",
+     "time": "16:30",
+     "note": "The Information: Google energy chief pegs space-based data centers at up to 100x terrestrial cost."
+    },
+    {
+     "title": "China's robot makers have mastered the moves. Now comes the race for brains - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYmlUM050M0RzRW9uN2VCN1k4cFZFM1VrVjBnQU0ycHo0U3JLUExLOE9CNUlnS29IMGd5U2oweXE3Y0lTakNLQmgwYlNBU3VsdzJCa2h2MFV2SnVSckVlcnRQMnp4V2FGNVVUTTF3WjJJa1BlaHR3M3c2XzJkU3pDeGl2OGdxWllMOWtZR044d18tZFFWYjlDbEJuOEJCajhENEJHRG50aWdLcTk4S3c?oc=5",
+     "source": "Reuters",
+     "time": "23:24",
+     "note": "Reuters: Chinese robot makers shift competition from motion to AI 'brains'."
+    }
+   ]
+  }
+ ]
+}

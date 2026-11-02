@@ -28,7 +28,7 @@
       "track": "regulation",
       "decision": "regulation",
       "signal": 78,
-      "summary": "The Information reports that the White House declined to release key records about its voluntary frontier-model testing framework after a FOIA lawsuit, citing national-security and commercial exemptions. The disclosed records describe a seven-page framework and a trusted-partner programme for selected organisations to receive pre-release model access; the complete process remains unpublished.",
+      "summary": "The Information reports that the Trump administration declined to produce key documents about its voluntary AI testing framework, despite an agreement reached in September with the Protect Democracy Project after a FOIA lawsuit. The article cites a letter sent to the nonprofit on Friday; the framework details remain limited in the accessible reporting.",
       "so_what": "When assessing US model providers, ask what pre-release testing and access arrangements apply to the models you may deploy, while treating this as reporting about a voluntary federal process rather than a new supervisory requirement.",
       "verify": true,
       "off_list": null

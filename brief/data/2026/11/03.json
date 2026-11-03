@@ -71,7 +71,7 @@
       "tier": 2,
       "published": "2026-11-02T01:00:00+00:00",
       "track": "patterns",
-      "decision": "benchmark",
+      "decision": "trial",
       "signal": 85,
       "summary": "Qdrant 1.20 adds TurboQuant-based turbo8 and turbo16 vector storage and per-element indexing for nested metadata filters. In the vendor’s example with 100,000 vectors of 1,536 dimensions, storage falls from 585 MB with float32 to 147 MB with turbo8 while Recall@100 is 94.8% versus 95.4%; the latency comparison is within 10% of float32, and the reported figures use three datasets from a 14-dataset test, HNSW and exact search ground truth.",
       "so_what": "Benchmark turbo8 and nested-field indexing on your own corpus against the current retrieval stack, measuring recall, latency and total index cost before changing production collections.",

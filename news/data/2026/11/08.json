@@ -1,0 +1,230 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T02:00:15.813003+00:00",
+ "themes": [
+  {
+   "title": "Anthropic's ~$1.5tn IPO moves ahead",
+   "signal": 60,
+   "summary": "Anthropic has filed its S-1 and will press ahead with an IPO targeting around a $1.5 trillion valuation, with the roadshow scheduled for next week. The listing lands against a sharp post-midterm tech selloff, making it the defining test of investor appetite for pure-play frontier AI in public markets.",
+   "angle": "The clearest signal yet that generative-AI value creation is shifting from private to public markets.",
+   "items": [
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic News",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+     "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Anthropic to Proceed With IPO Roadshow Next Week - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0E5dU1EcXJqdGxXTXIzLWVZSHBGcUZadC1zeDlfMS1sWnRDWndwVkpoczY5cGZldU5hS1hPNzZySVhHSWZySDRPdUlMcWFPVDRIOExhcDFfS0ZIR0I3UzlQYkR4czQtY2dvTUJFRDF0ODdwNGY5R0V0VWpKTDRPRmZLRzBkbHB3?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "GCC doubles down on AI and quantum capital",
+   "signal": 50,
+   "summary": "Regional AI investment is escalating across the GCC. Aramco is reported to invest $2.6 billion in the AI firm Humain, the UAE opened its first dedicated humanoid-robot showroom, Abu Dhabi's AIREV took strategic investment from Terra Invest, and an Abu Dhabi maritime academy partnered on quantum logistics.",
+   "angle": "GCC capital is flowing beyond conventional AI software into robots, quantum, and flagship national champions.",
+   "items": [
+    {
+     "title": "Aramco will invest $2.6 billion in Humain to promote AI - Inspenet",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSMm1BN18tOUJOTjdjQTNqazlrdWVvSmZkamp0OTVIeXhlZWxOV1NoVzFsbUJJZ0tSeVZnVjZGVTlJd0NOUnU0b2VOU2ZmWmxUX3Z4cjhvcUVUQXA1RGR5Q0I3UV93bTA1Z0dTRkZnMEdtZWV0?oc=5",
+     "source": "Inspenet",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "UAE opens its first dedicated showroom for humanoid robots - Gulf Today",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaWxGVllaWURhdDVqVXRibWNBeFJwQ2pvTVhqNzdKay1lRHh0X3BYRWlhSjNyNms2OWhmYkdwU29QX0p0ZEhWTE1ZR3pXV1o2VWFMMU1hSmVaUTVzZU5ZOTd6MkFGYzJGWFBGSFhSZEVYcUV4U2VLTHVZMjFPalFtRGRoUmNrRVM1Wkg4dUFDT0xOWjRrMmxOejhDNDQ4bU1xV0paSV9B?oc=5",
+     "source": "Gulf Today",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "UAE's AIREV secures strategic investment from Terra Invest - jawlah.co",
+     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE02RU56WVo0SWg4ZmMxc1lNYzUxMm5WWUN1X1FUVzJYTUsxNDlRUFlzSmJ1bnNPQkJQLWg5eG5LSQ?oc=5",
+     "source": "jawlah.co",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Abu Dhabi Maritime Academy, Quincus, and Quantinuum Partner on Quantum Maritime Logistics - Quantum Computing Report",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDZTSVJqQVVNaU5sbmlqa0NQeU1ZQ1NJbENIeDBEcllXZUIzT1lMWEFQcmJrY0VzdWhFR2pvODR4eVg2MThVRUVMMm5mQWI5S1d5UzNhclhVaWRmbmFCMXVkekZDQVFmZS1sQ1VEZGpUUjg0MDRlYTNmXzY2ZE9sX2U1N3pzZWpQOGUxcWF6RVY0eFVoTTliY0JubTAyaEtHVDB4aXRiZTc0TjRvcWZPcnlFWFRlUEdyMTJFcE1tS3rSAcYBQVVfeXFMUG1mcHZEV2owZ0wtZ2VGYmxjblhwbzdTVEdkSlEyWTBIQUJJSk90blQxS1oxYkc4dE1zWWJ1Rk1Gd2hJZ01FalE5d1JJODBudlpTOXlFdGRwcnY0TDItcGVjRmNYbXlucmFjSW5kTEFTTVBpWTJpTVo3dUEtcU14TFJJUE5IU1BqaVBlamt0VUdiQ1VjX1lOWmM2dkRQb3BPOHN4czNtQmZITjQ0NU1QY3h0aGV2NUFYZ09waGxQYVAxWXF4QTl3?oc=5",
+     "source": "Quantum Computing Report",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "AI backlash: data centers meet the electorate",
+   "signal": 45,
+   "summary": "Protests against data centers continued across Europe over the weekend, and political resistance to AI infrastructure is colliding with the capex buildout that underpins the AI trade. CoreWeave is courting the incoming Texas administration as markets price in a post-election reality check on AI spending.",
+   "angle": "Permitting and community politics, not just chip supply, are becoming the binding constraint on AI capacity.",
+   "items": [
+    {
+     "title": "AI Backlash Spreads Across Europe With Data Center Protests",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Data centres rebuked",
+     "url": "https://www.ft.com/content/9d40f40a-cbf2-46f5-b3d0-cee554e35298?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-07/coreweave-asks-texas-governor-elect-for-data-center-cooperation",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "The Blue Wave May Not Stop Musk’s Texas Data Center Ambitions - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRVBCX1dpeVRfV1VMaW1HREtQd1JiUGMzOG9nQ1pZR0ZqTGRzNVM5MzBrMTZpNjl3ZG5SN1hQR1pQMmU1VXFTVlJnR0VGSFlPMFVqWFh1a2pXVUdYOTZMbU5URWl0NlhpTGQ4YVJKZEN4ODdGUWZwVlZXN3pnQm43bVhYSG1LbndueVNMWldTRE55WDNmRllMcV9FN19OZFZhRGt5Y1V2d3hwbGVzX05iMTk1TQ?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "US midterms reset the AI policy table",
+   "signal": 40,
+   "summary": "Candidates favouring stricter AI oversight won key US congressional races after a $110 million advocacy push partly backed by Anthropic, while surveys show growing public anxiety about the AI boom. Commentators read this as a durable shift toward more AI legislation and a harder political environment for Big Tech capex.",
+   "angle": "The midterms turned AI from a tech story into an electoral and regulatory axis.",
+   "items": [
+    {
+     "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Three Things the Midterm Election Tells Us About AI and the Likely Future of AI Policy - Cato Institute",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMF9Sc2xnLTZ2M0wtNF9TSksxVHFKX3JTWmxlRmJfYjNNUlZpRDZsNnVWYnBoOV95S1k2VzQzM0l2NWtqV1dnRUNnbS1POGlHM2NqSjdiYWdrOHJ0Q0VjMTBPTWdadnhCa2M2SXFIZU1XWW5PZEtQdUhvUGhuR2R4aUJRTUVXeVhoNHhtQlBCVnFOdzRRSWZFVmlKbGNnV0U?oc=5",
+     "source": "Cato Institute",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Gillian Tett: Why does America hate AI?",
+     "url": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Americans are anxious about the AI boom going bust - The Washington Post",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb1VmQjZaSFpBNlM4eXNWWGdfZ05kR1p6SnhJMVh2OURjd0t3Nl9kUHBiS3pXUzRfVDlOcUY4UUI2ejZ0RWZfd2gwbEl6WWhMWE5xNDd1SkxZVWhXVjNsWWRRRm45bl9VVFVCMkxQRjdDOU42ekhTWUoyMFhjZUtxazByTFhxYTVZb3l5RGlHT0xlaTFOQTVkbVpVLTJPeW8tRkZXbTFuQU5XSzNJTnF2dUo0MA?oc=5",
+     "source": "The Washington Post",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Democrats Plan Legislation for Artificial Intelligence - GV Wire",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1Z2QnBLYS1BdHpLY2xyUURvX1M5Qk5FdHJKZ1Y4cDFBWEpVY3RFU3R6aVc3Q0Fvc1JPaDl0NU9UbW1uYUZuTEp1VFgtb2JDSm9QYUZaWmJ6RlpDNEZvc2Zab3RObmtDcDRqNDdvUktlZnNyTmJDM2RORDZYc25Vc19PbzBtanJzTWg4RWtxaS1BS04yYWFlYUgxOWk1Rnc0bmkzcQ?oc=5",
+     "source": "GV Wire",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Enterprise AI economics: Gartner's software forecast",
+   "signal": 32,
+   "summary": "Gartner projects global software spend reaching $1.68 trillion in 2027, up 14.6%, with the fastest-growing segments being foundation models (up ~117%) and AI application platforms (up ~39%). Enterprise AI budgets are becoming a structural growth line rather than an experiment.",
+   "angle": "Hard numbers that frame the enterprise-AI market for board conversations.",
+   "items": [
+    {
+     "title": "Gartner Sees Software Growing 14.6% to $1.68 Trillion in 2027: Models at 117%, AI App Platforms at 39%, and Price Increases Doing a Lot of the Work - saastr.com",
+     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNl9aUUJsQU5oM19wUVlHUjUtaXp0MVprVkg0TnBFdHpNUXNTdTNiMXRrbHJEelJJbHVBbFNSQXNfdlNkbUhoN1l6NWhvX2l5ODUzUFZpcDRHNjJzeHBLb011OFFsX0UwLWZxUV9qaVZUVVdpRWR0SVZFYkFGeDVuUW1VRDRvTHlLTjZYS0J0VDBkbGtMdC1wVENDZzVrdkZXdnVDZmVPLXlZZXZaMWpCbHJRbDFiNmJmaWtESEM4blZNQ3pnZkk2SDdYcWxtc2ZyQkVVT2g2VnlXUzZBemVkZlg0eG1BNGVTcmx0RTl6LThoUVM2Y01j?oc=5",
+     "source": "saastr.com",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "GCC wealth-tech: investors want humans in the loop",
+   "signal": 30,
+   "summary": "A report from fintech platform Avloq finds GCC investors favour AI-assisted wealth advice over full automation, a differentiated sentiment versus Western markets pushing toward robo-advisory. Separately, DIFC courts proposed a framework for rulings involving tokenized assets and DIFC-based cross-border payment tech keeps expanding.",
+   "angle": "GCC clients trust AI as an assistant, not an autonomous decision-maker - a placement difference worth surfacing.",
+   "items": [
+    {
+     "title": "GCC investors favour AI-assisted wealth advice over full automation, Avloq report finds - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTnNhRE9jZjQ4Smc4OFJjb1JMZURvSFpCaF9DdkExbDFTNEtYQXgzcUpldDJtekJvQVZxdTVKOE1lOVpWeHFEcU1tczAxeFdxLWFFMF9YellXOTgyMjFtMGFjRHpLRHdGR0RnazdJaDNicW53WVpKOXhLODVkUXZHUmRfcC1zdWRqNUJnR2RGV3BNZmZZN1paN0UtTHhHTkRGUVN1c0xtUlZfdnNFbDhJNEhwSHVXbDFfM0VUVjJLM1UzVTA4UGc?oc=5",
+     "source": "Arab News",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "DIFC Courts Propose Framework for Decisions Involving Tokenized Assets - TOKENPOST",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3dUlEa0VUaUVNNGh0cXZNRG5VUFZmR0J3SEtFSVM2YUdvQ2dSM3hKOXNPNGRkaU94eVRrOUdxakIxQ0dQYVloWHJ4NmNJa0RmQWdHSG5MM083TE0?oc=5",
+     "source": "TOKENPOST",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Lianlian Digitech Expands Cross-Border Payment And Treasury Solutions From DIFC - Menafn",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakpiTnZxWG1fOXJfWFBaX3ktbTREdEFpRk1NLXcwRUlvLWxFdlV3Z1BLTDlCenpqVHg5VjRjdVE4amVqR19lVjJIR1JkLUlrbldwV095SnAxczFFTllrVDkxTGpldlM5TmhFOHJSR2xQN0hMbGs5MkQ0QTJ1Q2Z2VHo3TGQzS2NEWndGbGFkQ1lCSkRhbXdOODF4YUtxMHNfOWgxUm9fV3pqM0VYNWc?oc=5",
+     "source": "Menafn",
+     "time": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "title": "Startup funding and AI M&A heats up",
+   "signal": 30,
+   "summary": "AI-native deal flow stays hot: image/video-gen startup Fal raised at a $16 billion valuation and CrowdStrike struck two acquisitions, while SoftBank and ABB weigh carving out the Chinese part of a robotics deal blocked in Beijing, and Meta's strategy chief Dave Wehner moves to Fireworks as CFO.",
+   "angle": "Funding, talent, and capacity are rotating aggressively around the agents/robotics/infra stack.",
+   "items": [
+    {
+     "title": "Fal raises at $16B valuation, Crowdstrike strikes for two deals - Axios",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdmYxMnZZelJ5MklNV296TnFHRERkY1hhTHRieEJubFBpVmdHMmNCOUo0TXN1M2IwbGd0RFl3TFpVeEZoaDJsNjVPdDhlcktLaWxEYzZvTGxSQjU5SEp4YU8yQUd6bnhFTUNwUEVDNi0zQnluc2hId3lXYU80ZVVVcV9peVdJQ3Rxdkh5YTg0VGU5bC1CWjk0?oc=5",
+     "source": "Axios",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Google DeepMind finds 1,600x faster way to expose encryption flaws - Interesting Engineering",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmhuSmNrWDVTbVNiVFA1OTN6Ul84c1JfRTJsd0JXaGI4ZHZSSVpkMnA3SEh4ektMWnlBR19wTVdXS1hxYzEzRXA3ZHh4aXl6SmRGR1hQMkZTUmczcWxlZ19NeWNYSU84cC02clh5ci05VWhwQ2xROFQ5b1FFaXdQaUtSZENsTEtLdWNiOENQR3pTVGd6US1kNkJaOHM2bjU1?oc=5",
+     "source": "Interesting Engineering",
+     "time": "",
+     "note": ""
+    },
+    {
+     "title": "Meta Strategy Chief Dave Wehner to Become Fireworks CFO - The Information",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTkU4b2c1eWpibHE3NEdhcXYzQldTTlJDN3NOcEhkZnpuMXNHOTczR01FWHd4X2lld2xUZTZqT3NXYXNodTVGS2Q2VHpFNzhKQzAwUzFxcWlxTGw1ZWY2TzF4T3A1WTB6QXdOUG5hTVFPOGtjWW51M2FKNXprSWE0QXpqT2p5eDhTdGhYdUpTRy14Y0VsdjZZRmxzdXdYMEFIR3E0T213?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

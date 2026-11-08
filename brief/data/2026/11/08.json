@@ -1,0 +1,90 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T03:43:04+00:00",
+  "lead": "The clearest operational lesson today is that AI-generated change needs controls around it, not just faster review: Grab describes checks from pre-merge through staged rollout and live incident response. For model and retrieval choices, the pg_vectorsearch report offers a promising PostgreSQL-native alternative, but it is still alpha and its striking benchmark is vendor-reported, so treat it as a test candidate rather than a capacity promise. Microsoft’s Agent 365 documentation also makes an important boundary explicit: MCP tool definitions must be discovered and validated before creating or recreating a Persistent Agent. Together, these are concrete design constraints for your evaluation, deployment and rollback paths.",
+  "items": [
+    {
+      "title": "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes",
+      "url": "https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety",
+      "also": [],
+      "source": "InfoQ — AI, ML & Data Engineering",
+      "tier": 2,
+      "published": "2026-11-07T11:00:00+00:00",
+      "track": "patterns",
+      "decision": "adopt",
+      "signal": 86,
+      "summary": "Grab describes safeguards spanning static analysis and testing before merge, an internal early-access gate, staged rollout and feature flags, then crash monitoring and incident triage. It reports using Firebase Crashlytics and BigQuery for live detection; the article states no measured before-and-after crash rate or cost impact.",
+      "so_what": "Adopt the layered rollout and rollback pattern for AI-assisted code changes, and set measurable crash and defect thresholds before expanding deployment.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Independent Assessment of AI R&D Acceleration at Anthropic in October 2026",
+      "url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "also": ["https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"],
+      "source": "The Verge — AI",
+      "tier": 3,
+      "published": "2026-11-05T00:00:00+00:00",
+      "track": "operations",
+      "decision": "evaluation",
+      "signal": 83,
+      "summary": "METR reports an estimated 1.9× growth in Anthropic model benchmark scores since October 2025 versus the earlier rate, with a 95% confidence interval of 1.5–2.8×; it attributes much of the acceleration to AI use in R&D but notes substantial uncertainty. The assessment covers August 12 to October 29, 2026, and METR says Anthropic redacted a majority of the evidence it considered most informative.",
+      "so_what": "Use the report as a reason to tighten model and provider lifecycle reviews, but do not use its uncertain, partly redacted estimate as a forecast for your own delivery roadmap.",
+      "verify": true,
+      "off_list": null
+    },
+    {
+      "title": "Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL",
+      "url": "https://www.infoq.com/news/2026/11/postgresql-vector-search",
+      "also": [],
+      "source": "InfoQ — AI, ML & Data Engineering",
+      "tier": 2,
+      "published": "2026-11-07T09:49:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 79,
+      "summary": "Tiger Data’s pg_vectorsearch PostgreSQL extension is open source and in alpha, using partitioning and compression in its PRISM index rather than the graph approach used by pgvector HNSW. In Tiger Data’s benchmark on 100 million vectors, PRISM built an index in 1 hour 40 minutes on a 128 GB machine, while HNSW took 42 hours on a 512 GB machine; these are vendor-reported results, and incremental rebalancing is not fully implemented.",
+      "so_what": "Trial it against pgvector and a dedicated vector store on your corpus, measuring recall, index rebuild behaviour, memory and query latency before considering production use.",
+      "verify": true,
+      "off_list": null
+    },
+    {
+      "title": "DeepSeek V4.1 Flash 1017 Ultrafast now available on AI Gateway",
+      "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-ultrafast-now-available-on-ai-gateway",
+      "also": [],
+      "source": "Vercel Blog",
+      "tier": 2,
+      "published": "2026-11-07T00:00:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 74,
+      "summary": "Vercel says DeepSeek V4.1 Flash 1017 Ultrafast is available on AI Gateway through Fireworks, in public preview, with a stated 1M-token context window and generation of upwards of 1,000 tokens per second. Vercel says AI Gateway passes through provider pricing with no platform fee; the page does not state regional availability or a price per token.",
+      "so_what": "Trial only on non-sensitive workloads and benchmark end-to-end latency, data handling and failover against your current gateway; the speed claim alone is not a production-selection basis.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "McpToolRegistrationService Class (Microsoft.Agents.A365.Tooling.Extensions.AzureFoundry.Services)",
+      "url": "https://learn.microsoft.com/en-us/dotnet/api/microsoft.agents.a365.tooling.extensions.azurefoundry.services.mcptoolregistrationservice",
+      "also": [],
+      "source": "Azure AI Foundry Docs (search)",
+      "tier": 1,
+      "published": "2026-11-06T17:26:00+00:00",
+      "track": "patterns",
+      "decision": "adopt",
+      "signal": 72,
+      "summary": "Microsoft documents an Agent 365 .NET package v2.0.0 service for discovering and validating MCP tool servers and returning tool definitions and resources for Foundry Persistent Agents. The documentation states that Persistent Agents cannot be mutated to add tools after creation, so tools must be supplied when creating or recreating the agent; pricing and regional availability are not stated.",
+      "so_what": "Adopt this lifecycle constraint in your Azure agent design: validate the tool set before creation and test the operational impact of agent recreation when permissions or tools change.",
+      "verify": false,
+      "off_list": null
+    }
+  ],
+  "watch": [],
+  "post_seed": null,
+  "sources": {
+    "ok": 147,
+    "total": 149,
+    "failed": ["EDPB: HTTPError: HTTP Error 503: Service Unavailable", "The New Stack — AI: HTTPError: HTTP Error 403: Forbidden"]
+  },
+  "candidates_seen": 19
+}

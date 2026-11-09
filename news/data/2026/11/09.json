@@ -1,0 +1,188 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T02:00:14.897868+00:00",
+ "themes": [
+  {
+   "title": "Nvidia board probes CEO Huang amid Chinese-spy affair claims",
+   "signal": 88,
+   "summary": "Nvidia CEO Jensen Huang admitted in a staff memo to an extramarital affair with a woman US intelligence flagged as a suspected Chinese spy, and the board opened an investigation while President Trump publicly backed Huang keeping his job. The episode drags the world's most consequential AI chipmaker into a national-security and governance crisis at a moment of peak geopolitical sensitivity around AI supply chains.",
+   "angle": "Board-level and national-security risk at the AI chokepoint — a live case study in exec-governance exposure.",
+   "items": [
+    {
+     "title": "Nvidia's Huang admits to affair after allegations of relationship with Chinese spy",
+     "url": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "01:08",
+     "note": "Board opens investigation as CEO confirms liaison in staff memo."
+    },
+    {
+     "title": "Nvidia board to probe spying case after CEO Jensen Huang admits infidelity",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
+     "source": "Bloomberg",
+     "time": "20:00",
+     "note": "Chip colossus faces the biggest crisis in its three-decade history."
+    },
+    {
+     "title": "Trump backs Nvidia CEO after he admits affair",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-09/trump-backs-nvidia-ceo-after-he-admits-affair-video",
+     "source": "Bloomberg",
+     "time": "00:32",
+     "note": "President calls Huang a 'fine person', says he should stay."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic ships Claude 5.5 family and files S-1",
+   "signal": 82,
+   "summary": "Anthropic released a full Claude 5.5 refresh (Opus, Sonnet, Haiku) — Opus 5.5 leads in agentic coding and costs 40% less than Opus 5, Sonnet 5.5 is 30% faster and up to 30% cheaper — and filed an S-1 for a proposed IPO. Combined signals: it is compressing inference economics while progressing toward a public listing that would test frontier-lab valuations.",
+   "angle": "Claude 5.5's cost curve plus the S-1 filing may be Anthropic's clearest marker yet that agentic inference is heading down-market fast.",
+   "items": [
+    {
+     "title": "Introducing Claude Opus 5.5",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Leads agentic coding; costs 40% less than Opus 5 on typical loads."
+    },
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed IPO",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Public-listing milestone for a frontier lab."
+    },
+    {
+     "title": "Introducing Claude Sonnet 5.5",
+     "url": "https://www.anthropic.com/claude-sonnet-5-5",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Runs 30%+ faster, up to 30% cheaper than Sonnet 5."
+    },
+    {
+     "title": "Anthropic strikes $3.4bn deal to generate gas-fired power for data centres",
+     "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "11:00",
+     "note": "Largest known single power-generation-equipment purchase by an AI lab."
+    }
+   ]
+  },
+  {
+   "title": "GCC acts on AI: ADNOC agents, Saudi compute push",
+   "signal": 74,
+   "summary": "OpenAI is partnering with ADNOC to bring AI agents into oil-and-gas operations, Salesforce reports Agentforce coworker usage growing 21x as Saudi enterprises scale agentic AI into daily work, and Saudi Arabia's communications minister is pitching a 'Partnership for Computing' to widen AI access. Gulf enterprise AI is shifting from ambition to deployed procurement.",
+   "angle": "GCC enterprise AI is now about deployed agents in energy and operations, not pilots — regional proof-point for the issue.",
+   "items": [
+    {
+     "title": "OpenAI partners with ADNOC to bring AI agents into oil and gas operations",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53aWFET2s1MjBOWllBLU9Ic1Y5ZHgwYWFQTWRfY3pxdFFsd3h5TDJJN1F5bXVreGpkREtCYW95VEh4eEdCTnJQNjdrRVNPVkMyX3dKZVRmUmpvMEI3bEpkSFVNWExxWXVHUThueVV2LW1kcnhjakd2MTFiemRzZw?oc=5",
+     "source": "Crypto Briefing",
+     "time": "18:04",
+     "note": "AI agents entering UAE oil-and-gas operations."
+    },
+    {
+     "title": "Salesforce Agentforce coworker usage grows 21x as Saudi enterprises turn AI ambition into daily work",
+     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcV9vcHRHSFcxdnMyTkQtWXpHQkh6QWljWXVqckczWHo1SkNmcklBa3VZSWpVV2JNc0txRzl2RkgzZnBLNW9LWENud1ZsSlNqV1RSM1lvajRmbDEtMjVHYUFQM0l3cFJqMHZZLW5ONkpsOTdHY19ta1pQNHJ2MWU2X2Mxbjl1SmN4MjlOT3RqSmxicl9mZXkyN2kwNnhmZzVGeXJrX3lIb0hscXo5S3o3Yi1ZU21ENFNzOXVKUTNFUkFtbE1aNlJnSlZkRDRuSENXX0hBX044eWlRZjRRdWpUWGtxZlM2dm9KYmRXdElvVHlwWG1R?oc=5",
+     "source": "Zawya",
+     "time": "12:32",
+     "note": "Saudi enterprises deploying agentic assistants at scale."
+    },
+    {
+     "title": "Saudi Arabia calls for 'Partnership for Computing' to expand access to AI",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5nM0l4NFc2NE9pV2pJWnBwUVJwTUFzRWlnUGk3UE1Ebk5Za1dhRU0ydXFDTmdWTFpGQjRNSlBEbVRpM2FoUDZJbUc0OA?oc=5",
+     "source": "Saudi Gazette",
+     "time": "21:18",
+     "note": "Communications minister pitches compute access as partnership."
+    }
+   ]
+  },
+  {
+   "title": "AI power economics tighten: energy buys, siting backlash",
+   "signal": 62,
+   "summary": "Energy is becoming the binding constraint on AI scale. Anthropic bought $3.4bn of gas-fired generation, Digital Realty and Goodman raided a 9.9% stake in Australian data-centre firm NEXTDC, and US voters pushed back on data-centre buildout while the RBA flags AI demand adding near-term inflation pressure. Power, siting and community consent are now board-level AI risks.",
+   "angle": "The AI investment debate is shifting from 'who builds the model' to 'who can source power and permits'.",
+   "items": [
+    {
+     "title": "Digital Realty, Goodman buy 9.9% of NEXTDC in stock-market raid",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-08/digital-realty-goodman-buy-9-9-of-nextdc-in-stock-market-raid",
+     "source": "Bloomberg",
+     "time": "23:07",
+     "note": "Data-centre consolidation via an aftermarket raid in Australia."
+    },
+    {
+     "title": "Voters put the AI data-center boom on notice",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-08/voters-put-the-ai-data-center-boom-on-notice-video",
+     "source": "Bloomberg",
+     "time": "14:16",
+     "note": "Local backlash could disrupt buildout and hit indebted AI firms."
+    },
+    {
+     "title": "RBA's Hunter says AI boom will put near-term pressure on CPI",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-08/rba-s-hunter-says-ai-boom-will-put-near-term-pressure-on-prices",
+     "source": "Bloomberg",
+     "time": "22:30",
+     "note": "Central bank flags AI-linked demand as pro-inflation."
+    }
+   ]
+  },
+  {
+   "title": "DeepSeek agent platform hits 1.54M daily users",
+   "signal": 58,
+   "summary": "DeepSeek's AI-agent infrastructure reached 1.54 million daily users, a striking adoption figure from the Chinese open-source stack that keeps pressuring Anthropic and OpenAI on cost and openness. It underscores how open-source agent layers are capturing real, Silicon-Valley-scale usage.",
+   "angle": "Open-source agents are matching frontier labs on adopted scale — a data point for the inference price war.",
+   "items": [
+    {
+     "title": "DeepSeek's AI agent platform hits 1.54 million daily users",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
+     "source": "Bloomberg",
+     "time": "18:01",
+     "note": "1.54M daily users on the open-source agent stack."
+    }
+   ]
+  },
+  {
+   "title": "Agent AI finds flaws in 1,024-bit RSA",
+   "signal": 48,
+   "summary": "Google DeepMind reports its AI agents found two flaws in 1,024-bit RSA, a frontier-security signal that agents are doing real adversarial research. Paired with OpenAI's GPT-6 Cyber hacking model, it hints at a security landscape where agents both attack and defend.",
+   "angle": "Agents are reaching genuine security-research capability — CISOs should be watching this trajectory closely.",
+   "items": [
+    {
+     "title": "Google DeepMind says AI agents found two flaws in 1,024-bit RSA",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wek5Ra2NqTjAydEtmSnZRcXJIeHk3Y1BJcHlzRThtRWwxdE5FSVJkcVdCZzNFX1BkYllDWGRldFdqZVpsZC1uOVdOSGdFbVV6d2h3NWtNNUlKY3M?oc=5",
+     "source": "TOKENPOST",
+     "time": "14:53",
+     "note": "DeepMind agents reportedly found two RSA-1024 flaws."
+    },
+    {
+     "title": "Staff at US center for AI safety reporting to the White House, raising independence concerns",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdmZYc2w5LXZFeVMtNEtZWUR2cURFcUhqbVA4Rk5sNXZBVnlFOWdXZ3RSenBJVG5YLWwtM2hNUWcwaUo0aFVMdTNlLTdxQVRMM1k0RlBwSVJmMk1wbWRyeHdkX19nUGZ2TGhKdTl3eWxBdG10bU1iMHU1dTYxeGpYYk5rZF9JejdRbjllTGdSRW1FNUNnVHhiUzZITGxiRlk4OW95bkN6V0wwYzFWYXZFNWxkU1I2c1RLYzBMVnhlX2ZNaWUzQ3hIRDM4TzBhLXPSAdQBQVVfeXFMTnU1Q19ObTZjMTdYTHZseGk4ek1GMHNsaEs0REFFRE85Y013bzNmVU5PMXVOdk9KMWZZdUNkSlRJZ1VvN1FFdHRJY0llWmMySHJ3WThkYzFBcW1jSXhBSU1OV3cyRFZLYUxEQ09mdHRQNlllSmE3dU5TWjNWU1A2MGh4TC1rRm5lQzRiWlJOQmlNT3ZOaXphdWJ1ZXNLVmxWamNvcFdXODJlb0p3Y1VDbFlzTVdYRGZkY3ZsUHdGUGFWNXdQQnlGOThSVmNTaXhiS1NITFE?oc=5",
+     "source": "PBS",
+     "time": "18:05",
+     "note": "AI-safety staff now report to the West Wing — independence flagged."
+    }
+   ]
+  },
+  {
+   "title": "Apple pushes Siri toward true agentic AI",
+   "signal": 40,
+   "summary": "Apple is exploring turning Siri into a ChatGPT-style agent and pressing for greater AI progress at the executive level, amid a projected iOS 28 shake-up. A late but potentially structural entry into the consumer-agent race.",
+   "angle": "Apple's agent play could realign the consumer-assistant balance — watch execution, not timing.",
+   "items": [
+    {
+     "title": "Apple explores turning Siri AI into ChatGPT-dots-like agent; iOS 28 shake-up",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+     "source": "Bloomberg",
+     "time": "15:00",
+     "note": "Company wants Siri to become a true AI agent."
+    },
+    {
+     "title": "Apple CEO pushes for greater progress on AI",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaEFPMDdVaVY0cXkwZ3V6LWtkdGRIYklObXNTRXZ4dF9ETFNGT0tfNWxCUEpxZmtzQVNtSTRKQkpzcFhuX1NHbWxuWnc5Vjd1MUNvUWcyNHZ0T3ZHc1FKeGlLamtoaWRaclV6cmdmUzAtS0tOdUhrNXNXLXl4VV9kQUtXajVOQ1lESzAyNXFRTUx6QXlNOXlTYWhjUE9vYWd4RUlB?oc=5",
+     "source": "PYMNTS.com",
+     "time": "00:31",
+     "note": "Exec-level push for faster AI delivery."
+    }
+   ]
+  }
+ ]
+}

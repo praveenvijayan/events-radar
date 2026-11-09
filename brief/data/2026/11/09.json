@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T03:42:20+00:00",
+  "lead": "Quiet day: the strongest usable material is about changing how engineers work with coding agents, not a new model or supervisory requirement. Stanford’s CS146S course and Monaco’s engineering team both emphasise repository context, human review and learning to assess changes rather than accepting one-shot output. The separate Git-forge report describes repeated evaluation and explicit merge gates, but it is a secondary account of a product announcement and needs verification before an adoption decision. For your own engineering pilots, test whether these practices improve accepted changes and review quality without weakening existing controls.",
+  "items": [
+    {
+      "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+      "url": "https://latent.space/p/cs146s",
+      "also": [],
+      "source": "Latent Space",
+      "tier": 2,
+      "published": "2026-11-08T21:41:44+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 78,
+      "summary": "Stanford’s CS146S course now asks students to contribute to open-source projects, where maintainers review their patches; the interview says many prior exercises had become one-prompt tasks. Monaco’s AI engineering team uses Devin for code review and built its own agent workspaces for running the product, reproducing failures and testing patches; the article states no measured productivity result.",
+      "so_what": "Trial maintainer-style review and isolated agent workspaces in a bounded coding-agent pilot, measuring accepted changes, rework and defects rather than counting generated code.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Entire\u0027s Git Forge Rethinks Git Collaboration for Coding Agents",
+      "url": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents",
+      "also": [],
+      "source": "InfoQ — Architecture & Design",
+      "tier": 2,
+      "published": "2026-11-08T11:00:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 69,
+      "summary": "InfoQ reports that Entire’s forge runs review agents in cloud sandboxes and updates evaluation scores on each push, with repository-level gates requiring findings to be resolved or closed before merge. The report describes configurable checks for code quality, security and human-review needs, plus persistent repository and session context; pricing, availability regions and independently measured outcomes are not stated.",
+      "so_what": "Benchmark its repeated-evaluation and merge-gate pattern against your current CI and code-review controls, but verify the implementation and security boundary before adopting a new forge.",
+      "verify": true,
+      "off_list": null
+    }
+  ],
+  "watch": [],
+  "post_seed": null,
+  "sources": {
+    "ok": 146,
+    "total": 149,
+    "failed": [
+      "EDPB: HTTPError: HTTP Error 503: Service Unavailable",
+      "The New Stack — AI: HTTPError: HTTP Error 403: Forbidden",
+      "Azure Blog: TimeoutError: The read operation timed out"
+    ]
+  },
+  "candidates_seen": 27
+}

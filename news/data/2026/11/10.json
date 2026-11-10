@@ -1,0 +1,223 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T02:03:17.842019+00:00",
+ "themes": [
+  {
+   "title": "Nvidia's Huang spy scandal shakes the AI trade",
+   "signal": 82,
+   "summary": "Nvidia's board opened an investigation after CEO Jensen Huang admitted to an affair with an alleged China-linked spy, sending shares down 6.6% and triggering bipartisan Hill scrutiny plus a fresh push for chip export controls. The episode reframes the AI buildout as a single-point-of-failure risk around its most indispensable CEO.",
+   "angle": "The AI economy has no succession plan if its linchpin CEO becomes untouchable.",
+   "items": [
+    {
+     "title": "Nvidia shares fall as it probes alleged Chinese spy scandal",
+     "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "",
+     "note": "Board opened probe after Huang admitted affair; stock fell 6.6% per The Information."
+    },
+    {
+     "title": "AI's \"too big to fail\" CEO is facing a crisis with no backup",
+     "url": "https://www.axios.com/2026/11/09/jensen-huang-nvidia-ceo-crisis",
+     "source": "Axios",
+     "time": "",
+     "note": "Concentration-risk case: a ~$4.5T company built around a single leader now faces a leadership vacuum."
+    },
+    {
+     "title": "US Lawmakers Demand Details on Nvidia Amid Jensen Huang Scandal",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/us-lawmakers-demand-details-on-nvidia-amid-jensen-huang-scandal",
+     "source": "Bloomberg",
+     "time": "",
+     "note": "Bipartisan pressure escalates the affair to a national-security matter; export-control push likely next."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic files S-1 as it releases a frontier-model wave",
+   "signal": 74,
+   "summary": "Anthropic confirmed its long-expected US IPO with an SEC S-1 filing, landing alongside a coordinated launch of new frontier models and a public-benefit fund. Opus 5.5 and Haiku 5.5 target agentic coding and high-volume workloads at lower cost, framing economics as the battleground ahead of the listing.",
+   "angle": "The IPO is a referendum on whether frontier-lab economics can be proven before the market's patience runs out.",
+   "items": [
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Public filing confirmed; The Information reports the model wave lands as the IPO nears."
+    },
+    {
+     "title": "Introducing Claude Opus 5.5",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Flagship said to lead agentic coding and cost 40% less to run than Opus 5 on typical workloads."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Fastest small model, aimed at summarisation, subagents and browser use."
+    },
+    {
+     "title": "Investing in the public benefit",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Structures a growing public-benefit share stake ahead of the listing."
+    }
+   ]
+  },
+  {
+   "title": "Saudi Arabia funds $667m AI infrastructure push",
+   "signal": 68,
+   "summary": "PIF vehicle HUMAIN and the National Infrastructure Fund signed financing worth up to SAR2.5bn (~$667m) for AI compute and critical power infrastructure in Saudi Arabia, backing data-centre capacity of up to 1GW. The deal underlines how quickly the Kingdom is converting Vision 2030 ambition into concrete compute and energy assets.",
+   "angle": "Power, not chips, is the real constraint on Gulf AI buildout — and Saudi is financing it explicitly.",
+   "items": [
+    {
+     "title": "HUMAIN and Infra sign $667 million financing agreements to advance Saudi Arabia's AI infrastructure",
+     "url": "https://economymiddleeast.com/news/humain-and-infra-sign-667-million-financing-agreements-to-advance-saudi-arabias-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=humain-and-infra-sign-667-million-financing-agreements-to-advance-saudi-arabias-ai-infrastructure",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "SAR2.5bn deal for AI compute and power; 1GW data-centre capacity per Arabian Business; Arab News, Gulf Daily News and Zawya corroborated."
+    }
+   ]
+  },
+  {
+   "title": "Gulf governments lean hard into agentic, AI-native enterprise",
+   "signal": 64,
+   "summary": "The UAE AI Council is weighing a 50% agentic-AI shift across labour, energy and investment, while Abu Dhabi advances plans to become a first AI-native government and G42's US pivot invites questions about ownership. US midterm backlash is also testing Gulf AI ambitions in Washington.",
+   "angle": "GCC governments are becoming the primary buyers and architects of enterprise agentic AI — a market the West often underestimates.",
+   "items": [
+    {
+     "title": "UAE AI Council reviews 50 percent Agentic AI shift alongside labor, energy and investment priorities",
+     "url": "https://economymiddleeast.com/news/uae-ai-council-reviews-50-percent-agentic-ai-shift-alongside-labor-energy-and-investment-priorities/?utm_source=rss&utm_medium=rss&utm_campaign=uae-ai-council-reviews-50-percent-agentic-ai-shift-alongside-labor-energy-and-investment-priorities",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "A 50% agentic-AI adoption target is on the UAE's review table."
+    },
+    {
+     "title": "Inside Abu Dhabi's plan to become the first AI-native government",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUTBHeVlLU09vWTZTZXBNR294MGZRc1hsYjN6c2VXSzJJVmcxRUkya1VZN3NEY01lR080QzZic2Z4aHdTemlWU0pVYUJBOThBbnhmSFJOQmxsOXkyTVpjVGd6bEVOck1XQUd6eDlEYTBwRXljZ19XT0cwQUc4RkhqNS1RM1NSbVBmNzZTU2RxYlRnUUpVMFl0bmE4SzN5QmtQSkhNeXhNNA?oc=5",
+     "source": "Absolute Geeks",
+     "time": "",
+     "note": "(via GN) Abu Dhabi is positioning itself as the region's first AI-native government."
+    },
+    {
+     "title": "Will G42 become a US company?",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wMGhaRmNoYVQ2aXRHaXdDaXp2RkhCRDVLYmpIZHpwYy1IYVRsQmFaNjFPTXN6RDVkcmtheXR4UUl5cTcxb05VSlBKQ3FhMFhUWi03UFA5dTJyaEpMQ0dXQUtwZw?oc=5",
+     "source": "EnterpriseAM",
+     "time": "",
+     "note": "(via GN) A US pivot for G42 raises governance and national-champion questions."
+    },
+    {
+     "title": "US midterm backlash puts Gulf AI dreams to the test",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1ZYS2FhMy1HdEpDNnN6NU1QaWZDWUF2bFRPeW1JMGRoNURxZWJlWjRlWDI0V3VKblpPQzZvSG1hVTRSbG9KaFRFaGx6SnBVOE9FU0s0NHV6T3Fic2dEeHZ1ME5kUTVFQTFmb3N1Z2ZLdEZ6Y2FEb0tPM0pwR25WN0kySnJGcVJyelZOYjJjTnoyUGlZVHlBSg?oc=5",
+     "source": "AGBI",
+     "time": "",
+     "note": "(via GN) Washington politics could complicate Gulf access to US compute."
+    }
+   ]
+  },
+  {
+   "title": "Infrastructure: TPUs, safety rails and agentic coding",
+   "signal": 56,
+   "summary": "Google unveiled new TPUs it calls more powerful and secure, OpenAI shipped a Control Room system to halt unsafe model workloads, and CodeRabbit scaled agentic software delivery 20x. DeepMind also added AI drug-discovery tools, pointing to a platform-vs-lab race for infrastructure and enterprise workflow software.",
+   "angle": "The real contest is shifting from raw model quality to the rails and workflows around inference.",
+   "items": [
+    {
+     "title": "Google Announces New TPUs It Says Are More Powerful and Secure",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZjVMb2VDaERrYlJJc1RocEZiLVB2R3ZGLXJsajJPdXQ3X25nNWxKOWFhbWZfcXBQSTNZZTR5Y1ZuSThvLXVXeWt3SlRyR2Z2UjFKR0lENU9ObzAwTUl3TUp5TmRwc29Lc01wSFdnVk9fcjJBQ0s4MUV5Wi1DYmpiRVhObnpkaEZGZUQ4Y3IyT1U?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "(via GN) New TPU generation pitches security and power alongside performance."
+    },
+    {
+     "title": "Control Room: A central system to track and stop model workloads",
+     "url": "https://openai.com/index/control-room",
+     "source": "OpenAI",
+     "time": "",
+     "note": "Centralised kill-switch for research workloads when safety or security flags arise."
+    },
+    {
+     "title": "CodeRabbit scales agentic software development and ships 20x more",
+     "url": "https://openai.com/index/coderabbit-codex-daybreak",
+     "source": "OpenAI",
+     "time": "",
+     "note": "Customer case: 20x more software shipped by governing AI-written code."
+    },
+    {
+     "title": "Google DeepMind Adds AI Drug Discovery Tools to Antigravity Platform",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVS1OZUlRdlpaajhudU9xNHBncV9CUFFLTTNZLVFNSmJBZ1YwYU9WbmhhMjBYa0xMLTluVWZEVkd3V2c0dWxXMDNYYnhQMm1ja1BGdUhuNVVGM0p6Y3Z0VTBuMDh5LXFjanlocXZxYVI4Tlk5UXNueUJFNk1MTHpMVlhpeS10eXg0RWx6R284S2tSZ3BWa29RY3JoSmhtamhGNEc2Wg?oc=5",
+     "source": "Digital Health News",
+     "time": "",
+     "note": "(via GN) DeepMind pushes AI drug-discovery into its Antigravity platform."
+    }
+   ]
+  },
+  {
+   "title": "Security wake-up: hacks, RSA risk and enterprise AI sales",
+   "signal": 52,
+   "summary": "Fireworks AI told customers including Harvey about a second, more serious breach, DeepMind agents cut the cost of attacking legacy 1024-bit RSA, and Meta is courting consultancies to push AI into corporate accounts. The cluster underscores both escalating AI security exposure and a pivot to enterprise distribution.",
+   "angle": "Enterprise AI buyers now face a two-front risk: supply-chain breaches and the credibility of the models they deploy.",
+   "items": [
+    {
+     "title": "Fireworks AI told customers including Harvey of a second, more serious hack",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEpoUkNiNXVjd2FCV252T1BDMFp0RXgxZVBvcW1QeWZaTUp6VGJrb0w2ODNka3dSblpBZE9BRnBqYWpVZUVDMW1iVHBlMF9KSnBsbHd0YUhNcWQtOWlqMEdtN3dCNTVIczlrUnVpX3lWNE5XTmZ4ZWo5NnNWUFVGak1PMlJlT0laN1VMN1NaMExvUnZyZUxRNm55RnZPZmRPM2I5Q3pFclMwbkRIQWtLUzZBY2tKTlRsR0Fv?oc=5",
+     "source": "MLQ.ai",
+     "time": "",
+     "note": "(via GN) Second, more serious Fireworks AI incident disclosed to customers; reported by The Information."
+    },
+    {
+     "title": "Google DeepMind's AI agents cut the cost of two attacks on legacy 1024-bit RSA",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXdBd1g1T04yQjFRTTluZ2JpdXUtelBNbDJlRzRKTTlJMnd0aDRFNVZJcDluNHVoZlB2b09fRUo3eHRzWUZhY3RFQkJDcE54RkYxWUF5bEs4Z3RuZW9aUUFTSGotTjZxODJSY1JXaXRzdGNBdm5JRnJILVQ5MEFhU0hEQUFWVENfUVpIb096YzNzQXdwdExHV3pkYUJxZ2s?oc=5",
+     "source": "MLQ.ai",
+     "time": "",
+     "note": "(via GN) Agent-driven attacks lower the cost of breaking legacy RSA encryption."
+    },
+    {
+     "title": "Meta Forging Relationships With Consulting Firms to Sell AI Products to Corporate Customers",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOblZoYjRzLV9ybWtZSGdKVC1nMDk2QWN6YzhBREJLTWdqUV9ULXg5VGN2bms4NDhjc3IxTzlwckhfZHJnUEN1VktrMkxGbkJLTVlxLTVpbXZ3STJzQ25sQy10Sjd5RFpyeVdKNno5dUtNMkluMkxiX2ltR3NtbEpMTUhlbnpYeE9xMjVfQzA3ZFZUakRoUk4xQmkzNGgtTEFFaXh1aGdreWduRDNwRlZudXFsdy1DSXJYRXVheE1XZERPVkJ6eVFEZG9OM0o0QWJqWFJTdkgwWG5yRDAybGlJQzl1NWtRMVU?oc=5",
+     "source": "marketscreener.com",
+     "time": "",
+     "note": "(via GN) Meta taps consultancies to distribute AI into enterprise accounts."
+    }
+   ]
+  },
+  {
+   "title": "Capital pivots as the AI sell-off bites",
+   "signal": 46,
+   "summary": "Altimeter is raising $3bn+ for private markets, SoftBank's giant bet is under pressure from the tech sell-off, and two China chipmakers hit Hong Kong public markets. Meanwhile Gulf sovereign funds committed a record $53.9bn in H1 2026 with tech the top sector, recalibrating the global capital map.",
+   "angle": "As Western AI valuations wobble, sovereign and private capital are re-pricing both risk and geography.",
+   "items": [
+    {
+     "title": "OpenAI Backer Altimeter Targets More Than $3 Billion for Private Markets Funds",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-backer-altimeter-targets-more-than-3-billion-for-private-markets-funds",
+     "source": "Bloomberg",
+     "time": "",
+     "note": "Targets $2.5bn VC fund for late-stage, pre-IPO companies."
+    },
+    {
+     "title": "What Western wealth managers get wrong about Gulf capital",
+     "url": "https://economymiddleeast.com/news/what-western-wealth-managers-get-wrong-about-gulf-capital/?utm_source=rss&utm_medium=rss&utm_campaign=what-western-wealth-managers-get-wrong-about-gulf-capital",
+     "source": "Economy Middle East",
+     "time": "",
+     "note": "GCC sovereigns committed a record $53.9bn across 108 deals in H1 2026; tech the top sector."
+    },
+    {
+     "title": "Tech sell-off raises risks for SoftBank's massive AI bet",
+     "url": "https://www.ft.com/content/e19c86dc-9437-4827-a5ae-14bd4033037b?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "",
+     "note": "Masayoshi Son's holding values fall ahead of earnings."
+    },
+    {
+     "title": "China Chipmakers to Debut in HK in Test of Tech Stock Demand",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand",
+     "source": "Bloomberg",
+     "time": "",
+     "note": "Two chip suppliers raise a combined $301m in Hong Kong IPOs."
+    }
+   ]
+  }
+ ]
+}

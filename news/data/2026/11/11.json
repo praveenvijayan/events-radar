@@ -1,0 +1,365 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T02:00:16.683580+00:00",
+ "themes": [
+  {
+   "title": "Anthropic mega-IPO targets $1.4tn",
+   "signal": 95,
+   "summary": "Anthropic is aiming for a valuation of up to $1.4tn in its IPO, raising as much as $64bn, and bankers are already preparing to lift the target to $1.5tn or more on strong demand. Goldman Sachs projects revenue above $600bn by 2030, and early investors are shopping allocations at a premium ahead of the largest public listing on record.",
+   "angle": "The public markets are about to set the benchmark price for all of AI.",
+   "items": [
+    {
+     "title": "Anthropic targets valuation of up to $1.4tn in IPO",
+     "url": "https://www.ft.com/content/5654e210-4be3-4550-b975-129c9a2e7fe5?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "13:07",
+     "note": "FT: Claude maker targets up to $1.4tn valuation and up to $64bn raised."
+    },
+    {
+     "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+     "url": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:27",
+     "note": "FT: bankers now expect the final listing price to exceed $1.5tn."
+    },
+    {
+     "title": "Anthropic Investors Shop IPO Shares Early, and at a Premium",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium",
+     "source": "Bloomberg Technology",
+     "time": "20:58",
+     "note": "Bloomberg: backers are selling IPO allocations early at a premium."
+    },
+    {
+     "title": "Goldman Sachs expects Anthropic revenue to exceed $600bn by 2030",
+     "url": "https://www.ft.com/content/fd209548-d2df-470c-ab9a-caadbec08b58?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:52",
+     "note": "FT: Goldman projects Anthropic revenue above $600bn by 2030."
+    },
+    {
+     "title": "Anthropic launches roadshow for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/roadshow-launch",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic: official IPO roadshow has begun."
+    },
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic: S-1 filed with the SEC, confirming listing intent."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia CEO crisis deepens over China ties",
+   "signal": 90,
+   "summary": "Nvidia has brought in a former US prosecutor from Wachtell to lead an internal investigation into CEO Jensen Huang, while the US Commerce Department delays blacklisting a company linked to the alleged spy at the centre of the affair. Reuters reports widening scrutiny of Nvidia China chip ties; Axios argues the political backlash could force the AI slowdown that industry leaders could not self-impose.",
+   "angle": "Key-person and export-policy risk now sit on the same Nvidia balance sheet.",
+   "items": [
+    {
+     "title": "Nvidia hires former US prosecutor at Wachtell to lead Jensen Huang probe",
+     "url": "https://www.ft.com/content/8d59bf02-960e-4eb1-b5dc-55397e31cea5?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "19:24",
+     "note": "FT: former acting SDNY head tapped to investigate Huang affair."
+    },
+    {
+     "title": "The Nvidia investor’s guide to (maybe) losing your CEO",
+     "url": "https://www.ft.com/content/c31c88c5-935c-42fb-bad0-408325a1de0b?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:30",
+     "note": "FT: analysis of what Nvidia loses if Huang is forced out."
+    },
+    {
+     "title": "US commerce department delays Megaspeed’s inclusion on trade blacklist",
+     "url": "https://www.ft.com/content/afb6c960-a910-4d67-9588-73ba3bea5b06?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:05",
+     "note": "FT: Commerce leaves Megaspeed off the entity list for now."
+    },
+    {
+     "title": "Alice Huang’s tangled web of connections",
+     "url": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "16:17",
+     "note": "FT: profile of the executive alleged to be a Chinese spy."
+    },
+    {
+     "title": "Nvidia faces deepening scrutiny over China chip ties, CEO affair - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWZQSk5PbzdVdVhLaVFuakFlTy16TkhEdzcyaDJ6dmQyeDh1UFpBWFk3VjNrT24yZDgtNVU3cUZZODZyTFNxS3JScWdYWmxzcGFLOHNvVEJWSlBVckZHelJDcENpb0t1QkVyRkNON2hXX2hjcWRHN3piNFJxVWRDSEN3VHRWNVJZdHVRUHlhbFVUQ242emtCUXl5cmV4RVlnSWNjeEU1UklHZ3pBWGNCNUo5clRaWkVjRjNJUnVMbmlhUQ?oc=5",
+     "source": "Reuters",
+     "time": "11:11",
+     "note": "Reuters: scrutiny widens over China chip ties and the CEO affair."
+    },
+    {
+     "title": "AI stocks bounce back — with one notable exception",
+     "url": "https://www.axios.com/2026/11/10/ai-stocks-nvidia-broadcom",
+     "source": "Axios AI+",
+     "time": "10:10",
+     "note": "Axios: AI trade bounced back Monday, with Nvidia the exception."
+    },
+    {
+     "title": "How Nvidia's crisis and politics could deliver the pause AI leaders want",
+     "url": "https://www.axios.com/2026/11/10/ai-race-politics-slowdown",
+     "source": "Axios AI+",
+     "time": "10:15",
+     "note": "Axios: backlash plus Nvidia crisis could deliver the industry pause."
+    }
+   ]
+  },
+  {
+   "title": "HUMAIN lands $667M for Saudi AI infra",
+   "signal": 85,
+   "summary": "PIF-backed HUMAIN and Saudi Infra signed $667m in financing agreements to advance Saudi Arabia AI infrastructure, supporting up to 1GW of data-centre capacity. The deal was reported in concert by Arabian Business, Asharq Al-Awsat, ZAWYA, TradeArabia and Fast Company Middle East - a rare regional consensus on a single financing event.",
+   "angle": "Saudi is financing AI compute like infrastructure debt - not venture equity.",
+   "items": [
+    {
+     "title": "Saudi’s Infra & HUMAIN Sign USD 667M in Financing Agreements to Advance AI Infrastructure - waya.media",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV1FTVVFxakE4aXdaQVc2QlpuckZ6SFlRUXRXZlhQenRIRWxRRnI2RVh0aWFVckxudVB2a3pnTTk3N1ZoWG1rc3Y4M0lFWlBqY2pJTzBNTEZiZ19OanJoWElPUE9lR2Zsejc0WVJxVl9pcFJsODdvZkk5WGlKWUNzTmg3czg2Qkx5anp5cGtnUno2bnpmQ3U2aUdnMFFNUG9TVVNPMUR3Uzk0dw?oc=5",
+     "source": "waya.media",
+     "time": "11:21",
+     "note": "waya.media: Infra and HUMAIN sign $667m financing accords for AI infrastructure."
+    },
+    {
+     "title": "PIF-backed HUMAIN secures $667 million for Saudi AI infrastructure expansion - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGt1eFlNdXRURHBZa3FFREhCQnZxbDdwNXJNYUhyeXo5RXBrb0sxR3ptU3VFb0lwSzdOclJhV2prbC0xdFRBRkxCdk1zQ05VM1J4dy15TVRpQmZrOUEyRjRkSjgwOFk3OXRTelpsaGVCWUVIZThBSmp5TVRJdnMyRFV2RlAyYnotTTgydzhrV3RtWXlZVkNTSnNXUDZabElfQnR0WDFIN29Vc28?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "11:02",
+     "note": "Fast Co ME: PIF-backed HUMAIN secures $667m for Saudi AI expansion."
+    },
+    {
+     "title": "HUMAIN Secures $667 Million Infra Financing to Advance Saudi Arabia’s AI Infrastructure - ASHARQ AL-AWSAT English",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONUVJQ0NWNUVIRnIxaXlDVmtaYzRuTzR4MTJpVnNOZFpnTGM0M2M4RjFrTERGY25tUW5Yc2ZSMXJ5UE5oUzQ0ZWpXWVA5RzNhUERpN1M1VDZXUTB2RWR6eGZFN0w4aURsN1daYlFtLVRxTUhDdk1mOUx1UG9CcHN1V1ViR0Y5dC00M2VPcEY1UjNGWVJIMlRINXhkRW9QaHViNG1acE9pQ3FIOHRmdVI0U193U00zY0VNdjRJNA?oc=5",
+     "source": "ASHARQ AL-AWSAT English",
+     "time": "06:29",
+     "note": "Asharq: HUMAIN secures $667m infra financing for Saudi AI."
+    },
+    {
+     "title": "Infra, Humain ink $667m financing deals for Saudi AI infrastructure - TradeArabia",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHJKU052U1RsQlpJenBUYUZEdmszak42LXJHMlFQT25XQk1XSUp5NGVuY095TGxoQ2JJaXFNdFFuUGFQdFgtZklTMHdIYkZJZ1dwUTBsWUxLM0dsMnNxSHZZVU91aW0yN0hZemZPeVJHNGw4T3d5VTNKN0JTcGFiS3lHVDNKaEhKelJVVVdvTTNOZllqcWNwYV9HMl9FREFEQUUzcG4wemJXY2s?oc=5",
+     "source": "TradeArabia",
+     "time": "03:07",
+     "note": "TradeArabia: new financing deals target Saudi AI infrastructure."
+    },
+    {
+     "title": "ZAWYA: Infra, Humain ink $667mln financing deals for Saudi AI infrastructure - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMlVVdy1saTd0MlYtSVFNa3ZtVzdzaVhwcjJoSkp1RmpqZEJ4WjR6MlQ1aHBlN1ptdU4wbzd0UC1kdjJQRFNIZHJ6Nno4ODhEV0ZiRDI5VXlYalBfLUYxb0s2cUJRb3lEVGN3bTBmeHBLY1owZkFQdG12MjVwZHlkOFllbmhxaU5TWjcxOW9IZVkyRXVBVDlGbXVOY2psNXlFSW84S0d6THR2Q3ZMVDREcVltd0RGZFdSekwySGtIREpNQ0VueTNjeGtkMzRFWGxReXVMMDlsUFBTMm1nOUJ6SmhaSQ?oc=5",
+     "source": "TradingView",
+     "time": "03:40",
+     "note": "ZAWYA via TradingView: reports the $667m financing agreements."
+    },
+    {
+     "title": "Saudi Arabia signs $667m AI infrastructure financing deals to support 1GW data centre capacity - Arabian Business",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWkdiRWxDVmNGdUJKQnpoVkJ1dXJvUFFDbGhUbGJrX1pYd01KdUM5MGcwQ0lqMzZUTWtVVW5NWWFiaGlDNFpzMGpnOWFBZkY0SlZZaUhYLXlOSVhSQjNXejlCSnFkTjhpNHJEVE53OXVFeEEwYmNYSEFXUHFBNXlzdmhPVFZNeEhKVFY3RWtiQkR6NW8?oc=5",
+     "source": "Arabian Business",
+     "time": "20:38",
+     "note": "Arabian Business: financing supports up to 1GW of data-centre capacity."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI Q3 revenue hits $10B",
+   "signal": 75,
+   "summary": "OpenAI crossed $10bn in quarterly revenue for the first time in the three months ending September, up nearly 50%, on demand for its newest software. It also launched ChatGPT for Businesses, letting companies manage their public presence and convert interest inside the product.",
+   "angle": "Frontier-lab revenue is converging on SaaS economics at unprecedented scale.",
+   "items": [
+    {
+     "title": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
+     "source": "Bloomberg Technology",
+     "time": "22:33",
+     "note": "Bloomberg: first $10bn quarter, nearly 50% growth, per sources."
+    },
+    {
+     "title": "Introducing Businesses in ChatGPT",
+     "url": "https://openai.com/index/introducing-businesses-chatgpt",
+     "source": "OpenAI News",
+     "time": "10:00",
+     "note": "OpenAI: new business-management features inside ChatGPT."
+    }
+   ]
+  },
+  {
+   "title": "Gemini Robotics 2.5 hits factory floor",
+   "signal": 70,
+   "summary": "Google DeepMind released Gemini Robotics 2.5, aimed at physical intelligence for industrial work. In a Mercedes-Benz assembly pilot it scored 96% sorting metal parts, and Ars Technica frames the release as the lab's most consequential robotics step yet.",
+   "angle": "Physical AI is moving from demos into manufacturing acceptance criteria.",
+   "items": [
+    {
+     "title": "Gemini Robotics 2.5: Accelerating Physical Intelligence - Google DeepMind",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnFDRm1lR21jZXRpR2JUak1nSUpZeU9jSXkzRFVfanhaVll4clRtdWUyZzZFeXcwb2ZiS0NsUmoxaFZkcDlGbnJqa2lIM2hBdmNqb0hPTWl4UWc2LXFXcmRPbHF4Q2VzZWQ2UG96Y1FrUzE3dkVUT0dvNHkzLWN0Y25ZR3V1SVE0TGxxb1U5YVNfRUJxc25iaVZR?oc=5",
+     "source": "Google DeepMind",
+     "time": "15:00",
+     "note": "DeepMind blog: new robotics model targets physical-intelligence tasks."
+    },
+    {
+     "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot - The Decoder",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcmRqU3ZKV18yQjhGX3RoR3luNUhCYVBwRU51b2lRV1ZqUkNYUW1yX1I0dTFJWlVaVENhMk1IQTlQbk9BcGkxVWd0aGFSbGFQbXJMZWFldDk3S2VPYnhGa2p3MUYtcXFUcUszQ0RlNkJpNk9aMVg2NjN0a1BZak9nbUpTVkpnZFBfeHZyMW9XWlQ2R19zR2hwMU1rMF9NNk1qenNrT0t4aVBJSDN1elVhUFVPR1A5dTk3eW05QUFJa0dCa0J6NEpRSVBIZVQ5dw?oc=5",
+     "source": "The Decoder",
+     "time": "17:11",
+     "note": "The Decoder: 96% accuracy sorting parts in Mercedes-Benz pilot."
+    },
+    {
+     "title": "Google DeepMind unveils new AI version for robots — Ars Technica - UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUlpLMWNCQWRxVDlfQlhxNVU4UFViVHJtc1pRR2FnMVpubGxvaXhVTVhKRmNVRjEzM1J2UE02YjdjdWxEYVFTVy0wUG9pNW5fS0J2NUtSaHdBb2ZnS1ViS095SVJ6Nnh5aUNOazZydUp1cTd5aGVpcEJSRVBES3BtWXlQNVp1djZpOGs4Q0VGN2Q2dVhmcmNBTGtPLU5WWDNPSnkwNHhR?oc=5",
+     "source": "UA.NEWS",
+     "time": "15:34",
+     "note": "Ars Technica via UA.NEWS: DeepMind unveils next robotics model."
+    }
+   ]
+  },
+  {
+   "title": "AI capex check: SoftBank, CoreWeave",
+   "signal": 65,
+   "summary": "SoftBank posted its first net loss in nearly two years - $7bn - after a $3.7bn writedown on US data-centre projects. CoreWeave countered the narrative by raising its annual forecast and planning a multibillion-dollar chip-backed debt deal, while US regulators postponed trading in AI computing futures over manipulation concerns.",
+   "angle": "The financing layer of the AI buildout is where the risk now lives.",
+   "items": [
+    {
+     "title": "SoftBank slumps to $7bn loss on US data centre writedown",
+     "url": "https://www.ft.com/content/5ceed157-0016-4822-a272-8b607911da5e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "10:55",
+     "note": "FT: first loss in two years, blamed on evolving US project requirements."
+    },
+    {
+     "title": "SoftBank Loses $7 Billion After Big US Data Center Writedown",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son",
+     "source": "Bloomberg Technology",
+     "time": "06:35",
+     "note": "Bloomberg: $3.7bn writedown on US data centres drove the loss."
+    },
+    {
+     "title": "CoreWeave Quiets Doubts About AI Business With Upbeat Outlook",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown",
+     "source": "Bloomberg Technology",
+     "time": "21:13",
+     "note": "Bloomberg: CoreWeave eased slowdown fears with an upbeat outlook."
+    },
+    {
+     "title": "CoreWeave plans multibillion-dollar chip-backed debt deal",
+     "url": "https://www.ft.com/content/fa5c5bdc-c2b0-4fab-8951-0526a4608773?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:01",
+     "note": "FT: CoreWeave moves to chip-backed debt and customer pre-payments."
+    },
+    {
+     "title": "US regulator postpones Wall Street push to trade AI computing futures",
+     "url": "https://www.ft.com/content/269b0245-44c4-4e34-94df-202bef642539?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "19:58",
+     "note": "FT: CFTC postpones AI-computing-futures push over price-manipulation worries."
+    }
+   ]
+  },
+  {
+   "title": "DeepMind verifies Signal with Gemini",
+   "signal": 60,
+   "summary": "Google DeepMind used AI agents to formally verify core guarantees of the Signal protocol, publicly proving parts of its encryption after roughly four weeks of machine-driven work. Axios calls it a step toward hacker-proof software; WIRED and The Register cover the human-AI verification setup.",
+   "angle": "AI proving its own security stack is a new enterprise trust milestone.",
+   "items": [
+    {
+     "title": "Formal Verification of Signal’s Protocol with Gemini - Google DeepMind",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5",
+     "source": "Google DeepMind",
+     "time": "12:07",
+     "note": "DeepMind blog: Gemini formally verified Signal protocol guarantees."
+    },
+    {
+     "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure - WIRED",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSV9UXzJZbldTTW1URGM4UVozZGNvMTlrZldGaWR1Y3ZjTngwa0JTdVVxWURJcDdsd3kxUjd6bWRZUFBkemdIMjdYX1ZsUExYY1Y0X2pMdTJDVy01WDBfdzZTN0RQblloam5VbUpNU3FzeV9FUWtaS3c1N3pobFBJUk1RMlo3bEk0MFFobVptODFNUWcxRW9wbHRUcWpJcXNCTldn?oc=5",
+     "source": "WIRED",
+     "time": "05:01",
+     "note": "WIRED: tool proved the Signal protocol secure."
+    },
+    {
+     "title": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software - Axios",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lMHgwMGdCNDctazFZY0ZnZTRVYlhSWGxTWkU3a0RRcDN1cVdJMXNZeUNEeGJsYzUxdW5zd24tb3FWRlVKV1R5dGctdGFubHJaSzhicGRfT1Jrcl9QQ3U2dVppR2VnN0JXWFY0cnFTLUliQQ?oc=5",
+     "source": "Axios",
+     "time": "12:29",
+     "note": "Axios: a step toward 'unhackable' software."
+    },
+    {
+     "title": "Google DeepMind melds humans and AI agents to vet Signal's secure messaging techniques - The Register",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQk5RbnFlVndUdjNPMGhlS0h3bFc1UkMxNmRCQk1QNXBYY1MxeUMweWxuRWliS2FsR2ttT2l1OGZ2b01ONTUzRkZ5LUpWM0pPZWl1T2pTWTlzTDV2Y1cxZEI5ZmMwMHZMVl80ZU1GejV4RDJjUm9fZEtmeG5iSWpHa1NQRWlIZ3BETXp1WktleVRXOFRBcGVwNkVZdGJFZFFoNzZwczJtV0FPUGh6Zm5kaFcwSENsNXgxcGpGOHI0UWpXWndLTWdxR2RxdTVLQ2kzd3lKcGpNaGVCUQ?oc=5",
+     "source": "The Register",
+     "time": "12:00",
+     "note": "The Register: humans and AI agents collaborated on the verification."
+    },
+    {
+     "title": "Google DeepMind's AI proves key Signal protocol guarantees in four weeks - Startup Fortune",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNEFHbVh3RGNyZUtleV9mWWRZbHltRDFJdEluOVVOTVU4LWFXOThDN2pLWlFYbmJKT2VNVU5sbGZ3VmhlcUpPZnBxRmZfamE1QllNLXFPMkxWT2NZTU9LaVdubEpTWl9PaGIyZ25TQmduS3FpV0NwOUN1dWFxQ0VhMXBsX2VmMUxQdTNoMDFQMkNpakk3SXhGZWo2ZGJQUlBC?oc=5",
+     "source": "Startup Fortune",
+     "time": "08:05",
+     "note": "Startup Fortune: key guarantees proved in four weeks."
+    }
+   ]
+  },
+  {
+   "title": "UAE-Saudi AI policy and compute watch",
+   "signal": 58,
+   "summary": "Abu Dhabi's Crown Prince approved a 2026-2031 National Genomics Masterplan, and Abu Dhabi said AI and flexible energy tech lifted system efficiency over 10%. Abu Dhabi AI firm AIQ partnered on AI-powered offshore security, and the UAE joined a children's AI-safety declaration. AGBI reads Wall Street's growing Gulf-SWF ties as a structural shift in AI capital flows.",
+   "angle": "GCC AI policy is compounding daily: genomics, energy, security, safety.",
+   "items": [
+    {
+     "title": "Sheikh Khaled approves 2026-2031 National Genomics Masterplan",
+     "url": "https://economymiddleeast.com/news/sheikh-khaled-approves-2026-2031-national-genomics-masterplan/?utm_source=rss&utm_medium=rss&utm_campaign=sheikh-khaled-approves-2026-2031-national-genomics-masterplan",
+     "source": "Economy Middle East",
+     "time": "15:59",
+     "note": "Economy Middle East: Sheikh Khaled approves national genomics plan."
+    },
+    {
+     "title": "Abu Dhabi boosts energy system efficiency by over 10 percent as AI, mobile power and water solutions advance",
+     "url": "https://economymiddleeast.com/news/abu-dhabi-boosts-energy-system-efficiency-by-over-10-percent-as-ai-mobile-power-and-water-solutions-advance/?utm_source=rss&utm_medium=rss&utm_campaign=abu-dhabi-boosts-energy-system-efficiency-by-over-10-percent-as-ai-mobile-power-and-water-solutions-advance",
+     "source": "Economy Middle East",
+     "time": "12:16",
+     "note": "Economy Middle East: AI and flexible power lift Abu Dhabi efficiency 10%+."
+    },
+    {
+     "title": "AIQ, Quartermaster Join Forces on AI-Powered Offshore Security - MarineLink",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMkd1aFRzUUd1dkNWZVFYTE9TaTJoMm8yTTNkbmRJdVRvWVJvYTZOWlBmaHpyaEk5aXVLc0FZZGhMejlXUEJhWTBzbDV2a1IwN05Ba0o2N1ZmN01kUE56MjY4c3pmUFJVc0pldVVIUTY1Ul9ZTFdnYlY3eUhmbzBicHpOUWk?oc=5",
+     "source": "MarineLink",
+     "time": "11:54",
+     "note": "MarineLink: AIQ and Quartermaster partner on AI offshore security."
+    },
+    {
+     "title": "UAE and dozens of countries sign AI safety declaration for children — The National - UA.NEWS",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3ZoeUZMcjdaLTgyNkhVZHJGZWNYY0ZjZDlfcm9jT3NLX3E2eDQ0c1BkOWcyajFoTTZrMm9ZbjBNNW5kYk01Sy1sRFF0MHdjSjhyUm5SMUNjOXh2dWtMNXBPY19yUWsydnhoYUpfVmYzNHJJZmhYaV93WG9UbV9Pei01RUZiUV9sc2ROR3FMTm5BQU1JalNiYkc4S3E1YVpOZVpnRkFYb3VLWTRkemw2WUxLZERJN1JGSGc?oc=5",
+     "source": "UA.NEWS",
+     "time": "13:41",
+     "note": "The National via UA.NEWS: UAE among dozens signing children AI-safety pact."
+    },
+    {
+     "title": "5.1 billion dollars in a week.. How did Saudi Arabia become a hub for Gulf capital in artificial intelligence? - entARABI",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblZTOU81Ym8wa3RCOWVOVVRiOEllME84UHVXZUEzM2hmVWxaWkNiZHQwU2xKSzRMVG04OURWZ0NzSnRXWVZ1Z2t5Q2dOOVY1ZXQ3TURCMWd2UHJNLU9QLU55V2dfQm5VOUxSUEtvNzRQU09VMlA2ZVl1XzJGRklPQS1sWDVlQ0JGWlYwZl9FcUxIVDFDUEpuOGYzZ2xic285d0NsR3dwRGM?oc=5",
+     "source": "entARABI",
+     "time": "15:02",
+     "note": "entARABI: Saudi drew $5.1bn in Gulf AI capital in one week."
+    },
+    {
+     "title": "Wall Street shifts from courtier to partner of Gulf sovereign wealth - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVDZ6LXJBRVJOc3VYT0E1M2dkcVBIU2haX3lIYjI1SHlMUWV3azdSQkhPTDQ4S2lvcTk0MjJnSFlzei0yOXN3dGhDYmprUTF5RXl6dzdJRk8zT1M1M3Z6SGJlazF4T1IyZ29WX1U2ZHpjR2piYzJrTnhJMDRLeTNVSnVJYy0zYXNWRDRTV1g2LUtHRlU2ZDNENnFEbG1HVUtaOEJqbnlUUlVQS1FhUEgtcVlWa3R5TVZRTXZNTWhHcWE?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "AGBI: Wall Street shifts from courtier to partner of Gulf sovereign wealth."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI buys AI travel agent Odessia",
+   "signal": 55,
+   "summary": "OpenAI acquired Odessia, an AI travel agent, extending its push into vertical agentic applications where a model books and manages travel end-to-end. The Information reported the deal.",
+   "angle": "Frontier labs are buying vertical agents rather than building them.",
+   "items": [
+    {
+     "title": "OpenAI Acquires AI Travel Agent Odessia - The Information",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYXZGTWs3akI4NHc2ZkJ0WUp0djlMeHlQVVk4MXc1Ym9zWVpvTnVCVnI2dlU5TW00WTBKajlheWRsZm1IVDdVTG90ZXB3U09kN1hNbVVDellsd0lBSzJRSG9XUG1sVTN6VUJGSHF1QmkyUXFHT2tNTFQ4NzM4YXZfTGMwSFNOMjA?oc=5",
+     "source": "The Information",
+     "time": "18:39",
+     "note": "The Information: OpenAI acquires AI travel agent Odessia."
+    }
+   ]
+  }
+ ]
+}

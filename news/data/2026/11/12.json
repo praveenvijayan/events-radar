@@ -1,0 +1,400 @@
+{
+ "date": "2026-11-12",
+ "generated_at": "2026-11-12T02:00:16.384909+00:00",
+ "themes": [
+  {
+   "title": "Anthropic IPO: Gulf capital's AI reckoning",
+   "signal": 85,
+   "summary": "Anthropic is on a formal roadshow after filing its S-1, and the whole AI complex is watching price discovery. Axios calls the past week the industry's worst, with IPO targets falling short of expectations, and Copper Sky's Jack Selby warns a lock-up could trigger a broad correction. For Gulf-linked investors the listing is doubly significant, since Anthropic is backed by regional capital that now faces a market reckoning.",
+   "angle": "The AI sector's most-watched liquidity event doubles as a confidence test for the entire capex cycle.",
+   "items": [
+    {
+     "title": "Anthropic launches roadshow for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/roadshow-launch",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Official roadshow is under way after the S-1 filing."
+    },
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Listing paperwork formally on file with the SEC."
+    },
+    {
+     "title": "The AI industry's week from hell",
+     "url": "https://www.axios.com/2026/11/11/anthropic-ipo-ai-nvidia-midterms",
+     "source": "Axios AI+",
+     "time": "10:20",
+     "note": "Axios sums up a week of political, market and scandal-driven stress on AI."
+    },
+    {
+     "title": "Anthropic IPO Risks Causing AI Correction, Selby Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+     "source": "Bloomberg Technology",
+     "time": "06:13",
+     "note": "Copper Sky's Selby: IPO lock-up could reverse the AI trade."
+    },
+    {
+     "title": "The Anthropic-OpenAI Valuation Gap - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmxKdGxGRzFhN2ZseTdPTmM1X3JVVTNjNmNtOGFOUzdGYTZYN2piUEZ1LWxiV0FWVHFTdWNTbVYwR1NMV2ZJeTVVRlpOQWUzdU1YVXl0OENFcmhNREFkX0hOSFc1TUZSbEtKXzhEQ2pTVUo4cElUUHBnZ0dHLXNxaUNtODQ0dC1oSThj?oc=5",
+     "source": "The Information",
+     "time": "00:11",
+     "note": "Analysts weigh Anthropic's pricing against OpenAI's multiple."
+    },
+    {
+     "title": "Gulf-backed Anthropic faces its market reckoning - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZnpJREpyVUJDVWJkektsa3FFSXI5MS11bTVoa0l2REpxT09rUWNXVjE5X2x4eTRDejJvVEtxc1pJWWxkWjg5UVZkaWVySlktVzlrVEdmV3BseDJ4S2lJWUJId0pCaXp4OWRsQXh3dDNpdWpyejV2NWR4WjVQQmxoTXdIenRyd0FaZXItQmNHRGNNWFNobHVEMWpNVQ?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "Regional press frames the IPO as a test for Gulf-linked AI capital."
+    },
+    {
+     "title": "Hosin, Amicro Set to Trade in Hong Kong as IPOs Gather Pace",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
+     "source": "Bloomberg Technology",
+     "time": "23:00",
+     "note": "Hong Kong tech IPOs test appetite ahead of Anthropic's listing."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia board weighs Jensen Huang's fate",
+   "signal": 80,
+   "summary": "Nvidia's board is meeting to decide CEO Jensen Huang's future after he admitted an affair with a subordinate whom US officials reportedly believe to be a Chinese spy; the woman has since returned to Beijing. The board has engaged an outside firm to identify replacements. Some market voices argue the AI roadmap outlives any CEO change, but the episode injects governance and geopolitical risk into the company at the centre of global AI capex.",
+   "angle": "A governance scandal at AI's keystone supplier becomes a board-level, geopolitical and market story at once.",
+   "items": [
+    {
+     "title": "Nvidia board to decide Jensen Huang’s fate after revelation of affair with subordinate",
+     "url": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "01:13",
+     "note": "Pressure mounting on Huang days after the affair claims surfaced."
+    },
+    {
+     "title": "Nvidia Board Meets on Huang’s Fate After Affair With Alleged Spy",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-board-meets-on-huang-s-fate-after-affair-with-alleged-spy",
+     "source": "Bloomberg Technology",
+     "time": "23:28",
+     "note": "Board convened; Huang admitted the affair, US officials reportedly doubt the woman."
+    },
+    {
+     "title": "Alleged Chinese Spy at Center of Nvidia Firestorm Is in Beijing",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/alleged-chinese-spy-at-center-of-nvidia-firestorm-is-in-beijing",
+     "source": "Bloomberg Technology",
+     "time": "01:19",
+     "note": "The woman at the centre of the scandal has returned to China."
+    },
+    {
+     "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
+     "source": "Bloomberg Technology",
+     "time": "23:46",
+     "note": "An outside firm is vetting potential replacements."
+    },
+    {
+     "title": "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5",
+     "source": "The New York Times",
+     "time": "01:07",
+     "note": "NYT reporting says the relationship involved a direct-report executive."
+    },
+    {
+     "title": "Nvidia’s CEO Change Won’t Derail AI Trade: Pepperstone",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-s-ceo-change-won-t-derail-ai-trade-pepperstone-video",
+     "source": "Bloomberg Technology",
+     "time": "00:40",
+     "note": "Contrarian take: product roadmap and AI direction outlive leadership."
+    }
+   ]
+  },
+  {
+   "title": "AI datacentre build-out hits a political wall",
+   "signal": 75,
+   "summary": "The AI infrastructure boom is colliding with politics and credit markets. FT reports Democrats threatening the data-centre build-out after the midterm blue wave, while power-stock fear and Alphabet's inaugural Asian bond sale signal investor strain. Gary Marcus argues the sector is probably overbuilding entirely. For GCC data-centre ambitions, the US financing environment is the swing factor.",
+   "angle": "The build-out's bottleneck has moved from chips to politics and credit.",
+   "items": [
+    {
+     "title": "AI jitters erupt after Democrats threaten data centre build-out",
+     "url": "https://www.ft.com/content/895a17ab-4fa7-45ab-9347-c6108352c690",
+     "source": "FT Technology",
+     "time": "01:00",
+     "note": "Midterm result raises threat to the construction boom."
+    },
+    {
+     "title": "‘Fear factor’ hits the AI power boom",
+     "url": "https://www.ft.com/content/1bf39007-d0c1-441c-8a87-906c5284bd1a?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "11:00",
+     "note": "Power shares slide even as data-centre spending stays heavy."
+    },
+    {
+     "title": "Alphabet Kicks Off Asia Bond Sale as AI Firms Face Scrutiny",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/alphabet-kicks-off-asia-bond-sale-as-ai-firms-face-scrutiny",
+     "source": "Bloomberg Technology",
+     "time": "01:12",
+     "note": "Inaugural Hong Kong and Singapore dollar bond sale tests AI-era appetite."
+    },
+    {
+     "title": "Can markets find the AI cash?",
+     "url": "https://www.ft.com/content/324ba152-0805-485b-94d5-d16bc904a98f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "01:00",
+     "note": "Stock and debt markets are straining to finance the next phase of the boom."
+    },
+    {
+     "title": "CoreWeave wants to sit with the credit-market grown-ups",
+     "url": "https://www.ft.com/content/16d4593e-b9ce-4eab-90af-9835c79eb9f2?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:57",
+     "note": "CoreWeave leans on junk-bond markets to fund expansion."
+    },
+    {
+     "title": "We Are Probably Overbuilding Data Centers: Gary Marcus",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-11/we-are-probably-overbuilding-data-centers-gary-marcus-video",
+     "source": "Bloomberg Technology",
+     "time": "23:05",
+     "note": "Marcus argues overbuild risk and questions Anthropic's IPO case."
+    }
+   ]
+  },
+  {
+   "title": "DeepMind ships AlphaGenome 2, proves out formal verification",
+   "signal": 65,
+   "summary": "Google DeepMind released AlphaGenome 2, reportedly doubling the hit rate for pinpointing disease-linked DNA variants at single-cell level, alongside a new robotics model. Separately, AlphaProof formally verified core parts of Signal's cryptographic protocol in four weeks versus years — a milestone for AI-assisted proof and 'unhackable' software. Both signal AI moving from chat to measurable scientific and engineering output.",
+   "angle": "AI's value story this week is verification and science, not just chat and code.",
+   "items": [
+    {
+     "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease - Google DeepMind",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTFJXSTYyMXR1RmNUdmgxZWhSNU5HVndHbzh4eW9FU2hPNDhTQzlwa2pjYVZ0MUFIWFBUSUxCRTVnWGQwdEZ4eGpMWUd5UWJ4blVZRUdQUVdsY1d0cjdLZWw1NUZEYU5rUm5UTHRmN1lIOWViUnM2RG11ZUVCX1ExZWhpcXFCQlh3bEx4eDRLR3FaR1d4UE92TnpHWkhOU1RCUlVRa1F3?oc=5",
+     "source": "Google DeepMind",
+     "time": "15:03",
+     "note": "Lab blog frames AlphaGenome 2 around cell-type DNA reading."
+    },
+    {
+     "title": "Google DeepMind's AlphaGenome 2 Doubles Hit Rate in Pinpointing Disease-Linked DNA Variants - BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsdm9uU0w5aW9vWDZrSktOYzlLUHlyeW5kRXFjNUZfTnBJa0ZTbmNPVEZSaFhnUnoyTjA1SzRpQmZrbE44Zy0yWDJyQ2tCaDFoSGVzdkpkM2k2SUdFaDVoY2t2WmllVjdVUDI0Vk1rX1pzU2k3dXc?oc=5",
+     "source": "BigGo Finance",
+     "time": "00:35",
+     "note": "Reported 2x hit rate on disease-linked variant prediction."
+    },
+    {
+     "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model - SiliconANGLE",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWk4aHJ6dlBrb2g2aVVXMXpGSFZ1TUVod3lfS3ExYndhY2NIUDZIbGw4MHhFYzJqSGlSa19xREZEdXM2Y3Jya05lMzFzTEdsbEZ6djV4b3JLNW9oQk10a05rVnZlQ2tsV0s5S2xDdUxyM3I4TGNuZ3FUWTh3LVVDa0JzR0tQNFoxNzBDRVg2RHNCdGNFbXJtWnY3NVlYN1NMaTNFaS1Cak93SHEyNG1iYzRqZkFCUnlhczhXNjVrVUtqRmc3Ql9BS2tfakd4aWs?oc=5",
+     "source": "SiliconANGLE",
+     "time": "16:30",
+     "note": "Robotics and gene-prediction models shipped together."
+    },
+    {
+     "title": "Google Deepmind's AlphaProof Code verified Signal's cryptographic core in four weeks instead of years - The Decoder",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRHFkSEJuTGpVdEJ1clR6ekpFMDJVN2pwa2NlS3BNb0FaczREWmpMbHNJR0N4ZUV3U3BYQ3lpS2tlUzBDRVczNkVmdXZza2dveS1aeUpWY1MtZjQyN0VwNXVEaEJ6eHdMUXNzWHM5dy1vdTB3NjJsVnN4QmJNVnBBWF9rcktsVlFpanRwRGNGWTdlZVpvdzAyaFYtZk9rZWx3WG1XaXNremJ5b0daN2dZdXJZT3VGVmlYZXZxbzBFdFRYZw?oc=5",
+     "source": "The Decoder",
+     "time": "18:23",
+     "note": "Formal verification of Signal's crypto core: four weeks versus years."
+    },
+    {
+     "title": "Google's AI takes a big step toward hacker-proof, \"unhackable\" software - Axios",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lMHgwMGdCNDctazFZY0ZnZTRVYlhSWGxTWkU3a0RRcDN1cVdJMXNZeUNEeGJsYzUxdW5zd24tb3FWRlVKV1R5dGctdGFubHJaSzhicGRfT1Jrcl9QQ3U2dVppR2VnN0JXWFY0cnFTLUliQQ?oc=5",
+     "source": "Axios",
+     "time": "09:43",
+     "note": "Axios frames the Signal verification as a step toward hacker-proof code."
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI: adoption meets friction",
+   "signal": 65,
+   "summary": "Agentic AI is moving into real distribution and real resistance. Zocdoc reports AI-agent traffic up nearly 30x since July, United Airlines is blocking booking agents like Muse and Instinct, and OpenAI is courting brands to set up shop inside ChatGPT. Anthropic's venture Ode pushes outcome-based pricing, and UAE agentic firm AIREV landed Singapore capital for finance and healthcare.",
+   "angle": "The agentic layer is where the economics — and the boundaries — are being set in real time.",
+   "items": [
+    {
+     "title": "United Airlines Blocks AI Agents Like Muse and Instinct From Booking Flights - The Information",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHpoRnBISmFialhPU1lhMmI0SFNRMDlxcy1PdmlhM096YmRDRzJabUZSWHlkdFNoZzNjS19XbDNjYVJJSFRBWnhrcFBCSzIzT01oMV9TaWtadEdlWmVrSHphczU5MEtVRVViQ1N1M2pJbG9mRGY1Y2lib05FT2YtVVVIVkY2VTNRYm1tM1BleDktVHhfNFhFZDlveFNVd0Ytb0JDN29jRjIxNFoz?oc=5",
+     "source": "The Information",
+     "time": "23:28",
+     "note": "Airline gates agentic booking as consumer-agent traffic surges."
+    },
+    {
+     "title": "Zocdoc Brings AI to Healthcare",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-11/zocdoc-brings-ai-to-healthcare-video",
+     "source": "Bloomberg Technology",
+     "time": "22:54",
+     "note": "AI-agent traffic up ~30x since July, doubling roughly every 10 days."
+    },
+    {
+     "title": "OpenAI invites brands to set up shop in ChatGPT - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPb1lfeHRfQjY4QTNoUEZjcWtKMEh2ZF9yR25WNFgwei10WVJsUFc1VVM1LVZMZ3kxY2hKa2hwN19lV2lZNlE0ZEFYczdMZGZpYzZCSmpqYlROM0JramNYTktXbzBESHFOWS1LQ0hzNkRoanVHUUFpMEhITXNEU2duQUhkdTZRbTVUa0E?oc=5",
+     "source": "The Rundown AI",
+     "time": "13:11",
+     "note": "Brand presence inside ChatGPT becomes a distribution channel."
+    },
+    {
+     "title": "Anthropic’s PE-Backed Venture, Ode, Pushes to Get Paid for AI Results - The Information",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdmQzUkhwOW13NW11NUVMbk1KMldhQmtiMWpoakI2VUVKbnpzVlhoOHM3LUNETUhzcWRjZXhmU0J4dVRTR1lXaDRJYjgwdGFnMC1jWW0ydUh6VnVKRzdud25wWHZlSUlaSS1QeUx4ZGl0YTJhYlJqcnRDNG02RjdtX2VxbDV1V0hSZUJ0WDdHeXAyNlVHVzZIN1JYSjNtSllmVG5zYUZqYklNRVU2bWstdUtLVE0wQWstVFZpbDhUUVY1NkFH?oc=5",
+     "source": "The Information",
+     "time": "16:01",
+     "note": "Outcome-based pricing marks a shift to results-driven AI contracts."
+    },
+    {
+     "title": "UAE’s AIREV secures Singapore investment to scale agentic AI in finance and healthcare - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnZNaGdYQy1CZEtwR3djdFlCVGRxY1ZBTU82VkZBd0pZa3Nod19LRnhJbzZHTmJaeG9PUFAxbm5mNTlWY2Y4cENzRHRmNjFQa2tiNlpucDdVdmQyU3lQcktmOFBJNzhPb0J3QTZBbFZudGZkc2JnV1Vnd2NhN01QZVJkUGFhVU0xWUo4SUo5bW9ULUgyU1RDMV8zRGlSMUtKNFBXcTJ0eVpkVl9lUDVfWXhBd2pRamhV?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "15:25",
+     "note": "UAE agentic-AI firm gains Singapore capital for finance and healthcare."
+    }
+   ]
+  },
+  {
+   "title": "Saudi AI and power infrastructure financing",
+   "signal": 55,
+   "summary": "HUMAIN and Infra signed financing agreements worth about US$667 million for AI and power infrastructure in Saudi Arabia, with regional outlets reporting the round as $670m of AI-infrastructure expansion. The deal underlines how Gulf capital is funding the physical layer of AI, not just model companies.",
+   "angle": "Gulf capital is quietly financing the power and racks behind the AI boom.",
+   "items": [
+    {
+     "title": "Humain secures $670m to expand AI infrastructure - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzZ4c3ZOcUdGUGtTcEZZVVJpd3JhcnQ1RDdvdENwZEV6aVNCNTN1ZmNvaC1OUkFVR0p6TW1LSFhBMHl1bl9OY09rYXV1Y2xiSE81OGZhYVkwSzNCam5jenZTUTVHaHRWZGlNdUNxYWdSMHUtSVI0N1V5MWlJcUJGVlBtTk5zSms?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "08:05",
+     "note": "Reported US$670m round to expand AI infrastructure."
+    },
+    {
+     "title": "Infra and HUMAIN sign US$ 667 million financing agreements for developing AI and power infrastructure - W.Media",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ3RMdmF5YlBRdVFmOG1icVRuNm5Wemd1THphNld5bXNnOXlNSlZIWXFRUzM4ekpyS2NOQkRwVjdhMGppS3FqWWxOTmhtN3lyZlkxUFhJRF9YMHFwRmJqZzFaSWl5bTcwME1QdXAxTEdHMW9vTWRuLWw5UFdZd3ZOZlIyRkRzaEY5b0RmUTBpVnhCTkg5YXFveldTZERjU2UwZVV3TU9jQW02d1QtRlNLYlNicXhsclpv?oc=5",
+     "source": "W.Media",
+     "time": "05:06",
+     "note": "Financing agreements signed for AI plus power infrastructure."
+    },
+    {
+     "title": "Saudi Arabia secures US$667 million for AI, power infrastructure - ET Datacenters",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTdhR01KNXlMOTdNTDBOZFNMakgycGo2bjJLZ1gtazEySmZicnlGeFhnV0cxZEZjOGYzRENXQzlkM0pKNmoxMGllaUtvN3NacnF1emtPckpSaUtUN1VNZlZQTU5qUzZPbVlEWmY5bF9BblRmVjBhelZqOTgtbldtTG9fVUhLNjgtT18xWS1yM2NPeE9YNmJDRnZqaExfYk9XQWNqamkzSEkxV0xXa0YzUkUyRXhDM2N6S3dKQklYNXNDamdPRmtpTmhwX0NiWVRkU3RfdWdBQlVkUEpNV3VpX1FCblJXZ9IB6wFBVV95cUxQNHM4U1J0WWg1ODhsSnQ4Vmt2b05LdEsyd01tQkRYR3NxREZqazQ4ZlZWOGR5cDdMdmlHT0FYYzR1WjF5ZzdRR2wwcU9KaFJfSGpKQnRSNWp5YTRBNEhYVmFlRF91SzZrTldLQ2NBYkhYcWVuMWdMTzR0SkNBYmdrUmtLRHBmZ1FkTk9tal9fSTRtWTZ5T3BoWm00bGJsT1NrMDVsZE8tbHA2OWx1bnRXS2pPSnBCZ0dSYXB0RlhkNG9iXzJQVUZMMnIzZm5ZMkY3YnBxRlIzSTJqdHhlMWphVHktQ1ctT0hTTnJz?oc=5",
+     "source": "ET Datacenters",
+     "time": "07:14",
+     "note": "Saudi-linked AI and power build-out financing, per ET Datacenters."
+    }
+   ]
+  },
+  {
+   "title": "MBZUAI opens world model PAN 2",
+   "signal": 50,
+   "summary": "MBZUAI's Institute of Foundation Models released PAN 2, an open 29B-parameter world model for 'physical intelligence' that simulates physical events. It is a signal of the UAE's ambitions in open-source frontier AI outside the big-lab axis, with an Abu Dhabi institution as the flagship.",
+   "angle": "The UAE is going open-source on world models — a distinct regional play.",
+   "items": [
+    {
+     "title": "MBZUAI’s IFM Releases PAN 2, an Open 29B World Model for Physical AI - MarkTechPost",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43VEJKNEJPd25uVzJwalo0ZUNsYTFuU0xBSTMxU1h1S2Z0eE92ZUt6eWhqMFhkSmgxa0FvaDd5TzhFTHRiLXpEcU9CaWt4djBwZlp0NmxnQkE0VVJuS0hTb3BPSGQ3dmFyaGNZNmRZOEJCSEVSZVHSAXZBVV95cUxON1RCSjRCT3dublcycGpaNGVDbGExblNMQUkzMVNYdUtmdHhPdmVLenloajBYZEpoMWtBb2g3eU84RUx0Yi16RHFPQmlreHYwcGZadDZsZ0JBNFVSbktIU29wT0hkN3ZhcmhjWTZkWThCQkhFUmVR?oc=5",
+     "source": "MarkTechPost",
+     "time": "07:38",
+     "note": "Open 29B world model for physical AI."
+    },
+    {
+     "title": "The Institute of Foundation Models unveils PAN 2, an open world model for physical intelligence - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc2lxN0NDdVNxOUhkQWdPRUNkWDE0cDZPRkVYVjV4OGx6ZV9xVkRhclFSUF9JZlNsZ2JlajlpVG5lRVBTS1JvNnFnekh1OEtNWXFkcjJ0dWctRDdhWkdzNWszQ0lWMy02cDR4b1U4akMyb2xHX253a3NMM21Tbk1tMWZOdDJRWXFSaUVBWF9EUFlHMDZKSjRfMFJkVVlqeW1KcU8wWFNDV1dOdGZZUmNUeUFwNUVWQmpqaWV0ak4wNGJmS1JGRFJZbjdCUVY5OXdSVXd6ek9aUUFhQ1VBNFhlVU5nMEdndXo3RVpwUA?oc=5",
+     "source": "Zawya",
+     "time": "08:31",
+     "note": "IFM presents PAN 2 as an open world model."
+    },
+    {
+     "title": "MBZUAI launches open-source PAN 2 model to simulate physical events - Big News Network.com",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT0MycmZKaldXN2pNRWFuUW9QOUVnMkdRZUtIVF9TVkp6bVl0VFY2dDJybE5iX2hfWjEwTUF6aUpnOVIwTmJ2S1RYc3VqOG5zVnFrcGtiM2oySHo4NEpxaU56V2p2VlM1YlpCZTB4djRoUzZwZGJrSDBldm5pSVhRRkxJTzFjR2gzZkQ5emFtV053b2w0UzBnb2pmbmo5VDhzT19uQWVEa1ZPNHIwaUlTN1hTYw?oc=5",
+     "source": "Big News Network.com",
+     "time": "11:26",
+     "note": "Open-source release enables simulation of physical events."
+    }
+   ]
+  },
+  {
+   "title": "Gulf AI geopolitics and talent race",
+   "signal": 45,
+   "summary": "Geopolitics and talent are moving in parallel in the Gulf. An Iranian outlet lists the UAE's Stargate AI project among potential military targets, SDAIA says Saudi Arabia ranks third globally for AI talent growth, and Saudi Arabia cites leading positions in IMD's 2026 AI indicators. Dubai, meanwhile, launched Nad Zabeel, an innovation campus targeting 30,000 researchers a year, and regional press asks whether UAE businesses can keep AI secure and under control.",
+   "angle": "The Gulf's AI ambitions now carry geopolitical and governance questions, not just budget headlines.",
+   "items": [
+    {
+     "title": "UAE’s Stargate AI Project Enters Iran’s List of Potential Military Targets - WANA News Agency",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTkJrSnN2T2tENFVlMGZ3YkE3emRYR19jV3AwMU5rVUhQb0JuZWlsYVlvaXpoZHROdUhrZm5LMUg2czZ6NW5kXzBULWlzczh0X19rTmFldVFYMDdKaXpMZnlidGRPMnBlbnpGaDBYX1lMWW80S1l5eklMdnNUcUFPdW1yVzdMa2FmR3Z1V00zb29VVDgwZGdJ?oc=5",
+     "source": "WANA News Agency",
+     "time": "11:34",
+     "note": "Iranian outlet lists UAE's Stargate as a potential target."
+    },
+    {
+     "title": "Saudi Arabia ranks third in the world for AI talent growth, says SDAIA - Tbreak UAE",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zR0owZ1RnVjNxX0ktTFpiNHVwTXlsdmQtMXk3ajdPQVhfUXFWR3ZXX3dLVDhxd19wMnNXb3VXanlWSjM1TEh3TjRwNjluMzlxdzRNX29qbGhBNm9oX0V2UmVscW8?oc=5",
+     "source": "Tbreak UAE",
+     "time": "15:08",
+     "note": "SDAIA cites a #3 global AI talent-growth ranking."
+    },
+    {
+     "title": "Saudi Arabia Achieves Leading Positions in AI Indicators in IMD’s 2026 Ranking of 70 Countries - وكالة الأنباء السعودية",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE56Tm8xVVUxQ25pMDIwVUVFZklsZG85aEtvNEdBZVViUnZkUWNKaUdRbHB4ck4wcllia2RucEdPSDc3VTE3TjJiM3pB?oc=5",
+     "source": "وكالة الأنباء السعودية",
+     "time": "18:11",
+     "note": "SPA reports leading Saudi positions in IMD's 2026 AI indicators."
+    },
+    {
+     "title": "The UAE has embraced AI, but can businesses keep it secure and under control? - Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWm5OUFlKYTJUbi1hQnRMX0c3bW5xSlFLVThHeWFuSFFwZ0lSU3ZXdjUxdjZDSVU3cTFaYU9rVVp0bmNwWXhTam1aTnJ3Mk92dFhsNGVvYXhWVWxEQ25QLVdFdHlsZTNIazZVdUdFNWRXaWJpVzlGX2JvSFV3TjV5ZUdkbnoyOHB4aV94LUp2aTA5MlJMUHdnNk9QdHd4c1RpNXFxRE42aHQ1Z1FPbU1fbElSQQ?oc=5",
+     "source": "Gulf Business",
+     "time": "08:51",
+     "note": "Regional debate on governance versus adoption pace."
+    },
+    {
+     "title": "Dubai announces Nad Zabeel, a new innovation campus set to attract 30,000 researchers annually - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWZ3ZnNRYzM0Z3Bac1hQaGVQbDctY0VYZ3dNMEsxbXkta0hQNTZaRDQ2MS1nTlVObVlTTElubEdhdTl6c0o0TlQ1Wm1ta2ZYNE52ZUNUNy13cUtHOUxVSllFRDhwb01nOEFvc0Njd3A2Tzl3RHBRLTFVNWwyNFhlc1EyNnhOekxDbjBKVHNZQjh3Yzl4WjEwZHlBMlF3S2pEbV9zX3hScGNZWUMtMlpIYkdyOXFDSHdYNUZxemFpS0pvdw?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "00:34",
+     "note": "Dubai innovation campus targets 30,000 researchers a year."
+    }
+   ]
+  },
+  {
+   "title": "AI capital, talent churn and inference economics",
+   "signal": 45,
+   "summary": "Capital and talent are churning across the AI stack. UK inference-chip start-up Fractile hit a $7bn valuation, OpenAI's Q3 revenue jumped to $10bn amid growing losses, Meta's infrastructure chief departed mid-buildout, and Sequoia is stepping into AI holding company Sequence. On the cost side, inference startups are quietly buying their own chips and Booz Allen is switching to Nvidia's Nemotron family.",
+   "angle": "The next battleground is inference economics — and who controls the chips that serve it.",
+   "items": [
+    {
+     "title": "UK chip start-up Fractile hits $7bn valuation",
+     "url": "https://www.ft.com/content/f999a0c2-af52-499f-8008-accbdfd45a25?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "13:00",
+     "note": "London custom-AI-chip maker reaches $7bn valuation."
+    },
+    {
+     "title": "OpenAI Revenue Jumps to $10 Billion in Third Quarter Amid Growing Losses - The Information",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNXF1NHRxWFpaTFdydVVTN1hDRHBqR0h1X0JfTnRWbVdhTFVJVV9lM0RLRl92ampud2d1SGtObFlhaC1Rd0JCYTkzRUtIOU5WTjJOYVd0WUx5czI5TllVRzFnMGtBYzVRdEpjalQ1R1N3SC05NEpNOS1YNHZtdFpQYmE1UXJ5ck9VU1B4MzdB?oc=5",
+     "source": "The Information",
+     "time": "21:07",
+     "note": "Q3 revenue run-rate near $10bn with widening losses, per The Information."
+    },
+    {
+     "title": "Meta’s Infrastructure Chief Is Leaving Amid Massive AI Buildout - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUY2MXRoNXBrQTBISnYtdkxELU5WM3lVMmpEbjhZQ2J0V0pLQUNoMEhzbkhKSFVnSDV2OEtOQmRxSVBLeXBvc3FyR0dDNW9FWHVFRWlxZi1JSlhRbF90TWdTaldzUjB0ZjdUWGd2blMtOFNybVpPaGt1NjVuZFBEcmVOMWo4dEd0ZzJWU2ZHQnBHU3ZFT2thME1vUzZHSFJ2c0E?oc=5",
+     "source": "The Information",
+     "time": "20:40",
+     "note": "Infrastructure leader departs during the largest AI buildout."
+    },
+    {
+     "title": "Sequoia Capital to Invest in AI Holding Co. Sequence - The Information",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXJIc3BQN0RORVNaQVY0Q3ZucHF6bVkwWDBBS2tQVEhYazBKZVlEcldmanp2SVhUZE5FNk9mSWhPTE9hQmxuMWt0X1BOUDZxSF9xVDhiVGlfTlhLUzlray1rVVYwQXlZQ0Y2ZlhidTlDQzNJMHZxUjQ1aVRUallqSDFxeFBTaUpyQzlJRnNn?oc=5",
+     "source": "The Information",
+     "time": "21:27",
+     "note": "Sequoia backs the AI holding-company structure Sequence."
+    },
+    {
+     "title": "AI Inference Startups Are Quietly Buying Their Own Chips - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRjFSdFl1cnAzdUo1ZmJMRkFJcXJxTXUxRURyOVZ2TTI3eDBNWWhwRXR2RzY5eTktTkI3aThIMy1BOUhMZ0kwUTdNTlZIU0l4VXYwdFFjZDhMcTg4R2JvZ1drMVlwWHZDdDg1amZpQTQxWTRLWlZ1dlh6NGozT2pnczBhLTg0UEFZTUE?oc=5",
+     "source": "The Information",
+     "time": "16:29",
+     "note": "Inference startups buy silicon directly to cut cloud costs."
+    },
+    {
+     "title": "Booz Allen Switches to Nvidia’s Nemotron - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPME9mX1hIN1Bhb1J2V2tTcm85bzNsRXEzcTc3S21PRHRDalE0UjlLMWVkS1lPektjRzdTT2NzeDdYd3V4R1BzajN1TS1fVk5OU1dYeFNrQXN2empDYTI3RTdiUG1WOUJ4QWc4NnY5dUdXN0ctTGtKNFhUXzJrMUtLQzc2YVhiMmZLZDBEUXg2cVBZZDBp?oc=5",
+     "source": "The Information",
+     "time": "21:14",
+     "note": "Booz Allen moves its AI workloads to Nvidia's Nemotron models."
+    }
+   ]
+  }
+ ]
+}

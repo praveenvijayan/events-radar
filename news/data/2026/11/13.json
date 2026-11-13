@@ -1,0 +1,336 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T02:00:15.845012+00:00",
+ "themes": [
+  {
+   "title": "Nvidia loses its founder-CEO",
+   "signal": 70,
+   "summary": "Nvidia's board forced out Jensen Huang, the CEO who personified the AI boom, after two reported affairs including one with a woman US officials suspect of Chinese espionage. CFO Colette Kress steps in as interim CEO; shares slid as much as 14% before buyers stepped in. The Gulf AI buildout, heavily dependent on Nvidia supply, is watching closely.",
+   "angle": "Founder risk is now a systemic AI risk; boards and sovereign funds should stress-test concentration.",
+   "items": [
+    {
+     "title": "Jensen Huang resigns as Nvidia chief executive",
+     "url": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "CFO Colette Kress named interim CEO; shares slid into Thursday's close."
+    },
+    {
+     "title": "Jensen Huang, an architect of the AI boom, resigns as Nvidia CEO",
+     "url": "https://www.axios.com/2026/11/12/nvidia-jensen-huang-out",
+     "source": "Axios AI+",
+     "time": "",
+     "note": "Resigned after two reported affairs, incl. one with a woman US officials suspect of spying."
+    },
+    {
+     "title": "AI boom will lift Nvidia even after Huang’s exit, investors say",
+     "url": "https://www.ft.com/content/ecb2b4ed-1b61-4c8a-a2e7-a6f9c85a59ff?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "Investors bought the dip; shares largely recovered by Thursday's close."
+    },
+    {
+     "title": "‘Dark Day’: Silicon Valley Mourns Nvidia’s Decision to Oust CEO",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/-dark-day-silicon-valley-mourns-nvidia-s-decision-to-oust-ceo",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "VCs and founders publicly criticized the board's decision and fretted over industry impact."
+    },
+    {
+     "title": "Fallout from Nvidia CEO’s likely ouster could slow Gulf AI buildout - Semafor",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWw0MEpfWmRKSUVyWGxzQ2RLbkNRZ3hXckg0ZjdUNjk3a1NtamhmNnMtNHg4c0UwUFVMOXBOeEtNSWJ1MnQ3QUszZnpTNTZjMjVlMzdoZXBBcG5QTzFrSDFMbmRidlpwNkhhTFR3bmNGZ2pJbzg2OFhzWFlvcWF1TGdpVVVNN1dBOEZvcDdPSjZ2b1M0TzB3LUQwQzU2SHVRM2NNQ3NYM1A4WnF5Tmc?oc=5",
+     "source": "Semafor",
+     "time": "",
+     "note": "Regional AI buildouts that depend on Nvidia supply chains could lose momentum."
+    },
+    {
+     "title": "Gulf watches nervously as Jensen Huang resigns from Nvidia - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQUlmQktlZ2RUa3ZOQnJ6bkhMcElQZVVkQ0NfU3J6WUVseUZMb29lblV6THZVYXhqWTNZT2ZJNTJXbWtQYV9NV21UWm1KbzExeWZ2Z2lfbnNNN011MlpwWUYzX1BUV2NPZGxzcEhGd2RUZnR0QXhTNUJLYnlrRjBreWVtc193bFY2QXprQVd6OEUtMVBuOHc?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "",
+     "note": "AGBI frames the exit as a regional exposure event for Gulf AI ambitions."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic files for IPO",
+   "signal": 68,
+   "summary": "Anthropic filed its S-1 with the SEC and launched its IPO roadshow, bringing frontier-lab economics to public markets. It also pledged shares to a public benefit fund that grows with the company. A Dubai tycoon already expects billions from his Anthropic position, tying the listing to GCC capital.",
+   "angle": "Read the S-1 for inference margins and capex, not just the valuation headline.",
+   "items": [
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "First frontier-lab S-1: hard numbers on capex and valuation arrive with the filing."
+    },
+    {
+     "title": "Anthropic launches roadshow for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/roadshow-launch",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Management begins pitching the IPO to investors."
+    },
+    {
+     "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic commits a portion of its shares to a public benefit fund that grows with the company."
+    },
+    {
+     "title": "Dubai Tycoon Expects Billions From Anthropic and AI Investments - Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3NMeDdJd2xsMnpRdFlRcmVMRDBKd0tDYk5qZXN0Q2VlLXFDVWpZRk5LS2VuVWpMMFBVNGo1dFB1QnRmNWZYdW9OS3h0Sk92QUE1NThBTnVhcG9rZUMzMnpGX0xHUkF6LWgwQ3VXTllPRVNBOHpORjZtZUNVbkVpQ0I2UUZ0VzZibEhFY0UwU2M4dUQxa2hwSmlvREdfZC1tQ3llMFpOYl81ZS1GUzRv?oc=5",
+     "source": "Bloomberg.com",
+     "time": "",
+     "note": "A Dubai investor says his early AI bets, including Anthropic, will pay off in billions."
+    }
+   ]
+  },
+  {
+   "title": "Gulf sovereign AI accelerates",
+   "signal": 62,
+   "summary": "Saudi Arabia secured US$667M for AI and power infrastructure, and SDAIA's study charts progress in talent and government adoption. Altman praised the UAE as the most forward-looking country on AI. Cerebras amended its MBZUAI compute agreement, linking regional compute to the Nvidia challenger.",
+   "angle": "Gulf AI is moving from pilots to procurement — a live market signal for vendors.",
+   "items": [
+    {
+     "title": "OpenAI CEO Sam Altman calls UAE the world’s most forward-looking country in AI adoption - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFJud05ycVhGZEJNelY0R2RwbW1HYWNORjdZdU94QTNLb1ZZV1lJcWVVSFFoVGtRZl9LelRBeW1FMDMwejVSbC1MMjF2Z01GcWEzSzAzYUNnd3lSRUQwcEFQQThKUHhac19tQmNQTlJLdHY1R19OS3JSMzRERldqU0swUG1EQUVYaXR0YXl1ejFQZnZBRnA2YTMxV1pEVnhHdGkxdDN0ZE1pSGJDOXl6UXB4Wl9Kc2ttUUE?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "",
+     "note": "Altman calls UAE the world's most forward-looking country on AI adoption."
+    },
+    {
+     "title": "Saudi Arabia secures US$667 million for AI, power infrastructure - ET Datacenters",
+     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSTdhR01KNXlMOTdNTDBOZFNMakgycGo2bjJLZ1gtazEySmZicnlGeFhnV0cxZEZjOGYzRENXQzlkM0pKNmoxMGllaUtvN3NacnF1emtPckpSaUtUN1VNZlZQTU5qUzZPbVlEWmY5bF9BblRmVjBhelZqOTgtbldtTG9fVUhLNjgtT18xWS1yM2NPeE9YNmJDRnZqaExfYk9XQWNqamkzSEkxV0xXa0YzUkUyRXhDM2N6S3dKQklYNXNDamdPRmtpTmhwX0NiWVRkU3RfdWdBQlVkUEpNV3VpX1FCblJXZ9IB6wFBVV95cUxQNHM4U1J0WWg1ODhsSnQ4Vmt2b05LdEsyd01tQkRYR3NxREZqazQ4ZlZWOGR5cDdMdmlHT0FYYzR1WjF5ZzdRR2wwcU9KaFJfSGpKQnRSNWp5YTRBNEhYVmFlRF91SzZrTldLQ2NBYkhYcWVuMWdMTzR0SkNBYmdrUmtLRHBmZ1FkTk9tal9fSTRtWTZ5T3BoWm00bGJsT1NrMDVsZE8tbHA2OWx1bnRXS2pPSnBCZ0dSYXB0RlhkNG9iXzJQVUZMMnIzZm5ZMkY3YnBxRlIzSTJqdHhlMWphVHktQ1ctT0hTTnJz?oc=5",
+     "source": "ET Datacenters",
+     "time": "",
+     "note": "Saudi Arabia locked in US$667M for AI and power infrastructure."
+    },
+    {
+     "title": "Cerebras Systems Reports $584 Million Nine-Month Revenue and Amends MBZUAI AI Compute Agreement - TheEnergyMag",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWFFXMnU5bmstS3BoYk5kcjNQUWxHVlE4WFpwTnpqR1ZKT21rMS1iaXhFYi0yUnVJV3AwUFd6YUxDWU1PdnZOdlphRVFibVlDT1ZkRkhIM1psRVQwRmhzeVNiZy1tcURsWHltdnJ5TkJCaUk5T0ZkaGdJMVF4M0lyTW1WZHBlV2ZrVkZSUm1YUTFBUmFIczNz?oc=5",
+     "source": "TheEnergyMag",
+     "time": "",
+     "note": "Cerebras posts $584M 9-month revenue and amends its MBZUAI compute agreement."
+    },
+    {
+     "title": "Saudi Arabia Ranks 2nd and 4th in IMD World Digital and AI Ranking 2026 - https://houseofsaud.com/",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjaDd5d3pwWXRSVWF2QW5GbG9xeGxYWXk1U2hSY3doVHF6dnBIVjZkM1JnSXlXS3ZQWUhxZlNjdEwzMDZibEFzNmE3NjhWMDItVXR2REplYTRyS3Rkb013czdFMGpYUk95Qmc?oc=5",
+     "source": "https://houseofsaud.com/",
+     "time": "",
+     "note": "KSA places high in IMD World Digital and AI Ranking 2026."
+    },
+    {
+     "title": "Apparel Group Introduces AI-Powered Shopping App AIVI Across GCC - Forbes Middle East",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVU15MnVaRkdlRXhNV2NBVmQtYl8xQlVCb25jaXlObGpiVnZTUXp4RWZhWXpxMmNILVdYRDVWaWZHN0JtQWpJRzFiMi1Sc2lrZ1ZldGpyQ3ZjZ01DUXB3M0NWMnc0QWNhNW05OTdpYk81TmlvM2Q1aDJoM1RJakdRNWY0akxJUW5BV3pnS19xaWEwdVlfbEtKamtsQzF3ZDRic1ZQaXRDSnJvZWFhX1hpX1F6SHpQM0t0ZmlJbzE3aWFyeFlyUlVYMW5mQ1V0Q0ZOSGhsYVhybS1SblpJLUE?oc=5",
+     "source": "Forbes Middle East",
+     "time": "",
+     "note": "GCC retailer rolls out an AI shopping assistant app across the region."
+    },
+    {
+     "title": "Saudi Arabia’s AI progress spans talent, infrastructure and government adoption, finds SDAIA study - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2ZGU2E3cE5RU3Z4dXQyeVBNaE1fOXlubFF3QUg2THVlMkI4LU1oakh2S2tMaVNkeTlrOTlOSUYwNEY1ZG5OUWNfV25OOVVWU3BMS203UE9GdURLdlA0TmE4MnpGOWNMa3JscGtUemVKQVNrY2NzVDZlVXkyS2QtcERwTGsyZjZ6WjlCdVdld0hrd3BMdW4zaExXMk5QalFIWEhuZ081YnFGNEVySGNLRHRVU3Iydk5Qa2lVN0ZoMGxuNzdoeHc?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "",
+     "note": "SDAIA study documents gains in talent, infrastructure and government adoption."
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI enters the enterprise",
+   "signal": 55,
+   "summary": "OpenAI customer stories show product agents (Amplitude's Wave) shipping in 1-2 days and Codex lifting engineer output 50%. In contrast, United Airlines blocks AI booking agents, exposing the trust gap in agentic commerce. Sequoia's bet on an AI holding company signals capital consolidation.",
+   "angle": "Executives need an agent governance policy now, not after the first blocked rollout.",
+   "items": [
+    {
+     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+     "url": "https://openai.com/business/customer-stories/amplitude",
+     "source": "OpenAI News",
+     "time": "",
+     "note": "Amplitude's proactive product agent Wave ships changes in 1-2 days on OpenAI models."
+    },
+    {
+     "title": "Gondola doubles revenue as its team builds more with Codex",
+     "url": "https://openai.com/business/customer-stories/gondola",
+     "source": "OpenAI News",
+     "time": "",
+     "note": "Credits platform doubled revenue while its lead engineer got 50% more output via Codex."
+    },
+    {
+     "title": "United Airlines Blocks AI Agents Like Muse and Instinct From Booking Flights - The Information",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHpoRnBISmFialhPU1lhMmI0SFNRMDlxcy1PdmlhM096YmRDRzJabUZSWHlkdFNoZzNjS19XbDNjYVJJSFRBWnhrcFBCSzIzT01oMV9TaWtadEdlWmVrSHphczU5MEtVRVViQ1N1M2pJbG9mRGY1Y2lib05FT2YtVVVIVkY2VTNRYm1tM1BleDktVHhfNFhFZDlveFNVd0Ytb0JDN29jRjIxNFoz?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "United blocks AI booking agents like Muse and Instinct — a test case for agentic commerce."
+    },
+    {
+     "title": "Sequoia Capital to Invest in AI Holding Co. Sequence - The Information",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXJIc3BQN0RORVNaQVY0Q3ZucHF6bVkwWDBBS2tQVEhYazBKZVlEcldmanp2SVhUZE5FNk9mSWhPTE9hQmxuMWt0X1BOUDZxSF9xVDhiVGlfTlhLUzlray1rVVYwQXlZQ0Y2ZlhidTlDQzNJMHZxUjQ1aVRUallqSDFxeFBTaUpyQzlJRnNn?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Sequoia backs an AI holding company, another sign of capital cycling into AI aggregators."
+    },
+    {
+     "title": "Holiday Extras is rethinking what it can build with Codex",
+     "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+     "source": "OpenAI News",
+     "time": "",
+     "note": "Travel operator uses Codex to rebuild apps and lift booking conversion."
+    }
+   ]
+  },
+  {
+   "title": "AI infrastructure economics shift",
+   "signal": 52,
+   "summary": "Anthropic's Opus 5.5 costs 40% less to run than Opus 5, squeezing real-world inference prices. Cisco raised guidance on AI networking demand; Samsung eyes data-center cooling maker Modine; Cerebras beat estimates in its Nvidia challenge.",
+   "angle": "Inference price deflation is the sleeper trend under the model-release news.",
+   "items": [
+    {
+     "title": "Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Opus 5.5 leads agentic coding and costs 40% less to run than Opus 5."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Fast small model aimed at high-volume work: summarization, subagents, browser use."
+    },
+    {
+     "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic's newest models target demanding coding, finance and science work."
+    },
+    {
+     "title": "Cisco Raises Sales Guidance in Sign of AI-Fueled Momentum",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/cisco-raises-sales-guidance-in-sign-of-ai-fueled-momentum",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Cisco raised its annual outlook on AI-driven demand for networking gear."
+    },
+    {
+     "title": "Samsung Is in Talks to Acquire Data Center Cooling Firm Modine",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/samsung-is-in-talks-to-acquire-data-center-cooling-firm-modine",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Samsung eyes Modine, a data-center cooling maker — heat is the new bottleneck."
+    },
+    {
+     "title": "Cerebras Delivers Solid Outlook in Bid to Challenge Nvidia",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/cerebras-delivers-solid-outlook-in-its-bid-to-challenge-nvidia",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Cerebras' quarterly forecast beat estimates as it pushes into Nvidia's turf."
+    }
+   ]
+  },
+  {
+   "title": "Policy, espionage and AI security",
+   "signal": 50,
+   "summary": "The Commerce Department is finalizing an AI remote-access rule while lawmakers press commerce secretary Lutnick over chip sales tied to an alleged spy. A report says free Chinese AI can be weaponized for hacking as frontier labs face diminishing returns. OpenAI committed $2M to children's safety research.",
+   "angle": "AI export controls are becoming a daily operational issue, not a policy abstraction.",
+   "items": [
+    {
+     "title": "Commerce Department Finalizing Long-Awaited AI Remote Access Rule - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDhiSnYyNXlKQkZBVVh4MVRIbjhYOHNGR05fOGtVTTJ2cW5NYVN1T3FMcnpnNUNVSHI5Z0pVaDVYcHphOV96T2tSR29PaEEweTNNbnozX1JXa0JXY29fMUVzcDlKY29HQnNOYjFuLVNIQWZWaEJSTS1SQnJNeWpERnpRWEhWQVlBclZaM3Z6RXQ5VjhHeEw1MW56N3ZRd2VteDFkVzU2dnQ?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "US Commerce is finalizing rules on remote access to AI systems — a control hinge."
+    },
+    {
+     "title": "Free Chinese AI Can Hack Companies While Frontier Developers Face Diminishing Returns - The Information",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRy16d2cxYTFfY2xiNFN5ekpiMnphUF9ZbUdtTnRVcEJQNHpveUpQQTRXdGlGSmFHUDdubWYzOW5PbmdLZXcySy0zVXV3b3NLSlBrcWFyQTNiRDFiNDhKYlZuZXd4djRoTWNpS2hXaVY2aFJCdEtoMUtiZDVDQUJscTZ1WE0zMFNUUHk4RWxSaWg1MVNNRng1R0kzN1RPZExiWGZzVW03a0J6Ri1BeFJsbEhRR1poNmk3TVVxQUJyUzlEVHN2UmRETjVrNXdSZw?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Report: open Chinese AI can be weaponized for hacking while frontier labs hit diminishing returns."
+    },
+    {
+     "title": "US Probes If Alice Huang Helped Smuggle Super Micro Products",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/us-probing-if-alice-huang-helped-smuggle-super-micro-products",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "DOJ probes whether Alice Huang-linked entities helped smuggle Super Micro products to China."
+    },
+    {
+     "title": "US lawmakers pile pressure on Howard Lutnick as Nvidia scandal widens",
+     "url": "https://www.ft.com/content/190e5eea-7461-4b26-8b69-17a3288e31d4?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "",
+     "note": "Lawmakers demand answers on chip sales to a company linked to an alleged Chinese spy."
+    },
+    {
+     "title": "Supporting research on AI and children’s safety",
+     "url": "https://openai.com/index/children-first-declaration",
+     "source": "OpenAI News",
+     "time": "",
+     "note": "OpenAI commits $2M to shared safety research on AI and children."
+    }
+   ]
+  },
+  {
+   "title": "DeepMind pushes science frontiers",
+   "signal": 48,
+   "summary": "AlphaGenome 2 predicts DNA variant effects at single-cell resolution, AlphaProof Code verifies complex software, and DeepMind applied AI formal verification to the Signal protocol. The science pipeline keeps compounding even as the company faces a unionization fight at home.",
+   "angle": "Verification AI quietly moves from lab curiosities into engineering and security workflows.",
+   "items": [
+    {
+     "title": "Google DeepMind's AlphaGenome 2 Improves DNA Variant Detection - TechRepublic",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWDctX0hTRHBIVXRpTXFrTWRlYjBpRlotTk1UUDZWalA2djBDWTFBQXlWakJzNktwem1LUFIyNTAwNmd4R0t0ZVhQTlV4dWx5bDhlZGcxQ0szLUktMG9ULXRKUzBsNHkwMjV2X2NtVmdTQWotZ2ZhbWhjdy1MQUtfR29KMXRzcG42bllRYnRHcGlucU0?oc=5",
+     "source": "TechRepublic",
+     "time": "",
+     "note": "DeepMind's genomics model now predicts variant effects at single-cell resolution."
+    },
+    {
+     "title": "Google DeepMind Introduces AlphaProof Code for Verifying Complex Software at Depth - HPCwire",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzkxU29lczBKRWJXd1hhbmVSbFhEaEdYcS1lX0NUU1hkX2JkUlZGUnczX1g4dXR5ZDNwWkpKcm5Kb2dzSTEzMFA1bGMtRjNxY0szY2M5ZEJaS2JLdGVBQXRYS0ZMdlZnRmtuUUhuTWk5QkdQNFRRYzFwMzdXS2NYaUc0X3ZaaW1QaklTSWhicWNnRmhxdVRGRFR5NVVlVVZxS0staEgxbU40aVZnYTBoWVBEd3dNN3Q3QWFXRktTQXBoQTA?oc=5",
+     "source": "HPCwire",
+     "time": "",
+     "note": "DeepMind applies AlphaProof-style verification to deep software bugs."
+    },
+    {
+     "title": "Google DeepMind uses AI to verify Signal protocol security - SC Media",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQkhZTm14MVAyNDhVNm9USTZIMTNoVlNYV3pjZ09Gd1JMeXZWMW42SGRCOUlrN1NEWmxkMEpsN3FtUlRVc2otZDM3WGJiSDdoRDgwemxXWWxBdXBBV01BcElqbEJhVE8tNW9MNmpQZXdoa2ljM0NyZG1qZ3h6YnJhSC1rSVdtU3BrOVVmQ0Izb2pIQQ?oc=5",
+     "source": "SC Media",
+     "time": "",
+     "note": "DeepMind used AI to formally verify parts of the Signal protocol."
+    }
+   ]
+  },
+  {
+   "title": "Lab governance and downtime risk",
+   "signal": 35,
+   "summary": "DeepMind staff escalated a unionization bid to the UK government while Meta's infrastructure chief departs amid a huge buildout. Microsoft's Outlook and Copilot outage dragged on for hours — a reminder that AI-adjacent reliability is now a board-level productivity risk.",
+   "angle": "Talent politics and uptime are the operational underbelly of AI scale-out.",
+   "items": [
+    {
+     "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight - WIRED",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ1lHaDhQSjl0QTQ1NzQ3UC1yRUhHUF9FQ2xmeTVDNTJCNVl3MWhMR09iRkRRcVRGY2p6cE9XZDdjM3Y3SmVZdU9lQjMwcUU4aENqQnNvcEYybWw1RGwzZDRRa2JwYWhYWXkwajZkSExlWjlQMXpOZDNUNnRTbDRLSVc3UQ?oc=5",
+     "source": "WIRED",
+     "time": "",
+     "note": "DeepMind staff take their unionization bid to the UK government."
+    },
+    {
+     "title": "Meta’s Infrastructure Chief Is Leaving Amid Massive AI Buildout - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUY2MXRoNXBrQTBISnYtdkxELU5WM3lVMmpEbjhZQ2J0V0pLQUNoMEhzbkhKSFVnSDV2OEtOQmRxSVBLeXBvc3FyR0dDNW9FWHVFRWlxZi1JSlhRbF90TWdTaldzUjB0ZjdUWGd2blMtOFNybVpPaGt1NjVuZFBEcmVOMWo4dEd0ZzJWU2ZHQnBHU3ZFT2thME1vUzZHSFJ2c0E?oc=5",
+     "source": "The Information",
+     "time": "",
+     "note": "Meta loses its infrastructure chief in the middle of a huge AI buildout."
+    },
+    {
+     "title": "Microsoft Struggles to Fix Outlook, Copilot, Hours Into Outage",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
+     "source": "Bloomberg Technology",
+     "time": "",
+     "note": "Outlook and Copilot outage persisted for hours, hitting workplace productivity."
+    }
+   ]
+  }
+ ]
+}

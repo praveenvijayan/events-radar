@@ -103,8 +103,8 @@
       "track": "patterns",
       "decision": "trial",
       "signal": 84,
-      "summary": "Langfuse v4.80.0 adds Microsoft Azure and Google AI Studio as AI Gateway providers, restricts gateway keys to model patterns, and adds native handling for typed OpenTelemetry envelopes and normalised tool definitions and calls. The release also reports that prompts created through the Gateway are bound to the user ID that created them; availability regions and pricing are not stated in the release notes.",
-      "so_what": "Trial the Azure gateway and model-pattern key restrictions against your current routing and least-privilege controls, then verify prompt ownership and tool-trace normalisation before adopting the release.",
+      "summary": "Langfuse v4.80.0 adds Microsoft Azure and Google AI Studio as AI Gateway providers, restricts gateway keys to model patterns, and adds native handling for typed OpenTelemetry envelopes and normalised tool definitions and calls. The release also fixes authentication to bind sessions to the user ID they were issued for; availability regions and pricing are not stated in the release notes.",
+      "so_what": "Trial the Azure gateway and model-pattern key restrictions against your current routing and least-privilege controls, then verify session ownership and tool-trace normalisation before adopting the release.",
       "verify": false,
       "off_list": null
     },

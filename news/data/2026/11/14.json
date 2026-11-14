@@ -1,0 +1,315 @@
+{
+ "date": "2026-11-14",
+ "generated_at": "2026-11-14T02:00:15.635957+00:00",
+ "themes": [
+  {
+   "title": "Nvidia enters post-Huang era with succession in play",
+   "signal": 95,
+   "summary": "Days after Jensen Huang's exit, Nvidia's leadership vacuum is filling fast: Arm boss Rene Haas has been sounded out for the CEO seat and interim chief Colette Kress faces scrutiny heading into Tuesday's earnings. The open question of whether Huang's ~$135bn stake gets sold, plus a $500bn funding hole in the wider AI capex cycle, frames the stakes for everyone riding Nvidia's fortunes.",
+   "angle": "Founder dependency meets the $500bn AI capex cycle - boards should stress-test concentration.",
+   "items": [
+    {
+     "title": "Jensen Didn't Create the AI Boom. It Created Him.",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN3BxX0VBTTdrb1NEUHMwZ1dTaDdETV96ZHMzTHJwNlFMNnRtUnlaUGdWNHotYWtTUm5PdGRFUWNPQVItYTA5ckRNS3h2TjdjSzlXRXEzS01oRnpFSjJ1T005bVE4UTBwYlIyVGtyWE1HRVRzSkRGR2RxMUpxVDZSMFRvaExpS25nQXZ2WXdrYVdzWHc?oc=5",
+     "source": "The Information",
+     "time": "16:30",
+     "note": "Analysis of how the boom shaped - and outlasted - its founder."
+    },
+    {
+     "title": "Sex, Lies and AI Chips: Jensen Huang's Last Days as Nvidia CEO",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2cwMXp6YkpHMnBHRjFrekVoQU5VX2tHOHpBTkdzT1U2VHVmT240ZlNrbTc0WDhTN1RaQWIwNUwyNUN6a2p0bWxFU3E5Smg5eGNybWN0X1Z6aGctalB4b3ZIeWRVaUJOVVMxdi14YXhVdnAxU3ZIeFBEdW5OQ210SDNpb0twbUNSbkpLekNTenprZ1dCa1FF?oc=5",
+     "source": "The Information",
+     "time": "05:24",
+     "note": "A recount of Huang's final days - the story the big names are chasing."
+    },
+    {
+     "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+     "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:45",
+     "note": "Succession reaches outside Nvidia to the head of Arm."
+    },
+    {
+     "title": "Colette Kress Will Face Scrutiny at Nvidia",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-13/colette-kress-will-face-scrutiny-at-nvidia-video",
+     "source": "Bloomberg Technology",
+     "time": "23:23",
+     "note": "Interim CEO positions ahead of Tuesday earnings."
+    },
+    {
+     "title": "Will Jensen Huang sell his $135bn of stock?",
+     "url": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "13:22",
+     "note": "Offloading the stake carries legal and price risks."
+    },
+    {
+     "title": "The AI boom will survive without Jensen Huang, but there's a $500 billion funding hole to fill",
+     "url": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia",
+     "source": "Axios AI+",
+     "time": "09:45",
+     "note": "Ecosystem leans on Nvidia's capital even as its chips get substitutes."
+    },
+    {
+     "title": "Three tremors have shaken AI",
+     "url": "https://www.ft.com/content/8f50369d-725b-40ac-a72a-306e25f9e76f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:55",
+     "note": "FT's framing of the unanswered questions left by Huang's exit."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic's $1.5tn IPO test",
+   "signal": 90,
+   "summary": "Anthropic has filed its S-1, kicked off its roadshow and named an expected $1.5tn listing - a live referendum on whether public markets still price frontier AI at its peak. Its CEO says he is not fussed by the recent tech turbulence; a jailed FTX founder's early stake would have paid out nearly $40bn at that valuation.",
+   "angle": "The float's reception becomes the real test of AI capex confidence this quarter.",
+   "items": [
+    {
+     "title": "Anthropic launches roadshow for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/roadshow-launch",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Management begins pitching the IPO to investors."
+    },
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "The first frontier-lab S-1 lands with hard numbers."
+    },
+    {
+     "title": "Anthropic's Amodei 'not super fussed' about market turmoil ahead of IPO",
+     "url": "https://www.ft.com/content/4b7b83d7-7fea-4ce2-bfe3-4f2cf75b1d82?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "19:41",
+     "note": "CEO brushes off turbulence days before a planned $1.5tn listing."
+    },
+    {
+     "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+     "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:39",
+     "note": "Jailed founder's early stake would have paid out huge."
+    },
+    {
+     "title": "How Much Is Anthropic Really Worth?",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBINm1RbzhJeUJ1N1V3d3NxR3F3S1lTWnRaTWpNYzRoXzJLNDRmVGpVQ25tQ2RhSnYyelRxTHE1UlNqLWt6SDdYbTE3WUZIM3ZpVDNfUHhBRG0tRTlIQWhTelZ3djZia0pmbm1sTk11N3F0VzlpUUtz?oc=5",
+     "source": "The Information",
+     "time": "23:28",
+     "note": "Valuation debate ahead of the float."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI capex hits scale: SAR 2.5bn, $9bn, and IPO gaps",
+   "signal": 85,
+   "summary": "Gulf capital is moving in volume: Saudi-linked HUMAIN and Infra signed SAR 2.5bn of AI data-centre financing, Dubai's Damac committed $9bn to US data centres, and Abu Dhabi-backed Nscale warns of a funding gap ahead of its own IPO. EDGE's $50m bet on quantum navigation and Cerebras' amended MBZUAI compute agreement round out a region spending before it builds.",
+   "angle": "The GCC is becoming a bankroller of global AI infrastructure, not just a buyer of it.",
+   "items": [
+    {
+     "title": "HUMAIN and Infra Sign SAR 2.5 Billion in AI Data Centre Financing",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ja3hiaTFjRlVhMVpxaE9BdldieDJjVzQwYlJJLVdudEsxV1h6TFdsUGh3dzdrT3lLbjY2YzZwSjdneG9POXdPcWE0aldGMFdiVVFINUVnVWI3bzRLQWdXdUhaSUEwVE9YT3d1N1Z4Qk5LNGtq?oc=5",
+     "source": "House of Saud",
+     "time": "09:56",
+     "note": "SAR 2.5bn Saudi AI data-centre financing signed."
+    },
+    {
+     "title": "Damac invests $9bn in US data centres despite rising costs",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZExtV2FIMGVGTzRZLS1oUUprWmRfVnkyTU10V3V0OTk4OHZfaVBPVTd5N2NvaEd0UEFpSzRNaGU3Y2R4SjhBeC13MnNWTWVvNHdNa0hCS3h0eXpVSUlidzcybnZVd1ZlUFRnbVJyaFFvNXozbWhsWHBZUDZESk9ndThKeFpVY3lQQ2haX1JHeEpMaWs?oc=5",
+     "source": "AGBI",
+     "time": "10:13",
+     "note": "Dubai developer routes $9bn into US compute."
+    },
+    {
+     "title": "Abu Dhabi-backed Nscale warns of funding gap ahead of IPO",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZHpYSmsxWUE1M2dsY3lLNlFVMVhqMkI2cUtBMzFQMnRtR1VHZ1dfbmx1aXBBbTlRTXRWYTRJZ0U4TXg5aTR5WWRDY2ZLMG9aN3BYc0g2SG9lNlhNUmJxSm11Z1RpVWU4a0FjOWVmdkFKemdzRndUUnluYXljLWtfYWFOQkZGWXd2bHoyTnhEdDBwdlp6?oc=5",
+     "source": "AGBI",
+     "time": "13:06",
+     "note": "Compute operator pre-flags a cash need before listing."
+    },
+    {
+     "title": "UAE's EDGE Group invests $50 million in Australian quantum navigation developer Q-CTRL",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVJwUWVMNVdOak1DNVhNdzJtNThwdHJ6UUhiYXlNeFZadUhHdExuS0RPelMwcWt4VGNUTU5aSHNZck5UOGVUa0NZTVNCM1FFV1VMS0E3cXRmRE9hRjhVdW56M2N1ZndnbW1VLUM2Qm5sRkhaN1AyZnplU09BNmRZbGxrSVFSajU3WkRzQjBnalZ1NXNsT2ZtZGtLSHlHdy03c05VNC02R3A3MHVEWnhic1FScTJJUQ?oc=5",
+     "source": "Defence Industry Europe",
+     "time": "09:21",
+     "note": "Defence-led bet on quantum positioning tech."
+    },
+    {
+     "title": "Cerebras Systems Reports $584 Million Nine-Month Revenue and Amends MBZUAI AI Compute Agreement",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWFFXMnU5bmstS3BoYk5kcjNQUWxHVlE4WFpwTnpqR1ZKT21rMS1iaXhFYi0yUnVJV3AwUFd6YUxDWU1PdnZOdlphRVFibVlDT1ZkRkhIM1psRVQwRmhzeVNiZy1tcURsWHltdnJ5TkJCaUk5T0ZkaGdJMVF4M0lyTW1WZHBlV2ZrVkZSUm1YUTFBUmFIczNz?oc=5",
+     "source": "TheEnergyMag",
+     "time": "22:36",
+     "note": "Chipmaker posts revenue, adjusts UAE compute deal."
+    }
+   ]
+  },
+  {
+   "title": "Fed flags AI as top financial-stability risk",
+   "signal": 80,
+   "summary": "The Fed's semi-annual stability report and a separate survey both surfaced AI and AI-driven asset valuations as the top worries for the financial system, with AI rocketing to the front of the risk ranking. Regulators are now treating AI concentration and its valuation froth as macro-prudential concerns.",
+   "angle": "A formal central-bank flag that AI concentration is systemic - boards take note.",
+   "items": [
+    {
+     "title": "AI rockets to top of worries about financial system in latest Fed survey",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
+     "source": "Reuters",
+     "time": "22:26",
+     "note": "AI jumps to the top of Fed survey risk worries."
+    },
+    {
+     "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
+     "source": "CNBC",
+     "time": "21:00",
+     "note": "CNBC's read of the same survey."
+    },
+    {
+     "title": "Fed Sees Risks Tied to Elevated Asset Prices Partly Driven by AI",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-13/fed-sees-risks-tied-to-elevated-asset-prices-partly-driven-by-ai",
+     "source": "Bloomberg Technology",
+     "time": "21:00",
+     "note": "Semi-annual report ties AI to asset-price froth."
+    }
+   ]
+  },
+  {
+   "title": "UAE and Saudi press the AI-adoption message",
+   "signal": 75,
+   "summary": "Gulf AI ambition stayed in the spotlight: Altman called the UAE the world's most forward-looking country on AI adoption, Dubai unveiled the Nad Zabeel innovation campus targeting 30,000 researchers a year, and Etisalat launched an AI marketing hub for SMBs. Saudi media pushed a national talent-and-competitiveness framing for women in AI.",
+   "angle": "The Gulf is pricing human capital and adoption posture as AI policy - a positioning signal.",
+   "items": [
+    {
+     "title": "OpenAI CEO Sam Altman calls UAE the world's most forward-looking country in AI adoption",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFJud05ycVhGZEJNelY0R2RwbW1HYWNORjdZdU94QTNLb1ZZV1lJcWVVSFFoVGtRZl9LelRBeW1FMDMwejVSbC1MMjF2Z01GcWEzSzAzYUNnd3lSRUQwcEFQQThKUHhac19tQmNQTlJLdHY1R19OS3JSMzRERldqU0swUG1EQUVYaXR0YXl1ejFQZnZBRnA2YTMxV1pEVnhHdGkxdDN0ZE1pSGJDOXl6UXB4Wl9Kc2ttUUE?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "14:23",
+     "note": "Altman's public endorsement of UAE adoption posture."
+    },
+    {
+     "title": "Dubai announces Nad Zabeel, a new innovation campus set to attract 30,000 researchers annually",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWZ3ZnNRYzM0Z3Bac1hQaGVQbDctY0VYZ3dNMEsxbXkta0hQNTZaRDQ2MS1nTlVObVlTTElubEdhdTl6c0o0TlQ1Wm1ta2ZYNE52ZUNUNy13cUtHOUxVSllFRDhwb01nOEFvc0Njd3A2Tzl3RHBRLTFVNWwyNFhlc1EyNnhOekxDbjBKVHNZQjh3Yzl4WjEwZHlBMlF3S2pEbV9zX3hScGNZWUMtMlpIYkdyOXFDSHdYNUZxemFpS0pvdw?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "15:45",
+     "note": "New Dubai research campus targets scale."
+    },
+    {
+     "title": "Etisalat UAE starts AI marketing hub to simplify digital advertising for SMBs",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlV4Q3MwdzB4QjlmbWk3cnFKNHA2TExxcU5YT2RJelF1SlBGaWFHNWR3WjJ0NE5uMU1yTnZYME50ZUZvYTlYUmpQQmk2dkE3TWFOdEc0RG9VQXo5R3RGTUowZVZqaURVMnU0Q3p2VUY2SVphRkl6a0tsNndMS25BTm5MSzFCemRDSl9aMm1ELVYyXzh3RTB2UzhDUHBEMGozOXBRSVBQdzVxLWpremgwVWZQNmJVTGZoNGxDSQ?oc=5",
+     "source": "Telecompaper",
+     "time": "12:11",
+     "note": "Telco pushes AI down to the SMB segment."
+    },
+    {
+     "title": "Saudi Women in Artificial Intelligence: From National Empowerment to Global Competitiveness",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBLQk93MW9ldTlaaEdzd3RlVnJ1RWNid2hucW9QVXlrdW1SalgxcTU3OW0tUjVWMl9SbkRZc0hhVEh5TXlGb3NJdkxB?oc=5",
+     "source": "Saudi Press Agency",
+     "time": "21:24",
+     "note": "State media pushes a talent-competitiveness framing."
+    }
+   ]
+  },
+  {
+   "title": "US AI policy: liability relief to buy disclosure",
+   "signal": 70,
+   "summary": "The White House AI task force, at its second meeting, discussed cyber threats to critical infrastructure and is urging agencies to ease cyber-liability rules so companies report AI incidents more freely. The posture pairs deregulation with a disclosure bargain on AI incidents.",
+   "angle": "An early shape for how the US will govern frontier AI security and disclosure.",
+   "items": [
+    {
+     "title": "White House Urges Easing Liability to Encourage AI Disclosure",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
+     "source": "Bloomberg Technology",
+     "time": "00:34",
+     "note": "Agencies told to ease cyber-liability to spur incident reporting."
+    },
+    {
+     "title": "White House AI Task Force Discussed Cyber Threats, Critical Infrastructure at Second Meeting",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV0NfMEZnVHV5NzFVSkNHU1M4OFQyMnF1VFVMQy13aWpVdGpnLWFEZjlvVU1lNlRmd21CWkluNGVSVE5oOFRvSjZWNU04amx3NWt1ckJWZWlDMHRnVGRYc3ZJakYzQ1RzaS13RjVsbHVaX3BxM1h2a3dmb0RLYzBPWElWaTlYMnFEUXpBX3pxYkt6YWJObG5Pd1dkLUZlXzhMbTdhNmlmQjFVWksxQ1ZPaW9pbjFFN1ZpNlNXektqV1FaNFVvMkJ1Ng?oc=5",
+     "source": "The Information",
+     "time": "15:12",
+     "note": "Task force's second session centred on infrastructure."
+    }
+   ]
+  },
+  {
+   "title": "Single-vendor resilience retested after Microsoft outage",
+   "signal": 65,
+   "summary": "A Microsoft-wide outage that hit banks, governments and pharmacies into a 'broad recovery' has reopened the concentration-of-dependence question, with the FBI separately probing whether a software update, not an attack, caused a mass FAA outage. For GCC CIOs running on US hyperscalers, it is a resilience wake-up call.",
+   "angle": "Hosting-dependency risk becomes a live board question again.",
+   "items": [
+    {
+     "title": "Microsoft says services experiencing 'broad recovery' after global outage",
+     "url": "https://www.ft.com/content/025b2769-bca8-4a74-b9f5-5d7ad7da32c7?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:17",
+     "note": "Recovery underway; German govt expects big economic impact."
+    },
+    {
+     "title": "Microsoft outage exposes global reliance on core tech providers",
+     "url": "https://www.ft.com/content/f385935b-2bb4-4e34-8127-16517e8ceecb?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:55",
+     "note": "Impact spanned banks, governments, sheriffs and pharmacies."
+    },
+    {
+     "title": "When Microsoft goes down, how much of the world stops working",
+     "url": "https://economymiddleeast.com/news/when-microsoft-goes-down-how-much-of-the-world-stops-working/?utm_source=rss&utm_medium=rss&utm_campaign=when-microsoft-goes-down-how-much-of-the-world-stops-working",
+     "source": "Economy Middle East",
+     "time": "12:29",
+     "note": "GCC-facing commentary on hyperscaler dependence."
+    },
+    {
+     "title": "FBI Said to Probe Whether Software Update Caused Mass FAA Outage",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage",
+     "source": "Bloomberg Technology",
+     "time": "22:01",
+     "note": "FBI eyes a software update, not an attack, in the FAA case."
+    }
+   ]
+  },
+  {
+   "title": "Frontier labs push agents to transact and verify",
+   "signal": 60,
+   "summary": "OpenAI launched ChatGPT Wallet so agents can complete purchases with user approval, DeepMind shipped AlphaProof Code for verifying complex software at depth, and Anthropic rounded out its Opus/Haiku 5.5 line with a Claude-run marketplace experiment. The through-line is agents moving from chat to spending and proving.",
+   "angle": "The agentic layer is getting money rails and proof machinery - watch both.",
+   "items": [
+    {
+     "title": "Introducing ChatGPT Wallet",
+     "url": "https://openai.com/index/introducing-chatgpt-wallet",
+     "source": "OpenAI News",
+     "time": "15:00",
+     "note": "Agent purchases with user approval and existing card protections."
+    },
+    {
+     "title": "Google DeepMind Introduces AlphaProof Code for Verifying Complex Software at Depth",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzkxU29lczBKRWJXd1hhbmVSbFhEaEdYcS1lX0NUU1hkX2JkUlZGUnczX1g4dXR5ZDNwWkpKcm5Kb2dzSTEzMFA1bGMtRjNxY0szY2M5ZEJaS2JLdGVBQXRYS0ZMdlZnRmtuUUhuTWk5QkdQNFRRYzFwMzdXS2NYaUc0X3ZaaW1QaklTSWhicWNnRmhxdVRGRFR5NVVlVVZxS0staEgxbU40aVZnYTBoWVBEd3dNN3Q3QWFXRktTQXBoQTA?oc=5",
+     "source": "HPCwire",
+     "time": "01:33",
+     "note": "DeepMind applies AI to deep software verification."
+    },
+    {
+     "title": "Introducing Claude Opus 5.5",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Agentic-coding flagship at 40% lower run cost than Opus 5."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Fast small model for subagents and browser use."
+    },
+    {
+     "title": "Project Deal: our Claude-run marketplace experiment",
+     "url": "https://www.anthropic.com/features/project-deal",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic trials agent-mediated commerce."
+    }
+   ]
+  }
+ ]
+}

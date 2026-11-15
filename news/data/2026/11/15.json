@@ -1,0 +1,194 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T02:00:15.231420+00:00",
+ "themes": [
+  {
+   "title": "Nvidia CEO Huang ousted; board picks interim CFO",
+   "signal": 85,
+   "summary": "With Jensen Huang gone after misconduct and suspected-spy allegations, CFO Colette Kress now runs Nvidia on an interim basis and faces Tuesday earnings plus possible lawsuits and a succession search. The episode is a governance shock for the world's most valuable AI supplier.",
+   "angle": "A concentrated-founder company hits its first true test of institutional resilience.",
+   "items": [
+    {
+     "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+     "url": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "11:00",
+     "note": "Chipmaker lacks full insurance cover for executives' alleged conduct, per FT."
+    },
+    {
+     "title": "Everything That Led to Nvidia CEO Jensen Huang’s Fall - The Information",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQWlhcUtmYVNuZFpuLTdlcTdsWWFnTEZWTjhmZXR5dTRya0R3ZTY4c2ZTZ2hic3p1VDl0eW5LM0hORGJ1eDR3aWM4bVFTSV9lNXdWOE5uT0tZZDl0Sm41QWRod3hiQ2prMzI2cTlpcGRSU1FRdER4cTdHYUFleGxzSXJLWGwwb183R1ktdA?oc=5",
+     "source": "The Information",
+     "time": "14:01",
+     "note": "The Information traces the sequence before Huang's abrupt departure."
+    },
+    {
+     "title": "Nvidia’s Leadership Shakeup Tests AI Chip Giant",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
+     "source": "Bloomberg Technology",
+     "time": "12:47",
+     "note": "Bloomberg: interim CEO Colette Kress may steady investors post-exit."
+    },
+    {
+     "title": "Nvidia results will set tone for Gulf AI and Anthropic IPO - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeDQyc0ZIa1JmaU1EcjVWQmlnUnVlc1Z0QlFSRFk0djU5bUlpV29aYk1CS25vbXltbF8wRGxqQTd5VHMwVWRuWTdVUG83d3lIT2VRTEVwU3JyOV9HMmpkOEJpRGhsUUZGeTU5ZHNBY2dZY2JMLXM5SjZOOTROZF9oMVFJSllzT01TME0wVkJnNkhSNzJpNTB3X3RkVkNPbXgxRkE?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "AGBI: Gulf AI funds and the Anthropic float read Nvidia earnings as the AI-valuation marker."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic IPO roadshow launches, S-1 filed",
+   "signal": 80,
+   "summary": "Anthropic filed its S-1 and began its IPO roadshow, a deal Bloomberg says is heavily oversubscribed and positioned to follow SpaceX's blockbuster debut as the next big AI listing. Jailed FTX founder SBF would have netted ~$40bn on his early stake.",
+   "angle": "After SpaceX, Anthropic is the second pillar testing how much public capital AI can absorb.",
+   "items": [
+    {
+     "title": "Anthropic launches roadshow for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/roadshow-launch",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Lab formally begins investor meetings ahead of the float."
+    },
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Registration statement filed with US regulator."
+    },
+    {
+     "title": "Anthropic IPO Tests Investor Appetite for AI",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
+     "source": "Bloomberg Technology",
+     "time": "15:54",
+     "note": "Bloomberg: deal heavily oversubscribed, poised to follow SpaceX's debut."
+    },
+    {
+     "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+     "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "23:39",
+     "note": "FT: jailed FTX founder loses windfall on early AI-lab stake."
+    }
+   ]
+  },
+  {
+   "title": "US AI trust crisis as Democrats take Congress",
+   "signal": 72,
+   "summary": "Axios frames four colliding crises for AI titans with a Democratic surge and voter rebellion over data centers, making self-policing untenable and guardrails a new-Congress priority. Tech giants also face rising grid-cost pressure and Meta drew an EUR805m Italian fine over photo access.",
+   "angle": "The political wind in AI shifts from laissez-faire to accountability in one election.",
+   "items": [
+    {
+     "title": "AI's four colliding crises",
+     "url": "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks",
+     "source": "Axios AI+",
+     "time": "12:35",
+     "note": "Axios: industry self-policing breaks down as Democrats surge and voters revolt over AI/data centers."
+    },
+    {
+     "title": "Tech Giants Face More Grid Cost Pressure on Democratic Sweep",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep",
+     "source": "Bloomberg Technology",
+     "time": "13:00",
+     "note": "Bloomberg: AI's electricity bill gets harder as Democrats drive grid policy."
+    },
+    {
+     "title": "Italy Fines Meta €805 Million Over Access to Users’ Photos",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
+     "source": "Bloomberg Technology",
+     "time": "14:53",
+     "note": "Bloomberg: Italian data watchdog fines Meta ~$887m for scanning Android photo galleries without consent."
+    }
+   ]
+  },
+  {
+   "title": "UAE courts agentic AI; Altman lauds adoption",
+   "signal": 66,
+   "summary": "OpenAI CEO Sam Altman calls the UAE the world's most forward-looking country on AI adoption, landing as the UAE central bank primes 2027 rules around financial stability and cybersecurity. Startup AIREV raised Singapore capital to scale agentic AI in finance and healthcare.",
+   "angle": "UAE converts sovereign ambition into a regional agentic-AI and regulatory beachhead.",
+   "items": [
+    {
+     "title": "OpenAI CEO Sam Altman calls UAE the world’s most forward-looking country in AI adoption - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFJud05ycVhGZEJNelY0R2RwbW1HYWNORjdZdU94QTNLb1ZZV1lJcWVVSFFoVGtRZl9LelRBeW1FMDMwejVSbC1MMjF2Z01GcWEzSzAzYUNnd3lSRUQwcEFQQThKUHhac19tQmNQTlJLdHY1R19OS3JSMzRERldqU0swUG1EQUVYaXR0YXl1ejFQZnZBRnA2YTMxV1pEVnhHdGkxdDN0ZE1pSGJDOXl6UXB4Wl9Kc2ttUUE?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "04:40",
+     "note": "Altman praises UAE AI adoption pace, per Fast Company ME."
+    },
+    {
+     "title": "UAE’s AIREV secures Singapore investment to scale agentic AI in finance and healthcare - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQnZNaGdYQy1CZEtwR3djdFlCVGRxY1ZBTU82VkZBd0pZa3Nod19LRnhJbzZHTmJaeG9PUFAxbm5mNTlWY2Y4cENzRHRmNjFQa2tiNlpucDdVdmQyU3lQcktmOFBJNzhPb0J3QTZBbFZudGZkc2JnV1Vnd2NhN01QZVJkUGFhVU0xWUo4SUo5bW9ULUgyU1RDMV8zRGlSMUtKNFBXcTJ0eVpkVl9lUDVfWXhBd2pRamhV?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "11:04",
+     "note": "AIREV raises regional capital for finance/healthcare agents."
+    },
+    {
+     "title": "UAE Central Bank outlines 2027 regulatory priorities, with focus on financial stability and cybersecurity - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUXB1UlBrdm1ncG85b0NNczA2dERxbXAyWnc0ZDFMUlhpRDU1UkNRWHFXbmQ3RC03d1ZhZTdFM2stYzV0Nk5Tc2RCRlBVbDZoOXdqczZDVUx4cEM1Umh1bGhFbnUwbFZocktSVVlXMmZQSlE5Z0I1MENieXJSNUtEOFhVWkZZYmg5Zm1Rd1F6YVczR0dldkYteW5WWXRJT05nVlN4eHBtamwzQXppMl9ZUkdXNUwxRWZHQnktZVRDdVVIODJ1a1hlb2tuZGtDVDV3SlE?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "12:40",
+     "note": "Fast Company ME: 2027 focus on financial stability and cybersecurity."
+    }
+   ]
+  },
+  {
+   "title": "Saudi AI: models, AGI-era infra, AI workforce",
+   "signal": 55,
+   "summary": "Saudi Arabia claims third place globally in AI model development and is advancing computing infrastructure and governance ahead of what it calls the AGI era, while enterprise adoption shows scale - Shaffra reports 800,000 work hours saved via AI employees and cybersecurity firm COGNNA took Wa'ed funding.",
+   "angle": "Saudi turns AI into sovereign capability metrics: rankings, compute, and hours saved.",
+   "items": [
+    {
+     "title": "Saudi Arabia ranks third globally in AI model development - Arab News PK",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbWk3TzdNSW53TFlYeDFacWpzX3FfZGlqRXd0Y2FfM3M0NDItQ2lqbURhT2tPNmQ2RVpXck9mZUZFMVYzdnNkTjBKMV9HMkcwTXlhenRKR25FNEtReEhUR1dOVUFkUmJVWnEwMEZsd1hxUnJzSXVXQXN0dHRscXEyMTJzc2R4YUt4enJCbTkyQ3BrUUpiN2J2M2VnSDV1NnZjMk1Ocw?oc=5",
+     "source": "Arab News PK",
+     "time": "19:58",
+     "note": "Arab News PK cites third-place global standing in model building."
+    },
+    {
+     "title": "Saudi AI firm Shaffra helps firms save up to 800,000 work hours using digital employees - Arab News",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdk5saENvckttZENmRWNGT194WmZIOURYOGxpWWVaVk8wNW9fd204Rk1CQ3JSV1dtSjBxOEdva01KclhWUFhtUE5VNkZPNGF1THRwZ3V5dGZQYndENkkyR1VHNjQ2WTNNSHpfLVNlcnJuMTBXSUpvSnBhTEJfNjZNbmRuZ015N2tjRlhaa0Nvem13MkFFeF9PQ1QzdExqR2N3eXhfWUp3TDkzcHN2M1JQQmlzOWQzV3czYkVPSjA1VS0zNm1LU1Rv?oc=5",
+     "source": "Arab News",
+     "time": "08:03",
+     "note": "Arab News: digital employees save ~800k work hours across sectors."
+    },
+    {
+     "title": "Saudi COGNNA raises investment from Wa'ed Ventures to expand AI-powered cybersecurity solutions - jawlah.co",
+     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1vQnZMYUhEWVFRaUNueEtWZ1VxNmwyaDI5MEVrck1ha3dtZC1vX1Noekl0eGs2WHZNUElXTVo5Zw?oc=5",
+     "source": "jawlah.co",
+     "time": "14:02",
+     "note": "Jawlah: Aramco's venture arm backs AI cybersecurity."
+    },
+    {
+     "title": "Saudi Arabia Advances Human Capital, Computing Infrastructure, Governance Frameworks Ahead of AGI Era - وكالة الأنباء السعودية",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9jaFRFb1dsVjVvUW5CLTRMRnNzR3Eyeld2d2d1NUhYV3JBbjJieF9QNHJPc19MLUdRYkJHcDlJY0hWOFdWbXpSTlBB?oc=5",
+     "source": "وكالة الأنباء السعودية",
+     "time": "12:25",
+     "note": "SPA: Riyadh pushes compute, skills, governance for AGI era."
+    }
+   ]
+  },
+  {
+   "title": "India backs native AI to avoid 'digital colony'",
+   "signal": 45,
+   "summary": "India is pinning hopes on government-backed startup Sarvam to build native models and escape technological dependence on US/China, per FT, even as Indian equities rebound once the global AI trade unwinds and foreign funds return.",
+   "angle": "National AI sovereignty is the new industrial policy - and India is a live case.",
+   "items": [
+    {
+     "title": "India pins hopes on AI start-up to avoid becoming ‘digital colony’",
+     "url": "https://www.ft.com/content/599cd9ab-dbd0-4c0d-818a-f6270871cd97?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "01:00",
+     "note": "FT: Sarvam gets state backing for native models in world's most populous nation."
+    },
+    {
+     "title": "India Stock Market Rebounds as AI Trade Unwinds, Foreign Funds Return",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return",
+     "source": "Bloomberg Technology",
+     "time": "00:00",
+     "note": "Bloomberg: foreign funds return as AI-trade unwinding lifts Indian equities."
+    }
+   ]
+  }
+ ]
+}

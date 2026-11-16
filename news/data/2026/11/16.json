@@ -1,0 +1,237 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T02:00:16.007735+00:00",
+ "themes": [
+  {
+   "title": "Anthropic goes public: IPO roadshow underway",
+   "signal": 85,
+   "summary": "Anthropic has filed its S-1 with the SEC and launched an investor roadshow for its proposed initial public offering, capping a year of heavy product releases. The IPO is being read as the market's first major test of whether frontier-lab economics can withstand public-equity scrutiny — a signal for the entire AI sector's funding structure.",
+   "angle": "The sector's biggest liquidity event — a referendum on AI capex economics for every executive allocating to AI vendors.",
+   "items": [
+    {
+     "title": "Anthropic launches roadshow for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/roadshow-launch",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Roadshow now live after the S-1 filing"
+    },
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Official S-1 registration with the SEC"
+    },
+    {
+     "title": "Anthropic's IPO is the next big test for AI",
+     "url": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "11:40",
+     "note": "Public markets now shape the frontier-lab economics"
+    },
+    {
+     "title": "Anthropic IPO carries link to metals markets",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRXVVNzRjZ4dDV3OXpWN1JWeHZSUV8wa21kMHl4TWktZ0hfTFo2blpLbzZodi1IMWd6QjdzemJhZC04VG5nSVBzYjZ1YkNMOE1QdXp1MEZ0MjBBS1J1WlZiLVp4OWJDc0JSYV9oYk01M1hLS0VHYlF0WWhKU0JrVFE4MkpWbFdIN3RLYmo5U0IxZWdaQng0?oc=5",
+     "source": "Construction & Demolition Recycling",
+     "time": "01:56",
+     "note": "(via GN) A niche take tying the IPO to commodity markets"
+    }
+   ]
+  },
+  {
+   "title": "Nvidia leadership vacuum deepens",
+   "signal": 80,
+   "summary": "Days after the board pushed Jensen Huang out, the treasury secretary called for a dramatic external shake-up, Congress moved to tighten AI chip export rules, Huang agreed to testify, and reports say he is discussing a comeback with allies. The governance vacuum at the world's most valuable chipmaker is colliding with an export-control crackdown.",
+   "angle": "Leadership chaos at the AI-capital core — a risk every Nvidia-dependent enterprise stack must price in.",
+   "items": [
+    {
+     "title": "Nvidia Feels the Heat on CEO Search as Bessent Calls for Shakeup",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
+     "source": "Bloomberg",
+     "time": "15:16",
+     "note": "Treasury secretary demands dramatic leadership change"
+    },
+    {
+     "title": "Nvidia's Jensen Huang in Talks With Allies Over CEO Comeback, Report Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
+     "source": "Bloomberg",
+     "time": "19:14",
+     "note": "FT reports comeback discussions days after the ouster"
+    },
+    {
+     "title": "House Chairman Says Huang Agrees to Testify But No Date Set Yet",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet",
+     "source": "Bloomberg",
+     "time": "16:32",
+     "note": "Closed-door testimony on the alleged Chinese spy relationship"
+    },
+    {
+     "title": "Congress moves to pass tighter AI chip export rules following Nvidia scandal",
+     "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "11:00",
+     "note": "Affair scandal adding momentum to export restrictions"
+    },
+    {
+     "title": "What will Nvidia's post-Huang era look like?",
+     "url": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+     "source": "FT",
+     "time": "05:00",
+     "note": "Analysis of the company's adversarial position"
+    }
+   ]
+  },
+  {
+   "title": "US and allies move to guard AI supply chains from China",
+   "signal": 70,
+   "summary": "Washington and allied governments signed an accord to jointly identify and protect AI technologies and supply chains deemed vulnerable to China, ahead of a Trump-Xi meeting at APEC in Shenzhen. It broadens the chip-export fight from single hardware bans into a coordinated supply-chain security posture.",
+   "angle": "Geopolitical de-risking now covers the whole AI stack — procurement and compliance stakes go up for GCC buyers.",
+   "items": [
+    {
+     "title": "US and allies sign accord to protect AI supply chains from China",
+     "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "17:47",
+     "note": "Pact signed ahead of the APEC Trump-Xi meeting"
+    },
+    {
+     "title": "US, Allies Agree to Guard AI Supply Chains From China, FT Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/us-allies-agree-to-guard-ai-supply-chains-from-china-ft-says",
+     "source": "Bloomberg",
+     "time": "20:16",
+     "note": "Joint identification and protection of at-risk AI tech"
+    }
+   ]
+  },
+  {
+   "title": "GCC doubles down on AI scale and robotics",
+   "signal": 65,
+   "summary": "The Gulf's AI push accelerates on several fronts: Sam Altman called the UAE the world's most forward-looking country on AI adoption, a Saudi SDAIA study maps the kingdom's AI progress across talent, infrastructure and government use, GITEX Global palms humanoid and physical AI in Dubai, and AGBI flags data-centre cooling as the region's overlooked constraint. Regional investors are also sizing the Anthropic IPO and an emergent IPO slump.",
+   "angle": "The Gulf is now a first-mover AI buyer and builder — the regional AI capex story is the differentiator.",
+   "items": [
+    {
+     "title": "OpenAI CEO Sam Altman calls UAE the world's most forward-looking country in AI adoption",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFJud05ycVhGZEJNelY0R2RwbW1HYWNORjdZdU94QTNLb1ZZV1lJcWVVSFFoVGtRZl9LelRBeW1FMDMwejVSbC1MMjF2Z01GcWEzSzAzYUNnd3lSRUQwcEFQQThKUHhac19tQmNQTlJLdHY1R19OS3JSMzRERldqU0swUG1EQUVYaXR0YXl1ejFQZnZBRnA2YTMxV1pEVnhHdGkxdDN0ZE1pSGJDOXl6UXB4Wl9Kc2ttUUE?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "02:42",
+     "note": "(via GN) Altman's endorsement of UAE AI adoption"
+    },
+    {
+     "title": "Saudi Arabia's AI progress spans talent, infrastructure and government adoption, finds SDAIA study",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2ZGU2E3cE5RU3Z4dXQyeVBNaE1fOXlubFF3QUg2THVlMkI4LU1oakh2S2tMaVNkeTlrOTlOSUYwNEY1ZG5OUWNfV25OOVVWU3BMS203UE9GdURLdlA0TmE4MnpGOWNMa3JscGtUemVKQVNrY2NzVDZlVXkyS2QtcERwTGsyZjZ6WjlCdVdld0hrd3BMdW4zaExXMk5QalFIWEhuZ081YnFGNEVySGNLRHRVU3Iydk5Qa2lVN0ZoMGxuNzdoeHc?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "11:47",
+     "note": "(via GN) SDAIA maps Kingdom AI maturity across three pillars"
+    },
+    {
+     "title": "GITEX Global to showcase latest humanoid robots and physical AI technologies in Dubai",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMEx1Qms2QkZRZW1mdWxyODhSN29zdUVZUUhqWjc0Z3VfbW5sbnlmckk5NE1RM2lqQUVFM1cwV2RXRzFkVkFaQk1KNG5IQ0lJbmYzUTJBNWJiUGItRVR4QVZTVFRXNUYta3doZjN5Ul9lcnNzOGE4MnpmLWpsSF9UM3JiVjBlNEhySV83Tjd1ZmUtbHZXWjFhUG9Cbl82WUFxMzVNTGZ5ckpabk9yZFpwb0JXblV6X0VLSjNXZHVTblFsQ0pVaDYwd2JOaThJTDZkY1dOcEZ5bFpJUQ?oc=5",
+     "source": "Robotics & Automation News",
+     "time": "14:51",
+     "note": "(via GN) Humanoid and physical AI headline at GITEX"
+    },
+    {
+     "title": "Cooling is the elephant in the room for Gulf data centres",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckFHNlNxNWowSGdueEhGU25KaDd2ZlZqU05BTzJHMFRzVU0xSTgzUTU3VmtkcnotLUVPWDUta3JUUUJPZnJIeExfWHlLQlhPank2cmRJN05IV2VoVWxyaTN5S29FTFVadFJRejE2Q0hqcXBjMi0teExyb3M5RUdjczcwenRqNkQ1SlphNk9MMmV4TDNTcEwyZ2J4N0xkMFBi?oc=5",
+     "source": "AGBI",
+     "time": "00:00",
+     "note": "(via GN) Heat and water constraints challenge Gulf AI infrastructure"
+    },
+    {
+     "title": "Dubai, Abu Dhabi investors' options shrink on IPO slump, buyouts",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVlcyenh0Z3lDRU5kN2M2a1VDZTN1eG4tRzBOSGMtMHFLSVZ6TDh4QUFXdGFwMTJKSmF2SzhhSUNQSlpOdmVjS2tqWnYzYXZPQV9WWndwTmh5UHYtSjJLRlBkMjhaWi1YOW5rVnBLZEUxRGdrN1B4UnJrdXRnMzE2ZU9XbzFTNTVpNXc?oc=5",
+     "source": "Yahoo Finance Singapore",
+     "time": "06:30",
+     "note": "(via GN) Shrinking public-buyout options for Gulf capital"
+    },
+    {
+     "title": "Nvidia results will set tone for Gulf AI and Anthropic IPO",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeDQyc0ZIa1JmaU1EcjVWQmlnUnVlc1Z0QlFSRFk0djU5bUlpV29aYk1CS25vbXltbF8wRGxqQTd5VHMwVWRuWTdVUG83d3lIT2VRTEVwU3JyOV9HMmpkOEJpRGhsUUZGeTU5ZHNBY2dZY2JMLXM5SjZOOTROZF9oMVFJSllzT01TME0wVkJnNkhSNzJpNTB3X3RkVkNPbXgxRkE?oc=5",
+     "source": "AGBI",
+     "time": "00:00",
+     "note": "(via GN) Nvidia's numbers as the bellwether for Gulf AI and the IPO"
+    }
+   ]
+  },
+  {
+   "title": "OpenAI turns to science as AI-native proof work",
+   "signal": 55,
+   "summary": "OpenAI published a candidate lattice definition of the Standard Model, crediting GPT-6 Astra with turning the idea into a detailed proof, and launched a dedicated science blog. It signals the frontier labs repositioning inference as a research-grade instrument, not just a productivity layer.",
+   "angle": "Frontier labs commoditizing raw science — a shift R&D leaders should watch for what it means for internal AI budgets.",
+   "items": [
+    {
+     "title": "A step toward defining the Standard Model on a lattice",
+     "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+     "source": "OpenAI",
+     "time": "22:00",
+     "note": "GPT-6 Astra helped turn the idea into a detailed proof"
+    },
+    {
+     "title": "Our new blog for science",
+     "url": "https://openai.com/index/our-new-blog-for-science",
+     "source": "OpenAI",
+     "time": "22:00",
+     "note": "New channel for AI-driven scientific discovery findings"
+    }
+   ]
+  },
+  {
+   "title": "AI capex optimism holds despite chip turmoil",
+   "signal": 50,
+   "summary": "Morgan Stanley turned max-overweight on global stocks, citing an intact AI capital-spending cycle extending growth into next year, even as questions swirl around Nvidia. Elsewhere, Taisei launched a $150M AI-robotics fund and SK Hynix plans a chip-testing hub for smaller Korean players, keeping the build-out theme alive.",
+   "angle": "Conviction that the AI CAPEX cycle is intact — a counter-note to the Nvidia governance noise.",
+   "items": [
+    {
+     "title": "Morgan Stanley 'Max Overweight' Global Stocks on Intact AI Cycle",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/morgan-stanley-max-overweight-global-stocks-on-intact-ai-cycle",
+     "source": "Bloomberg",
+     "time": "01:48",
+     "note": "AI capex seen extending growth into next year"
+    },
+    {
+     "title": "Taisei Launches $150 Million AI, Robotics Fund With Pegasus Tech Ventures",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-15/taisei-launches-150-million-ai-robotics-fund-with-pegasus-tech-ventures",
+     "source": "Bloomberg",
+     "time": "23:01",
+     "note": "Builder backs automation to offset a shrinking workforce"
+    }
+   ]
+  },
+  {
+   "title": "Physical AI and domain verification advance",
+   "signal": 45,
+   "summary": "Google DeepMind launched Gemini Robotics 2.5 with better dexterity and industrial capability, verified Signal's cryptographic core with AlphaProof Code, while Apple opened a 200K-person study of consumer AI health use and three Tesla Autopilot veterans reached a $1B valuation for an AI simulation startup. Agentic and physical AI keep maturing across domains.",
+   "angle": "From robotics to formal verification, AI is crossing into reliability-critical use cases — where GCC enterprises are early adopters.",
+   "items": [
+    {
+     "title": "Google DeepMind launches Gemini Robotics 2.5 with improved dexterity and industrial capabilities",
+     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcEFaUHVBNmxBYUNlSDZYOTlfTlhHN2xKSmdJT0ExNXNNVlo5YlRJNnpoWjF5LUJkZEhoS3lTcUktRkRPLXEtMGV1ZWt5N3VPbklPbEFqUzFibGVEYUp5enNBWS1rOXZkTGNVY2pHSEtSNVU0LV9Pc3VBSkl0Mk9XZzZpY3pIaUdYa0Z3cXdZVDZDMEdURloyMWVIbnEwLURqWDJvTTdhN3lTVHd0Y1Zjc0kwX21heldUQ2xBLTVPQmpEcGFZVExGaXlpVGt2cF9DOW9tblBZMVlhaFBLNW1GYkNLWlEyVjNr?oc=5",
+     "source": "Robotics & Automation News",
+     "time": "18:53",
+     "note": "(via GN) Improved dexterity and industrial focus"
+    },
+    {
+     "title": "Google DeepMind researchers verify Signal's cryptographic core with AlphaProof Code",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZXhEQk9zOTdWbFlGWmlJam9XSXRsQVg1bnpzNm80ZXRKUmE1LWtmcjVGMmI2ZHNjQWJvbHN2RUtWcUYybWlkY0Jmb2NkV1BTY2UyaXgtaU1DWktDd0R6T0IxNjVmNzdEWmxRcEJ4ZFNaODdkbWdTekV2VndaendVaC1zS3JlLXd5Nkx1RzV2ZDUtb084Q3VyMURpRzBzZGJBM1JYWnZpQ0g4bXVqeEp3bjMyaHlhejM1a1JfemtDY1M?oc=5",
+     "source": "EdTech Innovation Hub",
+     "time": "00:47",
+     "note": "(via GN) AlphaProof Code applied to Signal's crypto"
+    },
+    {
+     "title": "HLTH26: Apple launches 200K-person study to examine how consumers use health AI",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2g1VE5ncFdqMWNXbnZRUGVOejhFT21maHpyQ2hxRkxzajhWaS1NRDM5bFU2LVlEMkJKTURxcVh2SzBLdGJmdW1nY25SNmpBNFpiY3JNVF9zT3NnbnpDd2pjbERrM3M1enVvelBxd1cwWGtKdk1NbHhwZWZOOG5ERU1vOTBLdmhSSjEwTkFaVllKRzFjcmJuWW5CTzRfY3ZqdF9ZXy1hcmdIMExoR1o4XzcxZ2wtZFE?oc=5",
+     "source": "Fierce Healthcare",
+     "time": "01:35",
+     "note": "(via GN) Large-scale consumer health-AI study"
+    },
+    {
+     "title": "Exclusive: Three Veterans of Tesla's Autopilot Team Got a $1 Billion Valuation for an AI Simulation Startup",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYko3cjlnaHFZcjhCX25HV09zQkl2VVB1LUJ4bWZOelhlSFZMTTZBOERWNDFGWEtXZFIxWXZjTjJqclVSZGFQTjMtaGNSWC1ZV2RrU1ctU0lGMkZOU0UyY1VPd29lcENzblV3ejhwSFVWYTRiUE02dHprYTVsZTJlWmp6Y3dXNkl6RGFLTWpZY2ZJRkNCWXc0MnRxX1BiZjhYaFhNVVVYZ2lHTFY5OVZERjRPcWhMMDhqVFBTU0pIb0VhOXpSOHJtc25sR3lTSHdydk1lME9Mb0NVYmxNQTRZdU5B?oc=5",
+     "source": "The Information",
+     "time": "22:00",
+     "note": "(via GN) Autopilot alumni at billion-dollar valuation"
+    }
+   ]
+  }
+ ]
+}

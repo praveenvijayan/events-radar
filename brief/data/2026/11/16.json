@@ -1,0 +1,81 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T03:44:15+00:00",
+  "lead": "Quiet day: the usable signal is in operating controls and engineering practice, not new supervisory guidance or a material deployment announcement. Uber’s agent-security design adds a contextual check on whether an authorised action fits the user’s request and the agent’s purpose, backed by trace replay after policy changes. Anthropic’s code-review workflow is a useful comparison for risk-tiered approvals and rapid rollback, although its primary post is dated 15 October and its reported results are internal. For your regulated workloads, benchmark these patterns against your own identity, review and release controls; neither vendor account is independent assurance.",
+  "items": [
+    {
+      "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
+      "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework",
+      "also": ["https://www.uber.com/us/en/blog/securing-ai-agents/"],
+      "source": "InfoQ — AI, ML & Data Engineering",
+      "tier": 2,
+      "published": "2026-11-15T00:00:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 94,
+      "summary": "Uber describes a lifecycle framework with agent registration, ownership, intents and constraints at provisioning; contextual behavioural checks before runtime actions; and end-to-end traces with replay for continuous assurance. Its engineering post discusses trade-offs in latency, cost, false blocks and developer friction, but gives no measured outcome, price or deployment-region details.",
+      "so_what": "Trial the registry, contextual-action checks and replay pattern against your current Azure identity and policy controls, measuring latency and false blocks while keeping ordinary authorisation enforcement independent.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Anthropic Outlines its AI-Powered Code Review Process for Claude Code",
+      "url": "https://www.infoq.com/news/2026/11/claude-code-review",
+      "also": ["https://claude.dev/blog/solving-code-review-at-anthropic/"],
+      "source": "InfoQ — AI, ML & Data Engineering",
+      "tier": 2,
+      "published": "2026-11-15T09:55:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 90,
+      "summary": "Anthropic’s primary post, dated 15 October 2026, describes layered checks, separate AI and security reviews, risk-based human approvals, feature-flagged rollout and rollback; it reports merged pull requests more than doubled from June to September while the share requiring a revert fell by more than 40%. These are internal company results, not an independent evaluation, and the post does not give a denominator for the revert-rate change.",
+      "so_what": "Benchmark the layered review and risk-tiered approval pattern in a bounded coding-agent pilot, using accepted changes, reverts and incidents—not review speed alone—as release criteria.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "langchain-mistralai==1.2.0",
+      "url": "https://github.com/langchain-ai/langchain/releases/tag/langchain-mistralai%3D%3D1.2.0",
+      "also": [
+        "https://github.com/langchain-ai/langchain/releases/tag/langchain-groq%3D%3D1.2.0",
+        "https://github.com/langchain-ai/langchain/releases/tag/langchain-xai%3D%3D1.4.0"
+      ],
+      "source": "LangChain releases",
+      "tier": 1,
+      "published": "2026-11-15T22:38:06+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 79,
+      "summary": "LangChain’s Mistral, Groq and xAI connector releases add routes through the LangSmith Gateway; the Mistral release also fixes streaming behaviour for reasoning models. The notes do not state regions, pricing or gateway-side governance details, so this is an integration capability rather than evidence of a complete control plane.",
+      "so_what": "Trial the relevant provider adapter against your current model-routing and tracing path, and verify where credentials, request data and policy enforcement sit before adopting gateway routing.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Qwen4-Max now available on AI Gateway",
+      "url": "https://vercel.com/changelog/qwen4-max-now-available-on-ai-gateway",
+      "also": [],
+      "source": "Vercel Blog",
+      "tier": 2,
+      "published": "2026-11-15T20:00:00+00:00",
+      "track": "models",
+      "decision": "model selection",
+      "signal": 72,
+      "summary": "Vercel lists Alibaba’s Qwen4-Max on AI Gateway and describes native vision, a 1-million-token context window and support for long-running tasks; it says the gateway passes through provider pricing without a platform fee. The page gives no price per token, hosting-region or residency details, and its claims about reduced token use and fewer code vulnerabilities are not accompanied by benchmark results there.",
+      "so_what": "Trial it only on non-sensitive workloads against your current model and gateway, measuring task quality and end-to-end cost while confirming provider routing and data residency first.",
+      "verify": false,
+      "off_list": null
+    }
+  ],
+  "watch": [],
+  "post_seed": null,
+  "sources": {
+    "ok": 147,
+    "total": 149,
+    "failed": [
+      "EDPB: HTTPError: HTTP Error 503: Service Unavailable",
+      "The New Stack — AI: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  },
+  "candidates_seen": 47
+}

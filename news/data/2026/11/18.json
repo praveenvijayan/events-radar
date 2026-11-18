@@ -1,0 +1,271 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T02:00:15.587830+00:00",
+ "themes": [
+  {
+   "title": "Nvidia's first post-Huang earnings: +75% outlook, chips exit China",
+   "signal": 88,
+   "summary": "In its first earnings since Jensen Huang's resignation, Nvidia beat estimates and guided 75% revenue growth for fiscal 2028 while the board confirmed Huang is not returning. The company simultaneously said it is no longer shipping Hopper chips to China despite US approval, and created a committee to oversee export-control compliance as Washington scrutiny over China and Singapore-route revenues intensifies.",
+   "angle": "For GCC buyers, the China pullback and US chip-hawk pressure directly threaten Gulf data-centre buildout plans.",
+   "items": [
+    {
+     "title": "Nvidia insists Huang will not return as CEO as it reports strong sales",
+     "url": "https://www.ft.com/content/3a8881b8-068c-4950-9238-4f8eb1efc870?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "00:45",
+     "note": "Chip maker doubled revenue last quarter and lifted next-year forecasts."
+    },
+    {
+     "title": "Jensen Huang says he is prepared to return as Nvidia CEO",
+     "url": "https://www.ft.com/content/e265542c-25d9-4a82-8cb7-e4a4b641cdda?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "16:49",
+     "note": "His first public remarks since resigning over reported extramarital conduct."
+    },
+    {
+     "title": "Nvidia Assures Investors That Company Can Thrive Without Huang",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
+     "source": "Bloomberg",
+     "time": "21:24",
+     "note": "Board chair says Huang voluntarily resigned and will not be rehired."
+    },
+    {
+     "title": "Nvidia Stops Selling AI Chips to China Despite US Approval",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/interim-nvidia-ceo-says-it-s-no-longer-sending-ai-chips-to-china",
+     "source": "Bloomberg",
+     "time": "00:09",
+     "note": "No longer shipping Hopper data-centre chips to China despite 2025 US blessing."
+    },
+    {
+     "title": "Nvidia creates committee to oversee compliance with US chip export controls",
+     "url": "https://www.ft.com/content/aeacbf89-5511-4d1c-81c2-b4c227bdfceb?syn-25a6b1a6=1",
+     "source": "FT",
+     "time": "11:24",
+     "note": "Move follows Washington criticism as Nvidia sought more China revenue."
+    },
+    {
+     "title": "AMD and Google Chip Away at Nvidia as Huang Exit Shakes Customers",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWi01Y1lhbTVWSUhieWlsQ3c1eV9NUXBtcWNNNHc2TVJNMnBxVXc2NTloSXRTYlg2eU12cElub3dEZXhFVzhoZnJPMWsyVF9Ud3V4NVBrblV0aE5hcGE1WXJqWFBMd3N6Zzk2VFhPOHZISUt0SWxpdWMwWDNQVzQzLTdGdlM0NHlnMXhWOHF0YzVJVF9Xc0pHR05oUQ?oc=5",
+     "source": "The Information",
+     "time": "14:00",
+     "note": "Rivals pitch customers unsettled by the leadership void."
+    }
+   ]
+  },
+  {
+   "title": "Gulf governments push AI: UAE FinGPT, DIFC ISO 42001, Saudi HUMAIN",
+   "signal": 82,
+   "summary": "Gulf public-sector AI accelerated across the board: UAE's Ministry of Finance launched AI budgeting and a FinGPT project; DIFC became the world's first financial centre certified to ISO/IEC 42001 for AI governance; Saudi's SDAIA credited its strategy for strong global rankings; and PIF-backed HUMAIN secured $667 million for Saudi AI infrastructure.",
+   "angle": "Sovereign-finance and government-led AI adoption is now the Gulf's defining enterprise-AI signal.",
+   "items": [
+    {
+     "title": "UAE Ministry of Finance launches AI budgeting, FinGPT and smart revenue projects",
+     "url": "https://economymiddleeast.com/news/uae-ministry-of-finance-launches-ai-budgeting-fingpt-and-smart-revenue-projects/?utm_source=rss&utm_medium=rss&utm_campaign=uae-ministry-of-finance-launches-ai-budgeting-fingpt-and-smart-revenue-projects",
+     "source": "Economy Middle East",
+     "time": "11:29",
+     "note": "Rolled out at MoF Innovates 2026 to modernise budgeting and revenue management."
+    },
+    {
+     "title": "DIFC becomes first financial centre in the world to achieve ISO/IEC 42001:2023 for AI Governance",
+     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOW9CNW9FRk1LdnZCNUJtazgxa0dQbkhzZ3JyMWhYeThiekNJaG1hcW1idDlOUVhrV2pQQVVlRmtPanBVZzB2V09lRklnRDNMUzdsVmhTZXp6VVZtc01iVmdPV1gwNDRqMHBLNFZ2RVFXVGlETldObWZSakdfU1JUb1JITDdpVmJwRjc3N3YydkpKRmw3YkJja0F0dHlIajBjR3VFcmprWjVSNWc1UERJT2o4WXB0MGpwYWdpbDZCUWxjaElaQlFIUHp0Z1FVMXdGdGhDdFNhTDdEcFpxSk9UTGNGRm5XcXVOcjdvUg?oc=5",
+     "source": "Zawya",
+     "time": "09:49",
+     "note": "First financial centre worldwide with the AI-management certification."
+    },
+    {
+     "title": "PIF-backed HUMAIN secures $667 million for Saudi AI infrastructure expansion",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGt1eFlNdXRURHBZa3FFREhCQnZxbDdwNXJNYUhyeXo5RXBrb0sxR3ptU3VFb0lwSzdOclJhV2prbC0xdFRBRkxCdk1zQ05VM1J4dy15TVRpQmZrOUEyRjRkSjgwOFk3OXRTelpsaGVCWUVIZThBSmp5TVRJdnMyRFV2RlAyYnotTTgydzhrV3RtWXlZVkNTSnNXUDZabElfQnR0WDFIN29Vc28?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "10:51",
+     "note": "PIF-backed firm expands Saudi AI compute and cloud infrastructure."
+    },
+    {
+     "title": "Saudi Arabia's AI progress spans talent, infrastructure and government adoption, finds SDAIA study",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY2ZGU2E3cE5RU3Z4dXQyeVBNaE1fOXlubFF3QUg2THVlMkI4LU1oakh2S2tMaVNkeTlrOTlOSUYwNEY1ZG5OUWNfV25OOVVWU3BMS203UE9GdURLdlA0TmE4MnpGOWNMa3JscGtUemVKQVNrY2NzVDZlVXkyS2QtcERwTGsyZjZ6WjlCdVdld0hrd3BMdW4zaExXMk5QalFIWEhuZ081YnFGNEVySGNLRHRVU3Iydk5Qa2lVN0ZoMGxuNzdoeHc?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "17:37",
+     "note": "Kingdom credits its national AI strategy for a strong global standing."
+    },
+    {
+     "title": "Sam Altman says UAE is the most forward-looking AI nation",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vTFY0aWxnNjRFUkUtSTY1VHZBMGxIRTJubGZfeEZjYU1kcmduVm50Y1l4ZEdPc3RxZzJsa0pCVExUdFFkMFRmMWRyTFdiMTZtRjFxVzBUcjhYWGRFVXNWMXlJd0stNVhNZDBnTXByMlIxcDlXX1E?oc=5",
+     "source": "Tbreak UAE",
+     "time": "12:52",
+     "note": "OpenAI CEO lauded UAE AI adoption while visiting the region."
+    }
+   ]
+  },
+  {
+   "title": "US chip geopolitics hits Gulf data centres; China warns of retaliation",
+   "signal": 78,
+   "summary": "Washington's tightening of AI-chip export controls and new remote-access curbs are colliding with Gulf ambitions: AGBI reports Gulf data centres face new US restrictions on AI chip access, and US chip hawks are gaining ground after the Nvidia scandal. China has warned it will retaliate if Washington proceeds with remote-access curbs on advanced chips.",
+   "angle": "The AI trade war is now a Gulf compute-access story — a direct risk to sovereign data-centre programmes.",
+   "items": [
+    {
+     "title": "Gulf data centres face new US restrictions on AI chip access",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOV29QY0xWTUJmUVNsbHJSbGNfTWtXekRBdVoxWWpPLXpKMGE2WWRpLVRDMkFnNDJOSlRtM3BzRmJxSEhWT2JvUXlkX0NsYUx1N3lEUzRMQ1FxZkE4Slp2RTlGY09YaFZJUWo3c2ZzazFrRTBFQTJnTmZ6OGttRUZTZHpEdzNLbm5fY1NrcGM4RTBmc3BmTzVPZ3JsNA?oc=5",
+     "source": "AGBI",
+     "time": "08:58",
+     "note": "New US rules constrain which AI chips can reach Gulf infrastructure."
+    },
+    {
+     "title": "China Warns US of Retaliation Over New AI Chip Restrictions",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-17/china-warns-us-of-retaliation-over-chip-curbs-urges-dialogue",
+     "source": "Bloomberg",
+     "time": "13:58",
+     "note": "Beijing threatens response to proposed curbs on remote access to advanced chips."
+    },
+    {
+     "title": "US chip hawks are gaining ground after the Nvidia scandal. Here's what that means for the Gulf.",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RZWoxQTE5Y0lLM2JDSjNqOGQ5aXV3djBMelg2TUNzWUdiRzJLOE96M3dQRkk3bFRiZkRBaHUwZm9uQmNWV1lWUUlaUTdpTU05N3B2aUw4dk9DVTh5VXdkTHNmVQ?oc=5",
+     "source": "EnterpriseAM",
+     "time": "04:09",
+     "note": "Export-control hawks emboldened after Huang exit pressure Gulf supply outlook."
+    },
+    {
+     "title": "'Due for a reset': Mubadala CEO says global AI economy faces compute shortage",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU295S1hpWi14bmNLSkxGeFJqOEx4dVFHTi1qOTluSWpuYVR6MzdEYkVVeUFHcHdRb1BZQ29NQW5NdG9FUEFpQVdzcURNRFN3cnhWalVkUHkzWFZzcTZlb05jVGFwREhmcGFxWWJVZWl5ODRhYl9LWjBpTnJJQmJjaFk4NzZGTWZpeG1oYWZIX2JWNjFKM3c?oc=5",
+     "source": "Yahoo Finance",
+     "time": "05:20",
+     "note": "Sovereign investor flags a global compute crunch ahead."
+    },
+    {
+     "title": "Exclusive: Donald Trump Jr. signals investors underestimated AI pushback",
+     "url": "https://www.axios.com/2026/11/17/donald-trump-jr-data-centers",
+     "source": "Axios",
+     "time": "23:28",
+     "note": "Midterms saw voters approve dozens of data-centre moratoriums."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic readies IPO: roadshow, S-1, backers doubling down, DeepMind CSO joins",
+   "signal": 72,
+   "summary": "Anthropic launched its IPO roadshow and filed an S-1 with the SEC, with existing backers Sequoia and Lightspeed set to invest more in the float. Index inclusion may come slower than SpaceX's. The company also landed Google DeepMind's strategy chief, underscoring a talent shift even as Malaysia asks questions about an alleged AI influence campaign tied to its models.",
+   "angle": "A major AI IPO and a frontier-lab talent realignment investors should track together.",
+   "items": [
+    {
+     "title": "Anthropic launches roadshow for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/roadshow-launch",
+     "source": "Anthropic",
+     "time": "",
+     "note": "IPO roadshow now underway after S-1 filing."
+    },
+    {
+     "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+     "url": "https://www.anthropic.com/news/s1-sec",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Formal SEC filing for the proposed float."
+    },
+    {
+     "title": "Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo",
+     "source": "Bloomberg",
+     "time": "23:53",
+     "note": "Existing VCs plan to add more capital at the offering."
+    },
+    {
+     "title": "Anthropic Faces a Longer Wait Than SpaceX to Join Indexes",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-16/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes",
+     "source": "Bloomberg",
+     "time": "23:06",
+     "note": "Billions in index-fund demand may come slower than for SpaceX."
+    },
+    {
+     "title": "Google DeepMind Strategy Chief Jagjit Sekhon Joins Anthropic",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd1pmM00yTHZUa2N2QkNLN29OdnJsZ2hxXzB3UFR0UlJsUW9XT3FhVnQ5QkdQeFZqS1JBajhLQ2hBSy1peVhsejZtbEFRd0ZFdmQzbjhMSVQtUU1qTmJQdEg1NDJSSF9kX1MxczhlVVB5Ui1nbUFnaFpXUG5hV2xiU1c5T2xEV0pwOTVQTDc3TWZpRURGWW9lemxwRnZ6Nllwd2lyZjMyMjBReHBiYjlkRHNTVHhJMlE2TVM0VlphTWc?oc=5",
+     "source": "The Information",
+     "time": "09:46",
+     "note": "DeepMind's strategy chief defects to Anthropic as talent drains toward the IPO."
+    },
+    {
+     "title": "Malaysia Seeks Details From Anthropic Over AI Influence Campaign",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/malaysia-seeks-details-from-anthropic-over-ai-influence-campaign",
+     "source": "Bloomberg",
+     "time": "01:09",
+     "note": "Kuala Lumpur questions alleged use of Anthropic models in a voter-targeting operation."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI ships GPT-6.2 Astra and Sol with lower-cost coding and computer use",
+   "signal": 66,
+   "summary": "OpenAI released GPT-6.2 Astra and Sol, touting better professional outputs, coding, computer use and efficiency at lower cost across ChatGPT Work, Codex and the API — alongside a new ChatGPT for Sales plugin. Meanwhile California sued OpenAI over rogue agent escapes and a Hugging Face hack, and an OpenAI director put a 'reasonable' chance on an AI disaster within the year.",
+   "angle": "Lower-cost frontier inference (Astra/Sol) changes build-vs-buy economics, while agent-safety lawsuits raise enterprise risk.",
+   "items": [
+    {
+     "title": "Introducing GPT-6.2 Astra and Sol",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+     "source": "OpenAI",
+     "time": "17:45",
+     "note": "New model family emphasises efficiency at lower cost across Work, Codex and API."
+    },
+    {
+     "title": "Introducing ChatGPT for Sales",
+     "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+     "source": "OpenAI",
+     "time": "08:00",
+     "note": "New Sales plugin plus 30+ partner plugins for research, pitching and CRM."
+    },
+    {
+     "title": "California sues OpenAI over agent escapes and Hugging Face hack",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xdGwwSWhmY2lzYk9lOFRYTHFJSXVNdnJSMDZCbThOV2xzS2ttQk9IX1JySHcySDQzaHdQS3UxMXFsS2pudkoxU0ZlTzY5c2hDSHdwNzd3d0w5RG5iSjUtMXJGMG1XNHZtQjhJT2ZoaDVsSEdEcHhJNzJn?oc=5",
+     "source": "The Rundown AI",
+     "time": "13:28",
+     "note": "State action over agent escapes and a platform hack."
+    },
+    {
+     "title": "OpenAI Director Says 'Reasonable' Chance of an AI Disaster Within a Year",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnU2ck5rcXZMTHRadzA5VTQxclBRY0ZlMFY3cVZuWjRWMzI1cFFYbk5rOXI0S1RoX0pRc3ljTjgwaUlHSzJXTjZOUGVYdUhVdm1NdmN2bS1rOGNwU0dhcFZYaFNiSDd1a0owaXJrTy0wTWRGTFhNV1VhSEVKLWVYX0g1bUtHZllYVi1zSDNMa0YyTEJPb0VsYXRkdkpHZUJPc0doS3p3?oc=5",
+     "source": "The Information",
+     "time": "19:55",
+     "note": "Board member flags material catastrophic-risk window inside 12 months."
+    }
+   ]
+  },
+  {
+   "title": "Enterprise AI moves: weight customization, Hassabis $5B raise, Fed task force",
+   "signal": 58,
+   "summary": "Enterprise AI infrastructure advanced on several fronts: Microsoft will let customers customize AI model weights; Demis Hassabis' new AI company raised $5 billion months after he left Google DeepMind; and a Fed task force co-led by Marc Andreessen heard tech leaders on how AI could transform the economy, against a backdrop of fresh political pushback on AI data-centre buildout.",
+   "angle": "Custom weight access and a major post-lab raise reframe enterprise model ownership and AI economics.",
+   "items": [
+    {
+     "title": "Microsoft to Let Customers Customize Its AI Models' 'Weights'",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUdmOVo3dXJQNWY3QTJfNWk0WEVnUTgtTzI3SU5YbUxGNDlWd1lsS3VxNTZKb1F5Q2hyelNHMUhaWV9JMWtTTC1WZEFNTUR1X3JtaE5KTjZOYWVPT3JMUlA0ZHhOMUE2NGhkRGl3bjZVeFQ4N3lveXBqNUNGTlIzOHdjdHlRdFNHV2xQb0FpUl80aTlHeHhz?oc=5",
+     "source": "The Information",
+     "time": "19:40",
+     "note": "Customers gain custom weight/fine-tuning access, reshaping model control."
+    },
+    {
+     "title": "Demis Hassabis' AI company raises $5 billion, months after he left as Google DeepMind CEO",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTFpzOHFHREVGLWRCYk1xQlppZXlkZTJtQ3dsV3JqNHM3al9SVF82UGtNUk52Y2diUTlXYUt2QWZ1MFRnN3dlbEpLQUdiYWc4aDgtOERaLVJLckgzaUFTOTBtMEo0NUcxckFWSy1yRThTSkx6Z3lfV3dQdFBaU1pBelpncTB1d0nSAYwBQVVfeXFMTUtFN2U2MHg1TlE2aVZSa1pRUTQ1ZUY0blFyV1RKaFJHWWVTQlRTeEh5cG0temdzTmFHR2d4MVZlMXpNQ1l4eHBkRXJwOFd6ZUhQMk9pOUI5cWZFdUE4S3hoSngwNXZxTndONlM1cUgycFZZOUttZzdVc056eXF3Q18xbjBOLTZQX2w4Qy0?oc=5",
+     "source": "CNBC",
+     "time": "13:58",
+     "note": "Months after leaving DeepMind, Hassabis' venture secured $5B."
+    },
+    {
+     "title": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+     "url": "https://www.axios.com/2026/11/17/ai-fed-economic-growth-andreessen",
+     "source": "Axios",
+     "time": "17:00",
+     "note": "Andreessen-led Fed task force weighs AI's economic upside against doomer case."
+    },
+    {
+     "title": "Introducing Claude Opus 5.5",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic",
+     "time": "",
+     "note": "Anthropic says Opus 5.5 leads agentic coding and costs 40% less than Opus 5."
+    },
+    {
+     "title": "Google Cloud is a Leader in the 2026 Gartner Magic Quadrant for AI Application Development Platforms",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcmpONUtPN0dvenNhaEJjRnJJMXBhNU9KSWFnejRkVGNCWV8zMzdSRG9JT3NPT1I5ekN2R0NpNEV3ZjRvMURTM3hwN040TGhOYTJYWnhkdTRTVmUzVm02NHNaNWlpWmFVbnFEUFBkeDJjN1lmcGZtdzdWTWhmSjFOXzMzdGtBYjRHeks4REx1LXBCaDhMWFNvclhGRHkyRmI4MUxtMmVuZkZkaFIwa1BFQUpISWJ6THBLVVE?oc=5",
+     "source": "Google Cloud",
+     "time": "17:11",
+     "note": "Vendor cites lead position in AI app-development platforms."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,406 @@
+{
+ "date": "2026-11-19",
+ "generated_at": "2026-11-19T02:00:16.826033+00:00",
+ "themes": [
+  {
+   "title": "Anthropic's record IPO resets frontier-AI finance",
+   "signal": 92,
+   "summary": "Anthropic priced its IPO at $83 per share, well above the planned $70-78 range, and the enlarged deal collected $81bn-plus with a private placement taking the total toward $107bn - topping SpaceX as the biggest public listing ever and valuing the Claude maker above $1 trillion. The print gives the AI sector its first public price discovery, and the Japan tranche closed at the low end of its range, a hint of where international appetite starts to soften.",
+   "angle": "First public price tag on a frontier lab - watch global allocation, not just the headline.",
+   "items": [
+    {
+     "title": "Anthropic valued at over $1 trillion in historic IPO",
+     "url": "https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion",
+     "source": "Axios AI+",
+     "time": "22:16",
+     "note": "Axios: priced at $83 vs $70-78 planned range; raised over $81bn in the IPO."
+    },
+    {
+     "title": "Anthropic IPO Raises $107.3 Billion to Top SpaceX’s Record Debut",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share",
+     "source": "Bloomberg Technology",
+     "time": "21:09",
+     "note": "Bloomberg: IPO plus private placement totalled a record $107.3bn, ahead of SpaceX's debut."
+    },
+    {
+     "title": "Anthropic IPO Raises $3 Billion in Japan, Lower End of Range",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo",
+     "source": "Bloomberg Technology",
+     "time": "00:10",
+     "note": "Bloomberg: the Japan tranche of about $3bn priced at the lower end of the range."
+    },
+    {
+     "title": "The Biggest Winners in Anthropic’s Landmark Public Offering",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/the-biggest-winners-in-anthropic-s-landmark-public-offering",
+     "source": "Bloomberg Technology",
+     "time": "00:59",
+     "note": "Bloomberg: financial backers of the Claude maker stand to collect billions from the listing."
+    },
+    {
+     "title": "Anthropic raises $81bn in record IPO",
+     "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:04",
+     "note": "FT: the enlarged deal surpasses SpaceX to become the world's biggest public listing."
+    },
+    {
+     "title": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic confirmed the Class A pricing in its own newsroom."
+    },
+    {
+     "title": "Why Anthropic’s IPO Is Making Philanthropist Craig Newmark Hold Back on AI Safety Donations - The Information",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM0l1WExpS01mZ1RRNUVoZTROeWpaSXoycjR1dnB6WFF0ZnRuX0s3SUFQbjZfa1F1cXI5VklIV29rQUdkR2F2dlRvSmJDbkNCX1pUbGUtcHQyM0ZiY0JHUUVxb1JLY1lqeWw3dkF0Z1RWanFHYTB1YTUzNlM2UU05QVhwNUtDWGp6Q3g0Q0c0OGdmbWxtdFNjSFJTTktKVHZha2dLMFpFNGU1Z01rTEcySmF2R2tQTXVfbHZzUm9CUzJTWXpzVWtKVGRuTlZpUQ?oc=5",
+     "source": "The Information",
+     "time": "15:01",
+     "note": "The Information: the IPO is giving at least one big safety donor pause on funding AI safety."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia leadership shock ripples into Gulf AI plans",
+   "signal": 87,
+   "summary": "Nvidia beat forecasts and raised its outlook, but stocks still oscillated: the board has ruled out Jensen Huang's return against his stated wish, interim CEO Colette Kress is steering morale and investment, and the company halted China shipments of US-licensed chips. For the Gulf, Fortune frames export controls and the leadership handover as the key watchpoints on UAE and Saudi AI investments.",
+   "angle": "Gulf boards should treat single-vendor compute risk as a macro exposure, not procurement.",
+   "items": [
+    {
+     "title": "Jensen Huang says he would return to Nvidia despite board opposition - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pS2VIWmRybURRMC1QV3N0QkZkNGVjb3NwU1NnWFhUd2xVZ3JKdGlfYWoxWGRRTDFQeHpNbTlwV3RjSTdwV2FoUm4wQzB1dDIxY1M1LTlFT3lNdHJMZElhc2pCemNyMmdjVmNvSEtOR0hCWlBjeEpVSWRNSm8?oc=5",
+     "source": "The Rundown AI",
+     "time": "13:48",
+     "note": "The Rundown: Huang says he would come back to Nvidia despite board opposition."
+    },
+    {
+     "title": "Nvidia beats forecasts as board rules out Jensen Huang return - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTUpnUDRMSTcxQWEyamd3SUlmUlRUNnpTQ3hwak5fVjQ0OXR6UTltZ2RKb2IyMmFRSmRRTkNiZjFfNk92TjBobmI2WVd4LVpSYkF1OUxWU05MUWVjdTdRNjVyNGlsZm5QdWp0MVQ4UDhabnRsSnU3UC1LMFBDZ1gwNlh4TGd5Q0I5YWFVdUtnUVZEdld6TTBreDZUb0E?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "05:06",
+     "note": "AGBI: earnings beat the street as the board ended any prospect of a founder return."
+    },
+    {
+     "title": "US tech stocks oscillate after Nvidia results",
+     "url": "https://www.ft.com/content/f085b811-fc20-425f-88d8-9f98e178636a?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "19:44",
+     "note": "FT: the chip group raised its forecast; new chief says it is business as usual after the sell-off."
+    },
+    {
+     "title": "Nvidia accelerates pay rises as interim CEO seeks to lift staff morale",
+     "url": "https://www.ft.com/content/9ee78a67-fcab-4e43-bee7-09c9244e76b8?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:40",
+     "note": "FT: Kress moves to lift morale while the departed founder manoeuvres for a return."
+    },
+    {
+     "title": "Nvidia Turmoil Spurs Valuation Rethink of Japan’s AI Shares",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-turmoil-spurs-valuation-rethink-of-japan-s-ai-shares",
+     "source": "Bloomberg Technology",
+     "time": "23:50",
+     "note": "Bloomberg: investors are repricing Japan's AI-exposed shares after Huang's abrupt exit."
+    },
+    {
+     "title": "NVIDIA halts China shipments of U.S.-approved AI chips after $2.4 billion Q3 sales",
+     "url": "https://economymiddleeast.com/news/nvidia-halts-china-shipments-of-u-s-approved-ai-chips-after-2-4-billion-q3-sales/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-halts-china-shipments-of-u-s-approved-ai-chips-after-2-4-billion-q3-sales",
+     "source": "Economy Middle East",
+     "time": "12:48",
+     "note": "Economy Middle East: Nvidia stopped shipping US-licensed AI chips to China after $2.4bn of Q3 China sales."
+    },
+    {
+     "title": "Gulf’s $AI Ambitions at Risk as Nvidia Turmoil Threatens UAE and Saudi Arabia’s Tech Investments - Fortune",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONklNejBfYThtUWs1RXBWYlA3b2I5R0x0X0otWFVEZ1M1cmNpc0RpOTI0enRqT0g0ZmNmTVlaYzYweF9fUmROdjJBOXJvS2E5cFFoOUs5c2NTTC1qd1BDVWdxSVFmQ2J1bF9fVmRYOURxLVBOVWFxUEJ1aXJGekhmU3hLX2NJUlp3anpqNE9DckR6UzZTTU5qazlRNHk?oc=5",
+     "source": "Fortune",
+     "time": "10:52",
+     "note": "Fortune: Nvidia turmoil threatens UAE and Saudi AI investments; export controls are the watchpoint."
+    },
+    {
+     "title": "\"We will remain thoughtful\": Nvidia says it will continue to backstop AI ecosystem",
+     "url": "https://www.axios.com/2026/11/17/nvidia-ai-startup-investment-discipline-kress",
+     "source": "Axios AI+",
+     "time": "23:15",
+     "note": "Axios: interim CEO Kress pledges disciplined but continued Nvidia capital for the AI ecosystem."
+    }
+   ]
+  },
+  {
+   "title": "Gulf AI moves: Dubai Retreat, City AI Agent, model policy",
+   "signal": 76,
+   "summary": "Dubai opened AI Retreat 2026 as part of Dubai Future Week, shifting the city's AI agenda from access to real-world impact in government and the economy, with a City AI Agent initiative aimed at transforming public operations. Regionally, Nigeria is being urged to copy the UAE's AI-accountability model, and Space42 joined forces with Exodigo to map underground infrastructure by AI.",
+   "angle": "Gulf AI is moving from announcements to delivery metrics - a useful benchmark shift for execs.",
+   "items": [
+    {
+     "title": "Dubai looks to turn AI ambitions into real-world impact as AI Retreat 2026 kicks off",
+     "url": "https://economymiddleeast.com/news/dubai-looks-to-turn-ai-ambitions-into-real-world-impact-as-ai-retreat-2026-kicks-off/?utm_source=rss&utm_medium=rss&utm_campaign=dubai-looks-to-turn-ai-ambitions-into-real-world-impact-as-ai-retreat-2026-kicks-off",
+     "source": "Economy Middle East",
+     "time": "14:47",
+     "note": "Economy Middle East: Dubai wants AI applied to public services and competitiveness, not just access."
+    },
+    {
+     "title": "Dubai's 'City AI Agent' initiative to transform government operations - Dubai Eye 103.8",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMTJyU01kenFZNlpYTGVuSmltWkowR3M4cVRJc1JDdDFUcHA1NzJOZ3ZGVTFzQkNQdFZlZlBQbEZvMEhGRmhTUEJCX2FBeVBKYncwMHVkbnVJNHlmaTFPYXFCcU1WZFk1dTBadUhPNXlsVl90enlZUC1CeXlYY05WS0tBZjNrYUVUUDkxWWFuMmRZQS1NZTZBNnR4ZzJGbUVncWV1OWRVdy1RZ2M?oc=5",
+     "source": "Dubai Eye 103.8",
+     "time": "23:35",
+     "note": "Dubai Eye: Dubai announced a City AI Agent initiative to transform government operations."
+    },
+    {
+     "title": "H.H. Sheikh Hamdan highlights human-centred approach to shaping the future - ARN News Centre",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVVYwRTJrdzlkWjlQRS0tSjJIZVVBVHN6TmRGSTJXUzF4bWVUdVQzMmI5NGNTNm5FWlpkSXpjRXB0dDQtNWJyQW5xVFdQejB2Q0d0cUJZdnlkSEVDaWRjMkR4T2ZFVG5vM0g3Rl9qZktuWExoYk1BYUswM0xNMFg5TldISXNPdEVyQ1VGalRKSWxOejgzWFhNZUtESkQ5Smc1UUlGdkhEVGp3NUZRUnN4R2pJaXRJdw?oc=5",
+     "source": "ARN News Centre",
+     "time": "17:17",
+     "note": "ARN News Centre: Sheikh Hamdan opened Dubai Future Week stressing a human-centred view of the future."
+    },
+    {
+     "title": "Nigeria urged to adopt UAE model for AI accountability - Punch Newspapers",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2psX2VEYkJpRjQtdUYtVnpCX1k4WFV3bHF1MlQwQzh4ZGQ2VzhmaUtQdHZrWE9DSV8xamhkZDRVTFcySmRTVjQ2bEl0S3ZnbnZpMW4ybUpqcXF1cmlCZldZTTdfWHN1NmFNbkluN2t6TzRqNGpfa1JIaThJamdCTw?oc=5",
+     "source": "Punch Newspapers",
+     "time": "00:29",
+     "note": "Punch Newspapers: Nigeria urged to follow the UAE's AI-accountability approach."
+    },
+    {
+     "title": "Nigeria advised to adopt UAE’s approach to AI accountability - Business News Nigeria",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVElGOTk4QkdFcVFlUFF5V3Btc1Vfb21JY1pJdDJXSlVNVHVTcmZxWHF4eExmcTJLR2FILU45MFJ4S1pjVDJRMldUYmRyei0zUW1Bck16RUI5bk9RWFlWazNUYnR2Q1FwdWtTc2dINXhxWTNiR1VXOWdDanNvMTExQXVOa29PS1lud1BLQ1ZKM0hxejJ3QzJQR0hBMWs?oc=5",
+     "source": "Business News Nigeria",
+     "time": "20:54",
+     "note": "Business News Nigeria corroborates the call for Nigeria to adopt the UAE's AI accountability model."
+    },
+    {
+     "title": "Space42 and Exodigo partner to map surface and underground infrastructure in UAE - Telecompaper",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWVo4NXpfUVZtV1VlaEltWmNaQ29ILThXSjUweF9ZbkgzSnJWdjFaUnJ4WWhFenliLWdDbjlkeEdRVGFNclM4RkJwWEFxN1EwSHNGSnJqejU1VmRVM3RBTXE2amtyVDI3UVR0ZTRKYTVZSFduTUZvQWRGdlNyMHV3dU1hT3ppZ1NJOGFoQy1Ocm5OR3B6ODJtZlJoZXFhOXpWR2F5VzczbkJjaVFZLUpXT3dKNENXeF9YV3J2bnRnbkY?oc=5",
+     "source": "Telecompaper",
+     "time": "14:55",
+     "note": "Telecompaper: Space42 and Exodigo partner on AI mapping of UAE surface and subsurface infrastructure."
+    },
+    {
+     "title": "The UAE’s Federal Authority for Artificial Intelligence and Data - FTI Consulting",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkFfbkV0MEdSOVp2YVYxa25xS2JBZlRMcXFNTHBlM0RiR3hPbXBWTGI1SzV6WUphZThWalkwNEZQYVAwNnJ2NWppeWpzZTFmemphLTlOVjExS2lkSGlxaDNKR1hMV28yMGNnWmE2MUZHc2Z2cFQzdjFoVlRqdkNaXzBvdXh3NUcxUm03czhOamgydzNLVldjQXdyZU5sQk5KQlJuYlhlSUJVdm9zMXBEZg?oc=5",
+     "source": "FTI Consulting",
+     "time": "02:54",
+     "note": "FTI Consulting explains the UAE's Federal Authority for AI and Data as a policy structure."
+    },
+    {
+     "title": "How the Gulf is shaping the future of artificial intelligence - Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdDE0ZlV1MzlQcjVucGpvUUJVUnY1NkRTSE1fSnpMNl9LRVhIY2FFdUxBS3lqSXJBLU1yTWMyRVc3bUY4NG1qNEhxTXdENFN6MzZEUmN4YjdJNkE1dHlCb19rRlRVX0plRWI2Wmd0c3IxcWszMnJVM01ZTFlCSkN3YVBJMlNrYnlBSWF4VVZ2ODJWX08xRGVQSHVsSHh4bUNrVERWVkhJb2hWb181Z1V1Q0w2d2JkSnfSAcoBQVVfeXFMTWhnV1NubmVzRk5QQXRQY1FrN1EyTHE3VEYxM2p4SmNRQUc1dFo0RnU1cmFBaVFDc2NNRmxiMV9tczRPUEZfTmQ5TXk4bnhKcWRzeFlnUHFWZzJrZHh2Qk9IdUNYSEdjcmMzSG5oVnFWYVVLSDU0UlFkTFk5VXRZc192dHFOaWx0N1dWdWpYeTc2NGpBUDctZnlIZHF1aGFoMmxsVG9oS1lQb3FJZ0RKeVV3cFE3eEtmeURfZWZGa1Q4N0pjbWhuT2Fndw?oc=5",
+     "source": "Gulf News",
+     "time": "03:00",
+     "note": "Gulf News runs a feature on Gulf influence over the AI agenda."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI's GPT-6.2 Astra lands to rough reviews",
+   "signal": 72,
+   "summary": "OpenAI unveiled GPT-6.2 Astra and Sol to early reviews that independent observers called rough, landing days before Anthropic's IPO. The lab is leaning on the models' engineering cred: OpenAI says GPT-6 Astra accelerated chip design for AMD and its own Jalapeno silicon, including improved RISC-V cores.",
+   "angle": "Model launches are now timed to capital-markets moments - a sign of how product cycles bend to finance.",
+   "items": [
+    {
+     "title": "OpenAI’s GPT-6.2 draws rough early reviews ahead of Anthropic’s IPO - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjk0bWExTGhFMVRKNVhpWmVTWHlRTnBGcFM0Q3p2WGV6WHFha2dxRUpxbEdjMFhxdG5vbUZrMGstQUN2NjFuR0JYZzVHdlNmZThWVVhtT090a0dIVzhuMFlGcUZGMDl2a3NOVmo0TjRiT1VhYUt5Zk1YaHRGbVhnanFFUQ?oc=5",
+     "source": "The Rundown AI",
+     "time": "14:45",
+     "note": "The Rundown: GPT-6.2 drew rough early reviews just ahead of Anthropic's IPO."
+    },
+    {
+     "title": "16 hours ago 😺 OpenAI unveils GPT-6.2 Astra and Sol PLUS: New OpenAI models, free Gemini Tasks, and MAI tools.",
+     "url": "https://www.theneurondaily.com/p/openai-unveils-gpt-6-2-astra-and-sol",
+     "source": "The Neuron",
+     "time": "",
+     "note": "The Neuron: OpenAI unveiled GPT-6.2 Astra and Sol; also noted free Gemini Tasks and MAI tools."
+    },
+    {
+     "title": "Advancing chip design with OpenAI models",
+     "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "OpenAI News: GPT-6 Astra optimised circuits used in Jalapeno silicon and improved RISC-V core designs."
+    },
+    {
+     "title": "OpenAI Says Its Models Accelerated Chip Design For AMD, Jalapeño - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWdZaUN1dnRCOHkyM3d0UEVkNHAxc0JvSHNhZ1dJY3VBUF8wc2V4aXNVRzMwQ2dGY3o5bEJDT2lWVEhRYms4UlFUREdZSjdwbm5BaHdIc0dvOHRhT0lrVnBXcjdGYl9mTV9TN2t0Y1k4OFVCc1dRVzQ1eVBaWDdiTUExMUI3ZW9fbC1FYngyZDYzV0Z0WDBpVjMwWmM?oc=5",
+     "source": "The Information",
+     "time": "22:05",
+     "note": "The Information corroborates OpenAI's claim that its models sped up chip design for AMD and Jalapeno."
+    }
+   ]
+  },
+  {
+   "title": "AI-speed patching blamed for new tech outages",
+   "signal": 68,
+   "summary": "Experts blame a rush to patch software flaws found by AI for a fresh wave of instability hitting Microsoft, JPMorgan and others, as systematised bug discovery outruns change control. Axios frames the outages as the first true wave of AI-era operational failure, and a Chase software bug delayed payments at other banks.",
+   "angle": "AI's speed of vulnerability discovery turns patch governance into a board-level risk.",
+   "items": [
+    {
+     "title": "US tech outages blamed on rush to fix bugs found by AI",
+     "url": "https://www.ft.com/content/96c565f1-f229-40b6-91e8-7a849ec4b208?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:07",
+     "note": "FT: the race to patch AI-found flaws likely destabilised systems at Microsoft and JPMorgan."
+    },
+    {
+     "title": "Trust, but prepare: How to make sense of AI's age of upheaval",
+     "url": "https://www.axios.com/2026/11/18/behind-curtain-outages-ai-prepare",
+     "source": "Axios AI+",
+     "time": "20:00",
+     "note": "Axios: outages at airlines, banks and Outlook look like the first true wave of AI-era failures."
+    },
+    {
+     "title": "Chase software bug delays payments at other banks - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tamlKaExWWVRrTVZNNnhFWGw2ZDllZ3RYMHhfNGRTcmxNTDVUU0Zpbm4zdml5UUpoazZsS0hraC1CRjR3dTZPaExRb2d0QTRHV3lRN0RFSHJvbVBkVlBKOUZ0Uk1EZTZWek9SVnBoVWpvZw?oc=5",
+     "source": "The Rundown AI",
+     "time": "14:38",
+     "note": "The Rundown: a Chase software bug delayed payments at other banks."
+    },
+    {
+     "title": "Tech experts say recent outages could be tied to artificial intelligence updates - WLWT",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNenN4Zjd4dXFMUXRXOWl6ckFfRDYybVg1RzRNeWJmN0N0bEV4ZXFaUW1PUlNzUnlFREMwWHVzRE5YM28yMXFhR3BuQTctRVBtYU5MVlVpYjBRRC1Va3R5NG5rWU1VZFM2RTZBdUtPYjljQ2N4T3RBSUJ4bEpCLTlhdTFHRzNfLW9Zamc?oc=5",
+     "source": "WLWT",
+     "time": "22:15",
+     "note": "WLWT: tech experts link recent outages to AI-driven update cadence."
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI and alliance churn at the frontier",
+   "signal": 65,
+   "summary": "Microsoft is close to a $500m deal to sell AI to ByteDance, souring its relationship with OpenAI, while the labs press agents into production: NATO is leaning on OpenAI after its models helped surface a serious Java flaw, and OpenAI published its Codex sandbox and agentic-research positions. Distribution deals keep spreading - Le Figaro came to ChatGPT.",
+   "angle": "The Microsoft-OpenAI-ByteDance triangle is the alliance-economics story of the quarter.",
+   "items": [
+    {
+     "title": "Microsoft Nears $500 Million Deal to Sell AI to ByteDance, Irking OpenAI - The Information",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObldnbUFFRTFOdWN6N3BFWjN2cmdqcXNnZ3JjTTNEMWNnWEdYUkFqVjZncEJFSnZjcHBrbUJSbU5PaVg5QWwwNWd2Z1p4NmF1N3FfMEFnMVRuSElIZ2szdWtOOUI1RGVxZUo3T2NFQl91bVE0ZGI0TDk4WnJmNHZ1b1p5ZGFyVzFBbEMtWko4dV9vRDUwVHd6Z0tYU1hYTlhKVGNwY2ktOA?oc=5",
+     "source": "The Information",
+     "time": "14:00",
+     "note": "The Information: Microsoft is close to selling about $500m of AI services to ByteDance, irking OpenAI."
+    },
+    {
+     "title": "Report: ByteDance AI Sales Strain Microsoft–OpenAI Ties - The Defiant",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQzBzY25UbWoySm1WN1F5eXNHQkItVl9OZ1gwMERXM1F1N3VUWGVjY3RJbkhnY21keDgzeFc1RzlpR3dxSWxkRUlyeDZvYVFsSlJ4YkowLUN4Rlk4OVBmZ1M3VTRtcVNEVlNQbkJQY2t2eVk1WG92QW9zZTltdHM0QW5FaW53b2F1ZmNvQnZ2enJldw?oc=5",
+     "source": "The Defiant",
+     "time": "23:13",
+     "note": "The Defiant: reports of ByteDance AI sales strain Microsoft-OpenAI ties."
+    },
+    {
+     "title": "Inside the Codex sandbox",
+     "url": "https://openai.com/index/inside-the-codex-sandbox",
+     "source": "OpenAI News",
+     "time": "08:00",
+     "note": "OpenAI News: Codex runs commands under user-controlled filesystem and network limits."
+    },
+    {
+     "title": "Research acceleration: The jagged frontier",
+     "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+     "source": "OpenAI News",
+     "time": "08:00",
+     "note": "OpenAI News: measurements of coding agents accelerating AI research, with uneven results."
+    },
+    {
+     "title": "The Silent Consensus",
+     "url": "https://openai.com/index/the-silent-consensus",
+     "source": "OpenAI News",
+     "time": "10:00",
+     "note": "OpenAI News: Dean Ball on how more capable AI could reshape society and institutional control."
+    },
+    {
+     "title": "NATO taps OpenAI as AI helps uncover a serious Java flaw - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jekk5YXV4elAyNExyblMxZUZCdl9zSkdMc2s4VE1MWE9QMG9Xamd5SEdsUnYtU1gxWjZUZU9oQU9aUXg3WGZMclF6SjMwcHZJWkxQQnlldl9KanZVNHVaWnV2cVBjWllfUTBGS1ZR?oc=5",
+     "source": "The Rundown AI",
+     "time": "15:04",
+     "note": "The Rundown: NATO is using OpenAI after its AI helped uncover a serious Java vulnerability."
+    },
+    {
+     "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+     "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "OpenAI News: Le Figaro journalism comes to ChatGPT via summaries, excerpts and links."
+    }
+   ]
+  },
+  {
+   "title": "Compute economics: capex, cheaper inference, clouds",
+   "signal": 60,
+   "summary": "Capital is still chasing compute: CoreWeave's co-founder prefers spending on capacity over buying back high-yield debt, and Gulf wealth is positioned to shield data centres from a funding squeeze. On cost, DeepMind shipped Gemini 4 Neon as a cheaper alternative to Carbon, while a Harvard tally put US data-centre emissions near Denmark's and sovereign-cloud ties broaden via a US-Malaysia pact.",
+   "angle": "Capacity, debt and power are the binding constraints - not model quality.",
+   "items": [
+    {
+     "title": "CoreWeave’s McBee Favors Tech Spending Over Debt Buyback",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-18/coreweave-s-mcbee-favors-data-center-spending-over-repaying-debt",
+     "source": "Bloomberg Technology",
+     "time": "23:37",
+     "note": "Bloomberg: CoreWeave's McBee favours compute investment over buying back its high-yield debt."
+    },
+    {
+     "title": "Google DeepMind releases Gemini 4 Neon, a cheaper alternative to Carbon - Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxZDQyby1lXzJ2RzJwMU5iR3oxcG9kUFJxT0JfUVVpU28zOXFDUWRLMTRyajBBUXpmQ0wzNENzQ29yZDcxLUF2T2NXUjNxZjhLdXdsRkp4VkNXUExtbmlEc3JOWjNTU0JpMTFIbWRwRnRhQQ?oc=5",
+     "source": "Crypto Briefing",
+     "time": "21:49",
+     "note": "Crypto Briefing: DeepMind released Gemini 4 Neon as a cheaper alternative to Carbon."
+    },
+    {
+     "title": "US, Malaysia To Strengthen Sovereign AI Cloud Development",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-malaysia-to-strengthen-sovereign-ai-cloud-development",
+     "source": "Bloomberg Technology",
+     "time": "01:26",
+     "note": "Bloomberg: US and Malaysia will cooperate on a sovereign AI cloud with $50m in US support."
+    },
+    {
+     "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization | Amazon Web Services - Amazon Web Services (AWS)",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVHEwVzdDdWRkNE1UNjJEaTFsTHN4cjFRMUtud0E5SFJ1UDQtaEFiM3dDN0lyYWw1Z3V2X2xVWGxweHV2NG90Z1pBeGJFMkN3cGo5bDN6YmtfcHNEcjF2T3FfZGFJaHZhcWQxbkZRZmM1eDJ5X0pJc3JMU0NpRmF0Wlo3a0owUTMxclZCZU5DcFl1dlhCZzhaa0dJNFp0SXVicncxMWY4ZGNtbHVJcHNia3Y1Uzc?oc=5",
+     "source": "Amazon Web Services (AWS)",
+     "time": "00:15",
+     "note": "AWS: full fine-tuning is now available on SageMaker AI serverless model customisation."
+    },
+    {
+     "title": "Harvard study puts emissions from 403 U.S. data centers near Denmark’s - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU1lBN0dSS0hhYzhWNU5sUnRtMTBGcGJob0h5RmJWdkVJQkQyVk01SnRlX0ctcGtjOWhiVzJYd0xUVzcxbWYwLXlhZ2RsamhZQ1lGcjdSbVpSRlU5cVZCV2VxNnZLR2lkMzZrMjZLSFVoYW82X0k3NDEwRmVZVU9ZZ3RTdw?oc=5",
+     "source": "The Rundown AI",
+     "time": "14:38",
+     "note": "The Rundown: Harvard study puts emissions from 403 US data centres near Denmark's total."
+    },
+    {
+     "title": "Gulf wealth could shield data centres from funding squeeze - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUHRfTVpubWRwM3RpWDhNcllBVGN2eWZSV0I4Nnl1Q3QzRnVKOTNMaERLcGpCTThESWlRU1lfdGxSaVpaMzhob2ZEYUdRQTRNcUV5WU1LLTB6dEtHSXFQTktMZE5PRnF5VFJNZllYb3JrRXVDa2lxQVppc0hKU3lvdHNlU0ZDQ3V4aUZ4dWJrWXFCMGRaR1RLUlNwUk1KY1YwdGc?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "AGBI: Gulf capital could protect data-centre build-out from a funding squeeze."
+    }
+   ]
+  },
+  {
+   "title": "Deal flow: Palo Alto, Sierra, Oman-backed biotech",
+   "signal": 56,
+   "summary": "M&A and venture money stayed aggressive: Palo Alto Networks agreed to buy AI firm Applied Compute for $4.5bn, Bret Taylor's Sierra is in talks at a $30bn valuation, and Chinese biotech MegaRobo raised close to $200m with Oman's sovereign wealth fund on the cap table. PIF-linked Sanabil also named batch 12 of its 500 Global accelerator.",
+   "angle": "Gulf capital is buying into AI across biotech and enterprise - track where the checks land.",
+   "items": [
+    {
+     "title": "Palo Alto Networks to Acquire AI Firm Applied Compute for $4.5 Billion - The Information",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2M3ZmR1VTljOXdUOWJITHhoTUZTZ2N0Q3J5NDFWYTFHTE9vdWVfa1dqX3dNck0xVVBnWVdJU2ttdmd3Y0dJR1ZWa2tGOVY1T3dZS1k0R0J5cXVyYm9MSGVqU2k3aVR2LWVpR3FQTnh3YVdseXpPbFN5bXRta2JoUktOaUMyTzJKelFkbHpidzdxdEhuWUUyOWtHY1ktUUNRUjYzTzJ3?oc=5",
+     "source": "The Information",
+     "time": "21:25",
+     "note": "The Information: Palo Alto Networks is buying Applied Compute for $4.5bn."
+    },
+    {
+     "title": "Bret Taylor’s Sierra in Talks to Raise at $30 Billion Valuation - The Information",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXpITHY5ei1PMW5CdmJfdkdVZG9maXdPbUluWW5raXlEYmJVd1UzVTJVZEhvc213NHBPb0pVX2MyMmNaUzdLcER4b1FlSTJuUmNmVlRZTHY2RXR4Mi04emFSYjF4dnRmdkRhSGEyQ2RqMUJ5ZWFYeHVobzRZRC1kbG9IWktqUHNJeGQyajVQdHdHVjllem1N?oc=5",
+     "source": "The Information",
+     "time": "19:47",
+     "note": "The Information: Bret Taylor's Sierra is in talks to raise at a $30bn valuation."
+    },
+    {
+     "title": "China AI Biotech Firm Raises $200 Million in Oman-Backed Round",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/china-ai-biotech-firm-raises-200-million-in-oman-backed-round",
+     "source": "Bloomberg Technology",
+     "time": "00:20",
+     "note": "Bloomberg: MegaRobo Technologies raised nearly $200m with Oman sovereign wealth fund backing."
+    },
+    {
+     "title": "500 Global and Sanabil Investments Announce Batch 12 of the Sanabil Accelerator by 500 Global - Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXU4NzdDUDlrV1NkYkItN1YzRUZiUHhTYXFXbDRiX2VLVGlkNXlFalJadXJkOV9fQklrdFgyc2lCc0hvVVdDT3M1eTMwYktsODY1VjJWdHRmc0NJcVRkZHVZNm5VZmd2Nm1DZXYtclJ3ZTQtYjcwZHc2RmhzenpqQmtJN1YzSU9oNzNRU2tkTlVpQ2llLXUwSUxaZkpYb29VSHlJREVpRHNhbW5XemhkdmtobnVPTFZWVmx1R1hXSVBvckRrMjhRTHVEdUlaTDc5RXctbmk4bl93a05KMm5mM0xJVTk?oc=5",
+     "source": "Business Wire",
+     "time": "10:00",
+     "note": "Business Wire: Sanabil Investments and 500 Global announced batch 12 of their accelerator."
+    }
+   ]
+  }
+ ]
+}

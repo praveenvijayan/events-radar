@@ -1,0 +1,378 @@
+{
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20T02:00:15.822651+00:00",
+ "themes": [
+  {
+   "title": "Anthropic's $1T IPO reprices the AI trade",
+   "signal": 85,
+   "summary": "Anthropic priced its IPO at $83 per share, far above the planned range, raising about $81 billion and valuing the company at over $1 trillion. Shares jumped 17% on debut, but the broader market sold off more than 2% and after-hours trading turned negative on Apple's AI agent plans. Gulf investors are sitting on major paper gains from the listing.",
+   "angle": "The largest tech IPO in history is now the reference price for every AI valuation conversation.",
+   "items": [
+    {
+     "title": "Anthropic shares jump 17% after record Wall Street listing",
+     "url": "https://www.ft.com/content/2b203097-7c61-464f-810f-962912a133dd?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:02",
+     "note": "Raised $81bn in an upsized offering; debut pop of 17% per FT."
+    },
+    {
+     "title": "Anthropic valued at over $1 trillion in historic IPO",
+     "url": "https://www.axios.com/2026/11/18/anthropic-ipo-1-trillion",
+     "source": "Axios AI+",
+     "time": "22:16",
+     "note": "Priced at $83 a share, above the $70-$78 planned range."
+    },
+    {
+     "title": "US stocks end more than 2% lower in wake of Anthropic debut",
+     "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "16:19",
+     "note": "The record listing did not lift the broad tape; indices fell sharply."
+    },
+    {
+     "title": "Anthropic's record IPO delivers Gulf windfall",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMVE4eUtabmIyMXZ2YVR6UGpkTVVBN2VEWjhQOUh0dXlDMTVWa0l5WEhQSjk5Z2QwRjRaWmZqUEtxa0lKVVFEWTloeTVVdHdOdWRCMlhXZ3lxQkc2Y1JrM0tkejFPWmtKZkRRdU0wa29kZE95NU5RRGROVHcteGlMODJRYw?oc=5",
+     "source": "AGBI",
+     "time": "17:25",
+     "note": "Gulf backers of Anthropic are sitting on large paper gains."
+    },
+    {
+     "title": "Will Anthropic's IPO Lead To An Exodus of Anthropic Employees?",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFozLUgxYVZFT2YxZFl0WXg1anVUZHhQWVgyaUkwWHNJWUtpd2gxLUdIN3ZCR0U2Zm1YU0VvZ2dsVWp5OUlEZzhMVjJudlBKc3hLSmZZN0Y2M21qMlFyR2h4Mk00V3dzdF9kd2o5dkRwY25TLTlJMXBaRnN6MnBNM3hHZXRLSTdlM1BZMzZwSy1uWDZrVDItS2FmYnBVejVCdjhtaDlrdw?oc=5",
+     "source": "The Information",
+     "time": "15:02",
+     "note": "Liquidity event raises retention risk for talent after lockups."
+    },
+    {
+     "title": "The City at the Center of AI",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-19/the-city-at-the-center-of-ai-video",
+     "source": "Bloomberg Technology",
+     "time": "23:46",
+     "note": "San Francisco expects an employee wealth wave; more AI IPOs may follow."
+    },
+    {
+     "title": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Company confirmation of the official pricing."
+    }
+   ]
+  },
+  {
+   "title": "Chip export whiplash hits Nvidia, AMD, China",
+   "signal": 78,
+   "summary": "Washington approved sales of Nvidia and AMD chips to Chinese companies, even as the Pentagon flagged PLA-linked buyers, while California probes whether Nvidia misled investors about China risk. AMD shares slid up to 11% after a short-seller report, and Nvidia-backed Nscale's $35bn IPO is threatened by entity-list exposure. China's Moonshot AI scrapped a $150m Indonesia chip deal.",
+   "angle": "Export policy is oscillating faster than any board can model.",
+   "items": [
+    {
+     "title": "US approved sale of Nvidia and AMD chips to Chinese companies",
+     "url": "https://www.ft.com/content/76342072-2781-4b16-ba3b-816a25214483?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:42",
+     "note": "Pentagon believes some approved buyers were tied to the PLA."
+    },
+    {
+     "title": "California Probing If Nvidia Misled Investors on China Risks",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-19/california-probing-if-nvidia-misled-investors-over-china-risks",
+     "source": "Bloomberg Technology",
+     "time": "22:31",
+     "note": "State probe into whether advanced chips or data leaked to China."
+    },
+    {
+     "title": "AMD shares fall after short seller report on China links",
+     "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:40",
+     "note": "Down as much as 11% after Hunterbrook warnings post-Nvidia scandal."
+    },
+    {
+     "title": "Nscale warns of its exposure to suppliers facing US blacklist",
+     "url": "https://www.ft.com/content/97912585-2412-496c-a224-78e69328bcdb?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:39",
+     "note": "Nvidia-backed startup's $35bn IPO plans hit by entity-list risk."
+    },
+    {
+     "title": "Alibaba CEO Warns of Impact From New U.S. Chip Rule",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXloY3Z1cEJJd3JlaDFacVNtb0paV0RJZkhiNGRGY29xYWVQdkQ3U08zekQ5YWVxOXVkc1d6S3R1SjV2b2g0NktOdkFHWVc1cGs2d0hNTnY3Z1JXYmIwMW9zSEpBb1lnRG1pZmtmMHNZdGlvYldUeFJwZjhCT3E1UWxfcy1aWFc3X0Mw?oc=5",
+     "source": "The Information",
+     "time": "15:06",
+     "note": "Alibaba's CEO flags fallout from the latest US chip rule."
+    },
+    {
+     "title": "China's Moonshot AI Scraps $150 Million Deal to Access Nvidia Chips in Indonesia",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdE5MUDNQNXlvMGk2ZmF5ellRVVpSekxPd0NmZnI2cWJkbGJVdTFUZkl6Z1o3d1NjeDVoQUtUUHhDQjhfNjQ3RUM3R3lmXzZYRkVydTBjeE1MVzFjQXpVX3FNTG1Qb3p3UV9veTlCMEVISnpxcXFERUlERnNrNWJWcTRZNXRoZmVQbjM4YkItQlZxQzNDMDJtWGYxaHRjeFZEWnZvOHJmSFgxQ19XWC0zNjhR?oc=5",
+     "source": "The Information",
+     "time": "10:00",
+     "note": "Moonshot backs out of an Indonesia-based Nvidia chip access deal."
+    },
+    {
+     "title": "Emerging-Market Stocks Head for Bear Market on AI-Led Tech Slide",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide",
+     "source": "Bloomberg Technology",
+     "time": "01:05",
+     "note": "AI-share slide plus rates and trade tensions push EM toward bear market."
+    }
+   ]
+  },
+  {
+   "title": "Apple, ServiceNow escalate agentic race",
+   "signal": 72,
+   "summary": "Apple is developing an autonomous AI agent to rival Meta and OpenAI, per The Information, and Anthropic shares fell more than 3% after hours on the news. ServiceNow is separately building an AI weapon aimed at Salesforce customers. Agentic AI is now a platform war with distribution at stake.",
+   "angle": "Agents, not assistants, are the new battleground.",
+   "items": [
+    {
+     "title": "Apple Developing AI Agent to Rival Meta and OpenAI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDFnNjhGLUwyN1Z5c2ZSOWJZd19SZkV6Vl94MDhmZWtPajRKaGozV090MWx0ZkxJa2VSRUtoU19zQzZCeWFHNTlGNkxmblhFakRMQWFVSE9fY3pZUlNsTHVqRWVSbmdrTU5NV2VNZ1FDM3FLeDFkUWNRWHlNdEJBUlJiV3I5WFYwbEhJdQ?oc=5",
+     "source": "The Information",
+     "time": "22:49",
+     "note": "Apple working on a first-party autonomous agent."
+    },
+    {
+     "title": "Anthropic Shares Drop Post-Market on Apple's AI Agent Plans",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+     "source": "Bloomberg Technology",
+     "time": "00:40",
+     "note": "Anthropic fell more than 3% after hours on the Apple report."
+    },
+    {
+     "title": "ServiceNow Builds an AI Weapon to Target Salesforce Customers",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3ZhV082UksyVFc2WGczVEVlTS1yYmxJa3lIVE8xQkg5OWd1QnA5SlFldWc5Vkt3cGUzUWlYdjB2blBSTGNLd0JTdnFaWndOLU5XZmFXX2JiMU1fV3RFTnNGTXF0ME5qQkd4XzJzYTljT1RINnR3aXR2RnVkdlVSUXI1YkhHUmZhWXdHMTUtOVpmekdDZGhIeGpzQTRwUlN0Z0pwVkpLYkJTM2VSUlE?oc=5",
+     "source": "The Information",
+     "time": "18:30",
+     "note": "Enterprise agent offensive aimed squarely at the Salesforce base."
+    },
+    {
+     "title": "GAO got 4 chatbots to plan attacks PLUS: Anthropic's $83 IPO and Citi's AI-agent rules",
+     "url": "https://www.theneurondaily.com/p/gao-got-4-chatbots-to-plan-attacks",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Roundup flags Citi formalizing AI-agent rules alongside the IPO."
+    }
+   ]
+  },
+  {
+   "title": "Gemini 4 Neon: cheaper agentic coding",
+   "signal": 68,
+   "summary": "Google DeepMind keeps shipping: Gemini 4 Neon is positioned as a cheaper coding-agent alternative to the heavier Carbon, continuing a rapid release run. DeepMind's Melvin Johnson says the Gemini 4 teams roughly halved agent fabrication to about 1.5% and are pushing toward zero. The pattern is price deflation at the frontier while agents get more reliable.",
+   "angle": "Watch inference economics, not just benchmark scores.",
+   "items": [
+    {
+     "title": "Google's Gemini 4 Neon extends its rapid run of model releases",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RTFd1OFVNYVZzUGJVeUlMUWJ6V3Y0VHl6VzU2djJJQm1LVXJGUFI5Z2licUF1blRIQUhqV0hmam5uSHRxc3Z5T294UXEwRnFSaFF2RVJTTHRnemNFVjZNNW15WlpaZVhfM0hF?oc=5",
+     "source": "The Rundown AI",
+     "time": "13:51",
+     "note": "DeepMind's release cadence is accelerating."
+    },
+    {
+     "title": "Gemini 4 Neon: Google DeepMind's Frontier Coding Agent",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnRnVXc0YnpTb29fcWVIOTAtSzQtMUdFcWlFazNNQU1DZGRBQk53RU1Cd2p5UFM5Snk4SXpNVS1wTDZGTnozU1I0c1V4bXhzTFF1RjZiYThibWs3SEFqLU5xbU9uR2JxN2Q5eFI0YVQyRlozY28tOE5NSFpnSDBxY0pvQXVuM2M?oc=5",
+     "source": "AI Magazine",
+     "time": "12:10",
+     "note": "Positioned as DeepMind's frontier coding agent."
+    },
+    {
+     "title": "Google DeepMind releases Gemini 4 Neon, a cheaper alternative to Carbon",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxZDQyby1lXzJ2RzJwMU5iR3oxcG9kUFJxT0JfUVVpU28zOXFDUWRLMTRyajBBUXpmQ0wzNENzQ29yZDcxLUF2T2NXUjNxZjhLdXdsRkp4VkNXUExtbmlEc3JOWjNTU0JpMTFIbWRwRnRhQQ?oc=5",
+     "source": "Crypto Briefing",
+     "time": "21:49",
+     "note": "Neon is the lower-cost option versus the flagship model."
+    },
+    {
+     "title": "Google DeepMind's Melvin Johnson says Gemini 4 teams halved agent fabrication to 1.5%, now courting zero",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kV3JwQkNXdlduLWQ0SU9DaUN3TFdlRW1NVGYzMVZjQjlBQUMwZm1jQVg5QjQtbGd2Y0NlN3FQUEhHd3VHNEt5SlN0VUpDdWk2TjhBeFJwTFBXUGM?oc=5",
+     "source": "BigGo Finance",
+     "time": "11:08",
+     "note": "Reliability number attached to the Gemini 4 line."
+    },
+    {
+     "title": "Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬",
+     "url": "https://tldr.tech/ai/2026-11-19",
+     "source": "TLDR AI",
+     "time": "00:00",
+     "note": "Daily roundup leads with the Neon release and Genie 4 worlds."
+    }
+   ]
+  },
+  {
+   "title": "AI's externalities: emissions, cyber, labor",
+   "signal": 62,
+   "summary": "Meta's greenhouse gas emissions rose 45% last year on its AI buildout and it is reconsidering its 2030 net-zero goal. Germany's BSI calls the threat level critical amid an AI-driven surge in cyber attacks, and an Anthropic researcher warns superhuman AI could leave many workers permanently unemployable. Boards face a widening risk register tied directly to AI scaling.",
+   "angle": "AI's cost curve now includes climate, security, and workforce risk.",
+   "items": [
+    {
+     "title": "Meta rethinks climate goal as AI emissions soar 45%",
+     "url": "https://www.axios.com/2026/11/19/meta-ai-emissions-rise",
+     "source": "Axios AI+",
+     "time": "17:00",
+     "note": "45% emissions jump; net-zero 2030 under review."
+    },
+    {
+     "title": "Germany hit by AI-driven surge in cyber attacks",
+     "url": "https://www.ft.com/content/cf875eb6-34a2-413e-b89d-bc609367a19e?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:28",
+     "note": "Threat level 'critical'; new tools ease exploitation."
+    },
+    {
+     "title": "The dangers of AI 'handoverism'",
+     "url": "https://www.ft.com/content/45194ea4-4fa7-4c38-a5b2-137eb7402d57?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:04",
+     "note": "Even pro-tech investors are uneasy about the technology's pace."
+    },
+    {
+     "title": "Anthropic researcher warns superhuman AI could leave most humans unemployable",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUHdNYnFpTWFJV2R4M2VENW1WLUR6VFBuYXJ2Q1dDd2J1MFJvZmFVdDRDc1RJZGxjQ1hZX3BWRnowYmg0TV9xUzRiRWNkZVpwcmV2bFE0ZUdPZTZDQW9yN0ZVdkFKMTNzZGk0cWNCWl9FU1hCTDRZQW9EU0hfVEtjZw?oc=5",
+     "source": "Crypto Briefing",
+     "time": "13:20",
+     "note": "Researcher flags permanent-unemployment scenario as plausible."
+    }
+   ]
+  },
+  {
+   "title": "Labs push AI-native software engineering",
+   "signal": 60,
+   "summary": "OpenAI is leaning into AI-native development tools: the Performance Factory uses Codex-driven workflows to keep ChatGPT fast, and new assets cover PR scans and security plugins. Agentic and security-flavored coding tooling is becoming a first-class product surface for enterprises.",
+   "angle": "AI-native SDLC is moving from experiment to productized workflow.",
+   "items": [
+    {
+     "title": "How OpenAI's Performance Factory keeps ChatGPT fast",
+     "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+     "source": "OpenAI News",
+     "time": "08:00",
+     "note": "Codex-powered pipeline finds and fixes performance issues."
+    },
+    {
+     "title": "Explore the Codex Security Plugin",
+     "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Security scanning workflow demo for pull requests."
+    },
+    {
+     "title": "See PR scans in action",
+     "url": "https://openai.com/business/learn/pr-scans-demo",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Walkthrough of scan results inside PR review."
+    },
+    {
+     "title": "Deploying Daybreak Red",
+     "url": "https://openai.com/business/learn/deploying-daybreak-red",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Reference architecture for supervised security investigations."
+    },
+    {
+     "title": "Get started with Daybreak Blue",
+     "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Onboarding walkthrough for the Blue agent."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI momentum: Aramco, SWFs, talent",
+   "signal": 58,
+   "summary": "Saudi Aramco says AI generates $2.6 billion of annual value and is expanding its data center business, while Gulf sovereign funds poured $29.3 billion into global tech investments. The UAE AI Office joined UNDP and Women in AI to launch an initiative to empower 100,000 Arab women in AI, SDAIA began a Year of Artificial Intelligence across Saudi universities, and Arabic-first speech AI is emerging. One contrarian note: analysts argue water, not chips, is the Gulf's real AI constraint.",
+   "angle": "The Gulf is converting AI ambition into measurable enterprise value.",
+   "items": [
+    {
+     "title": "Saudi Aramco Generates $2.6 Billion in Annual Value With AI, Expands Data Center Business",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSFRFMjN6RFpPa1NyRmVpaUJQcjFhanpCZVhUUlo4ZzJad0ZoLVpFbjJ1VHBsMWRtVmJ2LTFZV1NmWFJodnBRTnF0TDBHQ3RhUGgzbjV5Ulo?oc=5",
+     "source": "파이낸셜뉴스",
+     "time": "21:59",
+     "note": "AI value figure plus data-center expansion for the energy giant."
+    },
+    {
+     "title": "UAE AI Office, UNDP, and Women in AI announce the cooperation to launch an Initiative to Empower 100,000 Arab Women In Artificial Intelligence",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbG5GSFlvZmxqM3FUQk1WaUY0czFlLTUyMXFJNGx6bUY4RHFHU0FPMWVwQTMwX1JvbkNTS0V0dkdaWVVrVy1vNVNoX2JCLU5lZFY1RjhFbDN4cmp4UHpkMUMtamF1alJqU1hXRXJOMnp0NjZiYWFEZ1pwWGRKd3ZjbVdXVnR3WE1rTWhsbGxBeVdJT2VVZHNGdnpvdHd0ZDRQMnI2Y1E1bnB1aWpJTkFRQXZ2UDdKVTQ0VC1sZWQ1VXNCTHF2UWJFZ2Vvd1JwY0ktdWZJeF9KaXBkckJYTjVjVVdIUUtTZlJVNjkyZGh0V1Z2M3dqOHBDOXRkOXE?oc=5",
+     "source": "United Nations Development Programme",
+     "time": "19:26",
+     "note": "Talent-focused initiative targeting 100,000 Arab women in AI."
+    },
+    {
+     "title": "Gulf Sovereign Wealth Funds Pour $29.3B Into Global Tech Investments",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN05fajJ6ekRON0toNzUzTGZoSlRicnlXdFhSNllvSlhLZmtneU1mYldLYmFYY3AyUFhjTTFFTDlvTnpwYmdILXJkYWNoakZkTHRNbTRlRDBwbnZMcDNpTThIbXpaaFhWYUVmVk9hZDN4X0dCWG9Wa192WmVRUlMyXzNCLS1ra2pkLUcwQm9lX3JBcTk5aFZOX3Mtbk5VU0N5OExvS2F1aXZPMlo1MUFuWlU0UTBneG5lOG05T1VfdV9lT0lJNlhiN0lB?oc=5",
+     "source": "Forbes Middle East",
+     "time": "09:06",
+     "note": "Regional funds are major buyers in the global tech basket."
+    },
+    {
+     "title": "SandboxAQ CEO warns of AI correction – but Gulf bets pay off",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUZ5QzkzRE4za0pjZzJYdURDQ1BYSThKTU9SYUo3OXVaeE5tUF9wNmozcVNTTURJcUp2eDFKR1ktaWVmeTFzRW5XQ3VERTRYNFE4UG1ET1Zpd3ZNYmMtal9ELXUyMXJ4aG9RSDNmT2R0V0NTOHd3TzgwSEl6NjN4b3VUckdhX3pvOThSbHJPN0Q1U0pmM3c?oc=5",
+     "source": "AGBI",
+     "time": "11:42",
+     "note": "Correction warning even as regional AI bets show returns."
+    },
+    {
+     "title": "SDAIA launches Year of Artificial Intelligence initiative in universities",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUkxhVk9YNUsySkZwWW9SVjVtSGw3TklfTVlCTFZKbmt3aGowcmpLRFBscVAwaHJraExZSzhmODNnZU1oUWtsRXlOMzE4V3FBanNXdV8tcTFBOVVKZWlRMHdKTXlmcWhvMk5qNzhnUkxOczlOWk1ZZnl5LWlsOUhoWnJsX3JWd1pHLV9sb1RnVnByYkFXRDhwVHdEZW5fTERYU29JaUhGM2VOeUZoZDJpWWc0WXZYQldPOXpZ?oc=5",
+     "source": "Arab News",
+     "time": "13:45",
+     "note": "Saudi universities get a formal Year of AI push."
+    },
+    {
+     "title": "HUMAIN launches HUMAIN Voice, an Arabic-first speech AI platform built for how people actually speak",
+     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM2luTzNmLU9McXkzOHRQR04tUzVNRTdlU2JHVEtBZFQ5WkxfT2QtMlk4b096dDNzX2ZfZzI4SzJLbWU0ZDJfc1RNcUJvaE1XcXRIdF9EdkxiajR2X2FvY2gwVU5OSE8xRkdoQkRlTzNHcjk1MXY5aEtGVC1MWXZsODFyTXhWc0VRR2c0RHRObHlWN1BmMERpMm10U1ZmUGtKSm1nQlhkSUx6MUJoREdzdU5ZdmZQSzVqNFNlRkVSTjRxWlRoMHdkVHBsdFl6dXVQUHQ5X1V0R09nNjA0WnpGS2ROSkxycVJ6Ym5IUkhRNURGQ2c?oc=5",
+     "source": "Zawya",
+     "time": "12:00",
+     "note": "Arabic-dialect-aware speech platform launch."
+    },
+    {
+     "title": "Water, not chips or money, could be the biggest barrier to the Gulf's AI ambitions",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0p3RmJjckxqQmw1U0dpUVlyVlZpalU0cHRzVlN5UUtocUdYYnFlcFFxMHZqNW1jLXFaeXk2b29xVzJoYmk2VTFjM1lyby1ZZHZBTUdhakxvalY2aFlZd1hfT2NoS0NxYU9OTFgwMmJhMFdSVllZak9SeWdXa1NkX281b0J0Y0V4VjZJZjZOa2Y5WDlBVm1QLWppOXhxUUw4bE9zbmlIdVBQWDQydGNIelNralQydw?oc=5",
+     "source": "EnterpriseAM",
+     "time": "04:08",
+     "note": "Cooling water for data centers framed as the real constraint."
+    }
+   ]
+  },
+  {
+   "title": "AI dealmaking accelerates",
+   "signal": 52,
+   "summary": "Palo Alto Networks agreed to acquire AI firm Applied Compute for $4.5 billion, and Nvidia is nearing a $500 million-plus acquisition of a diffusion AI developer. Google picked Blue Origin for a data center satellite test, Meta is pricing its Muse Charm AI gadget at $300, and lenders are pushing to block SpaceX from orbiting $40 billion of chips.",
+   "angle": "M&A and infrastructure bets define the next phase of consolidation.",
+   "items": [
+    {
+     "title": "Palo Alto Networks to Acquire AI Firm Applied Compute for $4.5 Billion",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM2M3ZmR1VTljOXdUOWJITHhoTUZTZ2N0Q3J5NDFWYTFHTE9vdWVfa1dqX3dNck0xVVBnWVdJU2ttdmd3Y0dJR1ZWa2tGOVY1T3dZS1k0R0J5cXVyYm9MSGVqU2k3aVR2LWVpR3FQTnh3YVdseXpPbFN5bXRta2JoUktOaUMyTzJKelFkbHpidzdxdEhuWUUyOWtHY1ktUUNRUjYzTzJ3?oc=5",
+     "source": "The Information",
+     "time": "21:25",
+     "note": "Security giant pays $4.5bn to bolt on AI compute."
+    },
+    {
+     "title": "Nvidia Nears Acquisition of Diffusion AI Developer for More Than $500 Million",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjI2ZmljcWphUkcxbzlYMXNKeFZFRkw3Zzh1Y1dHVFVVSXBIbTNFNFlyNnY1UktVV3VRNlBIMVJKaXBGd1kzM2RyMkN4eGpNbVVwSzhwRm9mWXcwSGZlcjg5eFdxZHpqMlVCQjExZ084dVZCUDBBeW05Ni1vaUNNWTdvcDFDMjRiRl9oS2czcUJSbTZuemRRLVBtMWtFWTZ0?oc=5",
+     "source": "The Information",
+     "time": "22:43",
+     "note": "Diffusion-model developer in Nvidia's sights."
+    },
+    {
+     "title": "Meta to price Muse Charm gadget at $300, The Information reports",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjFzUjFCeHZYcEpLU1B4X0MzcWw1MTRZUjJYZHdYTmUzOGxEdEFYdHZMQ0ZDUk9Uc0JnV2JPVWZVMWZMekxGTmlQT3I5ODkzSjdtQXNFemUyaTZ5Q09mUEZZQ1h1c0FtcW53WEJ2eFYzS2Y1VlhnYmxuekhDVHJsa2dyZkRicWJrYW41ZmhjdjJiNnFfaE5mbWxjeWRtLWEwc0xfaUNlT21XMlFINGVKQw?oc=5",
+     "source": "Reuters",
+     "time": "20:27",
+     "note": "Wearable AI hardware priced at $300 per The Information."
+    },
+    {
+     "title": "Google Selects Bezos' Blue Origin for Data Center Satellite Test",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUE5Bd0VHWDBQSjg3NlhjTHY4bm1xUVdXSkp2WGJCN1VzNjQwM3F2bmM2QmFfcXFsRlhSZE5jdm9rZ2N3MjM0N0ZTVXBmR19CMmg2cWhvalBHbXNHQlpQQk9FVkZMOWlPQ0lQQUwzQnZuVENuRnhzTGRyMXFmMnM5TkZCeXlWUjlra3BUUm9ENFRfTTEzLUNVeWk2emRXc1dNNmc?oc=5",
+     "source": "The Information",
+     "time": "17:17",
+     "note": "Orbital data center experiment gets a launch partner."
+    },
+    {
+     "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+     "url": "https://www.ft.com/content/33b5643c-2957-4d42-9116-5e34a3c54e29?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:15",
+     "note": "Investors seek legal protection over semiconductor collateral."
+    }
+   ]
+  }
+ ]
+}

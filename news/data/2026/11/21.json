@@ -1,0 +1,321 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T02:00:15.958203+00:00",
+ "themes": [
+  {
+   "title": "AI trade breaks: worst week since Covid-19",
+   "signal": 85,
+   "summary": "Markets violently repriced the AI trade this week: the Nasdaq 100 entered a bear market, emerging equities followed, and Anthropic stock fell 8.5% a day after the biggest IPO ever. The trigger is fear that record AI capex - a US$7.6-trillion buildout per Economy Middle East - will not produce matching returns, and credit markets are starting to believe it.",
+   "angle": "The AI trade is now a returns story, not a growth story - boards should re-examine capex and vendor concentration.",
+   "items": [
+    {
+     "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+     "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:52",
+     "note": "Anthropic and Nvidia shares tumbled as Wall Street repriced the AI capex boom, per FT."
+    },
+    {
+     "title": "Wall Street Reels as AI Fears Erupt; Nasdaq 100 Near Bear Market",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/us-stock-futures-dip-as-anthropic-premiere-disappoints-investors",
+     "source": "Bloomberg Technology",
+     "time": "13:26",
+     "note": "Anthropic slumped after debut and Nvidia sank 14%, pushing the Nasdaq 100 toward bear-market territory, per Bloomberg."
+    },
+    {
+     "title": "Markets sell-off as it happened: Nasdaq 100 enters bear market, Anthropic shares drop 8.5% a day after blockbuster market debut",
+     "url": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:01",
+     "note": "Anthropic gave back 8.5% on day two and investors rushed to havens, per FT's live blog."
+    },
+    {
+     "title": "US Credit-Fear Hits 8-Month High as Tech Angst Roils Markets",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
+     "source": "Bloomberg Technology",
+     "time": "15:38",
+     "note": "Costs to insure big-tech debt jumped; perceived US credit risk hit an eight-month high, per Bloomberg."
+    },
+    {
+     "title": "The AI fever in markets is breaking",
+     "url": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "15:23",
+     "note": "FT says the magic of AI is wearing off as US stocks track one of their worst years in two decades."
+    },
+    {
+     "title": "Emerging Stocks Enter Bear Market as AI Triggers Global Selloff",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide",
+     "source": "Bloomberg Technology",
+     "time": "01:05",
+     "note": "The MSCI emerging-market index fell a seventh straight day, its longest losing streak since 2024, per Bloomberg."
+    },
+    {
+     "title": "AI’s $7.6 trillion bill: Who will pay for America’s AI boom?",
+     "url": "https://economymiddleeast.com/news/ai-infrastructure-spending-7-6-trillion-us/?utm_source=rss&utm_medium=rss&utm_campaign=ai-infrastructure-spending-7-6-trillion-us",
+     "source": "Economy Middle East",
+     "time": "13:38",
+     "note": "Economy Middle East frames the record-borrowing-funded AI buildout and the open question of who absorbs the bill."
+    }
+   ]
+  },
+  {
+   "title": "Gulf AI momentum: MGX windfall, HUMAIN, UAE kudos",
+   "signal": 80,
+   "summary": "Gulf sovereign and enterprise AI activity accelerated while global markets wobbled: Abu Dhabi's MGX booked an estimated US$20bn paper gain from Anthropic's listing, PIF-backed HUMAIN raised US$667m for Saudi AI infrastructure, and Sam Altman called the UAE the world's most forward-looking country on AI adoption. Fresh initiatives - 100,000 Arab women in AI, Dubai's Nad Zabeel campus, Sharjah's 400MW data centre - keep the regional buildout on track.",
+   "angle": "Gulf capital is now a direct beneficiary of - and partly hedged against - the US AI trade.",
+   "items": [
+    {
+     "title": "Abu Dhabi’s MGX gains US$20 bil from Anthropic’s listing - The Edge Malaysia",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hVmpBVWpZZWJNTUYxWEJhZnB1dE1BcnNoYVp0bm5tT1FnWjFGSlkyaXJlWm5ETFphTi1XaDdHWi1YZDhNNUlvLU5GOFRNaVNB?oc=5",
+     "source": "The Edge Malaysia",
+     "time": "12:25",
+     "note": "Abu Dhabi's MGX realised about US$20bn of paper gain from Anthropic's listing, per The Edge Malaysia."
+    },
+    {
+     "title": "OpenAI CEO Sam Altman calls UAE the world’s most forward-looking country in AI adoption - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFJud05ycVhGZEJNelY0R2RwbW1HYWNORjdZdU94QTNLb1ZZV1lJcWVVSFFoVGtRZl9LelRBeW1FMDMwejVSbC1MMjF2Z01GcWEzSzAzYUNnd3lSRUQwcEFQQThKUHhac19tQmNQTlJLdHY1R19OS3JSMzRERldqU0swUG1EQUVYaXR0YXl1ejFQZnZBRnA2YTMxV1pEVnhHdGkxdDN0ZE1pSGJDOXl6UXB4Wl9Kc2ttUUE?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "19:48",
+     "note": "OpenAI's CEO called the UAE the world's most forward-looking country in AI adoption, per Fast Company Middle East."
+    },
+    {
+     "title": "PIF-backed HUMAIN secures $667 million for Saudi AI infrastructure expansion - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGt1eFlNdXRURHBZa3FFREhCQnZxbDdwNXJNYUhyeXo5RXBrb0sxR3ptU3VFb0lwSzdOclJhV2prbC0xdFRBRkxCdk1zQ05VM1J4dy15TVRpQmZrOUEyRjRkSjgwOFk3OXRTelpsaGVCWUVIZThBSmp5TVRJdnMyRFV2RlAyYnotTTgydzhrV3RtWXlZVkNTSnNXUDZabElfQnR0WDFIN29Vc28?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "08:10",
+     "note": "PIF-backed HUMAIN raised US$667m for Saudi AI infrastructure expansion, per Fast Company Middle East."
+    },
+    {
+     "title": "UAE AI Office, UNDP and Women in AI launch initiative to empower 100,000 Arab women in AI",
+     "url": "https://economymiddleeast.com/news/uae-ai-office-undp-and-women-in-ai-launch-initiative-to-empower-100000-arab-women-in-ai/?utm_source=rss&utm_medium=rss&utm_campaign=uae-ai-office-undp-and-women-in-ai-launch-initiative-to-empower-100000-arab-women-in-ai",
+     "source": "Economy Middle East",
+     "time": "12:26",
+     "note": "UAE AI Office, UNDP and Women in AI launched a regional initiative to upskill 100,000 Arab women in AI, per Economy Middle East."
+    },
+    {
+     "title": "Dubai announces Nad Zabeel, a new innovation campus set to attract 30,000 researchers annually - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWZ3ZnNRYzM0Z3Bac1hQaGVQbDctY0VYZ3dNMEsxbXkta0hQNTZaRDQ2MS1nTlVObVlTTElubEdhdTl6c0o0TlQ1Wm1ta2ZYNE52ZUNUNy13cUtHOUxVSllFRDhwb01nOEFvc0Njd3A2Tzl3RHBRLTFVNWwyNFhlc1EyNnhOekxDbjBKVHNZQjh3Yzl4WjEwZHlBMlF3S2pEbV9zX3hScGNZWUMtMlpIYkdyOXFDSHdYNUZxemFpS0pvdw?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "15:16",
+     "note": "Dubai unveiled the Nad Zabeel innovation campus targeting 30,000 researchers annually, per Fast Company Middle East."
+    },
+    {
+     "title": "Sharjah free zone targets 400MW data centre - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVpMblFXa2tPSEp6a0FoSU1ndnpQX0l3VlItQnUzSmpzVWZXM3RTZTBCSjdvbGZSaFFSMzNJYlctT1U5ZlNrdnM4dUdoTHA0MzRxU1RMNTRPS1E5ZktGc3dZd1o3N2JNbFZBcjJhaUxWeEdCU0ItbU82R2VFeTVaT3BB?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "11:02",
+     "note": "A Sharjah free zone is targeting a 400MW data centre, per AGBI."
+    },
+    {
+     "title": "Exclusive | Larry Fink’s next major move could be an AI play — with deep-pocketed partners in the Middle East - New York Post",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWhGZkpwbWZSdk9Qd0gxN21RQXRpWlNFNjJwODllckdpNGg0YXBnOE1zV2F6dmN2MEg1UXFwVHdKYTh6MGJtTnVWbFpsUHMyZXQzTUNSR2stNU9ta18xMHZiT3ZNelhiREluN0dkOXBUd0xDUVgza1dWTnZuejd3dF9BSTFTV0JCc0ZjdkhSc0ZWSWQ3b0pzeUE0VnkxdmVLOGd6aW5KME16ZXBiME5nWlpucl80cml0X0o0UkdpeEJyb3ZaQU1STkd5T3RLSnM?oc=5",
+     "source": "New York Post",
+     "time": "22:04",
+     "note": "NY Post exclusive: Larry Fink's next major move could be an AI play backed by Middle East capital."
+    },
+    {
+     "title": "Saudi Aramco Generates $2.6 Billion in Annual Value With AI, Expands Data Center Business - 파이낸셜뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uSFRFMjN6RFpPa1NyRmVpaUJQcjFhanpCZVhUUlo4ZzJad0ZoLVpFbjJ1VHBsMWRtVmJ2LTFZV1NmWFJodnBRTnF0TDBHQ3RhUGgzbjV5Ulo?oc=5",
+     "source": "파이낸셜뉴스",
+     "time": "21:59",
+     "note": "Saudi Aramco says AI generates US$2.6bn of annual value as it expands its data-centre business, per Financial News."
+    }
+   ]
+  },
+  {
+   "title": "Frontier leaps: Riemann claim, week-long agents",
+   "signal": 75,
+   "summary": "An Anthropic researcher claims Claude produced a proof of the Riemann hypothesis, a 167-year-old open problem - Bloomberg and FT both report the claim, and FT says a verified proof would be the most spectacular AI advance in mathematics. Separately, a nonprofit finds models now outperform humans at week-long tasks, and OpenAI says agents complete nearly half of 2-4 hour researcher tasks.",
+   "angle": "At the moment public markets question AI's ROI, frontier labs are claiming its most consequential results.",
+   "items": [
+    {
+     "title": "Anthropic Researcher Claims to Solve Riemann Problem With Claude",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/anthropic-researcher-claims-to-solve-riemann-problem-with-claude",
+     "source": "Bloomberg Technology",
+     "time": "00:17",
+     "note": "An Anthropic researcher says he used Claude to solve a number theory problem open for more than 150 years, per Bloomberg."
+    },
+    {
+     "title": "Anthropic staffer claims solution to mathematics’ Riemann hypothesis",
+     "url": "https://www.ft.com/content/fa8eeb49-2cb4-4286-8131-03db15383d87?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:11",
+     "note": "FT frames a verified proof as potentially the most spectacular AI advance in mathematics."
+    },
+    {
+     "title": "AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVdqRTlvOUU1V0F2a05iV2Z3VVRLcTZLSVZ0R1UxdFRxQWVFTEVIdnpOTlUtd3F5QmtUaEtBazFuRHVhS2ZLZ24wRFZVQ2V4OXJUWHBmbDFHV0p1dGZZX2R2TWRTNTdSdm1MU2I0aXd5Rm1zV2llNEpkMUlMSjFRVGxOaXNDSXAyOW1XYVJRdUd3MktTT3I5WEMzNl9lZmFoNnBFQTEwczh6dXM?oc=5",
+     "source": "The Information",
+     "time": "18:00",
+     "note": "An AI nonprofit finds models now outperform humans on tasks lasting a week, per The Information."
+    },
+    {
+     "title": "OpenAI says agents finish nearly half of tasks that take researchers 2 to 4 hours - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jZDVmRzhtWjVtRUo4OEtJNExnUmtXVGFhd0tmd1F6cUUxX25Za0FqbFZsSjdkWVU5eENsMGZEc3hPd1VlOHY5UzE1czl5dG5tR0w1dmg1TXQtU29wS0RRSFJZaEZnSzR1SzBIVlY0TTZ6NlZvbThlQ3R3WFNHcEU?oc=5",
+     "source": "The Rundown AI",
+     "time": "14:22",
+     "note": "OpenAI reports agents complete close to half of research tasks that take humans 2-4 hours, per The Rundown."
+    },
+    {
+     "title": "Can AI help scientists identify promising drug candidates?",
+     "url": "https://openai.com/index/introducing-medchembench",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "OpenAI released MedChemBench to benchmark how well models reason about molecules in early drug discovery."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic's public era under Wall Street scrutiny",
+   "signal": 70,
+   "summary": "Anthropic closed its record ~US$81bn IPO, opened 34% above the offer price, then slipped as the AI trade wobbled. The open question, per FT and Axios, is whether a deliberate public-benefit company can meet quarterly-capitalism expectations and reduce its dependence on constant capital infusions.",
+   "angle": "The first big public-market test of the benefit-company model is underway.",
+   "items": [
+    {
+     "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+     "url": "https://www.anthropic.com/news/ipo-close",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic closed its IPO including full exercise of the underwriters' option plus a concurrent private placement, per the company."
+    },
+    {
+     "title": "Inside Anthropic’s historic IPO",
+     "url": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:21",
+     "note": "FT examines whether Anthropic's idiosyncratic culture survives the glare of public markets."
+    },
+    {
+     "title": "Anthropic opens 34% above IPO price after $81.34bn offering - Gulf Business",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMFhVcjd1STZkRk1NcnI4ellGb2k2Tzc5M3k5VnhhNUtHb2Exb2stWng4N3llWVVKdVBSUkY3SVR4T29CUzZmNjFDSXItdFZ1bEx4YURlMGlyRHpRVkVVYzNseGo4LVRoY1hvb0RrMHFtcUFqYTFSb19ndmpmV0syaTA1TkNkZElyVE1JWFpQdjNGb1dKY2VBRVFFUQ?oc=5",
+     "source": "Gulf Business",
+     "time": "06:01",
+     "note": "Anthropic shares opened 34% above the US$81.34bn offering price, per Gulf Business."
+    },
+    {
+     "title": "Anthropic is public, now comes the hard part",
+     "url": "https://www.axios.com/2026/11/20/anthropic-public-shareholders",
+     "source": "Axios AI+",
+     "time": "12:10",
+     "note": "Axios: shareholders will watch whether Anthropic can stop needing constant capital infusions from investors and vendors."
+    },
+    {
+     "title": "Anthropic’s record $81B IPO puts its safety pledge under Wall Street scrutiny - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9RdVJ1V1Njd0w3ZWxIMWV1c0poRXl3WEpHTmhpeWpSSnlYUUszNUFPNGg1NjRXZmNwalFGazktOE9iYVVyWjZUOFdtUV9WTTMwM0ZfcVdqbXdMQjBYLTZ5aGZGZDNUOXRlT1FQMHd4QjAtY2QtLXdDQlBR?oc=5",
+     "source": "The Rundown AI",
+     "time": "15:10",
+     "note": "The Rundown notes Wall Street is scrutinising Anthropic's safety pledge after the record US$81bn IPO."
+    }
+   ]
+  },
+  {
+   "title": "Agentic AI economics heat up",
+   "signal": 70,
+   "summary": "Agentic-AI valuations keep climbing even as public AI hardware names fall: coding-agent startup Cognition is in talks at a US$75bn valuation two months after its last round, Apple is reportedly building a consumer agent to rival Meta and OpenAI, and Genesis AI raised US$500m for robot training. GlobalFoundries will test Boston Dynamics' Atlas humanoids in chip fabs.",
+   "angle": "Money is rotating from AI infrastructure into AI-native applications.",
+   "items": [
+    {
+     "title": "Cognition in Talks for $75 Billion Value With New Funding",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+     "source": "Bloomberg Technology",
+     "time": "20:47",
+     "note": "Cognition AI is in funding talks at a US$75bn valuation, two months after its previous round, per Bloomberg."
+    },
+    {
+     "title": "Apple Developing AI Agent to Rival Meta and OpenAI - The Information",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDFnNjhGLUwyN1Z5c2ZSOWJZd19SZkV6Vl94MDhmZWtPajRKaGozV090MWx0ZkxJa2VSRUtoU19zQzZCeWFHNTlGNkxmblhFakRMQWFVSE9fY3pZUlNsTHVqRWVSbmdrTU5NV2VNZ1FDM3FLeDFkUWNRWHlNdEJBUlJiV3I5WFYwbEhJdQ?oc=5",
+     "source": "The Information",
+     "time": "22:49",
+     "note": "Apple is working on an AI agent to rival Meta and OpenAI, per The Information."
+    },
+    {
+     "title": "Genesis AI raises $500M for robots trained with sensor gloves - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQazVKX3B1UHY5a3dLTEJIY09BeVE3ZmVEcDlKaGlKdnA0ZGZaUGxRQkVxQnVPTG04V1oySHo3Y204WTdCZnAyRTlUS3MzbTlXa1Fub1V4andFMWVtdEhCMmNodUhGU21ZamFOU2NFTGVnNnVaNXBFQU1sdF9SbUQ0WElzTkJCNnFWRXVzM1dTaFJxVkJO?oc=5",
+     "source": "The Rundown AI",
+     "time": "15:09",
+     "note": "Genesis AI raised US$500m for robots trained with sensor gloves, per The Rundown."
+    },
+    {
+     "title": "GlobalFoundries to test Boston Dynamics’ Atlas in chip fabs - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWll6SURxZGZwMi1BTU9udUtuODNhX3dfNmltQm0zX2U2OEx0X2kzd05iTVBEOGRpSy05YU9jckpLWmd0V3VndUp5cm5KX0hrc2tpV1JseTFUaldmZUVDbFRpZGhEaEExWU9ZaWE5dzZWTHRVaHBGX2pmSV9US0tWNnhfMGxubDdZWTdjWQ?oc=5",
+     "source": "The Rundown AI",
+     "time": "15:09",
+     "note": "GlobalFoundries will test Boston Dynamics' Atlas humanoid in semiconductor fabs, per The Rundown."
+    },
+    {
+     "title": "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
+     "url": "https://tldr.tech/ai/2026-11-20",
+     "source": "TLDR AI",
+     "time": "00:00",
+     "note": "TLDR AI's roundup covers Gemini tool retrieval, Stripe evaluation methods, and agent swarms."
+    }
+   ]
+  },
+  {
+   "title": "Regulation tightens: SEC, tariffs, EU quantum",
+   "signal": 60,
+   "summary": "Regulators and geopolitics tightened around AI: the SEC is probing Nvidia's accounting after Jensen Huang's departure (per FT), Trump threatened a 'tremendous' tax on data centres built outside the US, and Brussels plans to favour EU firms in quantum public procurement. The Neuron also flags new chip-export rules.",
+   "angle": "Data-centre siting is becoming a geopolitical bargaining chip - relevant to the Gulf's buildout strategy.",
+   "items": [
+    {
+     "title": "Nvidia faces US regulator’s probe into its accounting",
+     "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:58",
+     "note": "The SEC is investigating Nvidia's accounting, adding pressure after Jensen Huang's resignation, per FT."
+    },
+    {
+     "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+     "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:17",
+     "note": "Trump threatened a 'tremendous' tax on data centres built abroad, framed as competition with Beijing over AI, per FT."
+    },
+    {
+     "title": "Brussels to favour EU companies in quantum technology race",
+     "url": "https://www.ft.com/content/7966c474-a62f-4d90-9cff-66c02ca309bb?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "05:00",
+     "note": "EU plans to prioritise domestic companies for quantum public contracts next week, per FT."
+    },
+    {
+     "title": "16 hours ago 😺 Meta's Muse AI Agent Reportedly Accessed Signal Messages PLUS: Anthropic's 33% IPO pop and new chip export rules",
+     "url": "https://www.theneurondaily.com/p/meta-s-muse-ai-agent-reportedly-accessed-signal-messages",
+     "source": "The Neuron",
+     "time": "",
+     "note": "The Neuron roundup: Meta's Muse agent reportedly accessed Signal messages; new chip export rules flagged."
+    }
+   ]
+  },
+  {
+   "title": "Enterprise AI M&A extends",
+   "signal": 45,
+   "summary": "Enterprise AI consolidation continued: CrowdStrike is in talks to buy Zscaler, Nvidia is nearing a US$500m+ deal for a diffusion-model developer, and Phoenix is pushing back on AI data-centre demands as a bellwether for resource-constrained cities.",
+   "angle": "Security consolidation and local pushback mark the next phase of AI infrastructure politics.",
+   "items": [
+    {
+     "title": "CrowdStrike in Talks to Buy Zscaler - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEOW9LV2VjWGNwSVdiZVd0SklBMWY5SzIzVDZpU1AzV0J0dFk2Q2ZpeFhxbml6ZU9tZng3UTZLeXB3dXA0cEpHck1DZXZLcWY1Y3dBOWUtQXVxdzBhMEVrV2NlOFZxcUl5WmJiRVRhemlTRi14dmRFYmp3?oc=5",
+     "source": "The Information",
+     "time": "22:07",
+     "note": "CrowdStrike is in talks to acquire Zscaler, per The Information."
+    },
+    {
+     "title": "Nvidia Nears Acquisition of Diffusion AI Developer for More Than $500 Million - The Information",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONjI2ZmljcWphUkcxbzlYMXNKeFZFRkw3Zzh1Y1dHVFVVSXBIbTNFNFlyNnY1UktVV3VRNlBIMVJKaXBGd1kzM2RyMkN4eGpNbVVwSzhwRm9mWXcwSGZlcjg5eFdxZHpqMlVCQjExZ084dVZCUDBBeW05Ni1vaUNNWTdvcDFDMjRiRl9oS2czcUJSbTZuemRRLVBtMWtFWTZ0?oc=5",
+     "source": "The Information",
+     "time": "22:43",
+     "note": "Nvidia is nearing a deal to buy a diffusion-model developer for more than US$500m, per The Information."
+    },
+    {
+     "title": "Phoenix mayor walks fine line on AI boom",
+     "url": "https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom",
+     "source": "Axios AI+",
+     "time": "10:20",
+     "note": "Phoenix balances AI data-centre growth against electricity and water strain, per Axios."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,235 @@
+{
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22T02:00:16.058015+00:00",
+ "themes": [
+  {
+   "title": "UAE AI peak: Altman praise, MGX IPO win, Dubai labs",
+   "signal": 85,
+   "summary": "Dubai Future Week 2026 is the backdrop for a strong regional AI day: OpenAI's CEO publicly crowns the UAE the world's most forward-looking AI adopter, Abu Dhabi's MGX emerges as a structural winner in Anthropic's record IPO, and Dubai institutions (Future Foundation, MBZUAI, GDRFA, Dubai Chambers) roll out research pacts, AI labs and assistant programmes. The UAE is converting AI ambition into institutions and balance-sheet exposure at the same time.",
+   "angle": "Gulf capital and policy are now core parts of the AI trade - and its risks.",
+   "items": [
+    {
+     "title": "OpenAI CEO Sam Altman calls UAE the world’s most forward-looking country in AI adoption - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFJud05ycVhGZEJNelY0R2RwbW1HYWNORjdZdU94QTNLb1ZZV1lJcWVVSFFoVGtRZl9LelRBeW1FMDMwejVSbC1MMjF2Z01GcWEzSzAzYUNnd3lSRUQwcEFQQThKUHhac19tQmNQTlJLdHY1R19OS3JSMzRERldqU0swUG1EQUVYaXR0YXl1ejFQZnZBRnA2YTMxV1pEVnhHdGkxdDN0ZE1pSGJDOXl6UXB4Wl9Kc2ttUUE?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "17:35",
+     "note": "Altman's endorsement headlines the UAE's AI adoption narrative during Dubai Future Week."
+    },
+    {
+     "title": "Abu Dhabi’s MGX Triumphs in Anthropic IPO Amid US Engagement - UPPERNEWS",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzNWRVIyVGdNZE4zNi1GSm1OeW1kRW9MbVh1RVBsZkJTVzc4SVVQSXhmS01aSjBlZkwxM1RDcXdMWUlJU3dENl9qTmlpaUxtR3lELWVkSThqZmw0MXB4cVpYVmh5Sk80aGRoUnZ5LXZ2Rzl5OGkzZ0xHMnJVMklRZDk3WlpWVkZtblgxRFNOTnZvdw?oc=5",
+     "source": "UPPERNEWS",
+     "time": "10:24",
+     "note": "Abu Dhabi's MGX is named a winner in Anthropic's landmark IPO - regional capital now inside the flagship AI register."
+    },
+    {
+     "title": "Dubai Future Foundation, MBZUAI sign collaboration agreement to advance scientific research, develop AI applications - www.wam.ae",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMG5ocmV2Uk4tNzB1Qk12aFRpX2RKTnVpclpVaVRrMUVQanZMZlVPdkIzZXlKd2VUMWVfdENieTRlY0ZOLXh1V3YyT3RiMURUUUhDanRjaGM4MUtURUN2NUtkdVFFaDhQdDA2RWVFUmo3SU45X3g3UGt1cWtlVDBqTmxvRTVRTkJCT2toU1cyVE8?oc=5",
+     "source": "www.wam.ae",
+     "time": "15:40",
+     "note": "Dubai Future Foundation and Abu Dhabi's AI university deepen the research-to-application pipeline."
+    },
+    {
+     "title": "GDRFA launches two new AI and research labs to drive innovation - Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYW1kczRVZTJDTUFNSXNUbmNVRHplb1F2MlNwRllnRGx5UDQ3NEdpdHBDRWtFY1JLNTlPRVhob3MxdFhESnZ4YkpaVzlvRW00UTIxMGVDUDVWMmJhY2xWNnBjNmt5SjNkNnhEd3pmdXg2cE1jWUZMU3JkMGhNZFFBN0k0Mi1WZWtfZ2c1TjRkUHkzTVVuMnUzbU80Ri1QbzhOLXlxUTFoZXNPUdIBvAFBVV95cUxPTm01bEZXQnVhQVRvWGtFN2FESG5KaTFnZnJKOF9ZU2JtUHFCeUh2c3lFS2RtQkNjZlJrS3lhTEc0VVlmLVR4ZkZEY2hxRnRrUHZIQ2piOS1ES2hGQ3FBRE1VckZrNUx3SnBXMlliRng1MVg3dGJIalFtWlV3SUNFekJWZVN0TzNWVmpTNldja2lBZ0NCajlFUThQakM2VmVLajFFSjVRcGpDM3c3cjViTllEVUQ4LWNlSnc4TA?oc=5",
+     "source": "Gulf News",
+     "time": "01:19",
+     "note": "Dubai's residency authority is operationalising AI inside government service delivery."
+    },
+    {
+     "title": "Dubai Chambers showcases 22 AI assistants, plans to increase it to 100 - Emirates 24|7",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOTdLTXJ1ak5Zc3NaSnY2enNOb1VRUEdxaTJKNWJRWDFzajRIcGJYUmdRbE9aOExTMC15N3AtRmlnSDVsRG1UaXMyakd0Z3d4UTE0bkFuMVZCdUhDLS1iRTcyc1JyRnRpcW5YM1M1b1d4dXl2WGdJT1BrTlFBT1I2Q2pVaWtiUm1RZ2N6RXZLWXJiUW1hZjFJd1EzLUhmeDRRdUpscWx0LWVlYUhqaVlBNkUtWjlNaGdKaHJxRnZGZjZUN3d4YzN0d1A5MNIBywFBVV95cUxPOTdLTXJ1ak5Zc3NaSnY2enNOb1VRUEdxaTJKNWJRWDFzajRIcGJYUmdRbE9aOExTMC15N3AtRmlnSDVsRG1UaXMyakd0Z3d4UTE0bkFuMVZCdUhDLS1iRTcyc1JyRnRpcW5YM1M1b1d4dXl2WGdJT1BrTlFBT1I2Q2pVaWtiUm1RZ2N6RXZLWXJiUW1hZjFJd1EzLUhmeDRRdUpscWx0LWVlYUhqaVlBNkUtWjlNaGdKaHJxRnZGZjZUN3d4YzN0d1A5MA?oc=5",
+     "source": "Emirates 24|7",
+     "time": "15:14",
+     "note": "Dubai Chambers has 22 AI assistants live and plans to scale to 100 - a concrete enterprise-AI rollout."
+    },
+    {
+     "title": "500 leaders, talents convene at Dubai Future Week to shape Dubai’s future - www.wam.ae",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1RRbm5CNmVUZVFQRlNKWTM5cjRPaDQ1MGxvLTFoUTduaTJTUnVKWlNfOEpoMGVNTU5IVi11MmpFU0R3bHVvYm8tSFduSV9QWEZmV1FKWkpHbWdjRXB6azRQdDYyZU8wbUdQbUswb1VycktDaUZ6OEZ2VGdYcHFzNlN5UlRLT1p6dmRj?oc=5",
+     "source": "www.wam.ae",
+     "time": "15:53",
+     "note": "Dubai Future Week 2026 convenes leaders to shape the emirate's AI-era future."
+    },
+    {
+     "title": "Union Minister Pralhad Joshi holds bilateral discussion on AI and education cooperation with UAE Minister - News On AIR",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUdfbkRnOUh1TVF5enpFbnFpaWRUc2gyWEZKNkFqZGJ2eXo1QmtqTkZMTjJoZVpSVlEwcFhqT053Z29rUnFKdzI1cERMSkhaY1VJc3l0UjYwamtZek5pcGNON0Q0bTFxSXZwelVSdjUxWDl0akswR1ZnZGhZNGxGOW16QUR1bGl0YjljeDAySGl6NjdpRjR5TVB4T3RQRkJJeGpDcU9EYU15eTdadFlnNW9rNjlqejctb2hKR0E2Z2FYNXFaODJEWHVWTQ?oc=5",
+     "source": "News On AIR",
+     "time": "00:26",
+     "note": "India and the UAE are negotiating AI and education cooperation - talent-pipeline diplomacy."
+    },
+    {
+     "title": "UAE Business: AI, data analytics drive push for smarter, greener UAE cities - Gulf Daily News (Bahrain)",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fWjZwbFR0bkdxMHZfSjh2aTdJRjhDODhkSVBHdEtOWmtmbTdibHdGQTc5c29zMmlYU0x0V2hlZ2sxYXRxRHFINGJlSjZ3TlpwM3dn?oc=5",
+     "source": "Gulf Daily News (Bahrain)",
+     "time": "20:04",
+     "note": "AI and data analytics are framed as the connective tissue for smarter, greener UAE cities."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia legal crisis widens: criminal probe, SEC, China links",
+   "signal": 70,
+   "summary": "Nvidia's legal exposure deepened: California's probe into alleged illegal chip sales to China now covers potential criminal violations of state law, the SEC is separately investigating accounting, and FT reporting puts China's state security apparatus at the centre of the affair after CEO Jensen Huang's resignation. For buyers, this is now a supply-chain and compliance risk as much as a governance story.",
+   "angle": "The AI darling's crisis is a procurement risk for every GPU buyer.",
+   "items": [
+    {
+     "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+     "source": "Bloomberg Technology",
+     "time": "17:11",
+     "note": "California probe now covers potential criminal violations over chip sales to China - a step-change in legal risk."
+    },
+    {
+     "title": "Nvidia faces US regulator’s probe into its accounting",
+     "url": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:58",
+     "note": "SEC accounting investigation adds pressure on the chip group after Jensen Huang's resignation."
+    },
+    {
+     "title": "Nvidia affair puts Chinese spies in spotlight",
+     "url": "https://www.ft.com/content/77a283dd-b7af-4e72-8d83-9b53ab86f3e0?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "03:58",
+     "note": "Western officials call China's Ministry of State Security formidable in scale and capability - now a state-security story."
+    },
+    {
+     "title": "Alice Huang’s links to the chip underworld",
+     "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:00",
+     "note": "FT traces links between a Chinese executive close to ex-CEO Jensen Huang and the chip trade to China."
+    }
+   ]
+  },
+  {
+   "title": "AI trade breaks: bear market, Anthropic IPO fails to rally",
+   "signal": 65,
+   "summary": "US tech stocks plunged into a bear market in the worst week since Covid-19 as Anthropic and Nvidia shares tumbled on AI-capex fears and systematic-fund selling. Anthropic's record-setting IPO failed to reverse deteriorating sentiment, and Taiwan widened short-sale curbs after its benchmark's worst weekly fall in 35 years. The AI supercycle is being repriced in real time.",
+   "angle": "First bear market of the AI capex supercycle - the ROI question is finally being priced.",
+   "items": [
+    {
+     "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+     "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:52",
+     "note": "AI-capex fears drove Anthropic and Nvidia shares down; worst week since Covid-19."
+    },
+    {
+     "title": "Wall Street Confronts AI Reality Check",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-21/wall-street-confronts-ai-reality-check-video",
+     "source": "Bloomberg Technology",
+     "time": "14:50",
+     "note": "Anthropic's record IPO failed to reverse sentiment; investors cite Nvidia turmoil, AI spending and systematic selling."
+    },
+    {
+     "title": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+     "source": "Bloomberg Technology",
+     "time": "07:53",
+     "note": "Taiwan stepped in after its benchmark's worst weekly fall in 35 years - the AI sell-off is now a policy event."
+    },
+    {
+     "title": "Inside Anthropic’s historic IPO",
+     "url": "https://www.ft.com/content/149d497e-0567-4467-bcfb-269b8b8eb157?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:21",
+     "note": "The open question: can Anthropic preserve its culture in the glare of public markets?"
+    },
+    {
+     "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+     "url": "https://www.anthropic.com/news/ipo-close",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic closed its IPO including full exercise of the underwriters' option plus a concurrent private placement."
+    }
+   ]
+  },
+  {
+   "title": "Compute geopolitics: DC tax, China token rules, Decart deal",
+   "signal": 62,
+   "summary": "Compute infrastructure is now contested terrain: the US president threatens a 'tremendous' tax on data centres built outside the US, China's data administration moves to standardise AI token measurement and billing, and Amazon is closing on a $7.5bn acquisition of Decart to help AWS compete with Nvidia on compute. Supply chains, token economics and data-centre siting are all being politicised at once.",
+   "angle": "Token measurement is becoming a state standards war - inference economics is now policy.",
+   "items": [
+    {
+     "title": "Donald Trump threatens ‘tremendous’ tax on data centres built outside US",
+     "url": "https://www.ft.com/content/ae564e09-eb0d-42c6-b61f-50a4e61d0240?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:17",
+     "note": "US president says the fight is about preventing Beijing from taking the AI lead."
+    },
+    {
+     "title": "China Plans to Strengthen AI Token Standards in Computing Push",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
+     "source": "Bloomberg Technology",
+     "time": "10:11",
+     "note": "China's National Data Administration will set standards for AI token measurement, billing and quality."
+    },
+    {
+     "title": "The chip war’s next battleground",
+     "url": "https://www.ft.com/content/cd4ecaf3-0ded-4830-94a8-4d9c24098c07?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "05:00",
+     "note": "The US-China AI rivalry is shifting focus to supply chains."
+    },
+    {
+     "title": "China Deploys 5G Across Manufacturing Base as 6G Testing Advances, CCTV Reports",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/china-deploys-5g-across-manufacturing-base-as-6g-testing-advances-cctv-reports",
+     "source": "Bloomberg Technology",
+     "time": "02:33",
+     "note": "Over 26,000 private industrial 5G networks nationwide per CCTV; 6G testing advances."
+    },
+    {
+     "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+     "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "17:21",
+     "note": "The $7.5bn deal would help AWS compete with Nvidia in the race for computing power."
+    }
+   ]
+  },
+  {
+   "title": "AI cyber consolidation: CrowdStrike-Zscaler, agentic threats",
+   "signal": 55,
+   "summary": "A wave of multibillion-dollar takeovers is reshaping cybersecurity as vendors race to defend against AI-powered attacks - CrowdStrike is in talks to buy Zscaler. Meanwhile agentic AI is prompting new privacy and resilience questions: Signal blocked AI agents from reading chats via screenshots, and commentators (FT, NYT) argue AI-driven outages and attacks are only beginning.",
+   "angle": "If cyber vendors consolidate around AI, CISOs' negotiating power shifts - watch contractual leverage.",
+   "items": [
+    {
+     "title": "Crowdstrike’s Talks With Zscaler Show AI-Led Cyber Consolidation",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+     "source": "Bloomberg Technology",
+     "time": "19:02",
+     "note": "Bloomberg frames the wave of multibillion-dollar takeovers as AI-led cyber consolidation."
+    },
+    {
+     "title": "CrowdStrike in Talks to Buy Zscaler - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEOW9LV2VjWGNwSVdiZVd0SklBMWY5SzIzVDZpU1AzV0J0dFk2Q2ZpeFhxbml6ZU9tZng3UTZLeXB3dXA0cEpHck1DZXZLcWY1Y3dBOWUtQXVxdzBhMEVrV2NlOFZxcUl5WmJiRVRhemlTRi14dmRFYmp3?oc=5",
+     "source": "The Information",
+     "time": "22:07",
+     "note": "The Information corroborates the CrowdStrike-Zscaler talks."
+    },
+    {
+     "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS - The Hacker News",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeEV0VFJ5NU4zM19SdURMbUpBc0ZNRGw5bzJPMm81S2M2VjNKSlJqNFFsYVhyUVFMdmJsNWczT0ExdjlNMFJuOEdEQlMxM1UyVUxBZ0pSOHdHWVdVRHppdTN5T1RsOUszdGEzTVF2TklVMTlhcDRGV0gzNDRlNmduNA?oc=5",
+     "source": "The Hacker News",
+     "time": "08:49",
+     "note": "Signal blocks AI agents from reading private chats via screenshots on Android and iOS."
+    },
+    {
+     "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions. - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0M2dXVZWU9jNzEySnF2YXRxeE1lSWEyTzdISXBGc2dqdEFjZWJmaGUyVmVwbktreFZ2eHB5VmNEWVdLZzVCMDJONHpVNDB2eHNmWFJlLTdDNzFqdEJBU0VhRGt6anhxaHltazE0UG5IcWNyYlFQR3ZjWm9CYXRLMzhkZGFZUQ?oc=5",
+     "source": "The New York Times",
+     "time": "19:11",
+     "note": "NYT argues AI will bring more disruptions, not fewer."
+    },
+    {
+     "title": "The AI cyber threat is already here",
+     "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "05:00",
+     "note": "FT: the AI cyber threat is already here - the freezer war is just a start."
+    }
+   ]
+  }
+ ]
+}

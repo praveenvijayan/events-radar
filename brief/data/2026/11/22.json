@@ -1,0 +1,64 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T03:40:00+00:00",
+  "lead": "Quiet day: the strongest signal is operational rather than a new model or supervisory requirement. Microsoft’s Foundry post gives concrete checks for hosted agents inside a private Azure network, including subnet delegation, private DNS, managed-identity access and a constraint that network injection must be configured when the Foundry account is created. For your Azure-leaning designs, use it as a deployment checklist, then test the path from the agent subnet to each private dependency; the public-evaluation teardown is a useful companion for deciding which benchmark results deserve trust.",
+  "items": [
+    {
+      "title": "Hosted agents in your own virtual network: five checks when the Agents page times out",
+      "url": "https://devblogs.microsoft.com/foundry/hosted-agents-private-network-setup",
+      "also": [],
+      "source": "Microsoft Foundry DevBlog",
+      "tier": 1,
+      "published": "2026-11-21T18:12:21+00:00",
+      "track": "patterns",
+      "decision": "adopt",
+      "signal": 91,
+      "summary": "Microsoft’s November 21 post provides commands and checks for hosted agents using a customer virtual network, covering the delegated agent subnet, private endpoint DNS, Cosmos DB connectivity, Entra managed identity and TLS inspection. It states that network injection must be configured when the Foundry account is created and cannot be added to an existing account; pricing and regional availability are not stated.",
+      "so_what": "Adopt the checklist in Azure agent deployment reviews, especially the account-creation and private-DNS checks, and validate each dependency from the agent subnet before production rollout.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "How Public Evals Work and Fail, and What Should Change",
+      "url": "https://eugeneyan.com/writing/public-evals",
+      "also": [],
+      "source": "Eugene Yan",
+      "tier": 2,
+      "published": "2026-11-19T00:00:00+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 86,
+      "summary": "Eugene Yan reviews twelve public agent evaluations and finds evidence of grader errors in eight, including false negatives and checks against requirements not stated in the task. The analysis recommends deterministic outcome checks where possible, narrow rubric-based LLM judging where needed, and version-aware comparisons; the article is an engineering analysis, not an independently audited benchmark study.",
+      "so_what": "Trial its grader and versioning checks in your evaluation practice, and benchmark candidate models on representative tasks with explicit success criteria rather than relying on public leaderboard scores.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Thinking Machines releases Inkling 2 Mini, an open-weights model designed to run locally",
+      "url": "https://venturebeat.com/technology/thinking-machines-wows-with-inkling-2-mini-looped-transformer-model-that-runs-locally-on-laptops",
+      "also": ["https://thinkingmachines.ai/news/inkling-2-mini/"],
+      "source": "VentureBeat — AI",
+      "tier": 3,
+      "published": "2026-11-20", 
+      "track": "models",
+      "decision": "model selection",
+      "signal": 76,
+      "summary": "Thinking Machines released Inkling 2 Mini with open weights on November 20, describing a 26.4-billion-parameter model with an approximately 20GB memory footprint that can run offline on local devices. The company reports benchmark results including 48.2% on DeepSWE v1.1 and says looping improves a no-chain-of-thought monitorability horizon from 16 seconds at one pass to 37 seconds at three; these are company-reported results, and pricing and regional availability are not stated.",
+      "so_what": "Benchmark it against your current small-model option only where local inference could change residency or connectivity constraints, and validate quality, hardware needs and runtime monitoring on your own tasks before selection.",
+      "verify": false,
+      "off_list": null
+    }
+  ],
+  "watch": [],
+  "post_seed": null,
+  "sources": {
+    "ok": 146,
+    "total": 149,
+    "failed": [
+      "EDPB: HTTPError: HTTP Error 503: Service Unavailable",
+      "Microsoft Agent Framework releases: HTTPError: HTTP Error 404: Not Found",
+      "The New Stack — AI: HTTPError: HTTP Error 403: Forbidden"
+    ]
+  },
+  "candidates_seen": 25
+}

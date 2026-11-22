@@ -39,11 +39,11 @@
       "also": ["https://thinkingmachines.ai/news/inkling-2-mini/"],
       "source": "VentureBeat — AI",
       "tier": 3,
-      "published": "2026-11-20", 
+      "published": "2026-11-21",
       "track": "models",
       "decision": "model selection",
       "signal": 76,
-      "summary": "Thinking Machines released Inkling 2 Mini with open weights on November 20, describing a 26.4-billion-parameter model with an approximately 20GB memory footprint that can run offline on local devices. The company reports benchmark results including 48.2% on DeepSWE v1.1 and says looping improves a no-chain-of-thought monitorability horizon from 16 seconds at one pass to 37 seconds at three; these are company-reported results, and pricing and regional availability are not stated.",
+      "summary": "Thinking Machines released Inkling 2 Mini with open weights on November 20, describing a 26.4-billion-parameter model with an approximately 20GB memory footprint that can run offline on local devices. The company reports benchmark results including 48.2% on DeepSWE v1.1, and separately says its research-only variable-loop variant extends the no-chain-of-thought monitorability horizon from 16 seconds at one pass to 37 seconds at three; these are company-reported results, and pricing and regional availability are not stated.",
       "so_what": "Benchmark it against your current small-model option only where local inference could change residency or connectivity constraints, and validate quality, hardware needs and runtime monitoring on your own tasks before selection.",
       "verify": false,
       "off_list": null

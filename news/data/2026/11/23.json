@@ -1,0 +1,292 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T02:00:14.948542+00:00",
+ "themes": [
+  {
+   "title": "Anthropic post-IPO: models cheaper, greenshoe questioned",
+   "signal": 88,
+   "summary": "Anthropic closed its IPO with the underwriters' greenshoe fully exercised, then shipped a new Claude family — Opus 5.5 costs 40% less to run than Opus 5 and leads agentic coding, while Haiku 5.5 targets high-volume subagents and browser use. FT raises questions about the greenshoe timing after share-price weakness, and The Neuron tallies founders selling nearly $2B while Amazon and Google still hold the larger stakes.",
+   "angle": "Frontier inference just got ~40% cheaper at the same time the AI trade is repricing — boards should recheck their unit economics.",
+   "items": [
+    {
+     "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+     "url": "https://www.anthropic.com/news/ipo-close",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "IPO closed with the greenshoe fully exercised (per Anthropic)."
+    },
+    {
+     "title": "Did Anthropic and its bankers get a key call wrong after IPO?",
+     "url": "https://www.ft.com/content/d501198c-14a4-4b96-8880-c3997545902e",
+     "source": "FT Technology",
+     "time": "11:00",
+     "note": "Post-IPO share weakness raises questions about the hurried greenshoe exercise (per FT)."
+    },
+    {
+     "title": "Will Anthropic’s IPO buck the tech sell-off?",
+     "url": "https://www.ft.com/content/1dc8290b-8100-434d-963c-79002c15f244?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "12:00",
+     "note": "FT's week-ahead question: can the listing defy the AI market rout?"
+    },
+    {
+     "title": "7 hours ago 😺 Who really wins from Anthropic’s IPO? Seven founders sold nearly $2B. Amazon and Google still own far larger stakes.",
+     "url": "https://www.theneurondaily.com/p/who-really-wins-from-anthropic-s-ipo",
+     "source": "The Neuron",
+     "time": "",
+     "note": "Seven founders sold nearly $2B; Amazon and Google keep the bigger stakes (per The Neuron)."
+    },
+    {
+     "title": "Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Leads agentic coding and costs 40% less to run than Opus 5 on typical workloads (per Anthropic)."
+    },
+    {
+     "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "New frontier pair aimed at coding, finance and the sciences (per Anthropic)."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Fast small model built for high-volume summarization, subagents and browser use (per Anthropic)."
+    },
+    {
+     "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic commits a portion of shares to its Public Benefit Fund (per Anthropic)."
+    }
+   ]
+  },
+  {
+   "title": "Global AI trade sell-off reprices the boom",
+   "signal": 86,
+   "summary": "Equities are repricing the AI trade across the Americas and Asia: Korea slid more than 3% after heavy Wall Street losses, emerging-market stocks are set to erase their 2026 gains, and Reuters argues an AI bust would hurt Chinese stocks far more than GDP. The Information frames the moment as a bubble test for enterprise AI vendors with Dell and Workday reporting next.",
+   "angle": "The first real stress test of the AI capex thesis — watch earnings, not headlines.",
+   "items": [
+    {
+     "title": "Tech stock sell-off deepens in Asia",
+     "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "01:55",
+     "note": "Korea's market slid more than 3% after Friday's heavy Wall Street declines (per FT)."
+    },
+    {
+     "title": "Emerging-Market Stocks Set to Erase 2026 Gains on AI Selloff",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-23/emerging-market-stocks-set-to-erase-2026-gains-on-ai-selloff",
+     "source": "Bloomberg Technology",
+     "time": "01:02",
+     "note": "EM equities on track to give back all 2026 gains as AI-trade doubts fuel a US-to-Asia rout (per Bloomberg)."
+    },
+    {
+     "title": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP - Reuters",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E?oc=5",
+     "source": "Reuters",
+     "time": "23:05",
+     "note": "Reuters: a Chinese AI downturn would hit equities harder than headline GDP."
+    },
+    {
+     "title": "AI Bubble Deflating? Dell, Workday on Deck - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWTYtVmlPWmlDUGJ4Zi1CVFFMeXdURFg3bE9lUUpqMUt4U3Zxc2hkZy1iNHgwaVNadERpbTROSWRBbGJsUjJDSkFNcmduZ0V2T1liblBBeXlZTklKSHNQYm5mTDhZNnJrOXFFQlNBMlRsMi1vVXhpRTVoTHRvVVFKdEIzdjJBRjI2RFowRVJ6SjlReU93VzZ2UQ?oc=5",
+     "source": "The Information",
+     "time": "23:01",
+     "note": "The Information sets up the sell-off as a test for enterprise AI vendors' earnings."
+    },
+    {
+     "title": "S&P 500 Futures Rise After Tough Week - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80Q2R5M2NqcWlubGVXQnlvLXJrWVdzMzFRRk4xb19lc19nVHJNRzZna1lhLW1JV3VQeE5teWpmOHNRUmdqVndweks1YWFOdHZqbnZESjl0NlEydlpiYTRia0hqRzBwUEsycjExbmdBTUh6QQ?oc=5",
+     "source": "The New York Times",
+     "time": "01:17",
+     "note": "Futures opened firmer after a bruising week (per NYT)."
+    }
+   ]
+  },
+  {
+   "title": "Gulf states move AI from pilot to programme",
+   "signal": 86,
+   "summary": "Dubai's State of AI report counts 90+ AI applications deployed across 20 government entities, Saudi digital transformation has crossed 90% with SAR 26bn in annual savings, and Riyadh has signed an AI-technology cooperation pact with Bulgaria. The UAE is also exporting its 1M AI-coders programme to the Dominican Republic and deepening AI research ties through MBZUAI and the Dubai Future Foundation.",
+   "angle": "Gulf governments are publishing adoption numbers, not just ambitions — the strongest regional signal in months.",
+   "items": [
+    {
+     "title": "dubai-deploys-over-90-artificial-intelligence-applications-across-20-government-entities-releases-state-of-ai-report - TV ONE USA",
+     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTldkbTlQSV94d1Y2ZVJfU0V3aG9vZ29hMXpwc05NS0dFaXJjUWdjakY4dG43TS1ISThFQkllell3bUJIYXBqYUxucjV6a3J0cTVDbkFDSng4Njk3TmliV29TdFJ3YjhCclRuTXpzN3lTVWRjVUNVQ0I1bWxDSmZQWnBiQ0g3QmI4ZzNHSm01YTV5RTF1b1kyeDNnTm9PQXBkcWZpTzlzdGhpZm5YTC14dFpWRnpJS2lPRHFWNXFIVE51ZUJRcW5oQ3J4ZkRybmtieGRhVW1UOTZTdw?oc=5",
+     "source": "TV ONE USA",
+     "time": "02:37",
+     "note": "Dubai's State of AI report: 90+ AI applications across 20 government entities (per Dubai gov release, carried by TV ONE USA)."
+    },
+    {
+     "title": "Saudi digital transformation tops 90% and saves SAR 26 billion a year - jawlah.co",
+     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE13VVdDdUVQMDZhaXczVnNfV2xxS3dJOHBEYnRZT1FLVGRjNlNvc0U3QWc1V2xqc2JCQ0Ffdmx1aw?oc=5",
+     "source": "jawlah.co",
+     "time": "16:32",
+     "note": "Saudi digitalization crosses 90% with SAR 26bn in yearly savings (per jawlah.co)."
+    },
+    {
+     "title": "Saudi Arabia, Bulgaria to strengthen AI, technology partnership - Saudi Gazette",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmZHY0J1aG5jcDhrSVliWWV4dWVmTXMtSENqVHo3dnFkbXN3MXNudFdzbmpZendpRDZjTkxycDRISFppS2lEdzRvdzBxYnBleks3WG1RcGZ2UGV1VzRETFFwZ2Y2Qkktc29ZdHpFYWRTd1ZXZ2pRYlZ1T0doLVJvNjA1eGZuU2l3aWVVeVpPVmg3Rnd2bWFJaFRteTI5VFpycEY4em1tSlJ3QjIyNno0ZWF1aERXZWFP?oc=5",
+     "source": "Saudi Gazette",
+     "time": "12:26",
+     "note": "Riyadh and Sofia agree to deepen AI and technology cooperation (per Saudi Gazette)."
+    },
+    {
+     "title": "UAE to train one million AI coders in Dominican Republic under digital drive - The National",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXpvemJkeWhzekM4SlFWb2dxN1BPZ1JBOHAzQXlYeVZiTDZ6WEhXQXJRWkxZTjJ0VXVDNVdNRTRIaTJFSk1rR20zTmVCTWJEMlBNUDRONF9ndjFQQ2ZvUDBXY1p4MTNPNTVtSXhBYzVMclV1MHlRNnB6UGVLSlJBSUtXZjBmUkdFMDhrV3hYek8tN1MzcVhaZDBRcHk5X1JzLXQ1VGlMZE04MEg5S09DSTMzX3ZSTE1Qc29qd0FtM0VfTW1Eb1E?oc=5",
+     "source": "The National",
+     "time": "17:52",
+     "note": "UAE exports its 1M-coders programme to Latin America (per The National)."
+    },
+    {
+     "title": "DFF, MBZUAI sign collaboration agreement - TradeArabia",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUVFBREhiemd4cy0xenRfNXRubk5YQWwxd0dULWcxemJmMDFXZnBvekZiT0dWQVpoWUdwYU1FVHM1d1RoRk5JZWZFZ05TRUM4aEJhVGJVNm5OU3FhQjJITHZhMzRsbUZ3UlhzUTU5dWhrNXN6VjlNQXZQSG1INEsyemR3ckJDRWQ2MWk4?oc=5",
+     "source": "TradeArabia",
+     "time": "08:12",
+     "note": "Dubai Future Foundation and MBZUAI formalize a collaboration (per TradeArabia)."
+    },
+    {
+     "title": "Lunit partners with UAE health tech firm on early lung cancer detection, expands global push - 머니투데이",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iQjh0a19Qb2RvSTdKUlJ5OE4wZ3Z4NFd3Q3M0dW5nUEt1bktxUFJtUW9CVTJVRHJSVlBpcHVMemJXNTBEVGFTZXdYMDZ6TjJETFpnOTlKazNPNkRHVlZvd203NTVhaUhJX1JjN3Zn?oc=5",
+     "source": "머니투데이",
+     "time": "00:57",
+     "note": "Korean AI-health firm Lunit links with a UAE partner on early lung-cancer detection (per MoneyToday)."
+    },
+    {
+     "title": "Dubai FinTech Summit 2026: Key deals and announcements shaping the future of finance - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYjNTRjlTTEJQTHN3RnZRMldGUVlqRXJrNjA1a0FDRjhEaFBfZW5QMFJsZlZCQzMxdUVTaGUxQWhOUHF3X2lSZjQtWWZfWUlYRDNMQ3hRRDE1cE9yc01hWVpnNmJPQzE4c1Z6WXo0bTNmUUVDaTJrMGhLLVRDbDJhRW5ZYnpHd2k5VUZCYUIxYnJCX0h0Y0pCQ29ReUF4bFZoQ3c2N3laOEdyckx1cGFvQlhVLW9QZw?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "06:58",
+     "note": "Regional fintech showcase produced AI-powered finance deals (per Fast Company Middle East)."
+    },
+    {
+     "title": "Saudi PDPL Implementing Regulations: Business Guide - Global Advisory Experts",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdGV5ZWlJZkdxOEIyQ2g3Ym9FQ3BVRUNnaUQwZzB2REdzYmxxNkVkaVpvaUV1NHFsUkdJU3EteDZWVWxCLTdqeTQxME9nazIwRWd1RERwSkl6TUZXZkhXbmlpUVlSU1FyLWo0bmFiS3BZZ25NbkthR1gtbWVTbndXTEJsMWdhMlBrcE5GQzZHcmR6NGc?oc=5",
+     "source": "Global Advisory Experts",
+     "time": "03:27",
+     "note": "Business guide to Saudi PDPL implementing regulations signals data-protection compliance focus (per Global Advisory Experts)."
+    }
+   ]
+  },
+  {
+   "title": "AI-powered cyber threats reach the boardroom",
+   "signal": 78,
+   "summary": "Axios's survey of 50+ leaders across government, AI, business and cyber found unanimity: attacks on business and critical infrastructure will be constant, increasingly sophisticated and AI-amplified. FT reports thousands of attempted hacks a day against US port systems, and Bloomberg says AI gives attackers the upper hand while defenders scramble.",
+   "angle": "Cyber resilience has shifted from IT risk to a CEO-level P&L item.",
+   "items": [
+    {
+     "title": "Behind the Curtain — AI 2027: The reckoning",
+     "url": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
+     "source": "Axios AI+",
+     "time": "13:36",
+     "note": "50+ leaders across gov, AI, business and cyber agree attacks will be constant and increasingly AI-sophisticated (per Axios)."
+    },
+    {
+     "title": "US ports face cyber attack onslaught as hackers target vital trade routes",
+     "url": "https://www.ft.com/content/c269cf3e-2275-4244-9a86-f412c8521b4f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "12:00",
+     "note": "A top US crude-export hub reports thousands of attempted hacks daily (per FT)."
+    },
+    {
+     "title": "How Artificial Intelligence Is Making It Harder To Stop Cyberattacks - Forbes",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0pTZXpTNGdMSWdXcExGejc0TVZhTm53ZHpSZFpJSTlFNTdhVGE4TWpMVUdBcHFWQzZzY2FLSDAyWkVDTjdNaFkzY3QyUXc1bjRJdXppc2NOTWVxU1dDbklOZHhaWThxbFpUbC1hY2ZJNGdXZ01JR1RycXpKYnU4RnlMV1NMZXZPRnNIQTZfZHBhenZtWDZ2X1RSeWlGWi1WMlh4d3RmZFdMN21PZmU2ZV9xSUdWWkEzbjZwYU8zXzIzUU01NjVYaTRETQ?oc=5",
+     "source": "Forbes",
+     "time": "01:55",
+     "note": "AI is eroding defenders' advantage (per Forbes)."
+    },
+    {
+     "title": "How AI is Accelerating Cyberattacks",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-22/how-ai-is-accelerating-cyberattacks-video",
+     "source": "Bloomberg Technology",
+     "time": "15:03",
+     "note": "Attack volumes remain elevated since 2020; AI gives criminals the upper hand (per Bloomberg)."
+    },
+    {
+     "title": "Tech Outages Fuel a New Prepping Boom",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-22/tech-outages-fuel-a-new-prepping-boom-video",
+     "source": "Bloomberg Technology",
+     "time": "13:08",
+     "note": "Network failures drive demand for contingency and offline systems (per Bloomberg)."
+    }
+   ]
+  },
+  {
+   "title": "AI governance: limits, states, and a packed December",
+   "signal": 74,
+   "summary": "OpenAI's chief scientist is proposing that leading AI firms agree to limit development of ever-more-powerful models until behaviour is better understood, while a bipartisan group of US governors wants federal rules that keep state consumer, worker and child protections intact. Congress heads into a December dense with AI policy fights.",
+   "angle": "Capability-limits talk plus state-vs-federal friction: the regulatory dial is moving faster than most boards assume.",
+   "items": [
+    {
+     "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
+     "source": "Bloomberg Technology",
+     "time": "19:40",
+     "note": "Proposes agreeing limits on powerful-model development until models are better understood (per Bloomberg)."
+    },
+    {
+     "title": "OpenAI Calls For Leading AI Firms to Agree on AI Development Limits - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYW54VV9PZDAxRGp2dTRzMTB5ZWRNOVhFcm92eFctNEFtdTYtaGdQQ0JxcFRXXzRndE41RXFpLV9GaUcwVzhxb041VVVMX3N2SDhIWjBHdVFtT3Y5cU9HejB0RUMxaEctMGdxZElLaGdZWmM0U3phcHNBeE5jb1BjSGVaaTdzMjVWRW52SWMtZU4tY3RueHZHS054TGpsYVk?oc=5",
+     "source": "The Information",
+     "time": "21:08",
+     "note": "OpenAI pushes a cross-industry accord on development limits (per The Information)."
+    },
+    {
+     "title": "Governors Call for Federal AI Rules Without Sidelining States",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-22/governors-call-for-federal-ai-rules-without-sidelining-states",
+     "source": "Bloomberg Technology",
+     "time": "13:00",
+     "note": "Bipartisan governors want federal rules that keep state-level protections (per Bloomberg)."
+    },
+    {
+     "title": "Governors Want States to Have a Voice in Regulating AI - PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQelJDNXNhNldVMzJfMnJYUWZFZ0RFSmNxVEpNZlRiSVZPN0ttZHZ3aGRtUVRVUlE0TTBGTFJrMEdmTi1wdG1DZldyZV92U0NKRDZuZmpFY3dhRzJJMGhScTVEVEk3alFTSU1WeWhRSzNhOHFLVDI3WkctMFNNa0E3WnFtWVJLdlh6X1dIU0paT3NVLVJGcGFVQnFFTFNmVG1sXzBBY19BOHY2UjFOQU5OUVpR?oc=5",
+     "source": "PYMNTS.com",
+     "time": "01:16",
+     "note": "The governors' push for a state voice, covered by PYMNTS."
+    },
+    {
+     "title": "A December to remember for artificial intelligence - Punchbowl News",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QT0FJUWtmVjhmcE55U2Fhd2g1QjJrTnN2bE9MeGdrT1dST1IzaFFBLUxRT2hWTmdoRXdYYWtkUVFpUFhHX3NnODVuUVpsMzRhNkhIZ1ZxeGpWYlpMelBRMERic2UwLTJWVlNEMQ?oc=5",
+     "source": "Punchbowl News",
+     "time": "22:19",
+     "note": "Congress has a busy December AI calendar (per Punchbowl News)."
+    }
+   ]
+  },
+  {
+   "title": "Chip export squeeze and data-centre cost inflation",
+   "signal": 74,
+   "summary": "Washington's post-Nvidia chip crackdown on China is squeezing Southeast Asia's multibillion-dollar cloud business, while Dell, HPE, Lenovo and Supermicro are raising AI server prices by up to 45% months after contracts were signed. The Information argues Amazon's capital endurance is what neocloud rivals can't match.",
+   "angle": "Export rules and mid-contract price hikes are quietly rewriting who can build — and what AI infrastructure costs.",
+   "items": [
+    {
+     "title": "Trump's AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia",
+     "url": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
+     "source": "Bloomberg Technology",
+     "time": "22:00",
+     "note": "New export rulebook threatens a multibillion-dollar cloud business powering Southeast Asia's data-centre boom (per Bloomberg)."
+    },
+    {
+     "title": "Tech suppliers raise AI server prices up to 45% months after deals are signed",
+     "url": "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "05:00",
+     "note": "Dell, HPE, Lenovo and Supermicro reprice AI servers mid-contract, hitting trading firms (per FT)."
+    },
+    {
+     "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t - The Information",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkt3LUxXYjZSOEgweWR3SHowTnJQd19PNVE3NnRVaHhhcDBQNC1vaXVibjRKRDBUVF84dEhJcDN1MTlsX1A4Q0hZelo3RmtMelhhM3lhbmtOZUNSc3VfWGRNdDNfRVQ5LXRwN01nc1lsVVNxdk9GQXYxUTNJY2EtSUFrTnpuekItcEowd0Jod3lkODNQS04wQWgwVUszd1ppem8yelZydTdKSFozamdVaGY2V0FhQQ?oc=5",
+     "source": "The Information",
+     "time": "18:18",
+     "note": "Amazon's capex endurance outlasts neocloud challengers (per The Information)."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "date": "2026-11-24",
+ "generated_at": "2026-11-24T02:00:20.965188+00:00",
+ "themes": [
+  {
+   "title": "Nvidia reinstates Huang; $1tn rally, Trump in middle",
+   "signal": 80,
+   "summary": "Nvidia's board reinstated Jensen Huang as CEO eleven days after his resignation, triggering a historic one-day rally that added nearly a trillion dollars in market value and lifted the entire AI complex. The unprecedented move involved lobbying by Silicon Valley leaders, reported White House support, and immediate questions from lawmakers and bearish commentators about governance, national-security exposure, and what it signals about Washington's leverage over chip supply.",
+   "angle": "For GCC boards: CEO succession is now a national-security variable; the Huang saga is a governance case study, not just a market story.",
+   "items": [
+    {
+     "title": "Nvidia adds nearly $1tn to market value after it reinstates Jensen Huang",
+     "url": "https://www.ft.com/content/08914b05-bbfa-478d-b38a-549acfc1aae6?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:55",
+     "note": "Board brought Huang back days after his exit; shares closed ~30% higher, adding nearly $1tn per FT."
+    },
+    {
+     "title": "Inside the ‘war room’ that lobbied Trump to bring back ousted tech boss",
+     "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:46",
+     "note": "FT: Silicon Valley leaders enlisted Trump and JD Vance to rescue Huang."
+    },
+    {
+     "title": "Trump made up to $15mn on Nvidia shares after Huang’s return",
+     "url": "https://www.ft.com/content/67b0a070-c2a9-4229-885a-383cca657763?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:21",
+     "note": "FT: maximum possible gain on Trump's disclosed Nvidia holdings after the 30% jump."
+    },
+    {
+     "title": "US lawmakers vow to sharpen Huang probes as he returns to Nvidia",
+     "url": "https://www.ft.com/content/6b4e5bfb-d566-4a61-a12c-057881a261b8?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "19:11",
+     "note": "Both parties insist Huang testify publicly, per FT."
+    },
+    {
+     "title": "Nasdaq jumps 7% as Nvidia shares soar",
+     "url": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:01",
+     "note": "Nasdaq +7%, S&P 500 +4.7%, Nvidia +31.5% in the session."
+    },
+    {
+     "title": "Nvidia brings Jensen Huang back as CEO 11 days after exit, shares surge over 34 percent",
+     "url": "https://economymiddleeast.com/news/nvidia-brings-jensen-huang-back-as-ceo-11-days-after-exit-shares-surge-over-34-percent/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-brings-jensen-huang-back-as-ceo-11-days-after-exit-shares-surge-over-34-percent",
+     "source": "Economy Middle East",
+     "time": "14:28",
+     "note": "Regional outlet Economy Middle East logs the 11-day gap and a 34% surge."
+    },
+    {
+     "title": "Saudi prince urges Nvidia to bring back Jensen Huang - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEdVSFdsSTlWRms3U3l3UjJzUmNlUUdFckNYU2Y5RlpJQVViN1dKT2xWQUVKTXZGOWtwbEpsbVpaTHhNNzJsZ0xMT1V1Qk42dk5LMm44cW9jcmNRemw3RHFhRldTVjhBdHRLLVM3TXRUeE02ZF9kaGtFYl9MRTZhalpSdnlxa1hiOWhPQ0RNXzA?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "12:47",
+     "note": "A Saudi prince publicly pushed for Huang's return, per AGBI."
+    }
+   ]
+  },
+  {
+   "title": "UAE agentic AI wave: du-RADX, Mira, governance guide",
+   "signal": 75,
+   "summary": "A cluster of UAE signals shows agentic AI moving from pilots to policy: telecom du and Dubai's RADX are exploring agentic AI for government and business, the University of Dubai and AIJRF published what is billed as the first Arab guide on agentic AI governance, and a national AI assistant 'Mira' is slated for next year.",
+   "angle": "The UAE is building the governance layer for agents before the products scale — a differentiator regional regulators can export.",
+   "items": [
+    {
+     "title": "du Teams Up With Dubai’s RADX to Explore Agentic AI for UAE Government and Business - أراجيك - Arageek",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWTVYRWdHYmwxTi1OTzBGVFQydjhPSkxLaDNQM0dueHdvSVBmdE9wNWpwTThkaEVpcGI3RTI1TElVXzRoWUZ5a1BoblVrTklBOGFEZ2JrMlc5cVNNaGtpSTJPa1JIUW43dWNnemNQdEl0NnBJTkRad1pfVHRRdmRITEhZYWZFSjVXdkEtbU5QRy1HUlRHNU0wcGpET0F0UmZEWWkxU0VaWU5pV1RhM3c?oc=5",
+     "source": "أراجيك - Arageek",
+     "time": "00:33",
+     "note": "du and Dubai's RADX will explore agentic AI for UAE government and enterprise; Gulf Business and Zawya ran the same story."
+    },
+    {
+     "title": "University of Dubai and AIJRF launch first Arab guide on agentic AI governance with 5 Arab universities - Zawya",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNEZ4QTBPcEZ3Y3VYdkZBNXM4OFNRV2lEOURad1pBWEt0eWdWcjFrWkJhTV96NE96djVUalhCZ3BaUVE5eml4TXZNNC12aHN6MHJQY3VvbGlCRDBMdVlRaXFGQVRydHJfdDNtSHE4bXotTUZFNlBUSXJrX09IYjYxSXpjQ3NQLURYR0RjbEJyNFJWOE8yU3BsTHdZNVUyUTd5cnEweTJla05Bby0xd0VNdDRZZmJyeFM1X0FCQ0tPRE1EOTVGMlA2OGhJVlpPS0FIZkswRG44Y1hiZ2dhTDVIVkZ0bXQ?oc=5",
+     "source": "Zawya",
+     "time": "06:34",
+     "note": "First Arab guide on agentic AI governance, launched with five Arab universities per Zawya."
+    },
+    {
+     "title": "UAE to roll out AI assistant ‘Mira’ next year - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU0NNWFlUV2k4TUZ1X0gzbjRsQ2o0clB3cFRfSnU0clgyU0p4NGRYLVNPN2FydThWSlgydjU1anBzSHNHVmNWM2VyU2Y2T0VPZWJUMEdVMnVTdkNMMUtBbENXdUN5WmxZOWQtRFI1YTVzSnpGYUprQkRad0NhdjVFb1hB?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "14:30",
+     "note": "A national AI assistant 'Mira' is due for rollout next year per AGBI."
+    },
+    {
+     "title": "Dubai explores using AI to assess government employee performance - Emirates 24|7",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd29rWTBwRUNMd2pXbkZBMjNwRWZxeUNuQzFZdm80THBhY1JBcEZEM2NmQVlOSmJYd2toLVJuTXhpYWFtZjRKMHFORnVzVzZWN1VlbFQ0SHI1T2trSDNmWFVlNUdubXlMVGdiTEdaMGVwbUhTVnM0S3UwaGk5MVd2OU15THo0NXlvclp1VDhWNXdoZEJxN0Vma2o3M0dyUl9QUXd5VElpUGh0TGw0bDVCeFRRZkRJYmVndUNnUU1lNNIBvwFBVV95cUxPd29rWTBwRUNMd2pXbkZBMjNwRWZxeUNuQzFZdm80THBhY1JBcEZEM2NmQVlOSmJYd2toLVJuTXhpYWFtZjRKMHFORnVzVzZWN1VlbFQ0SHI1T2trSDNmWFVlNUdubXlMVGdiTEdaMGVwbUhTVnM0S3UwaGk5MVd2OU15THo0NXlvclp1VDhWNXdoZEJxN0Vma2o3M0dyUl9QUXd5VElpUGh0TGw0bDVCeFRRZkRJYmVndUNnUU1lNA?oc=5",
+     "source": "Emirates 24|7",
+     "time": "13:19",
+     "note": "Dubai is studying AI-based assessment of government staff performance per Emirates 24|7."
+    }
+   ]
+  },
+  {
+   "title": "DeepMind agents build verified quantum algorithms",
+   "signal": 65,
+   "summary": "Google DeepMind and Google Quantum AI used AI agent teams with formal verification (Lean) to discover faster quantum algorithms, with one subroutine reported ~290x faster. It is a concrete example of agents driving frontier research with machine-checkable results.",
+   "angle": "Formal verification is the under-appreciated enabler for deploying agents in regulated work — a pattern GCC enterprises should copy.",
+   "items": [
+    {
+     "title": "Finding faster quantum algorithms with agents and formal verification - Google DeepMind",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5",
+     "source": "Google DeepMind",
+     "time": "17:00",
+     "note": "DeepMind's own post: agent teams plus Lean formal verification discovered faster quantum algorithms."
+    },
+    {
+     "title": "Google DeepMind Agent Teams Discover Lean-Verified Quantum Algorithms - Unite.AI",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ0NjdnZJRG02MWFqZUF5ZU9xcnNQeTU0bmNfZ3pBU3VVT3d5N2R2ME1pNWJWNFBKTzhSczFKa3BlbnN1Q29pN29vOTc3ak5MSm5TYzJnakpzc3YycDBKV3l4bXdEdW9nZmhwN0dSYUd3UWJyT05WNVV2d0gxYk05bkdCVFpjSHBEOEFaWVBaSlltb1FVb1E?oc=5",
+     "source": "Unite.AI",
+     "time": "17:14",
+     "note": "Coverage of the DeepMind result emphasising Lean-verified outputs."
+    },
+    {
+     "title": "Google DeepMind Agent Swarm Optimizes Quantum Algorithms, Arcsin Subroutine Speeds Up 290-Fold - BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SbkFBbDRmRjctaUg3MU1hYVB4LW9jRTA5R1dPemk1TTMwOTJ3ZWdRamNjWG9qdDFkeFlsS29OLUlfeXh0Zm9UT2duQ1V0cWV6dF9QOTNrcTYtUlFRaDdWQTRjbTlhSDBOYUR1TXRJdWFMcXZLZ2c?oc=5",
+     "source": "BigGo Finance",
+     "time": "00:26",
+     "note": "BigGo Finance pins the ~290x speedup on the arcsin subroutine."
+    }
+   ]
+  },
+  {
+   "title": "Abu Dhabi–Saudi sovereign capital rides AI",
+   "signal": 60,
+   "summary": "Sovereign-backed AI money keeps moving: PIF-backed HUMAIN secured $667m for Saudi AI infrastructure, Abu Dhabi's Mubadala saw its US equities book fall in the AI selloff, and Gulf News tallied Abu Dhabi's AI ledger from data centres to a ~$20b gain on Anthropic.",
+   "angle": "GCC allocators are now exposed to AI volatility through listed equities — diversification into direct AI assets is the strategic read.",
+   "items": [
+    {
+     "title": "PIF-backed HUMAIN secures $667 million for Saudi AI infrastructure expansion - Fast Company Middle East",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaGt1eFlNdXRURHBZa3FFREhCQnZxbDdwNXJNYUhyeXo5RXBrb0sxR3ptU3VFb0lwSzdOclJhV2prbC0xdFRBRkxCdk1zQ05VM1J4dy15TVRpQmZrOUEyRjRkSjgwOFk3OXRTelpsaGVCWUVIZThBSmp5TVRJdnMyRFV2RlAyYnotTTgydzhrV3RtWXlZVkNTSnNXUDZabElfQnR0WDFIN29Vc28?oc=5",
+     "source": "Fast Company Middle East",
+     "time": "10:41",
+     "note": "PIF-backed HUMAIN raised $667m to expand Saudi AI infrastructure per Fast Company ME."
+    },
+    {
+     "title": "Mubadala’s US equities portfolio falls with AI selloff - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUs2bEtqUHE0eFJqNVA0Nzh2RWdHME5kb0xfdUpsekdwX2JaVEVFcnNKdVM0anFJdGJMT05kN2lNeGJoT2RtMFJnU01UUHVqeHJZcnJZXzhLME9aMktQaHRYaGp2MWFralBJS3ZReEJTNUQycmVNalVUTzhydUtBUEdYMHRicE1fb1UtTXkxMnJzeVd5QWc?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "Mubadala's US equities portfolio was hit by the AI selloff, per AGBI."
+    },
+    {
+     "title": "From data centres to $20b Anthropic gain: Inside Abu Dhabi's AI investments - Gulf News",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOVM3T2FFMVNBRVF4eVFzdEFDRF9ZZFhRdndBM1FBMjgydW56R0N0TVQ1LXlWcWZ0QWlSOXFOb1V3eGFmSlJKSy1Xako3WmdPX09lbEZQRHQ1TkZ4dXc0bldfb1JaRjRwRnhPS1E4dGxYQnlfZmFzcjZ0d25DUlBkNGY1UjVnV1gxd09zY2hsQkpHMndoN1lqQXMyWVdJR0lhdXM4dV9JbnZEN2FHYkV30gG_AUFVX3lxTE1LUEI3S3NTbkNrNmhLalhfWjdwUVdWZTJNVzRoV25JY1U1cWt4cjNtSVFmTHBMbG40WFpkcE9NSDI0Y1NmYWxTRUNJNFBJR0NPWDA2MWw2d0tSVVd4QlhFT2ZjS2o5REQySm1pRENHUWN3a1NCclJ4VDhjTkE3QlZvUnpsUVN1SGhyeHpHMWhkWS16TmlTUnZnY2V3NHpqdzF1VzVHTlRDcW5uTDNmRTR6TFF4dkRhcktPRkNoQTJ3?oc=5",
+     "source": "Gulf News",
+     "time": "17:08",
+     "note": "Gulf News maps Abu Dhabi's AI investment book, including a reported $20b gain on Anthropic."
+    }
+   ]
+  },
+  {
+   "title": "US blacklists Megaspeed, Alibaba unit after Nvidia scandal",
+   "signal": 55,
+   "summary": "The Trump administration blacklisted Megaspeed International — the Singapore firm at the centre of the Nvidia spy scandal — barring it from buying advanced AI chips, and separately blacklisted an Alibaba-owned company. FT argues the episode shows how little leverage Washington holds over Beijing.",
+   "angle": "Export controls are tightening on intermediaries, not just countries — compliance exposure now runs through corporate entities and subsidiaries.",
+   "items": [
+    {
+     "title": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/us-blacklists-alibaba-owned-company-in-setback-to-ai-ambitions",
+     "source": "Bloomberg Technology",
+     "time": "01:45",
+     "note": "US blacklisted an Alibaba-owned Singapore subsidiary, a setback to its AI ambitions per Bloomberg."
+    },
+    {
+     "title": "US Blacklists Megaspeed, Targeting Firm Central to Nvidia Crisis",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
+     "source": "Bloomberg Technology",
+     "time": "20:43",
+     "note": "Megaspeed International is barred from buying advanced AI chips per Bloomberg."
+    },
+    {
+     "title": "What Nvidia tells us about America and China",
+     "url": "https://www.ft.com/content/28cb9178-ac22-44b9-99f5-d5f25a86d366?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "14:00",
+     "note": "FT: the spy scandal shows how little leverage Washington has against Beijing."
+    }
+   ]
+  },
+  {
+   "title": "AI bubble watch vs Singapore 6% GDP boom",
+   "signal": 55,
+   "summary": "Valuation anxiety is colliding with hard macro numbers: Singapore raised its 2026 GDP forecast to around 6% on AI-driven growth, while FT asks what happens when bubbles burst and The Information flags an 'AI bubble deflating?' debate ahead of Dell and Workday earnings.",
+   "angle": "The AI economy is producing real GDP but frothy equity — the distinction matters for allocators.",
+   "items": [
+    {
+     "title": "Singapore Sees AI Boom Fueling Fastest Growth in Five Years",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-raises-gdp-growth-outlook-to-around-6-on-ai-boom",
+     "source": "Bloomberg Technology",
+     "time": "00:00",
+     "note": "Singapore lifted 2026 GDP growth forecast to ~6%, crediting the AI boom per Bloomberg."
+    },
+    {
+     "title": "What happens when bubbles burst",
+     "url": "https://www.ft.com/content/aa71d6bc-bbca-4e95-81b1-20895ac0cb59?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "16:00",
+     "note": "FT: AI enthusiasm has turned into concern that a correction is possible."
+    },
+    {
+     "title": "AI Bubble Deflating? Dell, Workday on Deck - The Information",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWTYtVmlPWmlDUGJ4Zi1CVFFMeXdURFg3bE9lUUpqMUt4U3Zxc2hkZy1iNHgwaVNadERpbTROSWRBbGJsUjJDSkFNcmduZ0V2T1liblBBeXlZTklKSHNQYm5mTDhZNnJrOXFFQlNBMlRsMi1vVXhpRTVoTHRvVVFKdEIzdjJBRjI2RFowRVJ6SjlReU93VzZ2UQ?oc=5",
+     "source": "The Information",
+     "time": "23:01",
+     "note": "The Information: enterprise software earnings will test the AI trade."
+    }
+   ]
+  },
+  {
+   "title": "Claude cracks a long-open math problem",
+   "signal": 55,
+   "summary": "Reports say Claude contributed to progress on one of math's biggest open problems, connected in TLDR AI to a Riemann hypothesis proof milestone, with market commentary asking why Anthropic's math breakthrough matters.",
+   "angle": "Frontier model research breakthroughs feed directly into inference leadership — a competitive signal for enterprise model selection.",
+   "items": [
+    {
+     "title": "Claude helps solve math's biggest open problem - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYzVtZTk4SjZuQXdpd3ZlQnZXTGVhbklub3BYTzlReWtYSE9WN21ZTURnVko0bGZ5Mm9SMk5wWUFzTGdPWlVBeTdfQlBRa0gwOFRjSkZRQ2xzZDc0RHRidVkxc3NDdy1qOVlHNFNCUjJOaHRySDRVWnViWGlTRGNGWGFnYUlsYWVu?oc=5",
+     "source": "The Rundown AI",
+     "time": "13:03",
+     "note": "The Rundown: Claude played a role in solving a major open math problem."
+    },
+    {
+     "title": "OpenAI publishes progress 🧠, Inkling 2 Mini 💧, Riemann proof 📐",
+     "url": "https://tldr.tech/ai/2026-11-23",
+     "source": "TLDR AI",
+     "time": "00:00",
+     "note": "TLDR AI ties the news to a Riemann proof and names an Inkling 2 Mini model."
+    },
+    {
+     "title": "Why Anthropic’s Math Breakthrough Matters; Why Palo Alto Networks Bought Applied Compute - The Information",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT3dRa2NpUWctNlJXb1hncDlPMGV1M29oVEp5NWQ2T3IxTi0tMGZhMHFyb3pIc00tT3c1YTFfQXg5UmR5MW5iYUhLYUNUSUpiYTUwSGVGSjVGYVpTREN6ckxrZkhCQjJ6UEhfeUFGOHhqZUpzQ0F2ZVVhNENBRVRpUkY5ek9UNTd6TmNTNUdPV1JtaFlWeHRQOUdjRHRqWHg4RHNCNjBKeUM5cWo0d055b2QxNkFDMHd2TlZFNE9zdlNvbUZQUG5oQmxscw?oc=5",
+     "source": "The Information",
+     "time": "15:01",
+     "note": "The Information frames why the math result matters; same digest covers Palo Alto Networks' Applied Compute purchase."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI seeks lab limits pact, ships Shirudo",
+   "signal": 45,
+   "summary": "OpenAI is urging leading AI labs to agree on development limits — a voluntary-governance move — while shipping product: an open-source runtime with Cisco (Shirudo) to protect running systems during patching, plus wider progress posts.",
+   "angle": "Lab-led limits are the story to watch for GCC adopters: self-regulation is filling a governance vacuum.",
+   "items": [
+    {
+     "title": "OpenAI Calls For Leading AI Firms to Agree on AI Development Limits - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYW54VV9PZDAxRGp2dTRzMTB5ZWRNOVhFcm92eFctNEFtdTYtaGdQQ0JxcFRXXzRndE41RXFpLV9GaUcwVzhxb041VVVMX3N2SDhIWjBHdVFtT3Y5cU9HejB0RUMxaEctMGdxZElLaGdZWmM0U3phcHNBeE5jb1BjSGVaaTdzMjVWRW52SWMtZU4tY3RueHZHS054TGpsYVk?oc=5",
+     "source": "The Information",
+     "time": "21:08",
+     "note": "OpenAI wants leading labs to agree on development limits per The Information."
+    },
+    {
+     "title": "OpenAI and Cisco introduce Shirudo",
+     "url": "https://openai.com/index/introducing-shirudo",
+     "source": "OpenAI News",
+     "time": "21:20",
+     "note": "OpenAI and Cisco open-sourced Shirudo, a Linux runtime for protecting systems during patching."
+    },
+    {
+     "title": "16 hours ago 😺 OpenAI wants AI labs to agree on limits PLUS: The number tied to AI's math and cyber leaps.",
+     "url": "https://www.theneurondaily.com/p/openai-wants-ai-labs-to-agree-on-limits",
+     "source": "The Neuron",
+     "time": "",
+     "note": "The Neuron leads with OpenAI's push for AI-lab limits."
+    }
+   ]
+  },
+  {
+   "title": "Deals: CrowdStrike-Zscaler, Amazon-Decart, Tamara",
+   "signal": 45,
+   "summary": "Security consolidation and AI-infra M&A accelerated: CrowdStrike agreed a $44bn all-stock deal for Zscaler, Amazon acquired Decart's chip-software business, and Saudi BNPL fintech Tamara raised $400m.",
+   "angle": "Security consolidation is an AI-infrastructure hedge; GCC fintech keeps attracting growth capital.",
+   "items": [
+    {
+     "title": "CrowdStrike Agrees to Buy Zscaler in $44 Billion All-Stock Deal - The Information",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZmNrcDRvTU9IZXJrN3l0aDlPR1JpNDE4MG5ULVg0VmZpU3ZpcXJwOUlhTjZoX3JueGpBTzNJT2Y4YkRqQ3BFUmEzWFUwUEYtVWJYN1l1X0l4YU1iS2w4VnRSWExrTmowcHlZaHNqYVJibnV1cDJqZ21XeVdBRF9PcEFMelVsNnhqVlVDMmk5cGVmQVJiaG5QSk56bm43Zw?oc=5",
+     "source": "The Information",
+     "time": "13:29",
+     "note": "CrowdStrike to buy Zscaler in a $44bn all-stock deal per The Information."
+    },
+    {
+     "title": "Amazon Acquires Chip Software Business from AI Startup Decart - The Information",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZGxwb0piQjRYaXFvbEpVRE1CaDFMZWE0SVBGS1FLcXZJMlEtMnEwQnZoV0l1VGdEbS1NdXlUeW14VHlIT1JTc192czlZMTdXclhLOG11X3dKbzhKbEU2S1lURzd5b2lpblJuSUZvaTFveTVOQmFxYkNCV3Y0Zk9vd1I1b3drU0JCX3Rqb004SkRSVDVRVTRCczB6ZkU5UQ?oc=5",
+     "source": "The Information",
+     "time": "16:11",
+     "note": "Amazon acquired Decart's chip-software business per The Information."
+    },
+    {
+     "title": "Saudi fintech Tamara secures $400m to fund expansion - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUZoNTdaYUgwSWZEVHdxQ1ZEWVFWNlJ0WlRLRlJHMzBGblg5VEFKR0FnTG5QODJnWnB2eWpYdzJGNDFXTzcyNGNJNWdlcVZ6SERfeks3bGp2ems2Q0xWMzhrREdrQ25QVHFGNkRWSzRLaGstcHRkZkJwTnhON1BrRVgzWktTYkJRUWc2clBPUzR0VnM?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "12:43",
+     "note": "Saudi BNPL fintech Tamara raised $400m for expansion per AGBI."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,357 @@
+{
+ "date": "2026-11-25",
+ "generated_at": "2026-11-25T02:00:17.766835+00:00",
+ "themes": [
+  {
+   "title": "Nvidia reinstates Huang; AI trade in whiplash",
+   "signal": 88,
+   "summary": "Jensen Huang is back as Nvidia CEO after roughly two weeks out, and the stock jumped 31.5% on the news, but the White House's reported role in his return and continuing investigations have made founder succession a live governance risk. FT reports he still does not believe in CEO succession planning, and Gulf coverage calls the rebound only a temporary boost to the region's AI push.",
+   "angle": "Founder dependence is now priced risk; succession planning is back on board agendas.",
+   "items": [
+    {
+     "title": "Huang says he still does not believe in CEO succession planning at Nvidia",
+     "url": "https://www.ft.com/content/cd1831d0-c3f1-4705-b8e2-badfb5e39764?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "20:18",
+     "note": "First all-hands after reinstatement; FT also reports Trump helped orchestrate the return while investigations continue."
+    },
+    {
+     "title": "Nvidia Is a 'Good Corporate Citizen,' Attorney General Says",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-is-a-good-corporate-citizen-us-attorney-general-says",
+     "source": "Bloomberg Technology",
+     "time": "16:59",
+     "note": "AG Todd Blanche declined to say whether DOJ is scrutinizing the circumstances of Huang's temporary exit."
+    },
+    {
+     "title": "Jensen Huang's return likely eases robotics funding fears",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzBybXIzOGw5TG4tVXJBNUQtRUR3b1c0YlRDNHZHSnZYU3VOSjMtLUR2UzlGZnlqd3p6N2JVd0NpZlMtZDJaMzRmYWRpenhpdUljOWdVcXZfQXFLTkxqU0R6WmxUczE0QmZyTUlZQ3FadEQ4c0VwUTk0NFR1aHVJT1FSQmVWU2lH?oc=5",
+     "source": "The Rundown AI",
+     "time": "15:05",
+     "note": "Robotics venture funding had stalled during the interim leadership period."
+    },
+    {
+     "title": "Huang's Nvidia return hands Gulf AI push temporary boost",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOWV0QktUMFNoMEhiSWdLN3d3QjVrMExXWWd1azhZNDJaLVlXZ00wTm9abG9pN3BxYnBNVDFvamstUW4zMGZaa3lCTFVrM0t0WGNRY09ZTlRudEFfcGxMTVEzQTZ5UkhoWFVfM1FseGpNUVN0bFZFZ0t2X1ZJQ3RWaWdJVlZ5Um40OFljd25qNjV3MmlqY2FaaUFoT0l3QQ?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "04:54",
+     "note": "Regional read: relief for sovereign-linked AI data-center plans, seen as temporary."
+    },
+    {
+     "title": "Nvidia shares surge 31.5% as Jensen Huang returns: Can his comeback revive the AI trade?",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdkZpTEdmR2xFOXI5WVA2d2JWeXU4Ym1GV09zak5MLUJKbHgyRmM5b2ZSd2NScTFOQVJuSV9XVUhqQ0VqdmZiMWp4RTU1Qm1zNVVucWs0NUJuclA5YlJ0N3hfOERkcTEzLUQzWV9xcEJJOHBqY21EMllmcDdBRXRYMTJyTi1QeEktQlhkWkU0VFJ4NUhseVJnTGNjNmJjQ3VOUV9ZUlFGVmxVUnpWREJqaVhUdkZRcHA2bjZpUEREUks?oc=5",
+     "source": "Gulf Business",
+     "time": "06:29",
+     "note": "The 31.5% single-day gain was the market's reaction to his reinstatement."
+    }
+   ]
+  },
+  {
+   "title": "Capex boom meets chip-glut fears",
+   "signal": 82,
+   "summary": "Dell raised its fiscal-year revenue forecast a third time on AI server demand and JPMorgan sees record high-grade tech borrowing near $2.1 trillion in 2027, but The Information reports investors now worry about a chip glut. Nscale shelved a $35bn IPO as the tech sell-off bit, and energy supply is emerging as the binding constraint on buildout.",
+   "angle": "Supply-side fear has flipped: the question is when, not if, overcapacity hits pricing.",
+   "items": [
+    {
+     "title": "AI Stocks' Big Worry: a Chip Glut",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMkYzcU1fYUdmQkV6WU9hWnN4aFMtRjNlaDlCeHVIZ3AwMjR4a0wyRDdLeERHRFF1cmJJcWExUnJmMk1LQ3ZwTC13eXRrMFcwSEFvd2c2RUdLazJETW1JdWU1UUJCYkpBV3dZWmt5ODNGdVNOem1uaklQWGVhNXFtZGd0ZGJVWlJFTkpwTHNR?oc=5",
+     "source": "The Information",
+     "time": "01:00",
+     "note": "Investor anxiety shifts from shortage to oversupply as capacity comes online."
+    },
+    {
+     "title": "Dell Raises Annual Sales Forecast Again on AI Server Demand",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/dell-ups-annual-sales-forecast-again-on-rising-ai-server-demand",
+     "source": "Bloomberg Technology",
+     "time": "21:07",
+     "note": "Third raise this fiscal year; CFO says no signs of a slowdown."
+    },
+    {
+     "title": "J.P. Morgan Asset Mgmt's Rosenbaum on 2027 AI Spend",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-24/j-p-morgan-asset-mgmt-s-rosenbaum-on-2027-ai-spend-video",
+     "source": "Bloomberg Technology",
+     "time": "22:54",
+     "note": "High-grade bond issuance could hit a record $2.1 trillion in 2027, per JPMorgan."
+    },
+    {
+     "title": "AI Stocks Retreat as Markets Rotate Beyond Tech",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-24/the-close-11-24-2026-video",
+     "source": "Bloomberg Technology",
+     "time": "22:57",
+     "note": "AI leadership faded as money rotated into other sectors."
+    },
+    {
+     "title": "Nscale says it has option to stay private as tech sell-off threatens $35bn IPO",
+     "url": "https://www.ft.com/content/189d0c46-3c66-420b-af7d-a1d0b78d68ac?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "22:50",
+     "note": "UK data-center group pulled back on hiring amid market turbulence."
+    },
+    {
+     "title": "AI's Power Crunch Is Reviving a Long-Stalled Energy Source",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1cxT19ocjM3cU93Z0hHbTBYd3NkVl96b1lrdlZlNVJuOHZIQ1FHdi02S3NBZFZucGE3bHV5S3RGMWpBcnF3T0NnYlhYanE0emVfTU1lbkVZSUl2MXo0YWhlMlBZaF9uN3EtS0wwVEpCUXFET2R1X0FSRTVSek1ydW42dG1mSjAxZW0xTGY3NEtlOFprY0Zv?oc=5",
+     "source": "The Information",
+     "time": "20:09",
+     "note": "Energy is now the binding constraint on AI infrastructure."
+    }
+   ]
+  },
+  {
+   "title": "Anthropic below IPO price; Gulf-backed debut wobbles",
+   "signal": 80,
+   "summary": "Anthropic's shares slid under its IPO price as the tech rally faded, closing out a debut in which Gulf investors hold a notable stake, per AGBI. The company countered with a refreshed model lineup — Opus 5.5 and Haiku 5.5 — with Opus 5.5 priced 40% below Opus 5 on typical workloads, an aggressive inference-cost move.",
+   "angle": "The first frontier-lab mega-IPO trading underwater tests sovereign-fund exit math.",
+   "items": [
+    {
+     "title": "Anthropic closes below IPO price as tech rally fades",
+     "url": "https://www.ft.com/content/c0cb932a-076e-4471-8009-91749fde5f47?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:11",
+     "note": "Relief over Huang's return subsided as the broader tech rally faded."
+    },
+    {
+     "title": "Introducing Claude Opus 5.5",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic says it leads in agentic coding and knowledge work at 40% lower cost than Opus 5."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Fastest small model, built for high-volume summarization, subagents and browser use."
+    },
+    {
+     "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Flagship reasoning pair positioned for coding, finance and the sciences."
+    },
+    {
+     "title": "Investing in the public benefit",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "A portion of Anthropic shares is committed to a Public Benefit Fund whose stake grows with the company."
+    }
+   ]
+  },
+  {
+   "title": "Frontier-lab safety: employees say models too risky to ship",
+   "signal": 78,
+   "summary": "Axios reports that more than two dozen sources inside Anthropic and OpenAI say unreleased models have become so powerful that many employees doubt they can be safely released. The reporting lands alongside a new DOJ Super Intelligence task force, UN autonomous-weapons talks extended to 2028 without binding commitments, and OpenAI publicly sharing internal scores and calling for common limits.",
+   "angle": "Release-gating is now an inside-the-lab business risk, not just a policy debate.",
+   "items": [
+    {
+     "title": "Scoop: Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release",
+     "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+     "source": "Axios AI+",
+     "time": "10:45",
+     "note": "More than two dozen sources describe internal debates over whether flagship models can be safely shipped."
+    },
+    {
+     "title": "DOJ's New Super Intelligence Task Force Signals More Coordinated AI Enforcement",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN3M5NVlhTFR3T1hHeGpDeGNXQjVCQnEtWG1DS2JmUmVrUlR4QUpPZGloN1pXam9RSTJvSy1rRUpRZEl1OTFaMXJ1MVZ4Skt0ejE2TEVra1ZjUUUtWnJjLUZ0ZGF5ajlvMWI3LVBXTVBTd0tPbDE2UDdwZEtWbHRWUlY2U25ZcFhxcEE?oc=5",
+     "source": "JD Supra",
+     "time": "00:33",
+     "note": "Legal analysis expects more coordinated AI enforcement activity ahead."
+    },
+    {
+     "title": "OpenAI shares internal AI scores and calls for common limits",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yVEJJOENtbU4weE85N3lZbVhENDhDeHpzemZnQmNhNnJXUnNoM2tUSEFvNGlrQmRPemVWQTU3Z2RJZ3h0eE9MelowVndiLWcxM0FsVDR2WnQtTW1kVkl6NTVfZnJPVF9iZ0hVd0RWSWZuWkhaWUhPbnZ3?oc=5",
+     "source": "The Rundown AI",
+     "time": "02:58",
+     "note": "OpenAI is pushing labs toward shared safety thresholds."
+    },
+    {
+     "title": "UN extends autonomous weapons talks to 2028 without a binding commitment",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12SEtMbWJHSkI0N2pTWm51QTVxSjZoS1lOQXcxSUVoSmhtX0lvWHhNdVJWQXJpUHFPVG4td3dybjRhVVdGVmFjNTJjSnVTalFEZkNEbEgzdjFUTEdWQWtLLWVraVc2YlJsMmlxN002MXE?oc=5",
+     "source": "The Rundown AI",
+     "time": "15:04",
+     "note": "Multilateral AI-weapons diplomacy stays open-ended."
+    },
+    {
+     "title": "Meta's AI chief says superintelligence is 'arriving'",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmk1QWlnMHUtdU5qRjNCNUtpOXozdzc4UHpLSnVIb25JdjVOODdhMmpRTnBwUS00NUdsdjJLaTZiU0lfbmxNR2FoY0RXb0pmbkNQMy1ZWHJDNjUyRlZidzd0eGNSSkFvNWtRaVRFWmJuY21JLURUYjIyLUlMRHBPYw?oc=5",
+     "source": "The Rundown AI",
+     "time": "15:04",
+     "note": "Meta's superintelligence timeline framing adds to the industry debate."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI momentum: GITEX, cyber resilience, agent startups",
+   "signal": 75,
+   "summary": "Abu Dhabi will showcase more than 80 AI projects at GITEX Global 2026, and a Cohesity report puts UAE organizations ahead of global peers in AI-powered cyberattack recovery (41%). Regional deals and policy kept moving: KPMG and Salesforce launched an Agentforce customer-experience whitepaper in Dubai, Saudi agent startup 009 raised $1.4m, and India and the UAE held an AI and education bilateral.",
+   "angle": "Gulf governments are converting AI ambition into procurement pipelines — the vendor opportunity is now concrete.",
+   "items": [
+    {
+     "title": "Abu Dhabi to showcase over 80 AI-powered projects and initiatives at GITEX Global 2026",
+     "url": "https://economymiddleeast.com/news/abu-dhabi-to-showcase-over-80-ai-powered-projects-and-initiatives-at-gitex-global-2026/?utm_source=rss&utm_medium=rss&utm_campaign=abu-dhabi-to-showcase-over-80-ai-powered-projects-and-initiatives-at-gitex-global-2026",
+     "source": "Economy Middle East",
+     "time": "16:03",
+     "note": "80+ government projects under the theme 'We take care of the time. You reclaim the moments.'"
+    },
+    {
+     "title": "UAE leads globally in AI-powered cyberattack recovery, report finds",
+     "url": "https://economymiddleeast.com/news/uae-leads-globally-in-ai-powered-cyberattack-recovery-report-finds/?utm_source=rss&utm_medium=rss&utm_campaign=uae-leads-globally-in-ai-powered-cyberattack-recovery-report-finds",
+     "source": "Economy Middle East",
+     "time": "13:39",
+     "note": "41% of UAE organizations use AI to accelerate cyber recovery, per Cohesity's fifth annual report."
+    },
+    {
+     "title": "KPMG and Salesforce launch joint whitepaper on AI-enabled customer experience at Salesforce Agentforce World Tour Dubai",
+     "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNcUdGczBTMGpNWVJ1eXJMUEtfRFJmYkFKbVE2T1FvMTFwc3NjSXlCcFJDN003UXA5b1hTVHRVMFhkTkkySlVVSUd5aDBfVlBKLTQ2THRlcTQ0dnZpSXp6S01yZ2pLeGJuY29jSjNVQ2dka0w4S3FLcFdYVUNsWm05WWdWZkh6QndKdFctRWNPUUpFZVozT1FTT3ZiSHpERS1BYlljUG9rM1dkempOWGJtSW1uY3FuLW1QRGRDOTJCU291M3QwN3JXVTJSWlZpR3E0cm1vb3ljVjVFc0tjRFpfdWpaQXFHeWtjMEx1LXI0R0VPZGhkbmtyOXFfbUZITkpLTTlpWlo1NHFIbmNJQnBEZg?oc=5",
+     "source": "Zawya",
+     "time": "13:32",
+     "note": "Agentic customer experience is the pitch, with Dubai as the regional launchpad."
+    },
+    {
+     "title": "Saudi company 009 raises $1.4 million to develop AI agents",
+     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9XSXVoblJSYWlrZXRhSHBZanJpVHV2N3FrazdEUEdoNFEwSDNYNUwyUVMySzl2SEpvZGlBa2d1Zw?oc=5",
+     "source": "jawlah.co",
+     "time": "13:18",
+     "note": "Early-stage Saudi agent builder backed with $1.4m."
+    },
+    {
+     "title": "Space42 and Microsoft UAE release report on geospatial AI for public services",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQk85U3I0dUVWWkN6SzdjOFlISERra2lxX0UzaXk2YnBMRkRzdXliQS0yZWllQnJfZ2hDV0FIa1RQUzBfS0lLVnBxS3ZEUExoWjkzTTA2WGptS0I1RVdoeTBlZkVNa3lfMTdSUDB3NHk5eGtkSzNVYjV5N1o3cVUyTjd6N2FiNU5uSTNtS21vbUZNTDhCY2RMUzhyS3JWdTc3anltVjhfRUZ5cy1qS1F3SUhFMDkzV2RJempMYQ?oc=5",
+     "source": "Telecompaper",
+     "time": "12:36",
+     "note": "Geospatial AI report targets public-sector use cases."
+    },
+    {
+     "title": "Union Minister Pralhad Joshi holds bilateral discussion on AI and education cooperation with UAE Minister",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSUdfbkRnOUh1TVF5enpFbnFpaWRUc2gyWEZKNkFqZGJ2eXo1QmtqTkZMTjJoZVpSVlEwcFhqT053Z29rUnFKdzI1cERMSkhaY1VJc3l0UjYwamtZek5pcGNON0Q0bTFxSXZwelVSdjUxWDl0akswR1ZnZGhZNGxGOW16QUR1bGl0YjljeDAySGl6NjdpRjR5TVB4T3RQRkJJeGpDcU9EYU15eTdadFlnNW9rNjlqejctb2hKR0E2Z2FYNXFaODJEWHVWTQ?oc=5",
+     "source": "News On AIR",
+     "time": "22:43",
+     "note": "India-UAE cooperation talks on AI and education."
+    },
+    {
+     "title": "US Tech Stock Rebound Opens Opportunities for Saudi Companies, with HUMAIN in Spotlight",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFBfLXJQM2VTX0lOQjE4amVFbWk3NkNQRDBXcng4Um5iX1hyeFdGUTM5ZXVfNGY5Z1N4Sko2VXBXZm1YZWVOWEVtbEFZS2cweHJCQjRqZDhSS1FPTm5qOGdtOGhIRF9icFFqVlFWejNtLVpDN2ZIT2pEMVo5MVhwR3RxVWdqaTFFcHJLRm1faEhpQjhENHh4Ny02WmE0MmFsOFNDcTlWTWpVX1d4LWhYMzdkM1hZM0VVZWc?oc=5",
+     "source": "ASHARQ AL-AWSAT English",
+     "time": "19:16",
+     "note": "Saudi tech names positioned to benefit from a US tech rebound."
+    },
+    {
+     "title": "AI adoption is rising, but are the returns following?",
+     "url": "https://economymiddleeast.com/news/ai-adoption-is-rising-but-are-the-returns-following/?utm_source=rss&utm_medium=rss&utm_campaign=ai-adoption-is-rising-but-are-the-returns-following",
+     "source": "Economy Middle East",
+     "time": "12:49",
+     "note": "Gulf executives are hitting the ROI question as AI adoption matures."
+    }
+   ]
+  },
+  {
+   "title": "OpenAI's platform push: agents, science, security",
+   "signal": 70,
+   "summary": "OpenAI kept up a fast platform cadence: an Athena data tool to make agents more accurate, GPT-6 models showing intrinsic protein-design capability, an open-source Cisco co-built Linux runtime called Shirudo for safer patching, and a reported roadmap to make cyber a bigger business than coding. A customer story shows iFood scaling coding agents across 15,000 repositories.",
+   "angle": "OpenAI is positioning agents as the wedge from coding into security and science.",
+   "items": [
+    {
+     "title": "OpenAI Preps 'Athena' Data Tool to Make its Agents More Accurate",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGUxS1JOMUQ2NExpN2pkYVEzcEVkZkJLRkxGb08yeFF5WEFpRXV5V09WSTJTZEJtMkZYS04wdGlMa193Y0NBcjBtVzJma1pBcHRCSUtFMHJyOFZEaDdYMnhvbndoTjUzU3QtVmE0Q2dOSUNEY3NySW1OWWlEbndvU2xjVHNPNlQtcnpOdGtpZFMwMVE5SGt0c2djWnAxcmp1ajVreHJESQ?oc=5",
+     "source": "The Information",
+     "time": "21:26",
+     "note": "Internal data tool aimed at improving agent accuracy."
+    },
+    {
+     "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+     "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+     "source": "OpenAI News",
+     "time": "13:00",
+     "note": "Lab tests found evidence of binding across five protein targets."
+    },
+    {
+     "title": "OpenAI and Cisco introduce Shirudo",
+     "url": "https://openai.com/index/introducing-shirudo",
+     "source": "OpenAI News",
+     "time": "21:20",
+     "note": "Open-source Linux runtime that protects running systems during patch rollouts."
+    },
+    {
+     "title": "OpenAI's Roadmap To Making Cyber Bigger Than Coding Remains Blurry",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk9FcUh5TlhEOGtLcS1hUTlsM25HNmxCQ3BMRS0yQ3A2Y2NMM0tTVVo4enAybTJqc0ktdlkwUFVVN1VpS3QyQzdYOHI1ZWJFUU5ORXh5NjRmbkpnTzFZVnJWLUFicVkzMlIzWHVfV1NhT2VPcmtTVjllQ20xYnhCdW9OcmRmRzVoZ3Z2ZXNJUzA2SVR1ZXJOXzVBVENwWmx0c0pJTGRaMDU0Y3lRTzJz?oc=5",
+     "source": "The Information",
+     "time": "15:01",
+     "note": "Reported ambition to make cyber a larger revenue line than coding, still hazy."
+    },
+    {
+     "title": "How iFood scales coding agents across 15,000 repositories",
+     "url": "https://openai.com/business/customer-stories/ifood",
+     "source": "OpenAI News",
+     "time": "00:00",
+     "note": "Production-scale agentic SDLC across 15,000 repos, per OpenAI customer story."
+    }
+   ]
+  },
+  {
+   "title": "DeepMind: quantum speedups and LLM reliability testing",
+   "signal": 62,
+   "summary": "Google DeepMind reported dramatic cuts to estimated quantum simulation cost using Gemini agents — up to 11.8x lower cost per one report and roughly 290x speedup per another. Separately it launched Humanity's First Exam with a Kaggle hackathon to test LLM reliability, after a 544-prompt benchmark exposed consistency gaps.",
+   "angle": "Agentic quantum tooling is moving from curiosity to engineering workbench — early for GCC labs to watch.",
+   "items": [
+    {
+     "title": "290 times speedup: Google DeepMind finds faster way to run quantum algorithms",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQjE0Y19GeUtlOFhLQ3ZNbjhSb1BwWDlIdFFZajFDT1Z6blpQODVGT0E0bWN2ZE05V1Q1dWQtcVFpOHFwTXdGMTViMC1iUzFCVUtvYmFWbjdocGo3bE83RkNkeFpkMDhxT0ptcDRYUTlQdVdIRjFiYl9XZERiVDRNVjRoSy1GdnpySDhrWHJkVlM3d2ct?oc=5",
+     "source": "Yahoo Tech",
+     "time": "14:04",
+     "note": "Corroborated by EdTech Innovation Hub: up to 11.8x lower estimated quantum simulation cost via Gemini agents."
+    },
+    {
+     "title": "We're launching Humanity's First Exam and a Kaggle hackathon to test LLM reliability",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZndyalo1NGlxbHFTMk5kQXhSakdGTVBMSzh6bGJXS1JvN2ZndWlyZVQzZmVOTGcwc0VrR01odXRBbmJBTXZ0dTJhdmNXM2ktVnlIaWtKanMzRkVUUGJRV01xZE1KWER3RngzamFSVXllYVZqVUN5TU5xZ2g3Q2NnSzcyN1hfcW5fX0x1MEFLb0xqX0pzdEMwOFU2UQ?oc=5",
+     "source": "blog.google",
+     "time": "19:39",
+     "note": "Google launches a broad LLM reliability benchmark with a competitive element."
+    },
+    {
+     "title": "Google DeepMind's 544-Prompt HFE Test Exposes LLM Consistency Gaps",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYnlpbjJrcF9BemRCTzg1YTdWcHdRZEJ0VTROVFJlQjJkd2E1b1NvZjNReWY4NGlwUlJKcHdhY0xqa2NweXZMZTNZT0NjVDdORXlKYjV6QzZfQ3k1ZWlXRDIxVWYzTEQxYk0tbzdqb3NnelJHV0s4bzM0bEtteDZvdzRNcnR5MUhmSVQ3VTIwMHk?oc=5",
+     "source": "Unite.AI",
+     "time": "19:43",
+     "note": "Benchmark found consistency failures across models."
+    },
+    {
+     "title": "Google DeepMind's Agents May Shrink Quantum Circuits For Fusion And Drug Design",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTFl2R1hYbk1iTjRSdEQtdmtCOThBY3drT1JnT29sSlgyemJtQmdFeURzZzczbnNoZmIzLWxlVmtMdXp5emRMLUxLbUM5SUVyTnlia3NXUW0xdHl3VGN1V2xoV09NTXFKNkU5T01iZzNjLW95UFpDbW1WbGJscGJVN1VR?oc=5",
+     "source": "Quantum Zeitgeist",
+     "time": "21:20",
+     "note": "Quantum circuit optimization for fusion and drug design applications."
+    }
+   ]
+  },
+  {
+   "title": "AI-enabled fraud and cyber threats on the rise",
+   "signal": 60,
+   "summary": "The criminal economy is industrialising with AI: FT reports a double-digit jump in 'authorised' fraud with £659m taken from UK victims in H1 2026. Iranian hackers used AI-generated identities against Israel-linked aviation and Saudi hospitals; separately, the ex-OpenAI engineer with Saudi links was freed on $1m bail after a judge found insufficient evidence, though reports flag hundreds of recordings including trade-secret discussions.",
+   "angle": "AI's adversarial economics are outpacing defense budgets — CISOs should reprice fraud exposure.",
+   "items": [
+    {
+     "title": "AI powers double-digit jump in 'authorised' fraud",
+     "url": "https://www.ft.com/content/eb6f11e6-f16a-4a2c-92db-0e4731731018?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:01",
+     "note": "£659m extracted from UK victims in H1 2026, per FT."
+    },
+    {
+     "title": "Iranian hackers target Israel-linked aviation, Saudi hospitals using AI-generated identities",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16cnJxVXZRYjFOVWplSFRWX2czR0tpUFFFQ1ZJQk5JT3RzXzVfSFRPTFBSYUF4bHNQTmJqUmhVUTcxYk5BZmVQZVRyUmg5ZkNITGFQMjBEalFSM2hPNGhfYWpSTmJETDJjc3c?oc=5",
+     "source": "The Jerusalem Post",
+     "time": "20:22",
+     "note": "AI-generated identities used in attacks on regional targets."
+    },
+    {
+     "title": "Ex-OpenAI Staffer Charged With Planting Bug Is Granted Bail",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond",
+     "source": "Bloomberg Technology",
+     "time": "20:17",
+     "note": "Saudi national freed on $1m bond; judge cites insufficient evidence. Tom's Hardware reports hundreds of recordings, including trade-secret discussions."
+    }
+   ]
+  }
+ ]
+}

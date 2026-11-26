@@ -1,0 +1,322 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-26T02:00:16.734230+00:00",
+ "themes": [
+  {
+   "title": "AI repricing: selloff deepens, Anthropic below IPO",
+   "signal": 78,
+   "summary": "Wall Street's AI rally hit its second straight volatile session: Nvidia surrendered recent gains and Anthropic slipped below its $83 IPO price within a week of its record debut. The move looks like crowding and valuation stress rather than a fundamentals break, and fund managers are openly wrestling with AI concentration risk.",
+   "angle": "Watch whether the debt markets, not equity, become the marginal funder of the AI buildout.",
+   "items": [
+    {
+     "title": "Wall Street’s AI selloff resumes as Nvidia falls 5.9 percent and Anthropic breaks below $83 IPO price",
+     "url": "https://economymiddleeast.com/news/wall-streets-ai-selloff-resumes-as-nvidia-falls-5-9-percent-and-anthropic-breaks-below-83-ipo-price/?utm_source=rss&utm_medium=rss&utm_campaign=wall-streets-ai-selloff-resumes-as-nvidia-falls-5-9-percent-and-anthropic-breaks-below-83-ipo-price",
+     "source": "Economy Middle East",
+     "time": "15:12",
+     "note": "Nvidia fell 5.9% in the session and Anthropic broke below its $83 IPO price."
+    },
+    {
+     "title": "AI Uncertainty Drives Wild Swings, Nasdaq Ends Down 0.6% After Sharp Selloff",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/stomach-churning-swings-rock-wall-street-as-ai-doubts-creep-in",
+     "source": "Bloomberg Technology",
+     "time": "21:17",
+     "note": "The Nasdaq ended down 0.6% after a sharp intraday selloff driven by AI doubts."
+    },
+    {
+     "title": "US stocks close lower in volatile session as AI trade remains under pressure",
+     "url": "https://www.ft.com/content/705eb84c-801d-4a96-b908-e366511e886a?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "21:26",
+     "note": "US stocks closed lower after another volatile session for AI names."
+    },
+    {
+     "title": "Stocks advance in Asia after volatile US trading over AI risks",
+     "url": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679",
+     "source": "FT Technology",
+     "time": "00:57",
+     "note": "Asian equities advanced as markets steadied after the US AI-led swings."
+    },
+    {
+     "title": "Anthropic’s Stock Sparks Rare Divide Inside One Wall Street Firm",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-stock-sparks-rare-divide-inside-one-wall-street-firm",
+     "source": "Bloomberg Technology",
+     "time": "21:35",
+     "note": "Anthropic's stock opened a rare internal analyst split at one Wall Street firm."
+    },
+    {
+     "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds - CNBC",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTHg1UVdrWGFYNVhhZ01fMmN6aWhqWWdHYUVKYXJKUUtnUU5TN0FYamxFbHJyTllzM0FRN0NGMGVoQVR3UGhMdDAxYV9zMU9QSUF5cXlFNURuZURXTldBZWFMOF8xeUhrNkFfVy0zY0ZJeXFkYXVWZTNXZXNWeFFQWjNOX095X1HSAYwBQVVfeXFMTW9UbkFlUXFkZjc1eE5LREVGQlhHeDZuQWVJYlh4V2QxRi1qMDVwMEY4YUdXOEpvVDFibGlMaUFRenExZ2xrVGF1dEY1Qjl6UzItM29VNHBCQlI4VS1HMV9SVjhBaTNnT01CLVdxVVhUWUdnX3ZjeGdFa2hyTGV4SHdEV1A5QWxSbUFVMGE?oc=5",
+     "source": "CNBC",
+     "time": "01:34",
+     "note": "Markets piece on where the AI boom, volatility and high-yield risk may be mispriced."
+    },
+    {
+     "title": "The fund manager’s dilemma over AI",
+     "url": "https://www.ft.com/content/c62ca4c2-dfc4-4943-86a4-fee8fd5a1f4a?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "18:05",
+     "note": "FT examines the fund-manager dilemma over AI concentration in portfolios."
+    }
+   ]
+  },
+  {
+   "title": "Chip-curb squeeze stalls China AI buildout",
+   "signal": 72,
+   "summary": "New US curbs on chip access and API tokens are freezing billions in loan-financed data-centre projects for ByteDance, Alibaba and Tencent, and Chinese model development is now reported to be severely delayed. The gap with US frontier labs is widening fast, with credit and geopolitical spillover for anyone funding compute capacity across Asia.",
+   "angle": "Chip-curb geography is now a credit story as much as a technology story.",
+   "items": [
+    {
+     "title": "Billions in Data Center Deals Grind to Halt After Chip Curbs",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/billions-in-data-center-deals-grind-to-halt-after-ai-chip-curbs",
+     "source": "Bloomberg Technology",
+     "time": "16:01",
+     "note": "Lenders halted billions in loans tied to ByteDance, Alibaba and Tencent data centres."
+    },
+    {
+     "title": "Nvidia fallout exposes China’s fragility on frontier AI",
+     "url": "https://www.ft.com/content/e6557cf5-1c02-4ff7-abdd-f0682298b8c1",
+     "source": "FT Technology",
+     "time": "16:00",
+     "note": "FT argues the Nvidia fallout exposes how fragile China's frontier-AI position has become."
+    },
+    {
+     "title": "Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens - The Information",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcUtIYnhjUFNSRkJpR2wtTzl0Z3RIekt5dHF0Q0lGamVnNjBPU0Y1V19QY2p3MGc0NVlUSjV6cmVTN2FYVkk1cXJseTJKMXo0UG5LRC1iMU91WlcxbFFwc0p0ZEtKcS1reTVsbk1hWk1YZWpiWHMzYWNXTUg2YjZLYjQwbTFxVUlxRDBVTDRWcTFVa1JsZ2hCNTNGSEhHQWdrNnNCbGctUWU4d0M2cmxB?oc=5",
+     "source": "The Information",
+     "time": "14:00",
+     "note": "US tightening on both chips and API tokens points to a dire outlook for Chinese AI firms."
+    },
+    {
+     "title": "Chinese AI Model Development Faces Severe Delays, Widening Gap With US - The Information - TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSkJQSXJUUVVEaThPZlEyMVN1S2pjSGZmbWVYOFBaclZzWmNPdXJrZ09pTjVMNi1TZ292RWdzS3NrSGl1WVpkTWhMd2pNMGFpdkxMOGNORWxIa3JhaWlHbDlhMHpYT3lnaG5yUW5yREp2YTd2NDZXLWZ6SElCanpnb05TSFFaek5KNFRVMzAyUnktUmhYT05Sa05Hd3Q3VjlsQVpfdW83VFlBeGRQZWdqTDZoSVJzbE8zNEpJQXNReDFuTkVaVU05TFF0OExxd09wc0JLYllaX0VnSmlyX3ZmcThGZGYyRzkxM1E4?oc=5",
+     "source": "TradingView",
+     "time": "14:06",
+     "note": "Chinese model development faces severe delays, widening the gap with the US."
+    }
+   ]
+  },
+  {
+   "title": "AI capex now a credit story: $450B debt wave",
+   "signal": 68,
+   "summary": "JPMorgan estimates companies will issue $450 billion of high-grade debt in 2027 to fund AI capex before growth plateaus, while Dell raised its annual forecast on continued data-centre demand. Debt, not equity, is becoming the marginal funding source for the buildout - a shift with direct implications for banks, insurers and sovereign investors.",
+   "angle": "Underwrite AI infrastructure like a credit analyst, not an equity analyst.",
+   "items": [
+    {
+     "title": "JPMorgan Sees $450 Billion AI Debt Blitz in 2027 Before Plateau",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/jpmorgan-sees-450-billion-ai-debt-blitz-in-2027-before-plateau",
+     "source": "Bloomberg Technology",
+     "time": "21:17",
+     "note": "JPMorgan sees $450B of public high-grade debt issued in 2027 for AI capex, then a plateau."
+    },
+    {
+     "title": "Dell Raises Annual Forecast as AI Data Center Boom Continues - The Information",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPS1dhYzNpaFJlWDE2ejFyX2NmT2NOS0dESExzaUlOeW1xbVgyYnVaendSbHVwbWdFOWstX1JMZ00tdkZEU1VTOXZ4Szl3enA4NWJEcnZ2dmF3M2ljNGpTY1B3LVFRN2tPdUxvbUR4YlhvZFVhZFU3cGFXQmR3Sk1ONzRFOS1zRHFrVERpYWZQTlBoTDY0aDNHTGtQZU9Ea2c?oc=5",
+     "source": "The Information",
+     "time": "23:57",
+     "note": "Dell raised its annual outlook as the AI data-centre boom continues."
+    },
+    {
+     "title": "Nexent Capital IFSC Launches $1 Billion Quantum Computing-ready AI Infrastructure & Advanced Energy Fund - The Quantum Insider",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDhQVjl5ZFFUbnVWa2NmYlJNbjlGZU9FODRVdUExZE9yMy1tZHh0X2cxYlRiMHowLUo1bGxiaFZyNUJ5YTZlRkVHdjNhWTBLT0pyN2N4bVlWdV9PZ1c1VWRNa2thU3VQZ0pTTkkzcGctYnFjT1ZvMnNCYXJ1SVp5bkxncm44LWZmSHYxRlVCQXFob3RUTndneWxHOWFkYWJfNERFVDVhVEI?oc=5",
+     "source": "The Quantum Insider",
+     "time": "09:20",
+     "note": "$1B quantum-ready AI infrastructure and advanced energy fund launched; also covered by YourStory and Lokmat Times."
+    },
+    {
+     "title": "ElevenLabs in Early Talks for Funding at $33 Billion Value",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value",
+     "source": "Bloomberg Technology",
+     "time": "18:24",
+     "note": "ElevenLabs is in early talks for a round at a target $33B valuation."
+    },
+    {
+     "title": "CrowdStrike agrees to buy Zscaler in $43.9B stock deal - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JcHFaNmo5STNfRUFGTVVCX1A2Q0FRZjdoREtTam1EdmpPc3JpSDZFc3RfN083aGVTTS01LWptdTV3eDVObzNla1ZQNWtzOHQ4Wi1aenR0RkNKVkpYQ25lbHFYTk9CajBzc18zQktfa1hfbnFpRGVqTmZnVkdDUQ?oc=5",
+     "source": "The Rundown AI",
+     "time": "14:41",
+     "note": "CrowdStrike agreed to buy Zscaler in a $43.9B all-stock deal."
+    }
+   ]
+  },
+  {
+   "title": "Nvidia governance overhang vs 'Jensanity'",
+   "signal": 64,
+   "summary": "S&P is weighing a one-notch downgrade of Nvidia over management and governance concerns after CEO Jensen Huang's departure and return, and FT maps federal, state and congressional investigations. Markets are torn: institutions price governance overhang while Taiwan and China cheer Huang's comeback.",
+   "angle": "A ratings action on Nvidia would be a first-order signal for the entire AI complex.",
+   "items": [
+    {
+     "title": "S&P Says It May Downgrade Nvidia’s Ratings on Governance Worries",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries",
+     "source": "Bloomberg Technology",
+     "time": "18:56",
+     "note": "S&P may cut Nvidia's credit one notch over governance after Huang's departure and return."
+    },
+    {
+     "title": "The investigations facing Nvidia and Jensen Huang",
+     "url": "https://www.ft.com/content/b68742ac-f7b9-4aca-b4d9-48245e749b60?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "11:25",
+     "note": "FT maps the federal, state, congressional and shareholder investigations facing Nvidia and Huang."
+    },
+    {
+     "title": "‘Jensanity’ erupts in Taiwan and China on Nvidia founder’s comeback",
+     "url": "https://www.ft.com/content/368c4526-a0ce-4951-a847-f039af2a51af?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "00:45",
+     "note": "Huang's comeback is being celebrated across Taiwan and China as 'Jensanity'."
+    }
+   ]
+  },
+  {
+   "title": "Saudi Arabia builds agentic government",
+   "signal": 62,
+   "summary": "Saudi Arabia is switching public services to agentic AI, with data authority SDAIA moving to embed AI across universities, and local AI startups drawing early venture backing. The kingdom is signaling that agentic workloads, not just models, are the next sovereign-AI frontier.",
+   "angle": "Agentic AI is becoming a national infrastructure play in the Gulf, not just an enterprise trend.",
+   "items": [
+    {
+     "title": "Saudi Arabia switches to agentic AI to revolutionise public services - Middle East Online",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWpvODJUZURkWlJSTkdGWDM5NDN1Z21EN0R5eDhzLU5sZEE4djg1LW5zUDA4NW5UZlBGM1lKdWpsYzZkZU1oU1BTSk1uOE15V29lX3l2WjhUY2NLanRaV2FXaTVEbHpWUTJtMFNCZ19ZcnFfbDBPVnVmUEVfRy1KSnp0NHZuVkhtNFVzRmU5ZXpMQ1F6Mm5JYVg2QXQ?oc=5",
+     "source": "Middle East Online",
+     "time": "15:45",
+     "note": "Saudi Arabia is reportedly switching public services to agentic AI."
+    },
+    {
+     "title": "SDAIA launches initiative to spread artificial intelligence at Saudi universities - jawlah.co",
+     "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9Mcm96eTFvRHNvY2xPbjRMRXZ0RDgwLVVsMjMzWnV1QXlJOVhmWG9yZ05TU0JqQlo1a1JBMTdIWQ?oc=5",
+     "source": "jawlah.co",
+     "time": "15:48",
+     "note": "SDAIA launched an initiative to spread AI across Saudi universities."
+    },
+    {
+     "title": "Saudi AI startup 009 raises $1.4 million pre-seed led by Outliers Venture Capital - Wamda",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSnVQOGJPMzE0T1BUbFFrSW1qN2liNmxZVG93My1aYjVPbGlfLXFadUtwdTZ6a0cwbm51Z3p5ZUdIOGRnVjR1YlZaOUdqcVF0enVxNVFWbWF6OXRyaDdhV2ZXUWtjS2NxT0pBZE5KcFVyN2lwSEt2aW56dmYwU24xQ0NfSk9kVUlMTFNEU29hUVJfTzVER08zLU85RkJYbkxYX19hLTVia3dxOHM?oc=5",
+     "source": "Wamda",
+     "time": "10:39",
+     "note": "Saudi AI startup 009 raised $1.4M pre-seed led by Outliers Venture Capital."
+    }
+   ]
+  },
+  {
+   "title": "Frontier-lab safety politics intensifies",
+   "signal": 60,
+   "summary": "Democrats are demanding new AI restrictions after Axios reported staff fears at OpenAI and Anthropic over unreleased models, and The Information says safety advocates are souring on Anthropic. CEO Dario Amodei pushed back on claims the company wants humans to surrender free will, drawing rare public pushback from rival AI leaders.",
+   "angle": "The post-IPO Anthropic story is a governance and positioning test, not just a market one.",
+   "items": [
+    {
+     "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI",
+     "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+     "source": "Axios AI+",
+     "time": "20:19",
+     "note": "Democrats cite 'flashing red lights' in demanding new restrictions on AI development."
+    },
+    {
+     "title": "AI Safety Advocates Sour on Anthropic - The Information",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa3ZodFhQOUxtRVlOZjVrOXdVU3c5V0Z2QU1NVXQ2RFhaUllvcEtYa2x2X0s2QmVicWRzbmhxSG5wVmQ5WmlwNHdTZUVBTW9pb0R1TVoxT0pIbjJaYWkxUjBXbDRJLUJnVXp5UDNFZkhQc3FHNkU5LUtXSlpHV0t2NzVKSzJSdm12Z2JDNXpCZWo?oc=5",
+     "source": "The Information",
+     "time": "15:00",
+     "note": "AI safety advocates have soured on Anthropic."
+    },
+    {
+     "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+     "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+     "source": "Axios AI+",
+     "time": "19:28",
+     "note": "Amodei rejected surrendering human free will to AI in his biggest remarks since the IPO."
+    },
+    {
+     "title": "Rival AI leaders push back against Anthropic vision of surrendering human agency to AI",
+     "url": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+     "source": "Axios AI+",
+     "time": "10:01",
+     "note": "Rival AI leaders push back on Anthropic's view that humans should cede decisions to superintelligence."
+    },
+    {
+     "title": "Report details staff fears over unreleased Anthropic and OpenAI models - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZlpmbWdWVEpKZHh1MnFRcFEwYW01STZUR0VVRDJtU1Z5VHR2UmNtRHFKNWx5aVNHQUFtaEk3T2VvRmFjRDBHWl8tcDQ3WDVQMWpFRklOVzJEanVYUXp5aE9aajBCdy1STWpoNlhVVEZCYzVTNjExY0JDUl9QRUlhdg?oc=5",
+     "source": "The Rundown AI",
+     "time": "13:46",
+     "note": "Report details staff fears over unreleased Anthropic and OpenAI models."
+    },
+    {
+     "title": "Saudi ex-OpenAI engineer granted bail in alleged spying case - The Jerusalem Post",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2FKal9NYzJvLU94THd6a3NvdWZTVElLNk0zR1NzVWZBY0VDWkRyZnB4clk3djJyMkh5ZlhrTHF5V29KWTZSQWtDZ0t3STJQaU5MdDc1ZGk5ei1MZWRrX2FBNGVaeGlnbDV3OXBMbHlmVEFWb3Y2VDN4a3dzQWtWeHVmS1NMUQ?oc=5",
+     "source": "The Jerusalem Post",
+     "time": "18:08",
+     "note": "A Saudi ex-OpenAI engineer was granted bail in an alleged spying case."
+    }
+   ]
+  },
+  {
+   "title": "UAE cities top global AI rankings",
+   "signal": 58,
+   "summary": "A new DIFC Future of Finance report ranks Abu Dhabi and Dubai above US and Chinese cities on AI attractiveness, and Abu Dhabi's TAMM platform is held up as a global benchmark for digital government. UAE residents are among the world's most AI-optimistic, with 80% expecting AI to improve daily life.",
+   "angle": "The Gulf's AI-city brand is now backed by third-party rankings, a useful data point for relocating talent and capital.",
+   "items": [
+    {
+     "title": "Abu Dhabi and Dubai beat US and Chinese cities in AI rankings - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYU9tYnp4VHNUUEdNSGZjQ2tXYkhwOHM4VEhkOE0wWHE2d1NjX1dHVmRFc2JOb0RjZU5KUjI3eHdpYWN5bmRhSjZYWkZhWGFBTFBsaHM1SjQ5Wm5ESjB3cU1ydy1RQUdkZlBxNUtIV3pvMjl1WE5wTGo0M2pWd0ZNUTJYaFVxMTVodWlnWGNsdXNIWU82TzVDSXF3?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "13:19",
+     "note": "Abu Dhabi and Dubai beat US and Chinese cities in AI rankings tied to the DIFC report."
+    },
+    {
+     "title": "Abu Dhabi rises among world's leading AI cities as TAMM sets global benchmark for digital services - مكتب أبوظبي الإعلامي",
+     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcjh4QjZMSVJTbEthZ2o1RDllTldLOG12SzA1TzdvcnR0SUc1Zi1odUZJajNWYkVmblpPR0tKOGxBdExvaXR4SzFmVUNYSWxXUldZQVZpM3hJZDdJd3N6YzQ2UmJaakZSVGQ5RGMyYXkzNmVhdWNkcEtiUjNVc1d2ZFYxel9vcG5UOEFMRzdic3R5bXN3azJua0VBRXZwNnk4Vlhla0kyZHIzOEwwR0YzeGU0U256YjBrX2dFekJWMTlSOWdLaDB5b0lSTS1jVVRpZU5XM2RPTTllc0Uzc0E?oc=5",
+     "source": "مكتب أبوظبي الإعلامي",
+     "time": "18:32",
+     "note": "Abu Dhabi's TAMM platform cited as a global benchmark for digital services."
+    },
+    {
+     "title": "UAE ranks third globally for AI optimism as 80 percent expect technology to improve everyday life",
+     "url": "https://economymiddleeast.com/news/uae-ranks-third-globally-for-ai-optimism-as-80-percent-expect-technology-to-improve-everyday-life/?utm_source=rss&utm_medium=rss&utm_campaign=uae-ranks-third-globally-for-ai-optimism-as-80-percent-expect-technology-to-improve-everyday-life",
+     "source": "Economy Middle East",
+     "time": "12:52",
+     "note": "UAE ranks third globally for AI optimism; 80% expect AI to improve everyday life (SEC Newgate monitor)."
+    }
+   ]
+  },
+  {
+   "title": "DeepMind: formal proofs, quantum agents",
+   "signal": 52,
+   "summary": "Google DeepMind is widening where frontier models add value: an AlphaProof Code framework produced a mathematical proof of Signal's libsignal encryption binary, Gemini agents cut estimated quantum-simulation costs by up to 11.8x, and a new study probes the limits of chain-of-thought monitoring as a safety control.",
+   "angle": "Formal verification of real-world crypto code is the kind of concrete AI win enterprises can actually bank on.",
+   "items": [
+    {
+     "title": "Google DeepMind AI engineers conjure mathematical proof of Signal's encryption protocol — AlphaProof Code framework powered human-bot cooperation for speedy work - Tom's Hardware",
+     "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOSVlHd3M4YWJrdTFqR3Focnh2YmNYNmQ4R2t6VUZRNkJQM0Z4c1pCbkRPdHlzeDFuRmV3cVRuV2tYWlMwWlVYQWxFUFlLWVFEeW9YbGtLQWd3eFZLa3dCSWc1Z1Jock1tNjRlM2N6VGxkcUxRUjBNaWFReFIxZl92eEUxSk5mOUNuQ3dXblNwOF9OUzRsQTUzZFlKdW9fa2pLbklHSVdEcE91SWpBVHUxcUVjQXRxb2p3aUNVTTg0S3RwNnYzNEJnUGY2SnFDV1NTeHl3Yk1vV2ZIWS1RUGEwUlhITWcxWWItN0U1SHhTNXg0WnJZeGtMVnd2UTI4b0ZrTmRRXzBaRW5lY3RHWHdGY1czbGpkLXVXWEFKXzVFd0lvdUJBdUdUSm1PbVF4THVHZ1gxdUM2XzhGcWhGVnYwbWk2M2paWHg3?oc=5",
+     "source": "Tom's Hardware",
+     "time": "12:00",
+     "note": "DeepMind conjured a mathematical proof of Signal's libsignal encryption protocol via AlphaProof Code."
+    },
+    {
+     "title": "Google DeepMind’s Gemini agents cut estimated quantum simulation costs by up to 11.8× - EdTech Innovation Hub",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZWdSOVQtbzA2TERjN3ZXNUhBd1ZiZkdyVkJhQklSYWZCck0zOWwtV0xZeGdUaS1GVXkzNUZDcGJ4a1RneXhxa0M0LUxCWElMSVRtaU5iakJZY2hNMTNYNnFhWXM2TWlXWm1Gb3V4anFsREMyZUdxZV9OcDlhQUNoOU9MR3g5TGIyckxhV3FHUWM5NHgyR3p0TWlFUDZXX3JVN004U29hUXE0d0NWR3ZBZzdDbjRpVENYX3BoTE9mYWw?oc=5",
+     "source": "EdTech Innovation Hub",
+     "time": "06:07",
+     "note": "Gemini agents cut estimated quantum-simulation costs by up to 11.8x."
+    },
+    {
+     "title": "Google DeepMind study shows the limits of chain-of-thought monitoring - Crypto Briefing",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUE4OW5vWHBnMWVfZ1pXbkhhaU0tUE9XRGRMOVREc0RQU1otQmZxUURFVW5hR2JBSW1pRWNYRUNLa1hITXBrQU9RbFQ2NFZNNXNDa0JldVVRWUswU0hfYnlQWTVVeUE3WlNIUXA1ZzladGppbzBhZUt6VGM1QkgyNERVX2U?oc=5",
+     "source": "Crypto Briefing",
+     "time": "06:30",
+     "note": "DeepMind study shows the limits of chain-of-thought monitoring for safe AI."
+    },
+    {
+     "title": "Google DeepMind Releases \"gBench\" Evaluation Framework for Open LLMs Free of Charge - BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LLU9IRXVDeDNSNjBsdzhMWjhsWnlQWDcyaTZxdkwyQUY1akxqQWE1bTZpcU50U01XUTJHSy1IRldRM0ZBYkM5TW0zYjVpUmwxakRtVWgxeVdJSFdlVDI3bU5IUnYtcnpsVURIcjRUSmxlbF9xaFE?oc=5",
+     "source": "BigGo Finance",
+     "time": "08:46",
+     "note": "DeepMind released gBench, a free evaluation framework for open LLMs."
+    },
+    {
+     "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity - Google DeepMind",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3EzakZvZ2lKbGk1aU5fb19xdGFSeXJfcHFsaG1mYXZtVmhCOUFCVzhwMEF0YzIyLVFaQVYxQWFybXFxeENKdlNRUXFKV1hHRG9xOEtZSnlzN2JHeUFOVEhaYXFVSFpSVEVNeUhNbHJDaVNTbHg3aGp0UDczSTBUV0p1VndLZw?oc=5",
+     "source": "Google DeepMind",
+     "time": "17:15",
+     "note": "DeepMind adds mass-spectrometry skills to Google Antigravity for molecule identification."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T02:00:15.807195+00:00",
+ "themes": [
+  {
+   "title": "Anthropic closes IPO; +17% debut; MGX gains ~NT$660bn",
+   "signal": 92,
+   "summary": "Anthropic confirmed its IPO has closed, including full exercise of the underwriters' option and a concurrent private placement. Shares rose 17% on the first day, and UAE sovereign investor MGX is sitting on a paper gain of roughly NT$660 billion — the clearest sign yet that Gulf sovereign capital is being rewarded for pre-IPO AI bets.",
+   "angle": "The cap-table math of frontier AI is now a sovereign-wealth story, not just a Silicon Valley one.",
+   "items": [
+    {
+     "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
+     "url": "https://www.anthropic.com/news/ipo-close",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Deal closed with underwriters option exercised and a concurrent private placement, per Anthropic."
+    },
+    {
+     "title": "Anthropic Rises 17% on Debut; UAE's MGX Sitting on Roughly NT$660 Billion Paper Gain - BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43OGI0dnA4bzhJLXB6dXYzS0lMZ3U0RjJHNjlQNWRpV3BGQlNMTjN4S2xiSUF3YmZxRDNDYm9rRVhoYlNfWHdVQTBJdFdfVGtzUEE5XzN0eXhYTlRNM0RiXzU5YTlrY1pVZUVqYlZNOXBjOVp5SUE?oc=5",
+     "source": "BigGo Finance",
+     "time": "18:15",
+     "note": "Per BigGo Finance: shares rose 17% on debut and UAE investor MGX holds a roughly NT$660 billion paper gain."
+    },
+    {
+     "title": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic priced its Class A IPO ahead of the debut pop."
+    },
+    {
+     "title": "Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+     "url": "https://www.anthropic.com/news/public-benefit-fund",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic pledged a growing share of equity to a Public Benefit Fund as part of its public-market structure."
+    }
+   ]
+  },
+  {
+   "title": "UAE sovereign AI: telcos, G42-OpenAI, DIFC protocol",
+   "signal": 82,
+   "summary": "The UAE's AI stack is formalizing across layers: telecom operators launched sovereign AI platforms, Clifford Chance confirmed advising G42 and Inception42 on their OpenAI partnership, and DIFC proposed an AI Adequacy Protocol while opening a stakeholder survey. Abu Dhabi also moved to third in a Global AI Cities Index with TAMM named the world's best AI city app.",
+   "angle": "Abu Dhabi is assembling a vertically integrated AI economy — compute, partnership, and governance in one week.",
+   "items": [
+    {
+     "title": "UAE telecom operators launch sovereign AI platforms - ET Datacenters",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc09CVFdTdjVZVjNEaGJrWTdSYU1vX1ZhZHJrQ2xFME9LVkFsSEh2cHcwT1o3cG1ndEZES0s5TkxrT3N6OEdwQkhhNkl3cmJrcm9GcmtSa21hSzNfbDFlaDRJNXBBUzVZYVotMjY2T0g1YTJDNnNqX1NXY2RqRkU5OE10M2htSDdPd3h1emRkdXhoaWRJa0hTeDZ5NlhZY3pKSzEyNlJfTG9lSHBDTHRERThfNHNUNUlNTVNtdFF1NjAydVJ2cEVrVTlZdHIxT2xGRGNrR2xCbU3SAd4BQVVfeXFMTUhKdVd0U1JQbV91SU15eHNGRTJCaHRKelBmY0VKNVVOb1dOYkVLU3YwOGVadGVzRm4yVDh0VXhPY3VIOXNROUFFMXB6bUhRNThLRG16bG5sR25RNDdrZkxnTXBRWTh0XzVkeVJWdEpHSVVlZEJ4dlV5bkJ6STJtVW9EYXN1Q2RHWUZpdmdqSXBBTW9ZbldWaGF1MXd0cUZEUWo4YmwyNzduME1OMmdfamsyUGNQWUpwalF5OVc1MkZOb3FaQTBoMXJfaVpnd2VpblB4STFIM3BXOHNqZWRn?oc=5",
+     "source": "ET Datacenters",
+     "time": "04:13",
+     "note": "UAE telcos launched sovereign AI platform offerings, per ET Datacenters."
+    },
+    {
+     "title": "Clifford Chance advises G42 and Inception42 on strategic partnership with OpenAI - Clifford Chance",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNR1VnZDc3SG93b1BpY2lwSDRxeGM2WkRmVXFtU25wRU9pLVk2Y1lGeVlfLXd3bHU0aU5VRVRZWmM4QkJKQ0FBcXNCMGJrZDdhSlpyTVVlZUo2cHBDVVNiZTRBdDhnempfc0VFMTZDclhuOTdSV3BQV2o1U2Y0VGpfZjdhcExJQ0FfSmcyNDQ1bHFaVjY0YVJ1bklVODZNREJlbmhtWWg5M2JFdV82SHFLZjd5ZHMtYTBKMmtfQU14MHp5dG0xcFZ4aFpIU3RiUjg?oc=5",
+     "source": "Clifford Chance",
+     "time": "14:56",
+     "note": "Clifford Chance confirmed its role advising G42 and Inception42 on the strategic partnership with OpenAI."
+    },
+    {
+     "title": "DIFC Proposes AI Adequacy Protocol Shaping AI Governance And Opens Stakeholder Survey - Legal 500",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1RpZjB2ZEQ4bzhPXzUySGx0SmIwQ1FXeW5FaGtpWTdvbXNBdHRwLVBVN1V0NzlFSFhTQ0t0LVFRWEI1dGs3YWY5dG9IX0xkWUs4Ym1KSWRUZG50Vlk1M3d5LVp6TFJOME5GSUxlTEtZQlMtTFlwelBfZGpGdnd3SnFqdFpqNEtyRGUxblZyNFJWN0Y2NlktRWtZQWZha1VDc3UtRTU2dVpDQUkzVFdocUNfWFZNY2s5d1FrVGFhZ0RxTmU1QzJmRS1IMzk2bmw5QWtaUg?oc=5",
+     "source": "Legal 500",
+     "time": "15:24",
+     "note": "DIFC proposed an AI Adequacy Protocol and opened a stakeholder survey on AI governance, per Legal 500."
+    },
+    {
+     "title": "TAMM named world’s best AI city app as Abu Dhabi jumps to third in Global AI Cities Index - مينا تك",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHVxWTc3VnJGYlR2V1NjclZnY0NBT1RLcjA4dnFZc2RVeEdXRTVMZHN6TGkwdXd4TDlnWk5hTjlTenRpMXZrM3NhdUFTZmpTLWItTktfMXRrTF9kZ0JYNUlTa3ZkMzZIMlBqZ0hmQXB6WHBJVlZtX0JHenFCRXNvWWNRRmRLSVJvSXRHYTZ2d2VRQkd2N3NGZkkybklydC1YZ1FELXZfVVdWdzR4NTJmLW54dw?oc=5",
+     "source": "مينا تك",
+     "time": "12:09",
+     "note": "Per MENA Tech: Abu Dhabi TAMM was named best AI city app; Abu Dhabi rose to third in the Global AI Cities Index."
+    }
+   ]
+  },
+  {
+   "title": "AI restructuring: SAP cuts 10k jobs, capital rotates",
+   "signal": 80,
+   "summary": "SAP is preparing to eliminate at least 10,000 positions as it remakes its software business for the AI era — the sharpest sign yet that enterprise software vendors themselves carry the AI disruption cost. Meanwhile, pension funds and endowments are dumping legacy VC stakes at steep discounts to free cash for AI startups, and Investec argues the AI trade still has value pockets.",
+   "angle": "The next phase of AI economics is inside-the-enterprise: incumbents pay with headcount, capital rotates toward the new stack.",
+   "items": [
+    {
+     "title": "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+     "source": "Bloomberg Technology",
+     "time": "16:15",
+     "note": "Per Bloomberg, SAP plans to cut at least 10,000 roles in an AI-era transformation; FT also reported ~10,000 job cuts."
+    },
+    {
+     "title": "VC investors dump old funds at steep discounts to chase AI riches",
+     "url": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "11:00",
+     "note": "Per FT, LPs are selling legacy fund stakes at steep discounts to chase next-generation AI startups."
+    },
+    {
+     "title": "Investec Sees Opportunities in Three Key AI Buckets",
+     "url": "https://www.bloomberg.com/news/videos/2026-11-26/investec-sees-opportunities-in-three-key-ai-buckets-video",
+     "source": "Bloomberg Technology",
+     "time": "09:40",
+     "note": "Per Bloomberg video: Investec equity research says the AI trade is not over and value remains across three buckets."
+    }
+   ]
+  },
+  {
+   "title": "Claude 5.5 wave: Opus and Haiku at 40% lower cost",
+   "signal": 78,
+   "summary": "Anthropic shipped a full model refresh alongside its IPO week: Claude Opus 5.5 leads agentic coding and knowledge work at 40% lower cost than Opus 5, Claude Haiku 5.5 targets high-volume subagent and browser workloads, and Fable/Mythos 5.2 raise the bar in coding, finance and the sciences. It also expanded AI-for-science grants and a GSA partnership to bring Claude to all levels of US government.",
+   "angle": "The pricing curve is the strategy: cheaper frontier inference chases agentic volume, the segment GCC enterprises are adopting fastest.",
+   "items": [
+    {
+     "title": "Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads.",
+     "url": "https://www.anthropic.com/claude-opus-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Per Anthropic: Opus 5.5 leads agentic coding and knowledge work and costs 40% less to run than Opus 5."
+    },
+    {
+     "title": "Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use.",
+     "url": "https://www.anthropic.com/claude-haiku-5-5",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Per Anthropic: Haiku 5.5 is the fastest small model, aimed at summarization, subagents and browser use."
+    },
+    {
+     "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences.",
+     "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Per Anthropic: Fable and Mythos 5.2 set a new bar in coding, finance and the sciences."
+    },
+    {
+     "title": "AI for Science expands to foundations and research institutions",
+     "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic's AI-for-Science program extended to foundations and research institutions."
+    },
+    {
+     "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+     "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+     "source": "Anthropic News",
+     "time": "",
+     "note": "Anthropic and GSA expanded their partnership to bring Claude to all levels of US government."
+    }
+   ]
+  },
+  {
+   "title": "Washington asks for AI limits; Amodei pushes back",
+   "signal": 75,
+   "summary": "Axios reported growing safety fears among OpenAI and Anthropic staff about releasing the most powerful models, prompting prominent Democrats to call for new restrictions; a parallel NYT piece says bipartisan appetite in Congress still hits political obstacles. Amodei publicly rejected a proposed rule, insisting AI should not be governed by AI — the labs and regulators are diverging publicly.",
+   "angle": "The regulatory overhang is now a live C-suite risk factor for AI roadmaps on both sides of the Atlantic.",
+   "items": [
+    {
+     "title": "\"The flashing red lights couldn't be brighter\": Democrats demand new restrictions on AI",
+     "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+     "source": "Axios AI+",
+     "time": "20:19",
+     "note": "Per Axios: Democrats demanded new limits after reporting that lab staff fear the most capable models cannot be safely released."
+    },
+    {
+     "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress - The New York Times",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5",
+     "source": "The New York Times",
+     "time": "23:19",
+     "note": "Per NYT: bipartisan interest in AI regulation faces political obstacles in Congress."
+    },
+    {
+     "title": "Amodei rejects AI rule after Axios report on Anthropic staff - The Rundown AI",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81c3ZjV1dUcldCMUNBZzhyU1dpY1QtSHU5bVJhVHJORGhfUXJCZGZqQmJNTC1BalRNY1hjbHliWmhKbEsyTEJzTmR2NXkwVVB4T1RjckphQnpEbEFXOTZrYThNUno3MmhFUlhKTnpvajVzN3RoS0RRZnVR?oc=5",
+     "source": "The Rundown AI",
+     "time": "14:47",
+     "note": "Per The Rundown AI: Amodei rejected a proposed AI rule after the Axios report on Anthropic staff."
+    }
+   ]
+  },
+  {
+   "title": "Agent AI heats up: China's OS, OpenAI Work, privacy",
+   "signal": 72,
+   "summary": "A startup founded by one of China's most successful hedge fund managers is preparing to release the core of an operating system designed for AI agents rather than humans — a direct challenge to Western agent stacks. OpenAI is integrating chat and work in ChatGPT amid usage-limit concerns, while TrustedRouter offers companies a way to keep employee AI use private from model makers.",
+   "angle": "Agent infrastructure is becoming a strategic layer: who owns the agent OS sets the terms for enterprise AI.",
+   "items": [
+    {
+     "title": "China Hedge Fund Star Builds Operating System Kernel for AI",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-hedge-fund-star-builds-operating-system-kernel-for-ai",
+     "source": "Bloomberg Technology",
+     "time": "01:29",
+     "note": "Per Bloomberg: a hedge-fund-founder startup is releasing the core of an OS built for AI agents, not humans."
+    },
+    {
+     "title": "OpenAI Integrates Chat and Work in ChatGPT Amid Concerns Over Usage Limits - entARABI",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOElDS25EWVZHT0I4V25lVEd4Q1Y2TDlNRElyQ0NBVEM4dmUwdjhYY2IxUTc0NEpFX2tfTmZ5RVZQV2ExcGlwQkpRM2ZFMjRYY1VtYzA2emtVV0w2cUtDSVJnT2EzZ0laMG5WbnBveGhEcE1nU2lwd1pjaFJMQ0VON3VIeTNlM1RpcjVLMHV1OXMwMnB0b3h3ZXoybHRQZGM2SmZIM2s1c2dRNW8?oc=5",
+     "source": "entARABI",
+     "time": "17:31",
+     "note": "Per entARABI: OpenAI is integrating chat and work inside ChatGPT amid user concerns over usage limits."
+    },
+    {
+     "title": "TrustedRouter Aims to Give Companies Greater Privacy With AI",
+     "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai",
+     "source": "Bloomberg Technology",
+     "time": "12:02",
+     "note": "Per Bloomberg: TrustedRouter lets companies keep employees' AI use private from model makers."
+    }
+   ]
+  },
+  {
+   "title": "GCC AI momentum: Arabic AI, robotaxis, MBZUAI",
+   "signal": 70,
+   "summary": "EnterpriseAM digs into why AI still struggles with spoken Arabic and how Abu Dhabi's TII is trying to fix a capability gap that matters for regional adoption. China's WeRide is targeting a threefold Middle East expansion, Saudi contractors are shifting toward defence and AI work, MBZUAI awarded its Tahnoon bin Zayed scholarships to 42 students, and Sharjah will show 19 digital projects at GITEX 2026.",
+   "angle": "Local-language AI is the GCC's distinct moat — the rest of the world's benchmarks miss it entirely.",
+   "items": [
+    {
+     "title": "Why AI still struggles with spoken Arabic — and how Abu Dhabi’s TII is trying to fix it - EnterpriseAM",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ3YwcUFjU2tnOUtkZnhSY3hKYXFXaExJVXZhUUktNHREY0Rtbzd1NjdKQ1NmdHVwTGVuTW96SGxKYVAwdzNjUDZ3MXRud19TQUZVby1INFY5cC1IOUduWi03cVhKTVFUVXhlZzV0a3RJRzJDYnY5SmdXdkFVc1MtWERPQUlQcnBxMjB1REZuMWx3bDBZVmVNekVkYXlqWjlGMzZUbF8wUTEydm1LWm9VZjAwaW41WWJzU3BoNlJqaFd6UQ?oc=5",
+     "source": "EnterpriseAM",
+     "time": "22:00",
+     "note": "Per EnterpriseAM: spoken-Arabic AI lags, and Abu Dhabi TII is working to fix the gap."
+    },
+    {
+     "title": "China’s WeRide targets threefold Middle East expansion - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUUZBWGNUd1Q0T0dnN1UwY2xjZi1MMDdxY0JtU2tocjVUOEdWWld4UXdMYWo2X0JpcXkybFNtemlfdU40X2pCb3JLbDItVkZRQ3RPZ0g0MDYyaHR3V0xvbnJTS09TVEZhdTBIekNGRWZmb3NIbjdqNkhRV3dIam1yZ21NaG1QLXlfWDlCTG5RNlUwZjZvYTJFOA?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "07:41",
+     "note": "Per AGBI: China WeRide plans a threefold expansion across the Middle East."
+    },
+    {
+     "title": "Saudi contractors shift focus to defence and AI - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaTlkTEp1elVfdTYyYWhWZXZOQjk5NGh4RkplU28zZFpsUXFqS3RqQjNBbTBJSmV5R180bzVyQ3lNTjNVZGdxY3ZHdjlTSDFPUThoQ0VMZTF5YUZ0VUxKVmZOVDNIMTc0RlY0N19xRVNnXzdCSnFpd0pyZGpWM0xwTjRNQi1OWEFTWF9YSllMRHBHOTRQLVdka0hPYi12QWt6?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "00:00",
+     "note": "Per AGBI: Saudi contractors are pivoting toward defence and AI contracts."
+    },
+    {
+     "title": "MBZUAI awards Tahnoon bin Zayed AI scholarships to 42 students - www.wam.ae",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdS1uZVFCVXdpWlFxZXlLa0NhQlBYT25MYWtXaWY0OGdMdkt5dkV6U05RTlc5LTlvR0UwQXBXckpGMWZLNnFwcGp3eXBvWXlZb2ZmV1h2UmQ1R0htMXRuQVRNYzVnT3EyT2hfVWVrNGk4T083czF2YzdmX09ic2xVZzB2SDhybmdoTkE?oc=5",
+     "source": "www.wam.ae",
+     "time": "08:45",
+     "note": "Per WAM: MBZUAI awarded 42 students the Tahnoon bin Zayed AI Excellence Scholarship for 2026/27."
+    },
+    {
+     "title": "Sharjah reveals 19 digital projects for GITEX GLOBAL 2026 as AI-driven government transformation advances",
+     "url": "https://economymiddleeast.com/news/sharjah-reveals-19-digital-projects-for-gitex-global-2026-as-ai-driven-government-transformation-advances/?utm_source=rss&utm_medium=rss&utm_campaign=sharjah-reveals-19-digital-projects-for-gitex-global-2026-as-ai-driven-government-transformation-advances",
+     "source": "Economy Middle East",
+     "time": "12:48",
+     "note": "Per Economy Middle East: Sharjah will showcase 19 AI-driven digital projects at GITEX 2026."
+    }
+   ]
+  },
+  {
+   "title": "DeepMind week: AGI bets and a 4%-to-97% science win",
+   "signal": 68,
+   "summary": "Google DeepMind's cofounder says he is more than 50% sure AGI arrives before 2028, and a DeepMind researcher mapped four routes to superintelligence. On the science side, DeepMind launched a mass-spectrometry AI tool that lifts molecular identification accuracy from under 4% to 97% — the kind of step-change that reframes what lab AI is worth.",
+   "angle": "AGI timeline talk is cheap; a 23x accuracy jump in molecular ID is the boardroom-relevant part.",
+   "items": [
+    {
+     "title": "We are getting close: Google DeepMind cofounder says he is over 50% sure AGI will arrive before 2028 - India Today",
+     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb2NxRzJSbTVxX0dpeE5LNmZfeng2SmJQOWUzLVVydFRRQmtobDg5M3BsX1VkUGlQMlQ1bWM4U3NKUnRzQllsUFFRc3M0bFZRWTJuLVZ4MlFETTVManExcnhVYVQzbDF1XzRNaFNZcmE1VGlJdGJaSGlwUTExSTZwaU84WmlXdVJfa0gyYVRUYlYxZHVTSDBvUU83cDJpX0pWRHpaNnVScV9KbGVXdnRpcUx2ejdFX0FIQktxS3c4WnZRUGw2QUp5TnR1aWpNajFtRlpVSGtDSFlpNmZzMllVMTRPa19mSlXSAewBQVVfeXFMUGtoTWNuZjEzSU1mV0J0QnM5bkNwOUFvRl9temVtMDMyS29WTVgxY2U0cERsQVpVaEs4bzN6LUpNZ1E4VE1paGpPUjZvYjliTHJ5V2pMd095MEtLMk9mUy1pUHBobnFkXzlBNzQtM0dYSVVGMlFIVEhYVjhhLTNDVzN4bWNrYWJpMkJYRUYzcEQtUW1ESlY5c053dmh6dS01Q3dBMGR2Q0xNM0szdmdsU2tGWDF5WUEwY1NtRTFkaGE5emY1cHBGOHFBNG4zTTY0V2dFc0RkSEZfM2c4a0FhSk9LWTRNVnJ1NWZaVWE?oc=5",
+     "source": "India Today",
+     "time": "13:35",
+     "note": "Per India Today: DeepMind cofounder puts odds of AGI before 2028 at over 50%."
+    },
+    {
+     "title": "Google DeepMind researcher maps four routes to AI superintelligence - EdTech Innovation Hub",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHNINUhIbUw0ZTBlNHNFRVhGMVViY1V1b1dMeGtzVmhSYm9JNjZjS0hpS2VBZ0x6enliY0I2MVRIeEFYZFdzS0xIRXFFcGdVN3RjT0lLbEpsX1Fpam5iUmg0QUEzUTBpM3BUNVEwVUhjbnN6ZXZrQ0tscW40QVhiWU00d3BhV0xySy1jN082a3pyaHVVVG1vMkoxRm1YVXFXMUZwTHdGQlNFYVR4?oc=5",
+     "source": "EdTech Innovation Hub",
+     "time": "00:19",
+     "note": "Per EdTech Innovation Hub: a DeepMind researcher mapped four routes to superintelligence."
+    },
+    {
+     "title": "Google DeepMind Launches Mass Spectrometry AI Tool, Boosting Molecular Identification Accuracy from Under 4% to 97% - BigGo Finance",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sUldWVTVwVmRLTmhEbDN3T1l2a0FEd1lCWTlTdW9IdDh2UC1DeXMxU3cxT1lZYkRfQ083dmNBa1o1cGNqZGJGWnZFNlZiZXZtcnFscjBsTGt2VUgzbmExcV81NFdVVE95NUFXQm1mSVhBYXJHV1E?oc=5",
+     "source": "BigGo Finance",
+     "time": "02:15",
+     "note": "Per BigGo Finance: DeepMind's mass-spectrometry tool lifts identification accuracy from under 4% to 97%."
+    }
+   ]
+  },
+  {
+   "title": "AI power costs: $67bn deal backlash, Gulf on watch",
+   "signal": 66,
+   "summary": "The $67bn NextEra-Dominion deal faces fierce opposition as anger over AI-driven power costs spills into Wall Street dealmaking, and Texas resumed data-centre permitting before a governor-elect who campaigned against it. AGBI notes the Gulf is not immune to the global data-centre backlash — a direct read-across for the region's buildout — while TDK bets on sensors for AI data centres and robots.",
+   "angle": "Power is the binding constraint on AI capex, and the GCC's land-and-energy advantage is now a boardroom talking point.",
+   "items": [
+    {
+     "title": "Backlash over AI power costs threatens $67bn NextEra-Dominion deal",
+     "url": "https://www.ft.com/content/1f4095cb-c032-414f-9858-554c8b82b145?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "11:00",
+     "note": "Per FT: opposition to the NextEra-Dominion deal is building over AI-driven electricity bills."
+    },
+    {
+     "title": "The Gulf is not immune to the global data centre backlash - Arabian Gulf Business Insight | AGBI",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcy1fVHNhT2ZpNC1KaVdkUnMtODBPdF96dUxCZ3pqaklBRk5COHVndzRHMFh3bDNqMkl6aGlGU2tCdGcyUGZQVE5RSWQza21kTk03cnlycE0xN2pxNTFLeUw1VnIxRlpINFNfN0FENnpsV0d5WUZJZUpuVFFSbjlSTWs1dTlMbXd0d0VlZUlTcDd1NTZIYlBrU0VtVEEyNm8?oc=5",
+     "source": "Arabian Gulf Business Insight | AGBI",
+     "time": "05:23",
+     "note": "Per AGBI: the Gulf faces the same data-centre pushback dynamics as the US."
+    },
+    {
+     "title": "Texas resumes data centre permitting before Democrats take over",
+     "url": "https://www.ft.com/content/e0a1bf7a-7c28-4a20-8ca8-86dc7d5097b3?syn-25a6b1a6=1",
+     "source": "FT Technology",
+     "time": "12:00",
+     "note": "Per FT: Texas restarted data-centre permitting ahead of a governor-elect who pledged to rein in projects."
+    },
+    {
+     "title": "TDK Bets on AI Data Centers and Robots to Fuel Sensor Growth",
+     "url": "https://www.bloomberg.com/news/articles/2026-11-26/tdk-bets-on-ai-data-centers-and-robots-to-fuel-sensor-growth",
+     "source": "Bloomberg Technology",
+     "time": "21:00",
+     "note": "Per Bloomberg: TDK is boosting sensor production aimed at AI data centres, cars and humanoid robots."
+    }
+   ]
+  }
+ ]
+}

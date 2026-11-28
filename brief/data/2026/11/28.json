@@ -1,0 +1,130 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T03:44:28+00:00",
+  "lead": "The useful decision today is how to make agentic delivery earn its operating cost without relaxing control. Adesso’s account describes a central usage-and-cost view and parallel comparisons with conventional Agile, while its agents are constrained to one assigned task and then terminate; ThoughtWorks makes the same sequencing point more generally: find the delivery bottleneck, run one bounded experiment, and keep it only if the system improves. For your reviews, ask for cost per accepted outcome, a conventional baseline, and explicit tool, task and approval boundaries before scaling agent use. New framework releases also make authority and durable-workflow behaviour worth regression-testing, rather than upgrading on feature lists alone.",
+  "items": [
+    {
+      "title": "v2.77.0 (2026-11-27)",
+      "url": "https://github.com/pydantic/pydantic-ai/releases/tag/v2.77.0",
+      "also": [],
+      "source": "Pydantic AI releases",
+      "tier": 1,
+      "published": "2026-11-27T23:32:31+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 94,
+      "summary": "Pydantic AI v2.77.0 adds SQLite, Postgres and MongoDB backends for ConversationStore, and changes skill discovery so missing or unreadable skill libraries are skipped with warnings by default. It also tightens authority for disk sub-agents and delegated working directories; the release notes flag renamed APIs, exhaustive-match compatibility changes and versioning precautions for durable runs, with pricing and regions not stated.",
+      "so_what": "Trial the storage and delegated-authority changes in a staging workflow, then regression-test skill discovery, path permissions and in-flight durable runs before upgrading production.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "How Adesso defies the AI cost spiral",
+      "url": "https://www.cio.com/article/4250252/how-adesso-is-coping-with-the-ai-cost-spiral.html",
+      "also": [],
+      "source": "CIO.com",
+      "tier": 2,
+      "published": "2026-11-27T10:00:00+00:00",
+      "track": "decisions",
+      "decision": "cost",
+      "signal": 92,
+      "summary": "Adesso says agent-based software development increased its token consumption a hundredfold in a year; its central AI gateway provides usage and cost data across about 4,800 employees and has processed 450 billion tokens. The company compared conventional Agile and agentic teams using defined KPIs before switching projects, agreed fixed token budgets during the transition, and reports productivity gains of up to 60% in individual projects without lower project costs; these are company-reported results, not an independent study.",
+      "so_what": "Use the gateway telemetry and parallel-baseline method in your business case, and separate productivity, delivered value and token spend rather than treating faster output as lower cost.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "python/v1.68.0",
+      "url": "https://github.com/strands-agents/harness-sdk/releases/tag/python%2Fv1.68.0",
+      "also": [],
+      "source": "Strands Agents releases",
+      "tier": 1,
+      "published": "2026-11-27T23:37:01+00:00",
+      "track": "patterns",
+      "decision": "trial",
+      "signal": 90,
+      "summary": "Strands Agents Python v1.68.0 adds an authorization handler, isolated development workspaces for experiments and evaluation, and changes background-task management to the default. The release notes also flag changed harness and context-manager behaviour and describe evaluation and optimisation runs; the notes are auto-drafted, and pricing and regions are not stated.",
+      "so_what": "Trial the authorization and isolated-evaluation workflow against your existing harness, but inspect the canonical migration guidance and test background-task cancellation and lifecycle before adoption.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Refactoring the Engine: An Incremental Path to AI-Assisted Delivery",
+      "url": "https://www.thoughtworks.com/insights/blog/machine-learning-and-ai/refactoring_the_engine_an_incremental_path_to_AI_assisted_delivery",
+      "also": [],
+      "source": "ThoughtWorks Insights",
+      "tier": 2,
+      "published": "2026-11-27T00:00:00+00:00",
+      "track": "patterns",
+      "decision": "adopt",
+      "signal": 88,
+      "summary": "ThoughtWorks argues that AI coding tools amplify a team’s existing delivery system: faster code generation can increase queues when testing, integration or review are the real constraints. It proposes mapping the path to production, choosing one bottleneck, and testing one low-risk intervention for a sprint; it presents a practitioner method, not measured results for this intervention.",
+      "so_what": "Adopt the one-bottleneck, one-sprint experiment for AI-assisted delivery, and retain the intervention only when release safety or end-to-end flow improves on your own measures.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Building Your First Agentic Use Case: New Whitepaper Offers a Road Map for Enterprise AI",
+      "url": "https://news.sap.com/2026/11/build-first-agentic-use-case-new-whitepaper-road-map-enterprise-ai",
+      "also": [],
+      "source": "SAP News",
+      "tier": 1,
+      "published": "2026-11-27T10:15:00+00:00",
+      "track": "decisions",
+      "decision": "evaluation",
+      "signal": 84,
+      "summary": "A Reltio programme convened 22 executives for three working sessions and describes business context, data quality, governance and human accountability as barriers to production agents. In one demonstration, adding company-specific definitions changed the agent’s renewal-account result from 23 accounts to 13 and used about 25% fewer tokens; the article also reports that 69% of participants prioritised named human accountability and agent boundaries, without presenting the sessions as a representative survey.",
+      "so_what": "Before connecting agents to enterprise data, require domain-owned definitions and a labelled task benchmark, then set approval boundaries according to action consequence rather than model confidence alone.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
+      "url": "https://arxiv.org/abs/2609.35744",
+      "also": [],
+      "source": "arXiv cs.AI",
+      "tier": 3,
+      "published": "2026-11-25T02:44:47+00:00",
+      "track": "operations",
+      "decision": "evaluation",
+      "signal": 76,
+      "summary": "This preprint describes expert-written evaluation guidance that governs agent-generated rubrics through prompts and code-enforced rules, with reviewer checks and escalation to a human when checks fail. Its released benchmark contains 100 queries across 78 tasks and eight asset classes; the authors report agreement with human grading and analyst preference, but the abstract gives no effect-size figures and the work is not peer-reviewed.",
+      "so_what": "Benchmark the expert-guidance and code-enforced rubric pattern on a narrow finance research task, requiring human-reviewed criteria and independent validation before using generated scores in a regulated decision.",
+      "verify": false,
+      "off_list": null
+    },
+    {
+      "title": "Sheikh Hamdan oversees expansion of government AI ecosystem as 17 partners join",
+      "url": "https://www.thenationalnews.com/news/uae/2026/11/27/sheikh-hamdan-oversees-expansion-of-government-ai-ecosystem-as-17-partners-join",
+      "also": [],
+      "source": "The National (UAE)",
+      "tier": 2,
+      "published": "2026-11-27T08:53:14+00:00",
+      "track": "decisions",
+      "decision": "integration",
+      "signal": 70,
+      "summary": "The National reports that 17 national and international partners joined FedAI, a unified government platform described as secure and sovereign for developing and running agentic AI solutions. The report says the UAE government aims to transform 50% of its sectors, services and processes using agentic AI within two years; technical scope, procurement terms and delivery measures are not detailed in the article.",
+      "so_what": "For UAE public-sector designs, track FedAI as a potential shared integration and hosting boundary, but seek the primary strategy and platform specifications before making residency or procurement assumptions.",
+      "verify": true,
+      "off_list": null
+    }
+  ],
+  "watch": [
+    {
+      "title": "Proactivity Can Read as Sabotage",
+      "url": "https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html",
+      "source": "Drew Breunig",
+      "note": "The essay argues that unexpected agent initiative can erode user trust, but the cited reports are screenshots or hearsay without reproducible traces; use it as a prompt for trace-based investigation, not evidence of a model defect."
+    }
+  ],
+  "post_seed": null,
+  "sources": {
+    "ok": 147,
+    "total": 149,
+    "failed": [
+      "The New Stack — AI: HTTPError: HTTP Error 403: Forbidden",
+      "Microsoft Agent Framework releases: HTTPError: HTTP Error 404: Not Found"
+    ]
+  },
+  "candidates_seen": 47
+}
